@@ -109,13 +109,16 @@ class Prep:
         with open(p, "w", encoding="utf-8") as f:
             json.dump(obj, f, ensure_ascii=False, indent=2)
 
-    def read_manifest(self) -> list[dict]:
+    def read_manifest(self, require: bool = True) -> list[dict]:
         rows = []
         if os.path.exists(self.manifest_path):
             with open(self.manifest_path, encoding="utf-8") as f:
                 for ln in f:
                     if ln.strip():
                         rows.append(json.loads(ln))
+        if require and not rows:
+            raise SystemExit(f"manifest {self.manifest_path} is missing or empty: the earlier data steps did not run in this "
+                             "session (their outputs are session-local). Run from --step select again.")
         return rows
 
     def write_manifest(self, rows: list[dict]) -> None:

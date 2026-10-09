@@ -280,6 +280,15 @@ class Session:
         if self.exists("data/train_list.txt") and self.exists("data/audio.tar"):
             self.advance("data already prepared in the work repo")
             return
+        # Intermediate data-prep outputs live only on the session disk. If a previous session did some
+        # steps but this session has no manifest/audio, those steps must be redone here.
+        manifest = os.path.join(DATA, "manifest.jsonl")
+        have_local = os.path.exists(manifest) and os.path.getsize(manifest) > 0 and os.path.isdir(os.path.join(DATA, "audio"))
+        if st["steps_done"] and not have_local:
+            log(f"data steps {st['steps_done']} were done in an earlier session but their outputs are not on this disk; redoing data prep from 'select'")
+            st["steps_done"] = []
+            shutil.rmtree(os.path.join(DATA, ".done"), ignore_errors=True)
+            self.save_state("data prep restarted in a fresh session (previous intermediate outputs were session-local)")
         for step in DATA_STEPS:
             if step in st["steps_done"]:
                 continue
