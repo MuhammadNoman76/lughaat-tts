@@ -550,8 +550,8 @@ class Prep:
         py = sys.executable
         cmd = [py, os.path.join(ROOT, "scripts", "02_build_lexicon.py"), "--words", words_path, "--wiki-top", str(self.a.wiki_words),
                "--out-dir", os.path.join(ROOT, "lughaat_tts", "data")]
-        if self.a.llm_budget_usd > 0:
-            cmd += ["--llm-budget-usd", str(self.a.llm_budget_usd)]
+        if self.a.llm_max_words > 0:
+            cmd += ["--llm-max-words", str(self.a.llm_max_words)]
         log("building lexicon: " + " ".join(cmd))
         subprocess.run(cmd, check=True)
         cmd = [py, os.path.join(ROOT, "scripts", "03_train_g2p.py"), "--epochs", str(self.a.g2p_epochs)]
@@ -844,7 +844,8 @@ def main() -> None:
     ap.add_argument("--skip-asr", action="store_true")
     ap.add_argument("--fleurs-n", type=int, default=300)
     ap.add_argument("--wiki-words", type=int, default=50000)
-    ap.add_argument("--llm-budget-usd", type=float, default=float(os.environ.get("LLM_LEXICON_BUDGET_USD", 0)))
+    ap.add_argument("--llm-max-words", type=int, default=int(os.environ.get("LLM_LEXICON_MAX_WORDS", 0)),
+                    help="send up to this many new words to the LLM for pronunciation candidates (0 = off)")
     ap.add_argument("--g2p-epochs", type=int, default=40)
     ap.add_argument("--ood-urdu", type=int, default=8000)
     ap.add_argument("--ood-english", type=int, default=1000)

@@ -10,7 +10,7 @@ can mix them (start manually, switch the orchestrator on later).
    The notebook clones the repository from `PROJECT_GIT_URL` (first cell) when it runs; no Kaggle dataset is needed.
 2. Right panel: **Accelerator: GPU T4 x2**, **Internet: On**.
 3. **Add-ons → Secrets**: `HF_TOKEN` (write scope), attached. Private GitHub repo: also `GITHUB_TOKEN` (read access),
-   or make the repo public. Optional: `HF_USERNAME`, `ANTHROPIC_API_KEY`.
+   or make the repo public. Optional: `HF_USERNAME`, `AZURE_OPENAI_API_KEY`.
 4. **Save Version → Save & Run All (Commit)**. Close the browser; the run continues in the background for up to
    ~11 h 15 min and writes `summary.txt` / `state.json` into the notebook output and into
    `https://huggingface.co/datasets/<you>/lughaat-tts-work`.
@@ -45,7 +45,8 @@ the last uploaded shard checkpoint.
 | `SESSION_BUDGET_MIN` | 675 | clean exit time; keep below the Kaggle 12 h limit minus the setup time |
 | `REPO_PRIVATE` | 1 | create the HF repos private |
 | `USE_INDICVOICES_R` | 0 | add IndicVoices-R Urdu (gated) to Stage 1 |
-| `LLM_LEXICON_BUDGET_USD` | 0 | > 0 with `ANTHROPIC_API_KEY` secret: LLM pronunciation candidates |
+| `LLM_LEXICON_MAX_WORDS` | 60000 | words sent to the LLM for pronunciation candidates (0 = off); needs the `AZURE_OPENAI_API_KEY` secret |
+| `AZURE_OPENAI_ENDPOINT` / `AZURE_OPENAI_MODEL` | Azure Responses URL / deployment | any OpenAI-Responses or chat-completions compatible endpoint |
 | `FORCE_PHASE` | – | jump to a phase (e.g. `stage2` after raising `ENGLISH_REPLAY_HOURS`) |
 | `ACCELERATOR` (orchestrator) | NvidiaTeslaT4 | `NvidiaL4` if your account has it: Stage 2 runs the full recipe |
 

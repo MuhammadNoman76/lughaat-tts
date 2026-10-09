@@ -8,8 +8,9 @@ Inputs (Kaggle Secrets or environment)
     PROJECT_DIR         where this repo was copied (default: the parent of this file)
     SESSION_BUDGET_MIN  wall-clock budget for this session (default 675 = 11 h 15 min)
     URDU_HOURS_PER_SPEAKER (6) ENGLISH_REPLAY_HOURS (3) STAGE1_EPOCHS (8) STAGE2_EPOCHS (5)
-    SHARD_MINUTES (60) REPO_PRIVATE (1) USE_INDICVOICES_R (0) LLM_LEXICON_BUDGET_USD (0)
-    ANTHROPIC_API_KEY   optional (LLM lexicon candidates), FORCE_PHASE optional
+    SHARD_MINUTES (60) REPO_PRIVATE (1) USE_INDICVOICES_R (0) LLM_LEXICON_MAX_WORDS (0)
+    AZURE_OPENAI_ENDPOINT / AZURE_OPENAI_MODEL + secret AZURE_OPENAI_API_KEY  optional (LLM lexicon candidates)
+    FORCE_PHASE optional
 
 State (work repo <user>/lughaat-tts-work, file state.json)
     phase: env_check -> data_prep -> baseline -> setup -> stage1 -> select_s1 -> export_v01
@@ -287,7 +288,7 @@ class Session:
             cmd = [self.py, os.path.join(PROJECT, "scripts", "01_prepare_data.py"), "--out", DATA, "--step", step,
                    "--work-repo", self.work_repo, "--urdu-hours-per-speaker", env("URDU_HOURS_PER_SPEAKER", 6),
                    "--english-hours", env("ENGLISH_REPLAY_HOURS", 3), "--use-indicvoices-r", env("USE_INDICVOICES_R", 0),
-                   "--llm-budget-usd", env("LLM_LEXICON_BUDGET_USD", 0)]
+                   "--llm-max-words", env("LLM_LEXICON_MAX_WORDS", 0)]
             if step == "pack":
                 cmd.append("--upload")
             run(cmd, cwd=PROJECT)

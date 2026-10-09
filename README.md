@@ -16,8 +16,9 @@ Hugging Face account; the orchestrator and the notebook are both optional ways t
    `MuhammadNoman76/lughaat-tts`, file `kaggle/lughaat-tts-train.ipynb`. (Alternative: download that file from
    GitHub and use the Upload tab.) The notebook clones the repository itself when it runs.
 4. In the notebook: **Settings → Accelerator = GPU T4 x2, Internet = On**; **Add-ons → Secrets → `HF_TOKEN`**
-   (your write token), ticked so it is attached. If the GitHub repo is private, also add a secret `GITHUB_TOKEN`
-   (a GitHub personal access token with *Contents: read* on the repo); or make the repo public and skip this.
+   (your write token), ticked so it is attached. Optional: `AZURE_OPENAI_API_KEY` (your Azure OpenAI key) so the
+   lexicon step can ask that model for pronunciation candidates; endpoint and model name sit in the first cell.
+   If the GitHub repo is private, also add a secret `GITHUB_TOKEN`; or make the repo public and skip this.
 5. **Save Version → Save & Run All (Commit)**. The session runs up to ~11 h, backs up after every shard, and stops
    cleanly. **Re-run it** (each time the weekly 30 GPU-hour quota allows) until the output says `done=True`.
    With the defaults (12 h Urdu + 3 h English, 8 + 5 epochs) expect roughly 4–8 weeks of free quota; the first

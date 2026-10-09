@@ -129,3 +129,13 @@ Each non-obvious choice and the reason (plan rule 2.8). The pipeline appends run
     index-arithmetic ops in fp32 (`op_block_list`), otherwise onnxruntime refuses to load the graph.
 32. **KModel strict verification tolerates exactly the AdaIN InstanceNorm affine parameters** (`*.norm.weight`,
     `*.norm.bias`): neither hexgrad's own checkpoint nor StyleTTS2 (affine=False) has them.
+
+## Lexicon LLM provider
+
+33. **Candidate B comes from the user's Azure OpenAI-compatible deployment** (`mm-gpt-6-sol`, Responses API),
+    not Anthropic (user decision, 2026-10-09). The client is a dependency-free `urllib` call that accepts either
+    the Responses or the chat-completions format; the key is a Kaggle secret (`AZURE_OPENAI_API_KEY`), the
+    endpoint and model name are notebook config. The model rejects `temperature`, so none is sent (its output is
+    deterministic enough and every candidate still passes the consonant-skeleton check). A 5-word probe returned
+    5/5 gold-matching transcriptions. The spend cap is a word count (`LLM_LEXICON_MAX_WORDS`, default 60,000 ≈ 600
+    batches of 100) because the deployment's price per token is unknown here; the token usage is logged.
