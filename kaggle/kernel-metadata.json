@@ -1,0 +1,15 @@
+{
+  "id": "KAGGLE_USERNAME/lughaat-tts-train",
+  "title": "lughaat-tts-train",
+  "code_file": "lughaat-tts-train.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": ["KAGGLE_USERNAME/lughaat-tts-code"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

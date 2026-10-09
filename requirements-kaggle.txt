@@ -1,0 +1,20 @@
+# Installed inside the Kaggle session by the notebook (torch/transformers/accelerate come with the image).
+# The pinned StyleTTS2 trainer stack lives in its own uv venv (scripts/05_setup_training.py).
+kokoro>=0.9.4
+misaki[en]>=0.9.4
+datasets>=3.0
+soundfile
+librosa
+soxr
+jiwer
+speechmos
+onnxruntime
+onnx
+onnxconverter-common
+huggingface_hub>=0.25
+phonemizer>=3.3
+espeakng-loader
+pytest
+pyyaml
+speechbrain
+spacy

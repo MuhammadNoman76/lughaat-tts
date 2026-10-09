@@ -1,0 +1,8 @@
+git+https://huggingface.co/{MODEL_REPO}
+kokoro>=0.9.4
+misaki[en]>=0.9.4
+torch>=2.1
+soundfile
+numpy
+huggingface_hub
+gradio>=4.0

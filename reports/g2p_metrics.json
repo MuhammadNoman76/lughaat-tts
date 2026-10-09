@@ -1,0 +1,51 @@
+{
+  "rules_baseline": {
+    "per": 0.19304797471990806,
+    "wer": 0.6325878594249201,
+    "n": 626
+  },
+  "models": {
+    "chars_only": {
+      "path": "lughaat_tts/data/g2p_model.pt",
+      "top1": {
+        "per": 0.21344441252513646,
+        "wer": 0.5878594249201278,
+        "n": 626
+      },
+      "rerank": {
+        "per": 0.17092789428325195,
+        "wer": 0.5814696485623003,
+        "n": 626
+      },
+      "rules_conditioned": false,
+      "seconds": 36
+    },
+    "rules_conditioned": {
+      "path": "C:/Users/NOMAN/AppData/Local/Temp/claude/d--Urdu-Text-to-Speech-lughaat-tts/ff50bcf2-32d1-4b73-9f53-313269b7b730/scratchpad/g2p_cond.pt",
+      "top1": {
+        "per": 0.21717897155989657,
+        "wer": 0.5750798722044729,
+        "n": 626
+      },
+      "rerank": {
+        "per": 0.16288422866992244,
+        "wer": 0.5447284345047924,
+        "n": 626
+      },
+      "rules_conditioned": true,
+      "seconds": 43
+    }
+  },
+  "shipped": "rules_conditioned",
+  "shipped_meta": {
+    "dev_per": 0.21717897155989657,
+    "dev_wer": 0.5750798722044729,
+    "dev_per_rerank": 0.16288422866992244,
+    "dev_wer_rerank": 0.5447284345047924,
+    "rules_per": 0.19304797471990806,
+    "rules_wer": 0.6325878594249201,
+    "rules_conditioned": true,
+    "variant": "rules_conditioned",
+    "trained_on": "WikiPron seed lexicon (5.8k words) + gold overrides; retrained on Kaggle with the expanded lexicon"
+  }
+}

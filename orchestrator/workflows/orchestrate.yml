@@ -1,0 +1,35 @@
+# Copy this file to .github/workflows/orchestrate.yml in a PRIVATE repo (plan 14.2.5).
+# Secrets: KAGGLE_USERNAME, KAGGLE_KEY, HF_TOKEN (gh secret set ...). Optional variable: KAGGLE_KERNEL (user/lughaat-tts-train).
+name: lughaat-tts orchestrator
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  issues: write
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -q -r orchestrator/requirements.txt
+      - name: tick
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_USERNAME: ${{ vars.HF_USERNAME }}
+          KAGGLE_KERNEL: ${{ vars.KAGGLE_KERNEL }}
+          ACCELERATOR: ${{ vars.ACCELERATOR }}
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: python orchestrator/orchestrator.py --kernel-dir kaggle
+      - name: keep the repo active (weekly progress commit)
+        run: |
+          git config user.name "orchestrator" && git config user.email "orchestrator@users.noreply.github.com"
+          if [ -f progress.md ] && [ "$(date +%u)" = "1" ] && [ "$(date +%H)" = "00" ]; then git add progress.md && git commit -m "progress $(date -u +%F)" && git push || true; fi

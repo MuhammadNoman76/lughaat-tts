@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lughaat-tts"
+version = "1.0.0"
+description = "Urdu (+ English, + code-switching) text frontend and pipeline for the Kokoro-82M Urdu fine-tune"
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+license = {text = "Apache-2.0"}
+authors = [{name = "lughaat-tts contributors"}]
+keywords = ["tts", "urdu", "kokoro", "styletts2", "text-to-speech"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: Apache Software License",
+  "Topic :: Multimedia :: Sound/Audio :: Speech",
+]
+dependencies = [
+  "kokoro>=0.9.4",
+  "misaki[en]>=0.9.4",
+  "torch>=2.1",
+  "numpy>=1.24",
+  "soundfile>=0.12",
+  "huggingface_hub>=0.25",
+]
+
+[project.optional-dependencies]
+onnx = ["onnxruntime>=1.17"]
+dev = ["pytest>=7", "phonemizer>=3.3"]
+
+[project.scripts]
+lughaat-tts = "lughaat_tts.cli:main"
+
+[tool.setuptools]
+packages = ["lughaat_tts"]
+include-package-data = true
+
+[tool.setuptools.package-data]
+lughaat_tts = ["data/*.tsv", "data/*.pt", "data/*.txt", "data/LICENSE*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

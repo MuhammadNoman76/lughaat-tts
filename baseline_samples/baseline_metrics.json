@@ -1,0 +1,1105 @@
+{
+  "metrics": {
+    "asr_model": "openai/whisper-large-v3",
+    "voices": [
+      "hm_psi",
+      "hf_alpha",
+      "hf_beta",
+      "hm_omega"
+    ]
+  },
+  "rows": [
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "پاکستان ایک خوبصورت ملک ہے۔",
+      "phonemes": "pɑːkɪstɑːn eːk xuːbsuːrət mʊlk hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_01_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "میں نے کل بازار سے تین کتابیں خریدیں۔",
+      "phonemes": "mẽː neː kəl bɑːzɑːr seː tiːn kɪtɑːbẽː xəriːdẽː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_02_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "بھائی، گھر میں دھوپ بہت تیز ہے۔",
+      "phonemes": "bʰɑːiː, ɡʰər mẽː dʰuːp bəhʊt teːz hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_03_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "وزیرِ اعظم نے آج قوم سے خطاب کیا۔",
+      "phonemes": "ʋəziːreː ɑːzəm neː ɑːʤ qɔːm seː xɪtɑːb kjɑː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_04_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "لڑکی نے اپنی چھوٹی بہن کو کہانی پڑھ کر سنائی۔",
+      "phonemes": "ləɽkiː neː əpniː ʧʰoːʈiː bəhən koː kəhɑːniː pəɽʰ kər sʊnɑːiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_05_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "ڈاکٹر صاحب نے کہا کہ تم جلد ٹھیک ہو جاؤ گے۔",
+      "phonemes": "ɖɑːkʈər sɑːhɪb neː kəhɑː keː tʊm ʤəld ʈʰiːk hoː ʤɑːoː ɡeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_06_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "ہاں، مجھے یاد ہے، ہم وہاں نہیں گئے تھے۔",
+      "phonemes": "hɑ̃ː, mʊʤʰeː jɑːd hɛː, həm ʋəhɑ̃ː nəhĩː ɡəeː tʰeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_07_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "اس کی قیمت ۲۵۰۰ روپے ہے۔",
+      "phonemes": "ɪs kiː qiːmət doː həzɑːr pɑ̃ːʧ sɔː rʊpəeː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_08_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "میری سالگرہ 14 اگست کو ہوتی ہے۔",
+      "phonemes": "meːriː sɑːlɡɪrɑː ʧɔːdɑː əɡəst koː hoːtiː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_09_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "ٹرین صبح ۷:۴۵ پر روانہ ہوئی۔",
+      "phonemes": "ʈreːn sʊbəh pɔːneː ɑːʈʰ pər rəʋɑːnɑː hʊiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_10_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "غالب کا شعر آج بھی ہر زبان پر ہے۔",
+      "phonemes": "ɣɑːlɪb kɑː ʃeːr ɑːʤ bʰiː hər zəbɑːn pər hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_11_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "محبت، خلوص اور اعتماد زندگی کے ستون ہیں۔",
+      "phonemes": "mʊhəbbət, xʊluːs ɔːr eːtɪmɑːd zɪndəɡiː keː sʊtuːn hɛ̃ː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_12_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "کیا آپ میری بات سمجھ رہے ہیں؟",
+      "phonemes": "kjɑː ɑːp meːriː bɑːt səməʤʰ rəheː hɛ̃ː?",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_13_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "شکریہ! آپ کا دن اچھا گزرے۔",
+      "phonemes": "ʃʊkrijɑː! ɑːp kɑː dɪn əʧʧʰɑː ɡʊzreː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_14_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "قلم، خط اور غلطی جیسے الفاظ میں ق، خ اور غ کی آواز واضح ہونی چاہیے۔",
+      "phonemes": "qələm, xət ɔːr ɣələtiː ʤiːseː əlfɑːz mẽː qɑːf, xeː ɔːr ɣɛːn kiː ɑːʋɑːz ʋɑːzeh hoːniː ʧɑːhɪeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_15_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "میں نے اپنا laptop آن کیا اور email چیک کی۔",
+      "phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_16_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "ڈاکٹر عبدالقدیر خان پاکستان کے مشہور سائنسدان تھے۔",
+      "phonemes": "ɖɑːkʈər əbdʊlqədiːr xɑːn pɑːkɪstɑːn keː məʃhuːr sɑːɪnsdɑːn tʰeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_17_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "یہ سڑک بہت چوڑی ہے۔",
+      "phonemes": "jeː səɽək bəhʊt ʧɔːɽiː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_18_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "انہوں نے کہا تھا کہ وہ جمعرات کو آئیں گے۔",
+      "phonemes": "ʊnhõː neː kəhɑː tʰɑː keː ʋoː ʤʊmeːrɑːt koː ɑːẽː ɡeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_19_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "اردو ایک شیریں زبان ہے۔",
+      "phonemes": "ʊrduː eːk ʃiːrĩː zəbɑːn hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_20_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "۱۹۴۷ء میں پاکستان آزاد ہوا۔",
+      "phonemes": "ʊnniːs sɔː sɛ̃ːtɑːliːs mẽː pɑːkɪstɑːn ɑːzɑːd hʊɑː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_21_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_psi",
+      "text": "درجۂ حرارت ۳۸ اعشاریہ ۵ ڈگری تھا۔",
+      "phonemes": "dərʤɑːeː hərɑːrət əɽtiːs əʃɑːrijɑː pɑ̃ːʧ ɖɪɡriː tʰɑː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_22_hm_psi.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_psi",
+      "text": "آج کی meeting کینسل ہو گئی ہے۔",
+      "phonemes": "ɑːʤ kiː miːʈɪŋ kɛːnsəl hoː ɡəiː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_01_hm_psi.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_psi",
+      "text": "میں نے اپنا laptop آن کیا اور email چیک کی۔",
+      "phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_02_hm_psi.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_psi",
+      "text": "Please اپنا password کسی کو share نہ کریں۔",
+      "phonemes": "pliːz əpnɑː pɛːsʋərɖ kɪsiː koː ʃɛr nə kərẽː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_03_hm_psi.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_psi",
+      "text": "ہمارا next step یہ ہے کہ client کو proposal بھیج دیں۔",
+      "phonemes": "həmɑːrɑː nɛksʈ sʈɛp jeː hɛː keː klɑɪənʈ koː prəpoːzəl bʰiːʤ dẽː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_04_hm_psi.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_psi",
+      "text": "یہ app بہت user friendly ہے لیکن battery جلدی ختم کرتی ہے۔",
+      "phonemes": "jeː ɛːp bəhʊt juːzər frɛnɖliː hɛː leːkɪn bɛːʈəriː ʤəldiː xətm kərtiː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_05_hm_psi.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_psi",
+      "text": "Thank you so much، آپ نے بہت help کی۔",
+      "phonemes": "tʰɛːŋk juː soː məʧ, ɑːp neː bəhʊt hɛlp kiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_06_hm_psi.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_psi",
+      "text": "Office میں آج internet کا problem تھا۔",
+      "phonemes": "ɔːfəs mẽː ɑːʤ ɪnʈərnɛʈ kɑː prɑːbləm tʰɑː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_07_hm_psi.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_psi",
+      "text": "اس project کی deadline اگلے Monday تک ہے۔",
+      "phonemes": "ɪs prɑːʤɛkʈ kiː ɖɛɖlɑɪn əɡleː mənɖeː tək hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_08_hm_psi.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_psi",
+      "text": "میں weekend پر Karachi جا رہا ہوں۔",
+      "phonemes": "mẽː ʋiːkɛnɖ pər kərɑːʧiː ʤɑː rəhɑː hũː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_09_hm_psi.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_psi",
+      "text": "Doctor نے کہا کہ یہ normal infection ہے، worry نہ کریں۔",
+      "phonemes": "ɖɑːkʈər neː kəhɑː keː jeː nɔːrməl ɪnfɛkʃən hɛː, ʋəriː nə kərẽː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_10_hm_psi.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_psi",
+      "text": "ہمیں AI اور machine learning پر focus کرنا چاہیے۔",
+      "phonemes": "həmẽː eː ɑɪ ɔːr məʃiːn lərnɪŋ pər foːkəs kərnɑː ʧɑːhɪeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_11_hm_psi.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_psi",
+      "text": "Update کے بعد phone ٹھیک سے کام کر رہا ہے۔",
+      "phonemes": "əpɖeːʈ keː bɑːd foːn ʈʰiːk seː kɑːm kər rəhɑː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_12_hm_psi.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_psi",
+      "text": "یہ meeting 3 pm پر Zoom پر ہو گی۔",
+      "phonemes": "jeː miːʈɪŋ tʰriː piːɛm pər zuːm pər hoː ɡiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_13_hm_psi.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_psi",
+      "text": "Customer service نے میری complaint register کر لی۔",
+      "phonemes": "kəsʈəmər sərʋəs neː meːriː kəmpleːnʈ rɛʤəsʈər kər liː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_14_hm_psi.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_psi",
+      "text": "آج weather بہت pleasant ہے، let's go for a walk۔",
+      "phonemes": "ɑːʤ ʋɛdər bəhʊt plɛzənʈ hɛː, lɛʈs ɡoː fɔːr ə ʋɔːk.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_15_hm_psi.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "پاکستان ایک خوبصورت ملک ہے۔",
+      "phonemes": "pɑːkɪstɑːn eːk xuːbsuːrət mʊlk hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_01_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "میں نے کل بازار سے تین کتابیں خریدیں۔",
+      "phonemes": "mẽː neː kəl bɑːzɑːr seː tiːn kɪtɑːbẽː xəriːdẽː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_02_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "بھائی، گھر میں دھوپ بہت تیز ہے۔",
+      "phonemes": "bʰɑːiː, ɡʰər mẽː dʰuːp bəhʊt teːz hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_03_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "وزیرِ اعظم نے آج قوم سے خطاب کیا۔",
+      "phonemes": "ʋəziːreː ɑːzəm neː ɑːʤ qɔːm seː xɪtɑːb kjɑː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_04_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "لڑکی نے اپنی چھوٹی بہن کو کہانی پڑھ کر سنائی۔",
+      "phonemes": "ləɽkiː neː əpniː ʧʰoːʈiː bəhən koː kəhɑːniː pəɽʰ kər sʊnɑːiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_05_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "ڈاکٹر صاحب نے کہا کہ تم جلد ٹھیک ہو جاؤ گے۔",
+      "phonemes": "ɖɑːkʈər sɑːhɪb neː kəhɑː keː tʊm ʤəld ʈʰiːk hoː ʤɑːoː ɡeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_06_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "ہاں، مجھے یاد ہے، ہم وہاں نہیں گئے تھے۔",
+      "phonemes": "hɑ̃ː, mʊʤʰeː jɑːd hɛː, həm ʋəhɑ̃ː nəhĩː ɡəeː tʰeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_07_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "اس کی قیمت ۲۵۰۰ روپے ہے۔",
+      "phonemes": "ɪs kiː qiːmət doː həzɑːr pɑ̃ːʧ sɔː rʊpəeː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_08_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "میری سالگرہ 14 اگست کو ہوتی ہے۔",
+      "phonemes": "meːriː sɑːlɡɪrɑː ʧɔːdɑː əɡəst koː hoːtiː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_09_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "ٹرین صبح ۷:۴۵ پر روانہ ہوئی۔",
+      "phonemes": "ʈreːn sʊbəh pɔːneː ɑːʈʰ pər rəʋɑːnɑː hʊiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_10_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "غالب کا شعر آج بھی ہر زبان پر ہے۔",
+      "phonemes": "ɣɑːlɪb kɑː ʃeːr ɑːʤ bʰiː hər zəbɑːn pər hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_11_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "محبت، خلوص اور اعتماد زندگی کے ستون ہیں۔",
+      "phonemes": "mʊhəbbət, xʊluːs ɔːr eːtɪmɑːd zɪndəɡiː keː sʊtuːn hɛ̃ː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_12_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "کیا آپ میری بات سمجھ رہے ہیں؟",
+      "phonemes": "kjɑː ɑːp meːriː bɑːt səməʤʰ rəheː hɛ̃ː?",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_13_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "شکریہ! آپ کا دن اچھا گزرے۔",
+      "phonemes": "ʃʊkrijɑː! ɑːp kɑː dɪn əʧʧʰɑː ɡʊzreː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_14_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "قلم، خط اور غلطی جیسے الفاظ میں ق، خ اور غ کی آواز واضح ہونی چاہیے۔",
+      "phonemes": "qələm, xət ɔːr ɣələtiː ʤiːseː əlfɑːz mẽː qɑːf, xeː ɔːr ɣɛːn kiː ɑːʋɑːz ʋɑːzeh hoːniː ʧɑːhɪeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_15_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "میں نے اپنا laptop آن کیا اور email چیک کی۔",
+      "phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_16_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "ڈاکٹر عبدالقدیر خان پاکستان کے مشہور سائنسدان تھے۔",
+      "phonemes": "ɖɑːkʈər əbdʊlqədiːr xɑːn pɑːkɪstɑːn keː məʃhuːr sɑːɪnsdɑːn tʰeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_17_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "یہ سڑک بہت چوڑی ہے۔",
+      "phonemes": "jeː səɽək bəhʊt ʧɔːɽiː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_18_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "انہوں نے کہا تھا کہ وہ جمعرات کو آئیں گے۔",
+      "phonemes": "ʊnhõː neː kəhɑː tʰɑː keː ʋoː ʤʊmeːrɑːt koː ɑːẽː ɡeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_19_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "اردو ایک شیریں زبان ہے۔",
+      "phonemes": "ʊrduː eːk ʃiːrĩː zəbɑːn hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_20_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "۱۹۴۷ء میں پاکستان آزاد ہوا۔",
+      "phonemes": "ʊnniːs sɔː sɛ̃ːtɑːliːs mẽː pɑːkɪstɑːn ɑːzɑːd hʊɑː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_21_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_alpha",
+      "text": "درجۂ حرارت ۳۸ اعشاریہ ۵ ڈگری تھا۔",
+      "phonemes": "dərʤɑːeː hərɑːrət əɽtiːs əʃɑːrijɑː pɑ̃ːʧ ɖɪɡriː tʰɑː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_22_hf_alpha.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_alpha",
+      "text": "آج کی meeting کینسل ہو گئی ہے۔",
+      "phonemes": "ɑːʤ kiː miːʈɪŋ kɛːnsəl hoː ɡəiː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_01_hf_alpha.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_alpha",
+      "text": "میں نے اپنا laptop آن کیا اور email چیک کی۔",
+      "phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_02_hf_alpha.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_alpha",
+      "text": "Please اپنا password کسی کو share نہ کریں۔",
+      "phonemes": "pliːz əpnɑː pɛːsʋərɖ kɪsiː koː ʃɛr nə kərẽː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_03_hf_alpha.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_alpha",
+      "text": "ہمارا next step یہ ہے کہ client کو proposal بھیج دیں۔",
+      "phonemes": "həmɑːrɑː nɛksʈ sʈɛp jeː hɛː keː klɑɪənʈ koː prəpoːzəl bʰiːʤ dẽː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_04_hf_alpha.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_alpha",
+      "text": "یہ app بہت user friendly ہے لیکن battery جلدی ختم کرتی ہے۔",
+      "phonemes": "jeː ɛːp bəhʊt juːzər frɛnɖliː hɛː leːkɪn bɛːʈəriː ʤəldiː xətm kərtiː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_05_hf_alpha.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_alpha",
+      "text": "Thank you so much، آپ نے بہت help کی۔",
+      "phonemes": "tʰɛːŋk juː soː məʧ, ɑːp neː bəhʊt hɛlp kiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_06_hf_alpha.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_alpha",
+      "text": "Office میں آج internet کا problem تھا۔",
+      "phonemes": "ɔːfəs mẽː ɑːʤ ɪnʈərnɛʈ kɑː prɑːbləm tʰɑː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_07_hf_alpha.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_alpha",
+      "text": "اس project کی deadline اگلے Monday تک ہے۔",
+      "phonemes": "ɪs prɑːʤɛkʈ kiː ɖɛɖlɑɪn əɡleː mənɖeː tək hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_08_hf_alpha.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_alpha",
+      "text": "میں weekend پر Karachi جا رہا ہوں۔",
+      "phonemes": "mẽː ʋiːkɛnɖ pər kərɑːʧiː ʤɑː rəhɑː hũː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_09_hf_alpha.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_alpha",
+      "text": "Doctor نے کہا کہ یہ normal infection ہے، worry نہ کریں۔",
+      "phonemes": "ɖɑːkʈər neː kəhɑː keː jeː nɔːrməl ɪnfɛkʃən hɛː, ʋəriː nə kərẽː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_10_hf_alpha.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_alpha",
+      "text": "ہمیں AI اور machine learning پر focus کرنا چاہیے۔",
+      "phonemes": "həmẽː eː ɑɪ ɔːr məʃiːn lərnɪŋ pər foːkəs kərnɑː ʧɑːhɪeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_11_hf_alpha.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_alpha",
+      "text": "Update کے بعد phone ٹھیک سے کام کر رہا ہے۔",
+      "phonemes": "əpɖeːʈ keː bɑːd foːn ʈʰiːk seː kɑːm kər rəhɑː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_12_hf_alpha.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_alpha",
+      "text": "یہ meeting 3 pm پر Zoom پر ہو گی۔",
+      "phonemes": "jeː miːʈɪŋ tʰriː piːɛm pər zuːm pər hoː ɡiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_13_hf_alpha.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_alpha",
+      "text": "Customer service نے میری complaint register کر لی۔",
+      "phonemes": "kəsʈəmər sərʋəs neː meːriː kəmpleːnʈ rɛʤəsʈər kər liː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_14_hf_alpha.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_alpha",
+      "text": "آج weather بہت pleasant ہے، let's go for a walk۔",
+      "phonemes": "ɑːʤ ʋɛdər bəhʊt plɛzənʈ hɛː, lɛʈs ɡoː fɔːr ə ʋɔːk.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_15_hf_alpha.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "پاکستان ایک خوبصورت ملک ہے۔",
+      "phonemes": "pɑːkɪstɑːn eːk xuːbsuːrət mʊlk hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_01_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "میں نے کل بازار سے تین کتابیں خریدیں۔",
+      "phonemes": "mẽː neː kəl bɑːzɑːr seː tiːn kɪtɑːbẽː xəriːdẽː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_02_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "بھائی، گھر میں دھوپ بہت تیز ہے۔",
+      "phonemes": "bʰɑːiː, ɡʰər mẽː dʰuːp bəhʊt teːz hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_03_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "وزیرِ اعظم نے آج قوم سے خطاب کیا۔",
+      "phonemes": "ʋəziːreː ɑːzəm neː ɑːʤ qɔːm seː xɪtɑːb kjɑː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_04_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "لڑکی نے اپنی چھوٹی بہن کو کہانی پڑھ کر سنائی۔",
+      "phonemes": "ləɽkiː neː əpniː ʧʰoːʈiː bəhən koː kəhɑːniː pəɽʰ kər sʊnɑːiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_05_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "ڈاکٹر صاحب نے کہا کہ تم جلد ٹھیک ہو جاؤ گے۔",
+      "phonemes": "ɖɑːkʈər sɑːhɪb neː kəhɑː keː tʊm ʤəld ʈʰiːk hoː ʤɑːoː ɡeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_06_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "ہاں، مجھے یاد ہے، ہم وہاں نہیں گئے تھے۔",
+      "phonemes": "hɑ̃ː, mʊʤʰeː jɑːd hɛː, həm ʋəhɑ̃ː nəhĩː ɡəeː tʰeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_07_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "اس کی قیمت ۲۵۰۰ روپے ہے۔",
+      "phonemes": "ɪs kiː qiːmət doː həzɑːr pɑ̃ːʧ sɔː rʊpəeː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_08_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "میری سالگرہ 14 اگست کو ہوتی ہے۔",
+      "phonemes": "meːriː sɑːlɡɪrɑː ʧɔːdɑː əɡəst koː hoːtiː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_09_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "ٹرین صبح ۷:۴۵ پر روانہ ہوئی۔",
+      "phonemes": "ʈreːn sʊbəh pɔːneː ɑːʈʰ pər rəʋɑːnɑː hʊiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_10_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "غالب کا شعر آج بھی ہر زبان پر ہے۔",
+      "phonemes": "ɣɑːlɪb kɑː ʃeːr ɑːʤ bʰiː hər zəbɑːn pər hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_11_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "محبت، خلوص اور اعتماد زندگی کے ستون ہیں۔",
+      "phonemes": "mʊhəbbət, xʊluːs ɔːr eːtɪmɑːd zɪndəɡiː keː sʊtuːn hɛ̃ː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_12_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "کیا آپ میری بات سمجھ رہے ہیں؟",
+      "phonemes": "kjɑː ɑːp meːriː bɑːt səməʤʰ rəheː hɛ̃ː?",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_13_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "شکریہ! آپ کا دن اچھا گزرے۔",
+      "phonemes": "ʃʊkrijɑː! ɑːp kɑː dɪn əʧʧʰɑː ɡʊzreː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_14_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "قلم، خط اور غلطی جیسے الفاظ میں ق، خ اور غ کی آواز واضح ہونی چاہیے۔",
+      "phonemes": "qələm, xət ɔːr ɣələtiː ʤiːseː əlfɑːz mẽː qɑːf, xeː ɔːr ɣɛːn kiː ɑːʋɑːz ʋɑːzeh hoːniː ʧɑːhɪeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_15_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "میں نے اپنا laptop آن کیا اور email چیک کی۔",
+      "phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_16_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "ڈاکٹر عبدالقدیر خان پاکستان کے مشہور سائنسدان تھے۔",
+      "phonemes": "ɖɑːkʈər əbdʊlqədiːr xɑːn pɑːkɪstɑːn keː məʃhuːr sɑːɪnsdɑːn tʰeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_17_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "یہ سڑک بہت چوڑی ہے۔",
+      "phonemes": "jeː səɽək bəhʊt ʧɔːɽiː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_18_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "انہوں نے کہا تھا کہ وہ جمعرات کو آئیں گے۔",
+      "phonemes": "ʊnhõː neː kəhɑː tʰɑː keː ʋoː ʤʊmeːrɑːt koː ɑːẽː ɡeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_19_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "اردو ایک شیریں زبان ہے۔",
+      "phonemes": "ʊrduː eːk ʃiːrĩː zəbɑːn hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_20_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "۱۹۴۷ء میں پاکستان آزاد ہوا۔",
+      "phonemes": "ʊnniːs sɔː sɛ̃ːtɑːliːs mẽː pɑːkɪstɑːn ɑːzɑːd hʊɑː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_21_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hf_beta",
+      "text": "درجۂ حرارت ۳۸ اعشاریہ ۵ ڈگری تھا۔",
+      "phonemes": "dərʤɑːeː hərɑːrət əɽtiːs əʃɑːrijɑː pɑ̃ːʧ ɖɪɡriː tʰɑː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_22_hf_beta.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_beta",
+      "text": "آج کی meeting کینسل ہو گئی ہے۔",
+      "phonemes": "ɑːʤ kiː miːʈɪŋ kɛːnsəl hoː ɡəiː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_01_hf_beta.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_beta",
+      "text": "میں نے اپنا laptop آن کیا اور email چیک کی۔",
+      "phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_02_hf_beta.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_beta",
+      "text": "Please اپنا password کسی کو share نہ کریں۔",
+      "phonemes": "pliːz əpnɑː pɛːsʋərɖ kɪsiː koː ʃɛr nə kərẽː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_03_hf_beta.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_beta",
+      "text": "ہمارا next step یہ ہے کہ client کو proposal بھیج دیں۔",
+      "phonemes": "həmɑːrɑː nɛksʈ sʈɛp jeː hɛː keː klɑɪənʈ koː prəpoːzəl bʰiːʤ dẽː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_04_hf_beta.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_beta",
+      "text": "یہ app بہت user friendly ہے لیکن battery جلدی ختم کرتی ہے۔",
+      "phonemes": "jeː ɛːp bəhʊt juːzər frɛnɖliː hɛː leːkɪn bɛːʈəriː ʤəldiː xətm kərtiː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_05_hf_beta.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_beta",
+      "text": "Thank you so much، آپ نے بہت help کی۔",
+      "phonemes": "tʰɛːŋk juː soː məʧ, ɑːp neː bəhʊt hɛlp kiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_06_hf_beta.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_beta",
+      "text": "Office میں آج internet کا problem تھا۔",
+      "phonemes": "ɔːfəs mẽː ɑːʤ ɪnʈərnɛʈ kɑː prɑːbləm tʰɑː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_07_hf_beta.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_beta",
+      "text": "اس project کی deadline اگلے Monday تک ہے۔",
+      "phonemes": "ɪs prɑːʤɛkʈ kiː ɖɛɖlɑɪn əɡleː mənɖeː tək hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_08_hf_beta.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_beta",
+      "text": "میں weekend پر Karachi جا رہا ہوں۔",
+      "phonemes": "mẽː ʋiːkɛnɖ pər kərɑːʧiː ʤɑː rəhɑː hũː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_09_hf_beta.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_beta",
+      "text": "Doctor نے کہا کہ یہ normal infection ہے، worry نہ کریں۔",
+      "phonemes": "ɖɑːkʈər neː kəhɑː keː jeː nɔːrməl ɪnfɛkʃən hɛː, ʋəriː nə kərẽː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_10_hf_beta.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_beta",
+      "text": "ہمیں AI اور machine learning پر focus کرنا چاہیے۔",
+      "phonemes": "həmẽː eː ɑɪ ɔːr məʃiːn lərnɪŋ pər foːkəs kərnɑː ʧɑːhɪeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_11_hf_beta.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_beta",
+      "text": "Update کے بعد phone ٹھیک سے کام کر رہا ہے۔",
+      "phonemes": "əpɖeːʈ keː bɑːd foːn ʈʰiːk seː kɑːm kər rəhɑː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_12_hf_beta.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_beta",
+      "text": "یہ meeting 3 pm پر Zoom پر ہو گی۔",
+      "phonemes": "jeː miːʈɪŋ tʰriː piːɛm pər zuːm pər hoː ɡiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_13_hf_beta.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_beta",
+      "text": "Customer service نے میری complaint register کر لی۔",
+      "phonemes": "kəsʈəmər sərʋəs neː meːriː kəmpleːnʈ rɛʤəsʈər kər liː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_14_hf_beta.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hf_beta",
+      "text": "آج weather بہت pleasant ہے، let's go for a walk۔",
+      "phonemes": "ɑːʤ ʋɛdər bəhʊt plɛzənʈ hɛː, lɛʈs ɡoː fɔːr ə ʋɔːk.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_15_hf_beta.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "پاکستان ایک خوبصورت ملک ہے۔",
+      "phonemes": "pɑːkɪstɑːn eːk xuːbsuːrət mʊlk hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_01_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "میں نے کل بازار سے تین کتابیں خریدیں۔",
+      "phonemes": "mẽː neː kəl bɑːzɑːr seː tiːn kɪtɑːbẽː xəriːdẽː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_02_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "بھائی، گھر میں دھوپ بہت تیز ہے۔",
+      "phonemes": "bʰɑːiː, ɡʰər mẽː dʰuːp bəhʊt teːz hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_03_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "وزیرِ اعظم نے آج قوم سے خطاب کیا۔",
+      "phonemes": "ʋəziːreː ɑːzəm neː ɑːʤ qɔːm seː xɪtɑːb kjɑː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_04_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "لڑکی نے اپنی چھوٹی بہن کو کہانی پڑھ کر سنائی۔",
+      "phonemes": "ləɽkiː neː əpniː ʧʰoːʈiː bəhən koː kəhɑːniː pəɽʰ kər sʊnɑːiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_05_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "ڈاکٹر صاحب نے کہا کہ تم جلد ٹھیک ہو جاؤ گے۔",
+      "phonemes": "ɖɑːkʈər sɑːhɪb neː kəhɑː keː tʊm ʤəld ʈʰiːk hoː ʤɑːoː ɡeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_06_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "ہاں، مجھے یاد ہے، ہم وہاں نہیں گئے تھے۔",
+      "phonemes": "hɑ̃ː, mʊʤʰeː jɑːd hɛː, həm ʋəhɑ̃ː nəhĩː ɡəeː tʰeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_07_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "اس کی قیمت ۲۵۰۰ روپے ہے۔",
+      "phonemes": "ɪs kiː qiːmət doː həzɑːr pɑ̃ːʧ sɔː rʊpəeː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_08_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "میری سالگرہ 14 اگست کو ہوتی ہے۔",
+      "phonemes": "meːriː sɑːlɡɪrɑː ʧɔːdɑː əɡəst koː hoːtiː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_09_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "ٹرین صبح ۷:۴۵ پر روانہ ہوئی۔",
+      "phonemes": "ʈreːn sʊbəh pɔːneː ɑːʈʰ pər rəʋɑːnɑː hʊiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_10_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "غالب کا شعر آج بھی ہر زبان پر ہے۔",
+      "phonemes": "ɣɑːlɪb kɑː ʃeːr ɑːʤ bʰiː hər zəbɑːn pər hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_11_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "محبت، خلوص اور اعتماد زندگی کے ستون ہیں۔",
+      "phonemes": "mʊhəbbət, xʊluːs ɔːr eːtɪmɑːd zɪndəɡiː keː sʊtuːn hɛ̃ː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_12_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "کیا آپ میری بات سمجھ رہے ہیں؟",
+      "phonemes": "kjɑː ɑːp meːriː bɑːt səməʤʰ rəheː hɛ̃ː?",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_13_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "شکریہ! آپ کا دن اچھا گزرے۔",
+      "phonemes": "ʃʊkrijɑː! ɑːp kɑː dɪn əʧʧʰɑː ɡʊzreː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_14_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "قلم، خط اور غلطی جیسے الفاظ میں ق، خ اور غ کی آواز واضح ہونی چاہیے۔",
+      "phonemes": "qələm, xət ɔːr ɣələtiː ʤiːseː əlfɑːz mẽː qɑːf, xeː ɔːr ɣɛːn kiː ɑːʋɑːz ʋɑːzeh hoːniː ʧɑːhɪeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_15_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "میں نے اپنا laptop آن کیا اور email چیک کی۔",
+      "phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_16_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "ڈاکٹر عبدالقدیر خان پاکستان کے مشہور سائنسدان تھے۔",
+      "phonemes": "ɖɑːkʈər əbdʊlqədiːr xɑːn pɑːkɪstɑːn keː məʃhuːr sɑːɪnsdɑːn tʰeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_17_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "یہ سڑک بہت چوڑی ہے۔",
+      "phonemes": "jeː səɽək bəhʊt ʧɔːɽiː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_18_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "انہوں نے کہا تھا کہ وہ جمعرات کو آئیں گے۔",
+      "phonemes": "ʊnhõː neː kəhɑː tʰɑː keː ʋoː ʤʊmeːrɑːt koː ɑːẽː ɡeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_19_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "اردو ایک شیریں زبان ہے۔",
+      "phonemes": "ʊrduː eːk ʃiːrĩː zəbɑːn hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_20_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "۱۹۴۷ء میں پاکستان آزاد ہوا۔",
+      "phonemes": "ʊnniːs sɔː sɛ̃ːtɑːliːs mẽː pɑːkɪstɑːn ɑːzɑːd hʊɑː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_21_hm_omega.wav"
+    },
+    {
+      "set": "A",
+      "voice": "hm_omega",
+      "text": "درجۂ حرارت ۳۸ اعشاریہ ۵ ڈگری تھا۔",
+      "phonemes": "dərʤɑːeː hərɑːrət əɽtiːs əʃɑːrijɑː pɑ̃ːʧ ɖɪɡriː tʰɑː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A_22_hm_omega.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_omega",
+      "text": "آج کی meeting کینسل ہو گئی ہے۔",
+      "phonemes": "ɑːʤ kiː miːʈɪŋ kɛːnsəl hoː ɡəiː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_01_hm_omega.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_omega",
+      "text": "میں نے اپنا laptop آن کیا اور email چیک کی۔",
+      "phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_02_hm_omega.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_omega",
+      "text": "Please اپنا password کسی کو share نہ کریں۔",
+      "phonemes": "pliːz əpnɑː pɛːsʋərɖ kɪsiː koː ʃɛr nə kərẽː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_03_hm_omega.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_omega",
+      "text": "ہمارا next step یہ ہے کہ client کو proposal بھیج دیں۔",
+      "phonemes": "həmɑːrɑː nɛksʈ sʈɛp jeː hɛː keː klɑɪənʈ koː prəpoːzəl bʰiːʤ dẽː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_04_hm_omega.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_omega",
+      "text": "یہ app بہت user friendly ہے لیکن battery جلدی ختم کرتی ہے۔",
+      "phonemes": "jeː ɛːp bəhʊt juːzər frɛnɖliː hɛː leːkɪn bɛːʈəriː ʤəldiː xətm kərtiː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_05_hm_omega.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_omega",
+      "text": "Thank you so much، آپ نے بہت help کی۔",
+      "phonemes": "tʰɛːŋk juː soː məʧ, ɑːp neː bəhʊt hɛlp kiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_06_hm_omega.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_omega",
+      "text": "Office میں آج internet کا problem تھا۔",
+      "phonemes": "ɔːfəs mẽː ɑːʤ ɪnʈərnɛʈ kɑː prɑːbləm tʰɑː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_07_hm_omega.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_omega",
+      "text": "اس project کی deadline اگلے Monday تک ہے۔",
+      "phonemes": "ɪs prɑːʤɛkʈ kiː ɖɛɖlɑɪn əɡleː mənɖeː tək hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_08_hm_omega.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_omega",
+      "text": "میں weekend پر Karachi جا رہا ہوں۔",
+      "phonemes": "mẽː ʋiːkɛnɖ pər kərɑːʧiː ʤɑː rəhɑː hũː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_09_hm_omega.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_omega",
+      "text": "Doctor نے کہا کہ یہ normal infection ہے، worry نہ کریں۔",
+      "phonemes": "ɖɑːkʈər neː kəhɑː keː jeː nɔːrməl ɪnfɛkʃən hɛː, ʋəriː nə kərẽː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_10_hm_omega.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_omega",
+      "text": "ہمیں AI اور machine learning پر focus کرنا چاہیے۔",
+      "phonemes": "həmẽː eː ɑɪ ɔːr məʃiːn lərnɪŋ pər foːkəs kərnɑː ʧɑːhɪeː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_11_hm_omega.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_omega",
+      "text": "Update کے بعد phone ٹھیک سے کام کر رہا ہے۔",
+      "phonemes": "əpɖeːʈ keː bɑːd foːn ʈʰiːk seː kɑːm kər rəhɑː hɛː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_12_hm_omega.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_omega",
+      "text": "یہ meeting 3 pm پر Zoom پر ہو گی۔",
+      "phonemes": "jeː miːʈɪŋ tʰriː piːɛm pər zuːm pər hoː ɡiː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_13_hm_omega.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_omega",
+      "text": "Customer service نے میری complaint register کر لی۔",
+      "phonemes": "kəsʈəmər sərʋəs neː meːriː kəmpleːnʈ rɛʤəsʈər kər liː.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_14_hm_omega.wav"
+    },
+    {
+      "set": "A2",
+      "voice": "hm_omega",
+      "text": "آج weather بہت pleasant ہے، let's go for a walk۔",
+      "phonemes": "ɑːʤ ʋɛdər bəhʊt plɛzənʈ hɛː, lɛʈs ɡoː fɔːr ə ʋɔːk.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A2_15_hm_omega.wav"
+    },
+    {
+      "set": "A3",
+      "voice": "af_heart",
+      "text": "Good morning, how are you today?",
+      "phonemes": "ɡˈʊd mˈɔɹnɪŋ, hˌW ɑɹ ju tədˈA?",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A3_01_af_heart.wav"
+    },
+    {
+      "set": "A3",
+      "voice": "af_heart",
+      "text": "The quick brown fox jumps over the lazy dog.",
+      "phonemes": "ðə kwˈɪk bɹˈWn fˈɑks ʤˈʌmps ˈOvəɹ ðə lˈAzi dˈɔɡ.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A3_02_af_heart.wav"
+    },
+    {
+      "set": "A3",
+      "voice": "af_heart",
+      "text": "Please send me the report by Thursday afternoon.",
+      "phonemes": "plˈiz sˈɛnd mˌi ðə ɹəpˈɔɹt bI θˈɜɹzdˌA ˌæftəɹnˈun.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A3_03_af_heart.wav"
+    },
+    {
+      "set": "A3",
+      "voice": "af_heart",
+      "text": "Artificial intelligence is changing the way we work.",
+      "phonemes": "ˌɑɹTəfˈɪʃᵊl ɪntˈɛləʤᵊns ɪz ʧˈAnʤɪŋ ðə wˈA wi wˈɜɹk.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A3_04_af_heart.wav"
+    },
+    {
+      "set": "A3",
+      "voice": "af_heart",
+      "text": "I think this is the best decision for our team.",
+      "phonemes": "ˌI θˈɪŋk ðɪs ɪz ðə bˈɛst dəsˈɪʒᵊn fɔɹ ˌWəɹ tˈim.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A3_05_af_heart.wav"
+    },
+    {
+      "set": "A3",
+      "voice": "af_heart",
+      "text": "The meeting has been moved to three thirty.",
+      "phonemes": "ðə mˈiTɪŋ hæz bɪn mˈuvd tə θɹˈi θˈɜɹTi.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A3_06_af_heart.wav"
+    },
+    {
+      "set": "A3",
+      "voice": "af_heart",
+      "text": "Thank you for your patience and understanding.",
+      "phonemes": "θˈæŋk ju fɔɹ jʊɹ pˈAʃəns ænd ˌʌndəɹstˈændɪŋ.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A3_07_af_heart.wav"
+    },
+    {
+      "set": "A3",
+      "voice": "af_heart",
+      "text": "Karachi is the largest city in Pakistan.",
+      "phonemes": "kəɹˈɑʧi ɪz ðə lˈɑɹʤᵻst sˈɪTi ɪn pˈækəstˌæn.",
+      "wav": "C:\\Users\\NOMAN\\AppData\\Local\\Temp\\claude\\d--Urdu-Text-to-Speech-kokoro-urdu\\ff50bcf2-32d1-4b73-9f53-313269b7b730\\scratchpad\\baseline\\A3_08_af_heart.wav"
+    }
+  ]
+}

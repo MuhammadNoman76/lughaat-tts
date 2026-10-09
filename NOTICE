@@ -1,0 +1,11 @@
+lughaat-tts
+Copyright 2026 lughaat-tts contributors. Licensed under the Apache License 2.0.
+
+This project builds on:
+- hexgrad/Kokoro-82M and hexgrad/kokoro (Apache-2.0)
+- hexgrad/misaki (Apache-2.0)
+- yl4579/StyleTTS2 (MIT)
+- semidark/kikiri-tts (Apache-2.0): training/kokoro_symbols.py and the voicepack extraction logic are derived from it
+- sammy4321/Kokoro-Indic-Fine-Tuning (Apache-2.0): training recipe, trainer patches, bandwidth audit, diffusion inference
+- CUNY-CL/wikipron (data scraped from Wiktionary, CC-BY-SA): lughaat_tts/data/lexicon.tsv is derived from it and is CC-BY-SA-4.0
+Training data: AI4Bharat Rasa (CC-BY-4.0), LibriTTS-R (CC-BY-4.0). Attribution required; see the model card.
