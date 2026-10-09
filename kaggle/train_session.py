@@ -252,11 +252,24 @@ class Session:
             log("WARNING: frontend tests failed; continuing (see output above)")
         self.advance("env check passed: " + lines[2])
 
+    def _remote_data_valid(self, min_lines: int = 500) -> bool:
+        """True if the work repo holds a real prepared dataset (lists with enough clips + audio.tar)."""
+        if not (self.exists("data/train_list.txt") and self.exists("data/audio.tar")):
+            return False
+        p = self.dl("data/train_list.txt", os.path.join(TMP, "check_train_list.txt"))
+        if not p:
+            return False
+        n = sum(1 for ln in open(p, encoding="utf-8") if ln.strip())
+        if n < min_lines:
+            log(f"work repo has data/train_list.txt with only {n} lines: treating the prepared data as invalid")
+            return False
+        return True
+
     def _restore_data(self) -> bool:
         """Download the prepared data (lists + audio.tar + frontend) from the work repo if present."""
         if os.path.exists(os.path.join(DATA, "train_list.txt")) and os.path.isdir(os.path.join(DATA, "audio")):
             return True
-        if not self.exists("data/train_list.txt"):
+        if not self._remote_data_valid():
             return False
         for fn in ("train_list.txt", "val_list.txt", "OOD_texts.txt", "data_report.json", "voicepack_refs.json", "bandwidth.json", "manifest.jsonl"):
             self.dl(f"data/{fn}", os.path.join(DATA, fn))
@@ -277,7 +290,7 @@ class Session:
 
     def phase_data_prep(self) -> None:
         st = self.state.setdefault("data_prep", {"steps_done": []})
-        if self.exists("data/train_list.txt") and self.exists("data/audio.tar"):
+        if self._remote_data_valid():
             self.advance("data already prepared in the work repo")
             return
         # Intermediate data-prep outputs live only on the session disk. If a previous session did some

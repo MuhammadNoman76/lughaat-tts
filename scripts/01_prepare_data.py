@@ -622,6 +622,8 @@ class Prep:
             k = max(1, round(n_val * len(lst) / len(rows)))
             val += lst[:k]
             train += lst[k:]
+        if len(train) < 500:
+            raise SystemExit(f"only {len(train)} training clips after filtering; refusing to write lists (data prep must be redone)")
         hours = collections.defaultdict(float)
         for r in rows:
             hours[r["lang"]] += r["dur"]
