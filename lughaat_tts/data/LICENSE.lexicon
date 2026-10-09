@@ -1,0 +1,4 @@
+lexicon.tsv and wikipron_test.tsv are derived from WikiPron (https://github.com/CUNY-CL/wikipron),
+whose data is scraped from Wiktionary (https://www.wiktionary.org). They are licensed under
+CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/). gold_overrides.tsv and g2p_model.pt
+are released under Apache-2.0 with the rest of the package; the model weights of Kokoro-Urdu are unaffected.

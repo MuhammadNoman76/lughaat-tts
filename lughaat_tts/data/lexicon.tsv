@@ -1,0 +1,5793 @@
+# lughaat-tts pronunciation lexicon. word<TAB>pron<TAB>source<TAB>variants
+# Derived in part from WikiPron (CUNY-CL/wikipron, data scraped from Wiktionary).
+# Licence of this file: CC-BY-SA-4.0. Model weights are unaffected.
+آئرلینڈ	ɑːɪrlɛːnɖ	wikipron	
+آئی	ɑːiː	gold	
+آئین	ɑːiːn	wikipron	
+آئینہ	ɑːiːnɑː	wikipron	ɑːiːnɑ
+آئیں	ɑːẽː	gold	
+آئے	ɑːeː	gold	
+آب	ɑːb	wikipron	
+آباد	ɑːbɑːd	gold	
+آبادانی	ɑːbɑːdɑːniː	wikipron	
+آبادی	ɑːbɑːdiː	wikipron	
+آبادیات	ɑːbɑːdɪjɑːt	wikipron	
+آبدوز	ɑːbdoːz	wikipron	
+آبشار	ɑːbʃɑːr	wikipron	
+آبنائے	ɑːbnɑːeː	wikipron	
+آبچین	ɑːbʧiːn	wikipron	
+آبی	ɑːbiː	wikipron	
+آتش	ɑːtəʃ	wikipron	ɑːtɪʃ
+آتما	ɑːtmɑː	wikipron	
+آتنکوادی	ɑːtəŋkʋɑːdiː	wikipron	
+آج	ɑːʤ	gold	
+آخرت	ɑːxɪrət	wikipron	
+آخری	ɑːxɪriː	wikipron	ɑːxriː
+آخور	ɑːxoːr	wikipron	
+آدا	ɑːdɑː	wikipron	
+آداب	ɑːdɑːb	wikipron	
+آدرنیہ	ɑːdərnɪjɑː	wikipron	ɑːdərnɪjɑ
+آدم	ɑːdəm	wikipron	
+آدمی	ɑːdmiː	gold	
+آدھا	ɑːdʰɑː	gold	
+آدھنک	ɑːdʰʊnɪk	wikipron	
+آدھے	ɑːdʰeː	wikipron	
+آذر	ɑːzər	wikipron	
+آذربائیجان	ɑːzərbɑːɪʤɑːn	wikipron	
+آربل	ɑːrbəl	wikipron	
+آرزو	ɑːrzuː	wikipron	
+آرمبھ	ɑːrəmbʰ	wikipron	
+آرمی	ɑːrmiː	wikipron	
+آرمینیا	ɑːrmeːnɪjɑː	wikipron	ɑːrmiːnɪjɑː
+آروگیہ	ɑːroːɡjɑː	wikipron	ɑːroːɡjɑ
+آریامن	ɑːrjəmən	wikipron	
+آریہ	ɑːrjə	wikipron	
+آرے	ɑːreː	wikipron	
+آزاد	ɑːzɑːd	gold	
+آزادی	ɑːzɑːdiː	wikipron	
+آزادیاں	ɑːzɑːdɪjɑ̃ː	wikipron	
+آزادیوں	ɑːzɑːdɪjõː	wikipron	
+آزاری	ɑːzɑːriː	wikipron	
+آزمائش	ɑːzmɑːɪʃ	wikipron	
+آزمائشوں	ɑːzmɑːɪʃõː	wikipron	
+آزمائشیں	ɑːzmɑːɪʃẽː	wikipron	
+آزمودہ	ɑːzmuːdɑː	wikipron	
+آس	ɑːs	wikipron	
+آسام	ɑːsɑːm	wikipron	
+آسامی	ɑːsɑːmiː	wikipron	
+آساں	ɑːsɑ̃ː	wikipron	
+آستھا	ɑːstʰɑː	wikipron	
+آستین	ɑːstiːn	wikipron	
+آسرا	ɑːsrɑː	wikipron	
+آسمان	ɑːsmɑːn	wikipron	
+آسمانوں	ɑːsmɑːnõː	wikipron	
+آسمانی	ɑːsmɑːniː	wikipron	
+آسن	ɑːsən	wikipron	
+آسٹریا	ɑːsʈrɪjɑː	wikipron	
+آسٹریلیا	ɑːsʈreːlɪjɑː	wikipron	ɑːsʈreːljɑː
+آسکت	ɑːsəkt	wikipron	
+آسکول	ɑːskoːl	wikipron	
+آسیب	ɑːseːb	wikipron	
+آشا	ɑːʃɑː	wikipron	
+آشنا	ɑːʃnɑː	wikipron	
+آشچریہ	ɑːʃʧərjə	wikipron	
+آشکارا	ɑːʃkɑːrɑː	wikipron	
+آشیرواد	ɑːʃiːrʋɑːd	wikipron	
+آغا	ɑːɣɑː	wikipron	
+آغاز	ɑːɣɑːz	wikipron	
+آف	ɑːf	gold	
+آفت	ɑːfət	wikipron	
+آفتابی	ɑːftɑːbiː	wikipron	
+آفتوں	ɑːfətõː	wikipron	
+آفتیں	ɑːfətẽː	wikipron	
+آفریدی	ɑːfriːdiː	wikipron	
+آفس	ɑːfɪs	gold	
+آفیسر	ɑːfiːsər	wikipron	
+آقا	ɑːqɑː	wikipron	
+آقچہ	ɑːqʧɑː	wikipron	
+آلس	ɑːləs	wikipron	
+آلسی	ɑːlsiː	wikipron	
+آلنگن	ɑːlɪŋɡən	wikipron	
+آلو	ɑːluː	wikipron	
+آلود	ɑːluːd	wikipron	
+آلودگی	ɑːluːdəɡiː	wikipron	
+آلودگیاں	ɑːluːdəɡɪjɑ̃ː	wikipron	
+آلودگیو	ɑːluːdəɡɪjoː	wikipron	
+آلودگیوں	ɑːluːdəɡɪjõː	wikipron	
+آلودہ	ɑːluːdɑː	wikipron	
+آلوچنا	ɑːloːʧnɑː	wikipron	
+آلوچہ	ɑːluːʧɑː	wikipron	ɑːluːʧɑ
+آلچی	ɑːlʧiː	wikipron	
+آلہ	ɑːlɑː	wikipron	
+آم	ɑːm	wikipron	
+آمد	ɑːməd	wikipron	
+آمدنی	ɑːmdəniː	wikipron	
+آمر	ɑːmɪr	wikipron	
+آملہ	ɑːmlɑː	wikipron	ɑːmlɑ
+آمنہ	ɑːmɪnɑː	wikipron	ɑːmɪnɑ
+آموختہ	ɑːmoːxtɑː	wikipron	ɑːmoːxtɑ
+آموزش	ɑːmoːzɪʃ	wikipron	
+آمیزش	ɑːmeːzɪʃ	wikipron	
+آن	ɑːn	gold	
+آنا	ɑːnɑː	wikipron	
+آندھی	ɑːndʰiː	wikipron	
+آنساؤں	ɑːnɪsɑːõː	wikipron	
+آنسائیں	ɑːnɪsɑːẽː	wikipron	
+آنسو	ɑ̃ːsuː	wikipron	
+آنول	ɑ̃ːʋəl	wikipron	
+آنچل	ɑ̃ːʧəl	wikipron	
+آنکھ	ɑ̃ːkʰ	gold	
+آنکھو	ɑ̃ːŋkʰoː	wikipron	
+آنکھوں	ɑ̃ːkʰõː	wikipron	
+آنکھیں	ɑ̃ːkʰẽː	wikipron	
+آنگن	ɑːŋɡən	wikipron	
+آنہ	ɑːnə	wikipron	
+آواران	ɑːʋɑːrɑːn	wikipron	
+آوارہ	ɑːʋɑːrə	wikipron	
+آواز	ɑːʋɑːz	gold	
+آوازوں	ɑːʋɑːzõː	wikipron	
+آوازیں	ɑːʋɑːzẽː	wikipron	
+آوشیکتا	ɑːʋəʃjəktɑː	wikipron	
+آٹا	ɑːʈɑː	wikipron	
+آٹھ	ɑːʈʰ	gold	
+آٹھواں	ɑːʈʰʋɑ̃ː	gold	
+آٹھویں	ɑːʈʰʋĩː	wikipron	
+آپ	ɑːp	gold	
+آپا	ɑːpɑː	wikipron	
+آپی	ɑːpiː	wikipron	
+آڑو	ɑːɽuː	wikipron	
+آکاش	ɑːkɑːʃ	wikipron	
+آکاشی	ɑːkɑːʃiː	wikipron	
+آکرشت	ɑːkərʃɪt	wikipron	
+آکرمن	ɑːkrəmən	wikipron	
+آگ	ɑːɡ	wikipron	
+آگار	ɑːɡɑːr	wikipron	
+آگاہ	ɑːɡɑːh	wikipron	
+آگرہ	ɑːɡrəh	wikipron	
+آگے	ɑːɡeː	wikipron	
+آہ	ɑːh	wikipron	
+آہستہ	ɑːjɪstɑː	wikipron	ɑːhɪstɑː;ɑːjɪstɑ;ɑːhɪstɑ
+آہو	ɑːhuː	wikipron	
+آیا	ɑːjɑː	gold	
+آیت	ɑːjət	wikipron	
+آیتوں	ɑːjətõː	wikipron	
+آیتیں	ɑːjətẽː	wikipron	
+اب	əb	gold	
+ابا	əbbɑː	wikipron	
+ابابیل	əbɑːbiːl	wikipron	
+اباضی	ɪbɑːziː	wikipron	
+ابتدا	ɪbtɪdɑː	wikipron	
+ابتدائی	ɪbtɪdɑːiː	wikipron	
+ابتسام	ɪbtɪsɑːm	wikipron	
+ابدا	əbdən	wikipron	
+ابداع	ɪbdɑːʔ	wikipron	ɪbdɑː
+ابراہیم	ɪbrɑːhiːm	wikipron	
+ابرق	əbrəq	wikipron	
+ابرنجن	əbrənʤən	wikipron	
+ابرنجین	əbrənʤiːn	wikipron	
+ابرو	əbruː	wikipron	
+ابریق	ɪbriːq	wikipron	
+ابصار	əbsɑːr	wikipron	ɪbsɑːr
+ابلق	əbləq	wikipron	
+ابلنا	ʊbəlnɑː	wikipron	
+ابلیس	ɪbliːs	wikipron	
+ابلیسیانہ	ɪbliːsɪjɑːnɑː	wikipron	ɪbliːsɪjɑːnɑ
+ابن	ɪbn	wikipron	
+ابنہ	ɪbnɑː	wikipron	
+ابو	əbbuː	wikipron	
+ابٹن	ʊbʈən	wikipron	
+ابکائی	ʊbkɑːiː	wikipron	
+ابھار	ʊbʰɑːr	wikipron	
+ابھال	əbʰɑːl	wikipron	ɪbʰɑːl
+ابھاو	əbʰɑːʋ	wikipron	
+ابھرتا	ʊbʰərtɑː	wikipron	
+ابھلاش	əbʰɪlɑːʃɑː	wikipron	
+ابھمان	əbʰɪmɑːn	wikipron	
+ابھی	əbʰiː	gold	
+ابھیاس	əbʰjɑːs	wikipron	
+ابھے	əbʰɛː	wikipron	
+ابہام	ɪbhɑːm	wikipron	
+اتارنا	ʊtɑːrnɑː	wikipron	
+اتاق	uːtɑːq	wikipron	
+اتالیق	ətɑːliːq	wikipron	
+اتحاد	ɪttehɑːd	wikipron	ɪttɪhɑːd
+اترنا	ʊtərnɑː	wikipron	
+اتصال	ɪttɪsɑːl	wikipron	
+اتفاق	ɪttefɑːq	wikipron	ɪttɪfɑːq
+اتفاقا	ɪttɪfɑːqən	wikipron	ɪttefɑːqən
+اتم	ətəm	wikipron	
+اتمام	ɪtmɑːm	wikipron	
+اتمک	ətmək	wikipron	
+اتوار	ɪtʋɑːr	wikipron	
+اتکا	ɪttɪkɑː	wikipron	
+اتھان	ʊttʰɑːn	wikipron	
+اتہاس	ɪtɪhɑːs	wikipron	
+اتہام	ɪttɪhɑːm	wikipron	
+اتیاچاری	ətjɑːʧɑːriː	wikipron	
+اثاث	əsɑːs	wikipron	
+اثبات	ɪsbɑːt	wikipron	
+اثباتی	ɪsbɑːtiː	wikipron	
+اثر	əsər	wikipron	
+اثنا	əsnɑː	wikipron	
+اجازت	ɪʤɑːzət	wikipron	
+اجازتوں	ɪʤɑːzətõː	wikipron	
+اجازتیں	ɪʤɑːzətẽː	wikipron	
+اجالا	ʊʤɑːlɑː	wikipron	
+اجالنا	ʊʤɑːlnɑː	wikipron	
+اجتماع	ɪʤtɪmɑː	wikipron	
+اجر	əʤr	wikipron	
+اجرا	ɪʤrɑː	wikipron	
+اجرت	ʊʤrət	wikipron	
+اجرک	əʤrək	wikipron	
+اجزا	əʤzɑː	wikipron	
+اجل	əʤəl	wikipron	
+اجلاس	ɪʤlɑːs	wikipron	
+اجمالی	ɪʤmɑːliː	wikipron	
+اجمود	əʤmoːd	wikipron	
+اجمودا	əʤmoːdɑː	wikipron	
+اجنبی	əʤnəbiː	wikipron	
+اجوائن	əʤʋɑːɪn	wikipron	
+اجگر	əʤɡər	wikipron	
+اجی	əʤiː	wikipron	
+اجیر	əʤiːr	wikipron	
+اجین	ʊdʤɛːn	wikipron	
+احاطہ	əhɑːtɑː	wikipron	ɪhɑːtɑː;əhɑːtɑ;ɪhɑːtɑ
+احباب	əhbɑːb	wikipron	
+احتجاج	eːhtɪʤɑːʤ	wikipron	
+احترام	eːhtərɑːm	wikipron	eːhtɪrɑːm;ɪhtərɑːm;ɪhtɪrɑːm
+احتلام	ɪhtɪlɑːm	wikipron	
+احتمال	eːhteːmɑːl	wikipron	
+احتیاج	ɪhtɪjɑːʤ	wikipron	
+احتیاط	ɪhtɪjɑːt	wikipron	
+احساس	ɪhsɑːs	wikipron	ɛhsɑːs
+احساساتی	ɪhsɑːsɑːtiː	wikipron	ɛhsɑːsɑːtiː
+احسان	ɪhsɑːn	wikipron	ɛhsɑːn
+احشا	əhʃɑː	wikipron	
+احمد	əhməd	wikipron	ɛhməd
+احمق	əhməq	wikipron	
+احمقانہ	əhməqɑːnɑː	wikipron	əhməqɑːnɑ
+احوال	əhʋɑːl	wikipron	
+احیا	əhjɑː	wikipron	ɪhjɑː
+اخبار	əxbɑːr	wikipron	
+اختر	əxtər	wikipron	
+اختصار	ɪxtɪsɑːr	wikipron	
+اختلاف	ɪxtɪlɑːf	wikipron	
+اختلافات	ɪxtɪlɑːfɑːt	wikipron	
+اختہ	əxtɑː	wikipron	əxtɑ
+اختیار	ɪxtɪjɑːr	wikipron	
+اختیاری	ɪxtɪjɑːriː	wikipron	
+اخذ	əxz	wikipron	
+اخروٹ	əxroːʈ	wikipron	
+اخلاط	əxlɑːt	wikipron	
+اخلاقا	ɪxlɑːqən	wikipron	
+ادا	ədɑː	wikipron	
+ادائیگی	ədɑːiːɡiː	wikipron	ədɑːeːɡiː
+ادارہ	ɪdɑːrɑː	wikipron	
+اداری	ɪdɑːriː	wikipron	
+اداس	ʊdɑːs	wikipron	
+اداسی	ʊdɑːsiː	wikipron	
+اداسیاں	ʊdɑːsɪjɑ̃ː	wikipron	
+اداسیوں	ʊdɑːsɪjõː	wikipron	
+اداہرن	ʊdɑːhrən	wikipron	
+ادبا	ʊdəbɑː	wikipron	
+ادبی	ədbiː	wikipron	
+ادبیات	ədəbɪjjɑːt	wikipron	ədəbɪjɑːt
+ادرنہ	ədɪrnɑː	wikipron	ədɪrnɑ
+ادرک	ədrək	wikipron	
+ادریس	ɪdriːs	wikipron	
+ادوان	ədʋɑːn	wikipron	
+ادھار	ʊdʰɑːr	wikipron	
+ادھلنا	ʊdʰəlnɑː	wikipron	
+ادھماس	ədʰɪmɑːs	wikipron	
+ادھورا	ədʰuːrɑː	wikipron	
+ادھکار	ədʰɪkɑːr	wikipron	
+ادھکاری	ədʰɪkɑːriː	wikipron	
+ادہم	ədhəm	wikipron	
+ادیان	ədjɑːn	wikipron	
+ادیب	ədiːb	wikipron	
+ادیہ	ədjə	wikipron	
+اذن	ɪzn	wikipron	
+اذیت	əzɪjət	wikipron	
+ارادو	ɪrɑːdoː	wikipron	
+ارادوں	ɪrɑːdõː	wikipron	
+ارادہ	ɪrɑːdɑː	wikipron	erɑːdɑː;ɪrɑːdɑ
+ارادے	ɪrɑːdeː	wikipron	
+ارب	ərəb	gold	
+ارتداد	ɪrtɪdɑːd	wikipron	
+ارتعاش	ɪrtɪɑːʃ	wikipron	
+ارتقا	ɪrtəqɑː	wikipron	ɪrtɪqɑː
+ارتھ	ərtʰ	wikipron	
+ارجن	ərʤən	wikipron	ərʤʊn
+ارجنٹائن	ərʤənʈɑːɪn	wikipron	
+اردلی	ərdəliː	wikipron	
+اردن	ʊrdʊn	wikipron	
+اردو	ʊrduː	gold	
+ارز	ərz	wikipron	
+ارزانی	ərzɑːniː	wikipron	
+ارسطو	ərəstuː	wikipron	
+ارسل	ərsəl	wikipron	
+ارسلہ	ərsəlɑː	wikipron	ərsəlɑ
+ارش	ərʃ	wikipron	
+ارمان	ərmɑːn	wikipron	
+ارمنستان	ərmənɪstɑːn	wikipron	
+ارمیا	ɪrmɪjɑː	wikipron	
+ارے	əreː	wikipron	
+از	əz	wikipron	
+ازار	ɪzɑːr	wikipron	
+ازبک	ʊzbək	wikipron	
+ازبکستان	ʊzbəkɪstɑːn	wikipron	
+ازدواج	ɪzdɪʋɑːʤ	wikipron	
+اس	ɪs	gold	
+اساس	əsɑːs	wikipron	ʊsɑːs
+اساسی	əsɑːsiː	wikipron	
+اساطیر	əsɑːtiːr	wikipron	
+اساطیری	əsɑːtiːriː	wikipron	
+اسباب	əsbɑːb	wikipron	
+استاد	ʊstɑːd	wikipron	
+استانی	ʊstɑːniː	wikipron	
+استبداد	ɪstɪbdɑːd	wikipron	
+استحکام	ɪstɪhkɑːm	wikipron	ɪstehkɑːm;ɪstɛhkɑːm
+استخلاف	ɪstɪxlɑːf	wikipron	ɪstexlɑːf
+استر	əstər	wikipron	
+استری	ɪstəriː	wikipron	ɪstɪriː;ɪstriː
+استعفا	ɪstiːfɑː	wikipron	
+استعمال	ɪsteːmɑːl	wikipron	
+استقبال	ɪstɪqbɑːl	wikipron	
+استقلال	ɪstɪqlɑːl	wikipron	
+استنبول	ɪstəmboːl	wikipron	
+استوار	ʊstəʋɑːr	wikipron	ʊstʊʋɑːr
+استور	əstoːr	wikipron	
+استھ	əstʰiː	wikipron	
+اسحاق	ɪshɑːq	wikipron	
+اسد	əsəd	wikipron	
+اسرائیل	ɪsrɑːiːl	wikipron	
+اسراف	ɪsrɑːf	wikipron	
+اسطوخودوس	ʊstoːxuːdduːs	wikipron	
+اسطورہ	ʊstuːrɑː	wikipron	
+اسفنج	ɪsfənʤ	wikipron	
+اسلام	ɪslɑːm	gold	
+اسلحہ	əsləhɑː	wikipron	əslɪhɑː
+اسلوب	ʊsluːb	wikipron	
+اسماعیل	ɪsmɑːiːl	wikipron	
+اسٹرابیری	ɪsʈrɑːbeːriː	wikipron	
+اسٹیڈیم	ɪsʈeːɖɪjəm	wikipron	sʈeːɖɪjəm
+اسپ	əsp	wikipron	
+اسپات	ɪspɑːt	wikipron	
+اسپتال	əspətɑːl	wikipron	
+اسپغول	ɪspəɣoːl	wikipron	
+اسکندریہ	ɪskəndərɪjə	wikipron	
+اسکول	ɪskuːl	gold	
+اسکولوں	ɪskuːlõː	wikipron	
+اسی	əssiː	gold	
+اسیر	əsiːr	wikipron	
+اسیران	əsiːrɑːn	wikipron	
+اسیرو	əsiːroː	wikipron	
+اسیروں	əsiːrõː	wikipron	
+اسیری	əsiːriː	wikipron	
+اسے	ʊseː	gold	
+اشارو	ɪʃɑːroː	wikipron	
+اشاروں	ɪʃɑːrõː	wikipron	
+اشارہ	ɪʃɑːrɑː	wikipron	ɪʃɑːrɑ
+اشارے	ɪʃɑːreː	wikipron	
+اشبھ	əʃʊbʰ	wikipron	
+اشبیلیہ	əʃbiːlɪjɑːh	wikipron	əʃbiːlɪjɑ
+اشتباہا	ɪʃtɪbɑːhən	wikipron	
+اشتراک	ɪʃtɪrɑːk	wikipron	ɪʃterɑːk
+اشتراکیت	ɪʃtɪrɑːkɪjət	wikipron	
+اشتقاق	ɪʃtɪqɑːq	wikipron	
+اشتہا	ɪʃtɪhɑː	wikipron	
+اشتہار	ɪʃtɪhɑːr	wikipron	
+اشتیاق	ɪʃtɪjɑːq	wikipron	
+اشراق	ɪʃrɑːq	wikipron	
+اشوک	əʃoːk	wikipron	
+اشک	əʃk	wikipron	
+اصطبل	əstəbəl	wikipron	
+اصطلاح	ɪstɪlɑːh	wikipron	
+اصغر	əsɣər	wikipron	
+اصفہان	əsfəhɑːn	wikipron	ɪsfəhɑːn
+اصل	əsəl	wikipron	əsl
+اصلاح	ɪslɑːh	wikipron	
+اصول	ʊsuːl	wikipron	
+اصہار	əshɑːr	wikipron	
+اصیل	əsiːl	wikipron	
+اضافت	ɪzɑːfət	wikipron	
+اضافہ	ɪzɑːfɑː	wikipron	ɪzɑːfɑ
+اضطراب	ɪztərɑːb	wikipron	ɪztɪrɑːb
+اضطراری	ɪztɪrɑːriː	wikipron	
+اطاعت	ɪtɑːʔət	wikipron	ɪtɑːət;ɪtɑːt
+اطالیہ	ɪtɑːlɪjɑː	wikipron	
+اطفال	ətfɑːl	wikipron	
+اطلاع	ɪttɪlɑːʔ	wikipron	ɪttɪlɑː
+اطلس	ətləs	wikipron	
+اطمینان	ɪtmiːnɑːn	wikipron	
+اعتبار	eːtebɑːr	wikipron	eːtbɑːr;ɛːtbɑːr;ɪʔtɪbɑːr;eʔtɪbɑːr;etɪbɑːr
+اعتراض	eːtɪrɑːz	wikipron	eːtrɑːz;ɛːtrɑːz;ɪʔtɪrɑːz
+اعتراضات	ɪʔtɪrɑːzɑːt	wikipron	ɪtɪrɑːzɑːt
+اعتراضوں	ɪʔtɪrɑːzõː	wikipron	ɪtɪrɑːzõː
+اعتراف	eːʔtɪrɑːf	wikipron	eːtɪrɑːf
+اعتماد	eːtɪmɑːd	gold	
+اعشاریہ	əʃɑːrijɑː	gold	
+اعضا	ɑːzɑː	wikipron	əʔzɑː;əzɑː
+اعظم	ɑːzəm	gold	
+اعلی	ɑːlɑː	wikipron	əʔlɑː;ɑʔlɑː
+اغوا	əɣʋɑː	wikipron	ɪɣʋɑː
+افریقہ	əfriːqɑː	wikipron	əfriːqɑ
+افریقی	əfriːqiː	wikipron	
+افزائش	əfzɑːɪʃ	wikipron	
+افسانو	əfsɑːnoː	wikipron	
+افسانوں	əfsɑːnõː	wikipron	
+افسانوی	əfsɑːnʋiː	wikipron	
+افسانہ	əfsɑːnɑː	wikipron	əfsɑːnɑ
+افسانے	əfsɑːneː	wikipron	
+افسر	əfsər	wikipron	
+افسردہ	əfsʊrdə	wikipron	
+افطار	ɪftɑːr	wikipron	
+افطاری	ɪftɑːriː	wikipron	
+افغان	əfɣɑːn	wikipron	
+افغانستان	əfɣɑːnɪstɑːn	wikipron	
+افق	ʊfʊq	wikipron	
+افلاس	ɪflɑːs	wikipron	
+افواہ	əfʋɑːh	wikipron	əfʋɑː
+افیون	əfjuːn	wikipron	
+اقتدار	ɪqtɪdɑːr	wikipron	
+اقتصادی	ɪqtɪsɑːdiː	wikipron	
+اقلیت	əqəllɪjət	wikipron	əqlɪjət
+اقلیم	ɪqliːm	wikipron	
+اقوام	əqʋɑːm	wikipron	
+الائچی	ɪlɑːjʧiː	wikipron	
+البیلا	əlbeːlɑː	wikipron	
+الجزائر	əlʤəzɑːɪr	wikipron	
+الحاق	ɪlhɑːq	wikipron	
+الزام	ɪlzɑːm	wikipron	
+الف	əlɪf	wikipron	
+الفاظ	əlfɑːz	gold	
+اللہ	əllɑːh	gold	
+الم	ələm	wikipron	
+الماری	əlmɑːriː	wikipron	
+الماس	əlmɑːs	wikipron	
+المغرب	əlməɣrɪb	wikipron	
+النکار	ələŋkɑːr	wikipron	
+النکرت	ələŋkrɪt	wikipron	
+الو	ʊlluː	wikipron	
+الوداع	əlʋɪdɑː	wikipron	əlʋɪdəʔ;əlʋɪdə
+الٹنا	ʊləʈnɑː	wikipron	
+الٹی	ʊlʈiː	wikipron	
+الٹیاں	ʊlʈjɑ̃ː	wikipron	
+الٹیوں	ʊlʈjõː	wikipron	
+الکحل	ɛlkɔːhɔːl	wikipron	əlkʊhʊl
+الگ	ələɡ	wikipron	
+الہاموں	ɪlhɑːmõː	wikipron	
+امارت	ɪmɑːrət	wikipron	
+امانت	əmɑːnət	wikipron	
+امانتوں	əmɑːnətõː	wikipron	
+امانتیں	əmɑːnətẽː	wikipron	
+امتحان	ɪmtɪhɑːn	wikipron	ɪmtehɑːn
+امر	əmr	wikipron	
+امرا	ʊmərɑː	wikipron	
+امرت	əmrɪt	wikipron	ɪmrɪt;əmrət
+امرتسر	əmrɪtsər	wikipron	
+امرود	əmruːd	wikipron	
+امروز	ɪmroːz	wikipron	
+امریکا	əmriːkɑː	wikipron	
+امریکہ	əmriːkɑː	wikipron	əmriːkɑ
+امل	əməl	wikipron	
+املا	ɪmlɑː	wikipron	
+املی	ɪmliː	wikipron	
+امن	əmən	wikipron	
+امور	ʊmuːr	wikipron	
+امکان	ɪmkɑːn	wikipron	
+امی	əmmiː	wikipron	
+امید	ʊmmeːd	wikipron	ʊmmiːd;ʊmeːd;ʊmiːd
+امیدوار	ʊmmeːdʋɑːr	wikipron	ʊmmiːdʋɑːr
+امیر	əmiːr	wikipron	
+امینہ	əmiːnɑː	wikipron	əmiːnɑ
+ان	ʊn	gold	
+اناتھ	ənɑːtʰ	wikipron	
+انار	ənɑːr	wikipron	
+انارکلی	ənɑːrkəliː	wikipron	
+انبار	əmbɑːr	wikipron	
+انتباہ	ɪntɪbɑːh	wikipron	
+انتخاب	ɪnteːxɑːb	wikipron	ɪntəxɑːb;ɪntɪxɑːb
+انتر	əntər	wikipron	
+انترم	əntrɪm	wikipron	
+انتظار	ɪntezɑːr	wikipron	ɪntəzɑːr;ɪntɪzɑːr
+انتظام	ɪntɪzɑːm	wikipron	ɪntezɑːm
+انتظامی	ɪntɪzɑːmiː	wikipron	
+انتظامیہ	ɪntɪzɑːmɪjɑː	wikipron	
+انتقال	ɪntɪqɑːl	wikipron	
+انتقام	ɪntəqɑːm	wikipron	ɪntɪqɑːm
+انتم	əntɪm	wikipron	
+انتہا	ɪntɪhɑː	wikipron	
+انتہائی	ɪntɪhɑːiː	wikipron	
+انتہاپسند	ɪntehɑːpəsənd	wikipron	
+انتیس	ʊntiːs	gold	
+انجام	ənʤɑːm	wikipron	
+انجانا	ənʤɑːnɑː	wikipron	
+انجماد	ɪnʤɪmɑːd	wikipron	
+انجمن	ənʤʊmən	wikipron	
+انجیر	ənʤiːr	wikipron	
+انداز	əndɑːz	wikipron	
+اندر	əndər	wikipron	ɪndər;ɪndrə;ɪndʊr
+اندراج	ɪndɪrɑːʤ	wikipron	
+اندرون	əndruːn	wikipron	
+اندلس	ʊndʊlʊs	wikipron	
+اندھا	əndʰɑː	wikipron	
+اندھو	əndʰoː	wikipron	
+اندھوں	əndʰõː	wikipron	
+اندھکار	əndʰkɑːr	wikipron	
+اندھی	əndʰiː	wikipron	
+اندھیرا	əndʰeːrɑː	wikipron	
+اندھیروں	əndʰeːrõː	wikipron	
+اندھیری	əndʰeːriː	wikipron	
+اندھیرے	əndʰeːreː	wikipron	
+اندھے	əndʰeː	wikipron	
+اندیشوں	əndeːʃõː	wikipron	
+اندیشہ	əndeːʃɑː	wikipron	əndeːʃɑ
+اندیشے	əndeːʃeː	wikipron	
+اندیکھا	əndeːkʰɑː	wikipron	
+انسان	ɪnsɑːn	wikipron	
+انسانی	ɪnsɑːniː	wikipron	
+انسانیت	ɪnsɑːnɪjət	wikipron	
+انسداد	ɪnsɪdɑːd	wikipron	
+انش	ənʃ	wikipron	
+انشاءاللہ	ɪnʃɑːəllɑːh	gold	
+انصاف	ɪnsɑːf	wikipron	
+انطاکیہ	əntɑːkɪjɑː	wikipron	əntɑːkɪjɑ
+انطلیاس	əntɪljɑːs	wikipron	
+انعام	ɪnʔɑːm	wikipron	ɪnɑːm
+انعامو	ɪnʔɑːmoː	wikipron	ɪnɑːmoː
+انعاموں	ɪnʔɑːmõː	wikipron	ɪnɑːmõː
+انقلاب	ɪnqəlɑːb	wikipron	ɪnqɪlɑːb
+انل	ənəl	wikipron	ənɪl
+انوادک	ənʊʋɑːdək	wikipron	
+انوکھا	ənoːkʰɑː	wikipron	
+انوکھی	ənoːkʰiː	wikipron	
+انوکھے	ənoːkʰeː	wikipron	
+انٹارکٹکا	ənʈɑːrkʈɪkɑː	wikipron	
+انٹرنیشنل	ɪnʈərnɛːʃɪnəl	wikipron	
+انٹرنیٹ	ɪnʈərneːʈ	gold	
+انپم	ənʊpəm	wikipron	
+انچل	ənʧəl	wikipron	
+انڈا	ənɖɑː	wikipron	
+انڈونیشیا	ɪnɖoːneːʃɪjɑː	wikipron	
+انڈوں	ənɖõː	wikipron	
+انڈکوش	ənɖəkoːʃ	wikipron	
+انڈیا	ɪnɖɪjɑː	wikipron	
+انڈے	ənɖeː	wikipron	
+انکار	ɪnkɑːr	wikipron	
+انکشاف	ɪnkɪʃɑːf	wikipron	
+انکشافات	ɪnkɪʃɑːfɑːt	wikipron	
+انکل	əŋkəl	wikipron	
+انگریز	əŋɡreːz	wikipron	
+انگریزی	əŋɡreːziː	gold	
+انگلستان	ɪŋɡlɪstɑːn	wikipron	
+انگلی	ʊŋɡliː	wikipron	
+انگلینڈ	ɪŋɡlɛːnɖ	wikipron	
+انگور	əŋɡuːr	wikipron	
+انگوری	əŋɡuːriː	wikipron	
+انگولہ	əŋɡoːlɑː	wikipron	
+انگوٹھا	əŋɡuːʈʰɑː	wikipron	
+انگوٹھی	əŋɡuːʈʰiː	wikipron	
+انگڑائی	əŋɡɽɑːiː	wikipron	
+انگھیٹی	əŋɡʰiːʈiː	wikipron	
+انھیں	ɪnhẽː	wikipron	ʊnhẽː
+انہ	ɑːnɑː	wikipron	
+انہوں	ʊnhõː	gold	
+انہیں	ʊnhẽː	gold	
+انیس	ʊnniːs	gold	
+انیک	əneːk	wikipron	
+اوتار	ɔːtɑːr	wikipron	əʋtɑːr
+اوتھل	uːtʰɑːl	wikipron	
+اودا	uːdɑː	wikipron	
+اودبلاؤ	uːdbɪlɑːoː	wikipron	
+اودھی	əʋədʰiː	wikipron	
+اور	ɔːr	gold	
+اورماڑا	oːrmɑːɽɑː	wikipron	
+اورنگ	ɔːrəŋɡ	wikipron	
+اوروں	ɔːrõː	wikipron	
+اوس	oːs	wikipron	
+اوساکا	oːsɑːkɑː	wikipron	
+اوسطا	ɔːstən	wikipron	
+اوقات	ɔːqɑːt	wikipron	
+اوقیانوس	uːqɪjɑːnuːs	wikipron	
+اول	əʋʋəl	wikipron	
+اولا	oːlɑː	wikipron	əʋʋələn
+اولاد	ɔːlɑːd	wikipron	
+اولو	ʊluː	wikipron	
+اولی	uːlɑː	wikipron	ɔːlɑː;ʊliː
+اون	uːn	wikipron	
+اونٹ	ũːʈ	wikipron	
+اونٹوں	ũːʈõː	wikipron	
+اونچا	uːnʧɑː	wikipron	
+اونچائی	ũːʧɑːiː	wikipron	
+اونگھ	ũːŋɡʰ	wikipron	
+اوپر	uːpər	wikipron	
+اوڈیشہ	oːɽiːʃɑː	wikipron	
+اوڑی	uːɽiː	wikipron	
+اوکاش	əʋkɑːʃ	wikipron	
+اوکاڑہ	oːkɑːɽɑː	wikipron	oːkɑːɽɑ
+اوکھل	uːkʰliː	wikipron	uːkʰəl
+اوکھی	ɔːkʰiː	wikipron	
+اوہ	uːh	wikipron	
+اویغور	uːɪɣuːr	wikipron	
+اویغورستان	uːɪɣuːrɪstɑːn	wikipron	
+اٹاری	əʈɑːriː	wikipron	
+اٹاچی	əʈɑːʧiː	wikipron	əʈɛːʧiː
+اٹھائیس	əʈʰɑːiːs	gold	
+اٹھارہ	əʈʰɑːrɑː	gold	
+اٹھانا	ʊʈʰɑːnɑː	wikipron	
+اٹھنا	ʊʈʰnɑː	wikipron	
+اپاسک	ʊpɑːsək	wikipron	
+اپاہج	əpɑːhɪʤ	wikipron	
+اپدہان	ʊpdʰɑːn	wikipron	
+اپدیش	ʊpdeːʃ	wikipron	
+اپرادھ	əprɑːdʰ	wikipron	
+اپرادھی	əprɑːdʰiː	wikipron	
+اپرمپار	əprəmpɑːr	wikipron	
+اپریل	əpreːl	gold	
+اپستھت	ʊpəstʰɪt	wikipron	
+اپلبدھ	ʊpləbdʰ	wikipron	
+اپنا	əpnɑː	gold	
+اپنی	əpniː	gold	
+اپنیتر	ʊpneːtrə	wikipron	
+اپنے	əpneː	gold	
+اپواس	ʊpʋɑːs	wikipron	
+اپیوگ	ʊpjoːɡ	wikipron	
+اچانک	əʧɑːnək	wikipron	
+اچت	ʊʧɪt	wikipron	
+اچکیریہ	ɪʧkeːrjɑː	wikipron	ɪʧkiːrjɑː;ɪʧkeːrjɑ;ɪʧkiːrjɑ
+اچھا	əʧʧʰɑː	gold	
+اچھلنا	ʊʧʰəlnɑː	wikipron	
+اچھوت	əʧʰuːt	wikipron	
+اچھوتا	əʧʰuːtɑː	wikipron	
+اچھوتی	əʧʰuːtiː	wikipron	
+اچھی	əʧʧʰiː	gold	
+اچھے	əʧʧʰeː	gold	
+اڑان	ʊɽɑːn	wikipron	
+اڑانا	ʊɽɑːnɑː	wikipron	
+اڑتیس	əɽtiːs	gold	
+اڑنا	əɽnɑː	wikipron	ʊɽnɑː
+اڑھائی	əɽʰɑːiː	wikipron	
+اژدہا	əzdəhɑː	wikipron	əʒdəhɑː
+اژدہو	əʒdəhoː	wikipron	
+اژدہوں	əʒdəhõː	wikipron	
+اژدہے	əʒdəheː	wikipron	
+اک	ɪk	wikipron	
+اکا	ɪkkɑː	wikipron	
+اکادمک	əkɑːdmɪk	wikipron	
+اکادمی	əkɑːdmiː	wikipron	
+اکال	əkɑːl	wikipron	
+اکانوے	ɪkɑːnʋeː	wikipron	
+اکتاہٹ	ʊktɑːhəʈ	wikipron	
+اکتوبر	əktuːbər	gold	
+اکثریت	əksərɪjət	wikipron	
+اکشر	əkʃər	wikipron	
+اکلوتا	ɪklɔːtɑː	wikipron	
+اکلوتی	ɪklɔːtiː	wikipron	
+اکلوتے	ɪklɔːteː	wikipron	
+اکنون	əknuːn	wikipron	
+اکٹھا	ɪkəʈʈʰɑː	wikipron	
+اکڑ	əkəɽ	wikipron	
+اکھاڑا	əkʰɑːɽɑː	wikipron	
+اکھروٹ	əkʰroːʈ	wikipron	
+اکیس	ɪkkiːs	gold	
+اکیلا	əkeːlɑː	wikipron	
+اگر	əɡər	gold	
+اگربتی	əɡərbəttiː	wikipron	
+اگست	əɡəst	gold	
+اگلی	əɡliː	wikipron	
+اگلے	əɡleː	wikipron	
+اگن	əɡən	wikipron	
+اگنا	ʊɡnɑː	wikipron	
+اگنی	əɡniː	wikipron	
+اہلیاؤ	əhlɪjɑːoː	wikipron	
+اہلیاؤں	əhlɪjɑːõː	wikipron	
+اہلیائیں	əhlɪjɑːẽː	wikipron	
+اہلیہ	əhlɪjɑː	wikipron	eʰlɪjɑː;ɛhlɪjɑː;əhlɪjɑ
+اہم	əhəm	wikipron	ɛhɛm
+اہہ	iːh	wikipron	ɪh
+ایت	əjʊt	wikipron	
+ایتھنز	eːtʰənz	wikipron	iːtʰənz
+ایتھوپیا	ɪtʰɪjoːpɪjɑː	wikipron	
+ایجنٹ	eːʤənʈ	wikipron	
+ایران	iːrɑːn	wikipron	
+ایرانی	iːrɑːniː	wikipron	
+ایرشا	iːrʃɑː	wikipron	
+ایرکھا	iːrkʰɑː	wikipron	
+ایزد	eːzɪd	wikipron	iːzɪd
+ایشور	iːʃʋər	wikipron	
+ایلچی	eːlʧiː	wikipron	
+ایمان	iːmɑːn	wikipron	
+ایماندار	iːmɑːndɑːr	wikipron	
+ایمانوں	iːmɑːnõː	wikipron	
+اینٹ	ĩːʈ	wikipron	
+اینٹوں	ĩːʈõː	wikipron	
+اینٹیں	ĩːʈẽː	wikipron	
+ایوان	ɛːʋɑːn	wikipron	
+ایوب	əjjuːb	wikipron	
+ایپ	ɛːp	gold	
+ایڈنبرا	iːɖɪmbrɑː	wikipron	iːɖɪnbrɑː;ɛːɖɪnbrɑː
+ایک	eːk	gold	
+ایکواڈور	eːkʋɑːɖoːr	wikipron	
+ایکھ	iːkʰ	wikipron	
+اے	eː	wikipron	
+بآواز	bəɑːʋɑːz	wikipron	
+بائبل	bɑːɪbɪl	wikipron	
+بائیس	bɑːiːs	gold	
+بائیسکل	bɑːiːsɪkəl	wikipron	
+بابو	bɑːbuː	wikipron	
+بات	bɑːt	gold	
+باتری	bɑːtriː	wikipron	
+باتھروم	bɑːtʰruːm	wikipron	
+باتیں	bɑːtẽː	gold	
+باجی	bɑːʤiː	wikipron	
+باختر	bɑːxtər	wikipron	
+باد	bɑːd	wikipron	
+بادشاہ	bɑːdʃɑːh	wikipron	
+بادشاہت	bɑːdʃɑːhət	wikipron	
+بادل	bɑːdəl	wikipron	
+بادلو	bɑːdəloː	wikipron	
+بادلوں	bɑːdəlõː	wikipron	
+بادنجان	bɑːdənʤɑːn	wikipron	
+بار	bɑːr	wikipron	
+بارات	bɑːrɑːt	wikipron	
+باراں	bɑːrɑ̃ː	wikipron	
+بارش	bɑːrɪʃ	wikipron	
+بارشوں	bɑːrɪʃõː	wikipron	
+بارشیں	bɑːrɪʃẽː	wikipron	
+بارکھان	bɑːrkʰɑːn	wikipron	
+بارہ	bɑːrɑː	gold	
+بارہا	bɑːrhɑː	wikipron	
+باریک	bɑːriːk	wikipron	
+بازار	bɑːzɑːr	gold	
+بازاروں	bɑːzɑːrõː	wikipron	
+بازو	bɑːzuː	wikipron	
+بازی	bɑːziː	wikipron	
+باسن	bɑːsən	wikipron	
+باسی	bɑːsiː	wikipron	
+باشندہ	bɑːʃɪndɑː	wikipron	
+باعث	bɑːʔɪs	wikipron	bɑːɪs
+باغ	bɑːɣ	wikipron	
+باغوں	bɑːɣõː	wikipron	
+باغی	bɑːɣiː	wikipron	
+باغیچہ	bɑːɣiːʧɑː	wikipron	
+باقی	bɑːqiː	wikipron	
+بال	bɑːl	wikipron	
+بالآخر	bɪlɑːxɪr	wikipron	
+بالش	bɑːlɪʃ	wikipron	
+بالفرض	bɪlfərz	wikipron	
+بالفعل	bɪlfeːl	wikipron	bɪlfɪʔl
+بالم	bɑːləm	wikipron	
+بالمیکی	bɑːlmiːkiː	wikipron	
+بالٹی	bɑːlʈiː	wikipron	
+بالکل	bɪlkʊl	gold	
+باندھنا	bɑːndʰnɑː	wikipron	
+بانس	bɑ̃ːs	wikipron	
+بانسری	bɑ̃ːsʊriː	wikipron	bɑ̃ːsriː
+بانسو	bɑ̃ːsoː	wikipron	
+بانسوں	bɑ̃ːnsõː	wikipron	
+بانو	bɑːnoː	wikipron	bɑːnuː
+بانچنا	bɑ̃ːʧnɑː	wikipron	
+بانگی	bɑːŋɡiː	wikipron	
+بانہو	bɑ̃ːhõː	wikipron	
+بانہوں	bɑ̃ːhõː	wikipron	
+بانہہ	bɑ̃ːh	wikipron	
+بانہیں	bɑ̃ːhẽː	wikipron	
+بانی	bɑːniː	wikipron	
+باور	bɑːʋər	wikipron	
+باورچی	bɑːʋərʧiː	wikipron	
+باون	bɑːʋən	wikipron	
+باپ	bɑːp	gold	
+باڑ	bɑːɽ	wikipron	
+باڑھ	bɑːɽʰ	wikipron	
+باکو	bɑːkuː	wikipron	
+باہر	bɑːhər	wikipron	
+باہم	bɑːhəm	wikipron	
+باہمی	bɑːhəmiː	wikipron	
+باہوبلی	bɑːhʊbəliː	wikipron	
+بایاں	bɑːjɑ̃ː	wikipron	
+بباد	bɪbɑːd	wikipron	
+ببھکشا	bʊbʰʊkʃɑː	wikipron	
+بت	bʊt	wikipron	
+بتانا	bətɑːnɑː	wikipron	bɪtɑːnɑː
+بتوں	bətõː	wikipron	bʊtõː
+بج	bəʤ	gold	
+بجائے	bəʤɑːeː	wikipron	
+بجری	bəʤriː	wikipron	
+بجلی	bɪʤliː	wikipron	
+بجلیاں	bɪʤlɪjɑ̃ː	wikipron	
+بجلیوں	bɪʤlɪjõː	wikipron	
+بجے	bəʤeː	wikipron	
+بحال	bəhɑːl	wikipron	
+بحث	bəhəs	wikipron	bɛhɛs
+بحر	bɛhɛr	wikipron	bəhr;bɛhr
+بحران	boːhrɑːn	wikipron	
+بحرین	bəhriːn	wikipron	bɛhriːn
+بحریہ	bəhrɪjɑː	wikipron	
+بخت	bəxt	wikipron	
+بخش	bəxʃ	wikipron	
+بخیریت	bəxɛːrɪjət	wikipron	
+بخیل	bəxiːl	wikipron	
+بدبو	bədboː	wikipron	bədbuː
+بدتر	bədtər	wikipron	
+بددعا	bəddʊɑː	wikipron	
+بدر	bədər	wikipron	
+بدصورت	bədsuːrət	wikipron	
+بدعت	bɪdət	wikipron	
+بدقسمت	bədqɪsmət	wikipron	
+بدلنا	bədəlnɑː	wikipron	
+بدلوانا	bədəlʋɑːnɑː	wikipron	
+بدلہ	bədlə	wikipron	
+بدمعاشوں	bədməʔɑːʃõː	wikipron	bədməɑːʃõː
+بدن	bədən	wikipron	
+بدنصیب	bədnəsiːb	wikipron	
+بدنیت	bədniːt	wikipron	
+بدولت	bədɔːlət	wikipron	
+بدھ	bʊdʰ	wikipron	
+بدھائی	bədʰɑːiː	wikipron	
+بدھو	bʊddʰuː	wikipron	
+بدھوار	bʊdʰʋɑːr	wikipron	
+بدھیا	bədʰɪjɑː	wikipron	
+بدی	bədiː	wikipron	
+بدین	bədiːn	wikipron	
+برآمد	bərɑːməd	wikipron	
+برا	bʊrɑː	gold	
+برات	bərɑːt	wikipron	
+براتو	bərɑːtoː	wikipron	
+براتوں	bərɑːtõː	wikipron	
+براتیں	bərɑːtẽː	wikipron	
+برازیل	brɑːziːl	wikipron	
+براعظم	bərreːəzəm	wikipron	bərrɪəʔzəm;bərrɪəzəm
+براعظمی	bərreːəzəmiː	wikipron	bərrɪəʔzəmiː;bərrɪəzəmiː
+برباد	bərbɑːd	wikipron	
+برت	bərət	wikipron	
+برتاؤ	bərtɑːoː	wikipron	
+برتن	bərtən	wikipron	
+برج	bʊrʤ	wikipron	
+برخاست	bərxɑːst	wikipron	
+برخاستوں	bərxɑːstõː	wikipron	
+برخاستیں	bərxɑːstẽː	wikipron	
+برس	bərəs	wikipron	
+برسات	bərsɑːt	wikipron	
+برساتوں	bərsɑːtõː	wikipron	
+برساتیں	bərsɑːtẽː	wikipron	
+برسلز	brəsəlz	wikipron	
+برسنا	bərəsnɑː	wikipron	
+برسی	bərsiː	wikipron	
+برسیاں	bərsɪjɑ̃ː	wikipron	
+برسیوں	bərsɪjõː	wikipron	
+برصغیر	bərresəɣiːr	wikipron	bəresəɣiːr
+برطانوی	bərtɑːnʋiː	wikipron	
+برطانیہ	bərtɑːnɪjɑː	wikipron	bərtɑːnɪjɑ
+برف	bərəf	wikipron	bərf
+برق	bərq	wikipron	
+برقع	bʊrqɑː	wikipron	bʊrqəʔ;bʊrqə
+برقی	bərqiː	wikipron	
+برلن	bərlɪn	wikipron	
+برما	bərmɑː	wikipron	
+برمنگھم	bərmɪŋɡʰəm	wikipron	
+بروخے	bruːxeː	wikipron	
+برودت	bʊruːdət	wikipron	
+برٹش	bɪrʈɪʃ	wikipron	
+برچھا	bərʧʰɑː	wikipron	
+برچھیت	bərʧʰɛːt	wikipron	
+برکات	bərəkɑːt	wikipron	
+برکت	bərkət	wikipron	
+برکتوں	bərkətõː	wikipron	
+برکتیں	bərkətẽː	wikipron	
+برکھا	bərkʰɑː	wikipron	
+برگزیدہ	bərɡʊziːdɑː	wikipron	
+برہا	bɪrhɑː	wikipron	
+برہسپت	bɪrhəspət	wikipron	
+برہما	bərəhmɑː	wikipron	bərhəmɑː
+برہنہ	bərəhnɑː	wikipron	bərəhnɑ
+بری	bʊriː	wikipron	
+بریانی	bɪrjɑːniː	wikipron	
+بریشال	bəriːshɑːl	wikipron	
+برے	bʊreː	wikipron	
+بزار	bəzɑːr	wikipron	
+بس	bəs	wikipron	
+بستر	bɪstər	wikipron	
+بستی	bəstiː	wikipron	
+بستیاں	bəstɪjɑ̃ː	wikipron	
+بستیو	bəstɪjoː	wikipron	
+بستیوں	bəstɪjõː	wikipron	
+بسنا	bəsnɑː	wikipron	
+بسنت	bəsənt	wikipron	
+بسکٹ	bɪskɪʈ	wikipron	
+بسیار	bɪsjɑːr	wikipron	
+بشیر	bəʃiːr	wikipron	
+بشیشن	bɪʃeːʃən	wikipron	
+بضاعت	bɪzɑːʔət	wikipron	bɪzɑːət
+بطخ	bəttəx	wikipron	bətəx;bəttək;bətək
+بظاہر	bəzɑːhɪr	wikipron	
+بعث	bəʔs	wikipron	bəs
+بعثت	beːsət	wikipron	bɪʔsət
+بعد	bɑːd	gold	
+بعض	bɑːz	wikipron	
+بغاوت	bəɣɑːʋət	wikipron	
+بغاوتوں	bəɣɑːʋətõː	wikipron	
+بغاوتیں	bəɣɑːʋətẽː	wikipron	
+بغل	bəɣəl	wikipron	
+بغیر	bəɣɛːr	wikipron	
+بغیچہ	bəɣiːʧɑː	wikipron	
+بقا	bəqɑː	wikipron	
+بقار	bəqqɑːr	wikipron	
+بقر	bəqər	wikipron	
+بقرعید	bəqərʔiːd	wikipron	bəqəriːd;bəqriːd
+بقرہ	bəqərɑː	wikipron	
+بلا	bəllɑː	wikipron	bɪllɑː;bʊllɑː;bəlɑː
+بلب	bəlb	wikipron	
+بلبل	bʊlbʊl	wikipron	
+بلبلو	bʊlbʊloː	wikipron	
+بلبلوں	bʊlbʊlõː	wikipron	
+بلبلیں	bʊlbʊlẽː	wikipron	
+بلغاری	bʊlɣɑːriː	wikipron	
+بلغاریہ	bʊlɣɑːrɪjɑː	wikipron	
+بلغم	bəlɣəm	wikipron	
+بلند	bələnd	wikipron	
+بلوغت	bʊluːɣət	wikipron	
+بلوچ	bəloːʧ	wikipron	
+بلوچستان	bəloːʧɪstɑːn	wikipron	
+بلکہ	bəlkiː	wikipron	
+بلہ	bəllɑː	wikipron	
+بلہار	bəlɪhɑːr	wikipron	
+بلی	bɪlliː	wikipron	
+بلے	bəleː	wikipron	
+بم	bəm	wikipron	
+بمبئی	bəmbəiː	wikipron	
+بمباری	bəmbɑːriː	wikipron	
+بمبہ	bəmbə	wikipron	
+بمقابلہ	bɑmʊqɑːbɪlɑː	wikipron	bəmʊqɑːbɪlɑː;bɑmʊqɑːblɑː;bɑmʊqɑːbɪlɑ;bəmʊqɑːbɪlɑ;bɑmʊqɑːblɑ
+بنا	bənnɑː	wikipron	bɪnɑː
+بنارس	bənɑːrəs	wikipron	
+بنانا	bənɑːnɑː	wikipron	
+بناوٹ	bənɑːʋət	wikipron	
+بناوٹی	bənɑːʋəʈiː	wikipron	
+بنت	bɪnt	wikipron	
+بنتی	bɪntiː	wikipron	
+بنجارا	bənʤɑːrɑː	wikipron	
+بنجی	bʊnʤiː	wikipron	
+بند	bənd	wikipron	
+بندر	bəndər	wikipron	
+بندش	bəndɪʃ	wikipron	
+بندو	bəndoː	wikipron	
+بندگی	bəndəɡiː	wikipron	
+بندھن	bəndʰən	wikipron	
+بندہ	bəndɑː	wikipron	bəndɑ
+بندے	bəndeː	wikipron	
+بنزین	bənziːn	wikipron	
+بنفشی	bənəfʃiː	wikipron	
+بنٹنا	bə̃ʈnɑː	wikipron	
+بنگ	bəŋɡ	wikipron	
+بنگال	bəŋɡɑːl	wikipron	
+بنگالن	bəŋɡɑːlən	wikipron	
+بنگلہ	bəŋɡlɑː	wikipron	
+بنیاد	bʊnjɑːd	wikipron	
+بنیادی	bʊnɪjɑːdiː	wikipron	
+بو	boː	wikipron	buː
+بوا	bʊʋɑː	wikipron	
+بواؤ	buːɑːoː	wikipron	
+بواؤں	buːɑːõː	wikipron	
+بواب	bəʋʋɑːb	wikipron	
+بوتل	boːtəl	wikipron	
+بوجھ	boːʤʰ	wikipron	
+بوجھوں	boːʤʰõː	wikipron	
+بودار	buːdɑːr	wikipron	
+بوداپست	bʊdɑːpeːst	wikipron	
+بور	boːr	wikipron	
+بوریت	boːrɪjət	wikipron	
+بوستان	boːstɑːn	wikipron	
+بوسنیا	boːsnɪjɑː	wikipron	
+بوسہ	boːsɑː	wikipron	boːsɑ
+بوسیدہ	boːsiːdɑː	wikipron	boːsiːdɑ
+بولنا	boːlnɑː	wikipron	
+بوم	buːm	wikipron	
+بونا	boːnɑː	wikipron	bɔːnɑː
+بونڈر	bəʋənɖər	wikipron	
+بوٹ	buːʈ	wikipron	
+بوچڑ	buːʧəɽ	wikipron	
+بوچھار	bɔːʧʰɑːr	wikipron	
+بوچھاڑ	bɔːʧʰɑːɽ	wikipron	
+بوڑھا	buːɽʰɑː	wikipron	
+بوڑھو	buːɽʰoː	wikipron	
+بوڑھوں	buːɽʰõː	wikipron	
+بوڑھی	buːɽʰiː	wikipron	
+بوڑھے	buːɽʰeː	wikipron	
+بٹوا	bəʈʊɑː	wikipron	bəʈʋɑː
+بٹورنا	bəʈoːrnɑː	wikipron	
+بٹھانا	bɪʈʰɑːnɑː	wikipron	
+بپتسمہ	bəptɪsmɑː	wikipron	
+بچنا	bəʧnɑː	wikipron	
+بچو	bətʧoː	wikipron	
+بچوں	bətʧõː	wikipron	
+بچپن	bəʧpən	wikipron	
+بچھانا	bɪʧʰɑːnɑː	wikipron	
+بچھو	bɪtʧʰuː	wikipron	
+بچہ	bəʧʧɑː	gold	
+بچی	bəʧʧiː	gold	
+بچے	bəʧʧeː	gold	
+بڑا	bəɽɑː	gold	
+بڑائی	bəɽɑːiː	wikipron	
+بڑھاپا	bʊɽʰɑːpɑː	wikipron	
+بڑھنا	bəɽʰnɑː	wikipron	
+بڑھیا	bəɽʰɪjɑː	wikipron	bʊɽʰɪjɑː;bəɽʰjɑː;bʊɽʰjɑː
+بڑی	bəɽiː	gold	
+بڑے	bəɽeː	gold	
+بکاؤ	bɪkɑːoː	wikipron	bɪkɑːuː
+بکتاشی	bəktɑːʃiː	wikipron	
+بکرا	bəkrɑː	wikipron	
+بکری	bəkriː	wikipron	
+بکس	bəks	wikipron	
+بکم	bəkkəm	wikipron	bʊkm
+بکواس	bəkʋɑːs	wikipron	
+بھائی	bʰɑːiː	gold	
+بھائیو	bʰɑːɪjoː	wikipron	
+بھائیوں	bʰɑːɪjõː	wikipron	
+بھابھی	bʰɑːbʰiː	wikipron	
+بھابی	bʰɑːbiː	wikipron	
+بھابیاں	bʰɑːbɪjɑ̃ː	wikipron	
+بھابیو	bʰɑːbɪjoː	wikipron	
+بھابیوں	bʰɑːbɪjõː	wikipron	
+بھاجن	bʰɑːʤən	wikipron	
+بھادوں	bʰɑːdõː	wikipron	
+بھارتی	bʰɑːrtiː	wikipron	
+بھاشا	bʰɑːʃɑː	wikipron	
+بھاشن	bʰɑːʃən	wikipron	
+بھاشنوں	bʰɑːʃənõː	wikipron	
+بھاشیہ	bʰɑːʃjə	wikipron	
+بھالو	bʰɑːluː	wikipron	
+بھانجو	bʰɑːnʤoː	wikipron	
+بھانجوں	bʰɑːnʤõː	wikipron	
+بھانجی	bʰɑːnʤiː	wikipron	
+بھانجیاں	bʰɑːnʤɪjɑ̃ː	wikipron	
+بھانجیو	bʰɑːnʤɪjoː	wikipron	
+بھانجیوں	bʰɑːnʤɪjõː	wikipron	
+بھانجے	bʰɑːnʤeː	wikipron	
+بھانگ	bʰɑːŋɡ	wikipron	
+بھاکھا	bʰɑːkʰɑː	wikipron	
+بھاگ	bʰɑːɡ	wikipron	
+بھاگنا	bʰɑːɡnɑː	wikipron	
+بھاگیہ	bʰɑːɡjə	wikipron	
+بھتیجا	bʰətiːʤɑː	wikipron	
+بھجن	bʰəʤən	wikipron	
+بھراتا	bʰrɑːtɑː	wikipron	
+بھراتر	bʰrɑːtr	wikipron	
+بھرم	bʰərəm	wikipron	
+بھرن	bʰərən	wikipron	
+بھرنا	bʰərnɑː	wikipron	
+بھروسہ	bʰəroːsə	wikipron	
+بھلوال	bʰəlʋɑːl	wikipron	
+بھلکڑ	bʰʊləkkəɽ	wikipron	
+بھنجک	bʰənʤək	wikipron	
+بھنور	bʰə̃ʋər	wikipron	
+بھنورو	bʰə̃ʋəroː	wikipron	
+بھنوروں	bʰə̃ʋərõː	wikipron	
+بھنڈ	bʰənɖ	wikipron	
+بھنڈی	bʰɪnɖɪː	wikipron	
+بھوتل	bʰuːtəl	wikipron	
+بھوتنی	bʰuːtɪniː	wikipron	bʰuːtniː
+بھوجن	bʰoːʤən	wikipron	
+بھور	bʰoːr	wikipron	
+بھورا	bʰuːrɑː	wikipron	
+بھوسڑی	bʰoːsɽiː	wikipron	
+بھولنا	bʰuːlnɑː	wikipron	
+بھومکا	bʰuːmɪkɑː	wikipron	
+بھومی	bʰuːmiː	wikipron	
+بھونکنا	bʰõːknɑː	wikipron	
+بھونیشور	bʰʊʋneːʃʋər	wikipron	
+بھوٹان	bʰuːʈɑːn	wikipron	
+بھوک	bʰuːk	wikipron	
+بھوکا	bʰuːkɑː	wikipron	
+بھوکی	bʰuːkiː	wikipron	
+بھوکے	bʰuːkeː	wikipron	
+بھوگول	bʰuːɡoːl	wikipron	
+بھکت	bʰəkt	wikipron	
+بھکتی	bʰəktiː	wikipron	
+بھکر	bʰəkkər	wikipron	
+بھگدڑ	bʰəɡdəɽ	wikipron	
+بھی	bʰiː	gold	
+بھیا	bʰəjjɑː	wikipron	
+بھیانک	bʰəjɑːnək	wikipron	
+بھیجنا	bʰeːʤnɑː	wikipron	
+بھید	bʰeːd	wikipron	
+بھیدوں	bʰeːdõː	wikipron	
+بھیس	bʰeːs	wikipron	
+بھینا	bʰiːnɑː	wikipron	bʰɛːnɑː
+بھیڑ	bʰeːɽ	wikipron	bʰiːɽ
+بھیڑو	bʰeːɽoː	wikipron	bʰiːɽoː
+بھیڑوں	bʰeːɽõː	wikipron	bʰiːɽõː
+بھیک	bʰiːk	wikipron	
+بہ	bɑː	wikipron	
+بہاء	bəhɑː	wikipron	
+بہاؤالدین	bəhɑːʔʊddiːn	wikipron	bəhɑːʊddiːn
+بہائی	bəhɑːiː	wikipron	
+بہادری	bəhɑːdəriː	wikipron	bəhɑːdʊriː
+بہار	bəhɑːr	wikipron	bɪhɑːr
+بہارا	bəhɑːrɑː	wikipron	
+بہاراں	bəhɑːrɑ̃ː	wikipron	
+بہاروں	bəhɑːrõː	wikipron	
+بہاولنگر	bəhɑːʋəlnəɡər	wikipron	
+بہت	bəhʊt	gold	
+بہتان	bʊhtɑːn	wikipron	bohtɑːn
+بہتانوں	bʊhtɑːnõː	wikipron	
+بہتر	beːʰtər	wikipron	bəhəttər;bɪhtər;bɛʰtər
+بہرا	bəhrɑː	wikipron	
+بہرام	beːhrɑːm	wikipron	bəhrɑːm
+بہروز	beːhroːz	wikipron	
+بہشت	bəhɪʃt	wikipron	bɪhɪʃt
+بہن	bəhən	gold	
+بہنا	bəhnɑː	wikipron	bɛhnəː
+بہنو	bəhənoː	wikipron	
+بہنوئی	bəhnoːiː	wikipron	bɛhnoːiː
+بہنوئیو	bəhnoːɪjoː	wikipron	
+بہنوئیوں	bəhnoːɪjõː	wikipron	
+بہنوں	bəhənõː	wikipron	
+بہنیں	bəhənẽː	wikipron	
+بہو	bəhuː	wikipron	bəuː
+بہی	bɪhiː	wikipron	
+بیابان	bəjɑːbɑːn	wikipron	
+بیاض	bəjɑːz	wikipron	
+بیان	bəjɑːn	wikipron	
+بیاہ	bɪjɑːh	wikipron	bjɑːh
+بیت	bɛːt	wikipron	
+بیتا	biːtɑː	wikipron	
+بیج	biːʤ	wikipron	
+بیجا	beːʤɑː	wikipron	
+بیجنگ	beːʤɪŋɡ	wikipron	
+بید	bɛːd	wikipron	
+بیدار	beːdɑːr	wikipron	
+بیدق	bɛːdəq	wikipron	
+بیر	biːr	wikipron	
+بیروت	bɛːruːt	wikipron	
+بیزار	beːzɑːr	wikipron	
+بیزتی	beːztiː	wikipron	beːstiː
+بیس	biːs	gold	
+بیستی	beːstiː	wikipron	
+بیش	beːʃ	wikipron	
+بیضہ	bɛːzə	wikipron	
+بیعت	bɛːʔət	wikipron	bɛːt
+بیعتو	bɛːʔətoː	wikipron	bɛːətoː
+بیعتوں	bɛːʔətõː	wikipron	bɛːətõː
+بیعتیں	bɛːʔətẽː	wikipron	bɛːətẽː
+بیلاروس	beːlɑːruːs	wikipron	
+بیلجیم	beːlʤɪjəm	wikipron	
+بیلن	beːlən	wikipron	
+بیلہ	beːlɑː	wikipron	
+بیمار	biːmɑːr	wikipron	
+بیماری	biːmɑːriː	wikipron	
+بین	biːn	wikipron	bɛːn
+بینگن	bɛːŋɡən	wikipron	bɛːɡən
+بیوقوف	beːʋʊquːf	wikipron	beʋəkuːf;beʋəquːf;beʋʊquːf
+بیوقوفی	beːʋəquːfiː	wikipron	
+بیوہ	beːʋɑː	wikipron	beːʋɑ
+بیوی	biːʋiː	wikipron	
+بیویاں	biːʋɪjɑ̃ː	wikipron	
+بیویو	biːʋɪjoː	wikipron	
+بیویوں	biːʋɪjõː	wikipron	
+بیٹا	beːʈɑː	gold	
+بیٹو	beːʈoː	wikipron	
+بیٹوں	beːʈõː	wikipron	
+بیٹھنا	bɛːʈʰnɑː	wikipron	
+بیٹھک	bɛːʈʰək	wikipron	
+بیٹی	beːʈiː	gold	
+بیٹیاں	beːʈɪjɑ̃ː	wikipron	
+بیٹیو	beːʈɪjoː	wikipron	
+بیٹیوں	beːʈɪjõː	wikipron	
+بیٹے	beːʈeː	wikipron	
+بیچ	biːʧ	wikipron	
+بیچنا	beːʧnɑː	wikipron	
+بیڑا	beːɽɑː	wikipron	
+بیکر	beːkər	wikipron	
+بیگار	beːɡɑːr	wikipron	
+بیگم	beːɡəm	wikipron	
+بے	beː	wikipron	
+تائو	tɑːoː	wikipron	
+تائوں	tɑːõː	wikipron	
+تائے	tɑːeː	wikipron	
+تابش	tɑːbɪʃ	wikipron	
+تابندہ	tɑːbəndɑː	wikipron	tɑːbɪndɑː;tɑːbəndɑ;tɑːbɪndɑ
+تابوت	tɑːbuːt	wikipron	
+تابکار	tɑːbkɑːr	wikipron	
+تاثیر	tɑːsiːr	wikipron	
+تاثیروں	tɑːsiːrõː	wikipron	
+تاثیریں	tɑːsiːrẽː	wikipron	
+تاج	tɑːʤ	wikipron	
+تاجکستان	tɑːʤɪkɪstɑːn	wikipron	
+تار	tɑːr	wikipron	
+تارا	tɑːrɑː	wikipron	
+تارو	tɑːroː	wikipron	
+تاروں	tɑːrõː	wikipron	
+تارکین	tɑːrɪkiːn	wikipron	
+تاریخ	tɑːriːx	wikipron	
+تاریخچہ	tɑːriːxʧɑː	wikipron	
+تاریخی	tɑːriːxiː	wikipron	
+تاریک	tɑːriːk	wikipron	
+تاریکی	tɑːriːkiː	wikipron	
+تارے	tɑːreː	wikipron	
+تازہ	tɑːzɑː	wikipron	tɑːzɑ
+تازی	tɑːziː	wikipron	
+تازے	tɑːzeː	wikipron	
+تاشقند	tɑːʃqənd	wikipron	
+تال	tɑːl	wikipron	
+تالا	tɑːlɑː	wikipron	
+تالو	tɑːluː	wikipron	
+تالی	tɑːliː	wikipron	
+تاناشاہ	tɑːnɑːʃɑːh	wikipron	
+تانبا	tɑːmbɑː	wikipron	
+تاپ	tɑːp	wikipron	
+تاپنا	tɑːpnɑː	wikipron	
+تاڑ	tɑːɽ	wikipron	
+تاڑی	tɑːɽiː	wikipron	
+تاہم	tɑːhəm	wikipron	
+تایا	tɑːjɑː	wikipron	
+تب	təb	gold	
+تبادلہ	təbɑːdɪlɑh	wikipron	təbɑːdlɑh;təbɑːdɪlɑ;təbɑːdlɑ
+تباہ	təbɑːh	wikipron	
+تبت	tɪbbət	wikipron	
+تبدیل	təbdiːl	wikipron	
+تبرک	təbərrʊk	wikipron	
+تبرکات	təbərrʊkɑːt	wikipron	
+تبرکوں	təbərrʊkõː	wikipron	
+تبریر	təbriːr	wikipron	
+تبریز	təbreːz	wikipron	
+تبسم	təbəssʊm	wikipron	
+تبصرہ	təbsɪrɑː	wikipron	
+تتلی	tɪtliː	wikipron	
+تتلیاں	tɪtlɪjɑ̃ː	wikipron	
+تتلیو	tɪtlɪjoː	wikipron	
+تتلیوں	tɪtlɪjõː	wikipron	
+تجارت	tɪʤɑːrət	wikipron	
+تجارتی	tɪʤɑːrətiː	wikipron	
+تجاوز	təʤɑːʋʊz	wikipron	
+تجربہ	təʤərbə	wikipron	təʤrɪbə
+تجزیہ	təʤzɪjɑː	wikipron	
+تجسس	təʤəssʊs	wikipron	
+تجھے	tʊʤʰeː	wikipron	
+تحریر	təhriːr	wikipron	
+تحریک	təhriːk	wikipron	tɛhriːk
+تحصیل	təhsiːl	wikipron	
+تحفہ	toːhfɑː	wikipron	toːhfəh;toːhfɑ;toːfə
+تحقیق	təhqiːq	wikipron	
+تخت	təxt	wikipron	
+تختہ	təxtɑː	wikipron	təxtɑ
+تخلیق	təxliːq	wikipron	
+تخم	tʊxm	wikipron	
+تخمہ	tʊxmɑː	wikipron	tʊxmɑ
+تخیل	təxəjjʊl	wikipron	
+ترائی	tərɑːiː	wikipron	
+ترازو	tərɑːzuː	wikipron	
+ترانہ	tərɑːnɑː	wikipron	tərɑːnɑ
+تراویح	tərɑːʋiːh	wikipron	
+تربت	tʊrbət	wikipron	
+تربیت	tərbɪjjət	wikipron	
+ترجمان	tərʤʊmɑːn	wikipron	
+ترجموں	tərʤəmõː	wikipron	
+ترجمہ	tərʤəmɑː	wikipron	tərʤʊmɑː;tərʤəmɑ;tərʤʊmɑ
+ترجمے	tərʤəmeː	wikipron	
+ترجیح	tərʤiːh	wikipron	tərʤiː
+ترس	tərəs	wikipron	
+ترسوں	tərsõː	wikipron	
+ترقی	tərəqqiː	wikipron	tərɔxiː
+ترنگ	tʊrəŋɡ	wikipron	tʊrə̃ɡ
+ترٹی	trʊʈiː	wikipron	
+ترک	tʊrk	wikipron	
+ترکاری	tərkɑːriː	wikipron	
+ترکستان	tʊrkɪstɑːn	wikipron	
+ترکی	tʊrkiː	wikipron	
+ترکیہ	tʊrkɪjɑː	wikipron	tʊrkɪjɑ
+ترکیے	tʊrkɪjeː	wikipron	
+تریپورہ	triːpuːrɑː	wikipron	
+تسبیح	təsbiːh	wikipron	
+تسلی	təsəlliː	wikipron	
+تسلیم	təsliːm	wikipron	
+تسمہ	təsmə	wikipron	
+تشدد	təʃəddʊd	wikipron	
+تشریح	təʃriːh	wikipron	
+تشریف	təʃriːf	wikipron	
+تشنہ	tɪʃnɑː	wikipron	
+تشویشناک	təʃʋiːʃnɑːk	wikipron	
+تشکیل	təʃkiːl	wikipron	
+تصاویر	təsɑːʋiːr	wikipron	
+تصدیق	təsdiːq	wikipron	
+تصور	təsəʋʋʊr	wikipron	
+تصویر	təsʋiːr	wikipron	
+تصویرو	təsʋiːroː	wikipron	
+تصویریں	təsʋiːrẽː	wikipron	
+تعارف	təʔɑːrʊf	wikipron	təɑːrʊf;tɑːrʊf
+تعبیر	tɑːbiːr	wikipron	təʔbiːr
+تعبیرو	təʔbiːroː	wikipron	təbiːroː
+تعبیروں	təʔbiːrõː	wikipron	təbiːrõː
+تعبیریں	təʔbiːrẽː	wikipron	təbiːrẽː
+تعجب	tɑːdʤʊb	wikipron	təʔədʤʊb
+تعجبو	təʔədʤʊboː	wikipron	təədʤʊboː
+تعجبوں	təʔədʤʊbõː	wikipron	təədʤʊbõː
+تعداد	tɑːdɑːd	wikipron	təʔdɑːd;tədɑːd
+تعدد	tɑːddʊd	wikipron	təʔəddʊd
+تعزیت	təʔzɪjət	wikipron	təzɪjət
+تعزیہ	təʔzɪjə	wikipron	təzɪjə
+تعطیل	tɑːtiːl	wikipron	təʔtiːl;tətiːl
+تعلقات	təʔəllʊqɑːt	wikipron	təəllʊqɑːt
+تعلقوں	təʔəllʊqõː	wikipron	təəllʊqõː
+تعلیم	tɑːliːm	gold	
+تعلیمات	təʔliːmɑːt	wikipron	təliːmɑːt
+تعلیموں	təʔliːmõː	wikipron	təliːmõː
+تعلیمیں	təʔliːmẽː	wikipron	təliːmẽː
+تعویذ	təʔʋiːz	wikipron	təʋiːz
+تغافل	təɣɑːfʊl	wikipron	
+تغییر	təɣjiːr	wikipron	
+تفاح	tʊffɑːh	wikipron	
+تفسیر	təfsiːr	wikipron	
+تفصیل	təfsiːl	wikipron	
+تفصیلات	təfsiːlɑːt	wikipron	
+تفصیلوں	təfsiːlõː	wikipron	
+تفصیلیں	təfsiːlẽː	wikipron	
+تفنگ	tʊfəŋɡ	wikipron	
+تقدس	təqəddʊs	wikipron	
+تقدیر	təqdiːr	wikipron	
+تقریبا	təqriːbən	wikipron	
+تقریر	təqriːr	wikipron	
+تقسیم	təqsiːm	wikipron	
+تقلید	təqliːd	wikipron	
+تقوی	təqʋɑː	wikipron	
+تلا	təlɑː	wikipron	tʊlɑː
+تلاوت	tɪlɑːʋət	wikipron	
+تلخ	tələx	wikipron	təlx
+تلخی	təlxiː	wikipron	
+تلنگانہ	tɪləŋɡɑːnə	wikipron	
+تلوار	təlʋɑːr	wikipron	
+تلواروں	təlʋɑːrõː	wikipron	
+تلواریں	təlʋɑːrẽː	wikipron	
+تم	tʊm	gold	
+تماشا	təmɑːʃɑː	wikipron	
+تماشائی	təmɑːʃɑːiː	wikipron	
+تماشوں	təmɑːʃõː	wikipron	
+تماشہ	təmɑːʃɑː	wikipron	təmɑːʃɑ
+تمام	təmɑːm	wikipron	
+تمباکو	təmbɑːkuː	wikipron	
+تمبوڑی	təmbuːɽiː	wikipron	
+تمرکز	təmərkʊz	wikipron	
+تمغا	təmɣɑː	wikipron	
+تملق	təməllʊq	wikipron	
+تمنا	təmə̃nnɑː	wikipron	təmənnɑː
+تمناؤں	təmənnɑːõː	wikipron	
+تمنائیں	təmənnɑːẽː	wikipron	
+تمنچہ	təmənʧɑː	wikipron	təmənʧɑ
+تمپ	tʊmp	wikipron	
+تمھیں	tʊmʰẽː	wikipron	
+تمہارا	tʊmhɑːrɑː	gold	
+تمہاری	tʊmhɑːriː	gold	
+تمہیں	tʊmhẽː	gold	
+تمیز	təmiːz	wikipron	
+تن	tən	wikipron	
+تنازع	tənɑːzoːʔ	wikipron	tənɑːzoː
+تناول	tənɑːʋʊl	wikipron	
+تنباکو	tənbɑːkuː	wikipron	
+تنبولی	təmboːliː	wikipron	
+تندر	təndər	wikipron	tʊndər;tʊndʊr
+تندرست	təndʊrʊst	wikipron	
+تندرستی	təndʊrʊstiː	wikipron	
+تنزانیہ	tənzɑːnɪjɑː	wikipron	
+تنظیم	tənziːm	wikipron	
+تنظیمی	tənziːmiː	wikipron	
+تنقید	təŋqiːd	wikipron	
+تنگ	təŋɡ	wikipron	
+تنہائی	tənhɑːiː	wikipron	
+تو	toː	gold	
+توانا	təʋɑːnɑː	wikipron	
+توانائی	təʋɑːnɑːj	wikipron	
+توبہ	tɔːbɑː	wikipron	tɔːbɑ
+توجہ	təʋədʤʊh	wikipron	təʋədʤoʰ;təʋədʤʊ;təʋədʤo
+توحید	tɔːhiːd	wikipron	
+تودہ	toːdə	wikipron	tuːdə
+توران	tuːrɑːn	wikipron	
+توقع	təʋəqqoːʔ	wikipron	təʋəqqoː
+تولد	təʋəllʊd	wikipron	
+تولیہ	tɔːlɪjɑː	wikipron	tɔːlɪjɑ
+تولیے	tɔːlɪjeː	wikipron	
+توند	toːnd	wikipron	
+توپ	toːp	wikipron	
+توڑنا	toːɽnɑː	wikipron	
+توہین	tɔːhiːn	wikipron	
+تڑپنا	təɽəpnɑː	wikipron	
+تک	tək	gold	
+تکبیر	təkbiːr	wikipron	
+تکرار	təkrɑːr	wikipron	
+تکلیف	təkliːf	wikipron	
+تکمیل	təkmiːl	wikipron	
+تکھان	təkʰɑːn	wikipron	
+تگنا	tɪɡnɑː	wikipron	
+تھا	tʰɑː	gold	
+تھائیلینڈ	tʰɑːiːlɛːnɖ	wikipron	
+تھانہ	tʰɑːnə	wikipron	
+تھوڑا	tʰoːɽɑː	wikipron	
+تھوک	tʰuːk	wikipron	
+تھوکنا	tʰuːknɑː	wikipron	
+تھکنا	tʰəknɑː	wikipron	
+تھی	tʰiː	gold	
+تھیں	tʰĩː	gold	
+تھے	tʰeː	gold	
+تہ	təh	wikipron	
+تہائی	tɪhɑːiː	wikipron	
+تہجد	təhədʤʊd	wikipron	
+تہجی	təhəʤʤiː	wikipron	
+تہذیب	təhziːb	wikipron	
+تہران	tɛhrɑːn	wikipron	
+تہمت	tʊhmət	wikipron	tohmət
+تہمتوں	tʊhmətõː	wikipron	
+تہمتیں	tʊhmətẽː	wikipron	
+تہوار	tɪhʋɑːr	wikipron	tɛhʋɑːr
+تہواروں	tɪhʋɑːrõː	wikipron	
+تہہ	təh	wikipron	
+تیئیس	teːiːs	gold	
+تیار	təijɑːr	wikipron	
+تیاری	təijɑːriː	wikipron	
+تیاگ	tjɑːɡ	wikipron	
+تیرا	teːrɑː	gold	
+تیراک	tɛːrɑːk	wikipron	
+تیراکوں	tɛːrɑːkõː	wikipron	
+تیرتھنکر	tiːrtʰəŋkər	wikipron	
+تیرنا	tɛːrnɑː	wikipron	
+تیرگی	tiːrəɡiː	wikipron	tiːrɡiː
+تیرہ	teːrɑː	gold	
+تیز	teːz	gold	
+تیزاب	teːzɑːb	wikipron	
+تیزابیت	teːzɑːbɪjət	wikipron	
+تیس	tiːs	gold	
+تیسرا	tiːsrɑː	gold	
+تیل	teːl	wikipron	
+تیمم	təjəmmʊm	wikipron	
+تیمور	tɛːmuːr	wikipron	
+تین	tiːn	gold	
+تیکھا	tiːkʰɑː	wikipron	
+ثابت	sɑːbɪt	wikipron	
+ثانیہ	sɑːnɪjɑː	wikipron	
+ثبوت	səbuːt	wikipron	
+ثروت	sərʋət	wikipron	
+ثریا	sʊrəjjɑː	wikipron	
+ثقافت	səqɑːfət	wikipron	
+ثقافتی	səqɑːfətiː	wikipron	
+ثقالت	səqɑːlət	wikipron	
+ثم	sʊmmə	wikipron	
+ثواب	səʋɑːb	wikipron	
+ثورہ	sɔːrɑː	wikipron	
+جا	ʤɑː	gold	
+جاؤ	ʤɑːoː	gold	
+جائداد	ʤɑːjdɑːd	wikipron	
+جائزہ	ʤɑːjɪzɑː	wikipron	ʤɑːjɪzɑ
+جائپھل	ʤɑːɪpʰəl	wikipron	
+جائیدادوں	ʤɑːeːdɑːdõː	wikipron	
+جائیدادیں	ʤɑːeːdɑːdẽː	wikipron	
+جائیں	ʤɑːẽː	gold	
+جاتا	ʤɑːtɑː	gold	
+جاتی	ʤɑːtiː	gold	
+جاتے	ʤɑːteː	gold	
+جادو	ʤɑːduː	wikipron	
+جادوگر	ʤɑːduːɡər	wikipron	
+جارجیا	ʤɑːrʤɪjɑː	wikipron	ʤɔːrʤɪjɑː
+جاری	ʤɑːriː	wikipron	
+جالندھر	ʤɑːləndʰər	wikipron	
+جالوں	ʤɑːlõː	wikipron	
+جامعہ	ʤɑːmɪjɑː	wikipron	ʤɑːmɪʔɑː;ʤɑːmɪɑː
+جامن	ʤɑːmən	wikipron	ʤɑːmʊn
+جامنی	ʤɑːmniː	wikipron	
+جامہ	ʤɑːmɑː	wikipron	
+جان	ʤɑːn	gold	
+جانا	ʤɑːnɑː	gold	
+جانب	ʤɑːnɪb	wikipron	
+جاننا	ʤɑːnnɑː	wikipron	
+جانو	ʤɑːnoː	wikipron	
+جانور	ʤɑːnʋər	wikipron	
+جانوں	ʤɑːnõː	wikipron	ʤɑːnũː
+جانچنا	ʤɑːnʧnɑː	wikipron	
+جانکاری	ʤɑːnkɑːriː	wikipron	
+جانیں	ʤɑːnẽː	wikipron	
+جاوید	ʤɑːʋeːd	wikipron	ʤɑːʋiːd
+جاپان	ʤɑːpɑːn	wikipron	
+جاپانی	ʤɑːpɑːniː	wikipron	
+جاگنا	ʤɑːɡnɑː	wikipron	
+جاگہ	ʤɑːɡɑː	wikipron	ʤɑːɡɑ
+جاہل	ʤɑːhɪl	wikipron	
+جب	ʤəb	gold	
+جبرائیل	ʤɪbrɑːiːl	wikipron	
+جبوتی	ʤɪbuːtiː	wikipron	
+جبڑا	ʤəbɽɑː	wikipron	
+جبیل	ʤʊbɛːl	wikipron	
+جتوئی	ʤətoːiː	wikipron	
+جج	ʤəʤ	wikipron	
+جدید	ʤədiːd	wikipron	
+جذبہ	ʤəzbə	wikipron	
+جرات	ʤʊrrət	wikipron	ʤʊrət
+جراثیم	ʤərɑːsiːm	wikipron	
+جراح	ʤərrɑːh	wikipron	
+جرثومہ	ʤʊrsuːmə	wikipron	
+جرح	ʤʊrh	wikipron	
+جرسی	ʤərsiː	wikipron	
+جرم	ʤʊrm	wikipron	
+جرمانوں	ʤʊrmɑːnõː	wikipron	
+جرمانہ	ʤʊrmɑːnɑː	wikipron	ʤʊrmɑːnɑ
+جرمانے	ʤʊrmɑːneː	wikipron	
+جرمن	ʤərmən	wikipron	
+جرمنی	ʤərməniː	wikipron	
+جرگہ	ʤɪrɡɑː	wikipron	
+جزیرہ	ʤəziːrɑː	wikipron	
+جس	ʤɪs	gold	
+جسامت	ʤəsɑːmət	wikipron	
+جست	ʤəst	wikipron	
+جسد	ʤəsəd	wikipron	
+جسم	ʤɪsəm	wikipron	ʤɪsm
+جسور	ʤəsuːr	wikipron	
+جشن	ʤəʃən	wikipron	ʤəʃn
+جغرافیائی	ʤʊɣrɑːfɪjɑːiː	wikipron	
+جغرافیہ	ʤʊɣrɑːfiːjə	wikipron	
+جفتی	ʤʊftiː	wikipron	
+جل	ʤəl	wikipron	
+جلانا	ʤəlɑːnɑː	wikipron	
+جلسو	ʤəlsoː	wikipron	
+جلسوں	ʤəlsõː	wikipron	
+جلسہ	ʤəlsɑː	wikipron	ʤəlsɑ;ʤɪlsə
+جلسے	ʤəlseː	wikipron	
+جلنا	ʤəlnɑː	wikipron	
+جلوس	ʤʊluːs	wikipron	
+جلوو	ʤəlʋoː	wikipron	
+جلووں	ʤəlʋõː	wikipron	
+جلوہ	ʤəlʋɑː	wikipron	ʤəlʋɑ
+جلوے	ʤəlʋeː	wikipron	
+جماعت	ʤəmɑːʔət	wikipron	ʤəmɑːət;ʤəmɑːt
+جماعتوں	ʤəmɑːʔətõː	wikipron	ʤəmɑːətõː
+جماعتیں	ʤəmɑːʔətẽː	wikipron	ʤəmɑːətẽː
+جماگی	ʤʊmɑːɡiː	wikipron	
+جمعرات	ʤʊmeːrɑːt	gold	
+جمعراتوں	ʤʊmɪʔrɑːtõː	wikipron	ʤʊmɪrɑːtõː
+جمعو	ʤʊmʔoː	wikipron	ʤʊmoː
+جمعوں	ʤʊmʔõː	wikipron	ʤʊmõː
+جمعہ	ʤʊ̃mmɑː	wikipron	ʤʊmʔɑː;ʤʊmɑː;ʤʊmʔɑ
+جمعے	ʤʊmʔeː	wikipron	ʤʊmeː
+جملہ	ʤʊmlɑː	wikipron	
+جمنا	ʤəmnɑː	wikipron	
+جموں	ʤəmmũː	wikipron	
+جمہوری	ʤəmhuːriː	wikipron	
+جمہوریت	ʤəmhuːrɪjət	wikipron	
+جن	ʤɪn	gold	
+جناب	ʤənɑːb	wikipron	
+جناح	ʤənɑːh	wikipron	ʤɪnɑːh;ʤʊnɑːh
+جنازو	ʤənɑːzoː	wikipron	
+جنازوں	ʤənɑːzõː	wikipron	
+جنازہ	ʤənɑːzɑː	wikipron	ʤənɑːzɑ
+جنازے	ʤənɑːzeː	wikipron	
+جنت	ʤənnət	wikipron	
+جنتا	ʤəntɑː	wikipron	
+جنتری	ʤəntəriː	wikipron	ʤəntriː
+جنتو	ʤənnətoː	wikipron	
+جنتوں	ʤənnətõː	wikipron	
+جنتی	ʤənnətiː	wikipron	
+جنتیں	ʤənnətẽː	wikipron	
+جنرل	ʤənrəl	wikipron	
+جنسی	ʤɪnsiː	wikipron	
+جنم	ʤənəm	wikipron	
+جنوب	ʤənuːb	wikipron	
+جنوبی	ʤənuːbiː	wikipron	ʤʊnuːbiː
+جنوری	ʤənʋəriː	gold	
+جنون	ʤʊnuːn	wikipron	
+جنگ	ʤəŋɡ	wikipron	ʤʊŋɡ
+جنگل	ʤəŋɡəl	wikipron	
+جنگلا	ʤəŋɡlɑː	wikipron	
+جنگی	ʤəŋɡiː	wikipron	
+جنیئو	ʤəneːuː	wikipron	
+جو	ʤoː	gold	
+جوا	ʤuːɑː	wikipron	ʤʊʋɑː;ʤʊɑː
+جواد	ʤəʋʋɑːd	wikipron	
+جواز	ʤəʋɑːz	wikipron	
+جوازوں	ʤəʋɑːzõː	wikipron	
+جوان	ʤəʋɑːn	wikipron	
+جوانو	ʤəʋɑːnoː	wikipron	
+جوانوں	ʤəʋɑːnõː	wikipron	
+جوانی	ʤəʋɑːniː	wikipron	
+جوت	ʤoːt	wikipron	
+جوتا	ʤuːtɑː	wikipron	
+جوتوں	ʤuːtõː	wikipron	
+جوتے	ʤuːteː	wikipron	
+جوجھنا	ʤuːʤʰnɑː	wikipron	
+جور	ʤʋər	wikipron	
+جولائی	ʤuːlɑːiː	gold	
+جون	ʤuːn	gold	
+جوناگڑھ	ʤuːnɑːɡəɽʰ	wikipron	
+جونپوری	ʤɔːnpuːriː	wikipron	
+جوڈیو	ʤuːɖɪjoː	wikipron	
+جوڑ	ʤoːɽ	wikipron	
+جوڑنا	ʤoːɽnɑː	wikipron	
+جوکھم	ʤoːkʰɪm	wikipron	
+جوگی	ʤoːɡiː	wikipron	
+جوہر	ʤɔːhər	wikipron	
+جوہری	ʤɔːhəriː	wikipron	ʤɔːhriː
+جوہی	ʤuːhiː	wikipron	
+جٹا	ʤəʈɑː	wikipron	
+جٹھانی	ʤɪʈʰɑːniː	wikipron	
+جٹھانیاں	ʤɪʈʰɑːnɪjɑ̃ː	wikipron	
+جٹھانیو	ʤɪʈʰɑːnɪjoː	wikipron	
+جٹھانیوں	ʤɪʈʰɑːnɪjõː	wikipron	
+جپنا	ʤəpnɑː	wikipron	
+جڑ	ʤəɽ	wikipron	
+جڑانوالہ	ʤəɽɑːnʋɑːlɑː	wikipron	
+جڑواں	ʤʊɽʋɑ̃ː	wikipron	
+جگ	ʤəɡ	wikipron	
+جگر	ʤɪɡər	wikipron	
+جگنا	ʤəɡnɑː	wikipron	
+جگنو	ʤʊɡnuː	wikipron	
+جگہ	ʤəɡɑː	gold	
+جھارکھنڈ	ʤʰɑːrkʰənɖ	wikipron	
+جھانجھ	ʤʰɑ̃ːʤʰ	wikipron	
+جھاڑنا	ʤʰɑːɽnɑː	wikipron	
+جھلمل	ʤʰɪlmɪl	wikipron	
+جھمیلا	ʤʰəmeːlɑː	wikipron	
+جھمیلو	ʤʰəmeːloː	wikipron	
+جھمیلوں	ʤʰəmeːlõː	wikipron	
+جھمیلے	ʤʰəmeːleː	wikipron	
+جھنڈا	ʤʰənɖɑː	wikipron	
+جھنگ	ʤʰənɡ	wikipron	
+جھولا	ʤʰuːlɑː	wikipron	
+جھونپڑی	ʤʰõːpɽiː	wikipron	
+جھوٹ	ʤʰuːʈʰ	wikipron	ʤʰuːʈ
+جھوٹا	ʤʰuːʈɑː	wikipron	
+جھوٹوں	ʤʰuːʈõː	wikipron	
+جھوٹھ	ʤʰuːʈʰ	wikipron	
+جھٹکا	ʤʰəʈkɑː	wikipron	
+جھٹکوں	ʤʰəʈkõː	wikipron	
+جھٹکے	ʤʰəʈkeː	wikipron	
+جھگڑا	ʤʰəɡɽɑː	wikipron	
+جھیل	ʤʰiːl	wikipron	
+جھیلمی	ʤʰeːləmiː	wikipron	
+جہاد	ʤɪhɑːd	wikipron	
+جہاز	ʤəhɑːz	wikipron	
+جہازی	ʤəhɑːziː	wikipron	
+جہان	ʤəhɑːn	wikipron	
+جہاں	ʤəhɑ̃ː	wikipron	
+جہنم	ʤəhənnəm	wikipron	
+جہنموں	ʤəhənnəmõː	wikipron	
+جی	ʤiː	gold	
+جیالا	ʤejɑːlɑː	wikipron	ʤɪjɑːlɑː
+جیب	ʤeːb	wikipron	
+جیبوں	ʤeːbõː	wikipron	
+جیبھ	ʤiːbʰ	wikipron	
+جیبیں	ʤeːbẽː	wikipron	
+جیت	ʤiːt	wikipron	
+جیرا	ʤiːrɑː	wikipron	
+جیش	ʤɛːʃ	wikipron	
+جیل	ʤeːl	wikipron	
+جیوتی	ʤjoːtiː	wikipron	
+جیومیٹری	ʤɪoːmeːʈriː	wikipron	
+جیون	ʤiːʋən	wikipron	
+جیونی	ʤiːʋəniː	wikipron	
+جیٹھ	ʤeːʈʰ	wikipron	
+جیٹھوں	ʤeːʈʰõː	wikipron	
+حائل	hɑːɪl	wikipron	
+حاجت	hɑːʤət	wikipron	
+حادثات	hɑːdɪsɑːt	wikipron	
+حادثوں	hɑːdɪsõː	wikipron	
+حادثہ	hɑːdɪsɑː	wikipron	hɑːdsɑː;hɑːdɪsɑ
+حادثے	hɑːdɪseː	wikipron	
+حاسب	hɑːsɪb	wikipron	
+حاصل	hɑːsɪl	wikipron	
+حاضری	hɑːzɪriː	wikipron	
+حافظ	hɑːfɪz	wikipron	
+حافظہ	hɑːfɪzɑː	wikipron	hɑːfɪzɑ
+حال	hɑːl	gold	
+حالانکہ	hɑːlɑ̃ːkeː	wikipron	hɑːlɑ̃ːkiː
+حالیہ	hɑːlɪjɑː	wikipron	hɑːlɪjɑ
+حامی	hɑːmiː	wikipron	
+حامیو	hɑːmɪjoː	wikipron	
+حامیوں	hɑːmɪjõː	wikipron	
+حب	həb	wikipron	
+حبش	həbəʃ	wikipron	
+حبشن	həbʃən	wikipron	
+حبشہ	həbʃɑː	wikipron	həbʃɑ
+حبشی	həbʃiː	wikipron	
+حبقوق	həbəqquːq	wikipron	
+حج	hədʤ	wikipron	
+حجام	hədʤɑːm	wikipron	
+حجرہ	hʊʤrɑː	wikipron	hʊʤrɑ
+حدیث	hədiːs	wikipron	
+حرارت	hərɑːrət	gold	
+حراست	hɪrɑːsət	wikipron	
+حرام	hərɑːm	wikipron	
+حرف	hərf	wikipron	
+حرمت	hʊrmət	wikipron	
+حرمزئی	hʊrməzəiː	wikipron	
+حساب	hɪsɑːb	wikipron	
+حسد	həsəd	wikipron	
+حسرت	həsrət	wikipron	
+حسین	həsiːn	wikipron	hʊsɛːn
+حسیں	həsĩː	wikipron	
+حشفہ	həʃəfɑː	wikipron	həʃəfɑ
+حشیش	həʃiːʃ	wikipron	
+حصہ	hɪssɑː	wikipron	
+حضرات	həzrɑːt	wikipron	
+حضرت	həzrət	wikipron	hədrət
+حضور	həzuːr	wikipron	hʊzuːr
+حفاظت	hɪfɑːzət	wikipron	
+حق	həq	wikipron	
+حقائق	həqɑːɪq	wikipron	
+حقو	həqoː	wikipron	
+حقوق	hʊquːq	wikipron	
+حقوں	hʊqqõː	wikipron	həqõː
+حقہ	hʊqqə	wikipron	
+حقیر	həqiːr	wikipron	
+حقیقت	həqiːqət	wikipron	
+حقے	hʊqqeː	wikipron	
+حلال	həlɑːl	wikipron	
+حلب	hələb	wikipron	
+حلقہ	həlqɑː	wikipron	həlqɑ
+حلم	hɪlm	wikipron	hʊlm
+حلیہ	hulɪjɑː	wikipron	hɪlɪjɑː;hʊlɪjɑː;hulɪjɑ;hɪlɪjɑ;hʊlɪjɑ
+حمارہ	hɪmɑːrɑː	wikipron	
+حماقت	həmɑːqət	wikipron	hɪmɑːqət;həmɑːxət;hɪmɑːxət
+حمام	həmmɑːm	wikipron	
+حمایت	hɪmɑːjət	wikipron	
+حمد	həmd	wikipron	
+حملوں	həmlõː	wikipron	
+حملہ	həmlɑː	wikipron	həmlɑ
+حملے	həmleː	wikipron	
+حنا	hɪnɑː	wikipron	
+حنوکاہ	hənuːkɑːh	wikipron	
+حواری	həʋɑːriː	wikipron	
+حواریوں	həʋɑːrjõː	wikipron	
+حوالہ	həʋɑːlɑː	wikipron	
+حور	huːr	wikipron	
+حوروں	huːrõː	wikipron	
+حوریں	huːrẽː	wikipron	
+حوصلہ	hɔːsəlɑː	wikipron	hɔːslɑː
+حوض	hɔːz	wikipron	
+حول	hɔːl	wikipron	
+حویلی	həʋeːliː	wikipron	
+حکایت	hɪkɑːjət	wikipron	
+حکم	hʊkm	wikipron	
+حکومت	hʊkuːmət	gold	
+حکیم	həkiːm	wikipron	
+حیا	həjɑː	wikipron	
+حیات	həjɑːt	wikipron	
+حیاتیات	həjɑːtɪjɑːt	wikipron	
+حیاتین	həjɑːtiːn	wikipron	
+حیران	hɛːrɑːn	wikipron	
+حیرانگی	hɛːrɑːnɡiː	wikipron	
+حیرانگیاں	hɛːrɑːnɡɪjɑ̃ː	wikipron	
+حیرانگیو	hɛːrɑːnɡɪjoː	wikipron	
+حیرانگیوں	hɛːrɑːnɡɪjõː	wikipron	
+حیراں	hɛːrɑ̃ː	wikipron	
+حیرت	hɛːrət	wikipron	
+حیرتو	hɛːrətoː	wikipron	
+حیرتوں	hɛːrətõː	wikipron	
+حیرتیں	hɛːrətẽː	wikipron	
+حیفا	həiːfɑː	wikipron	hɛːfɑː
+حیوان	hɛːʋɑːn	wikipron	
+خاتمہ	xɑːtɪmɑː	wikipron	xɑːtmɑː;xɑːtɪmɑ;xɑːtmɑ
+خادم	xɑːdɪm	wikipron	
+خاران	xɑːrɑːn	wikipron	
+خارج	xɑːrɪʤ	wikipron	
+خارجہ	xɑːrɪʤə	wikipron	
+خارجی	xɑːrɪʤiː	wikipron	xɑːrʤiː
+خارش	xɑːrɪʃ	wikipron	
+خاص	xɑːs	wikipron	
+خاصا	xɑːsɑː	wikipron	
+خاصگی	xɑːsɡiː	wikipron	
+خاصی	xɑːsiː	wikipron	
+خاطر	xɑːtɪr	wikipron	
+خاقانیت	xɑːqɑːnɪjət	wikipron	
+خال	xɑːl	wikipron	
+خالق	xɑːlɪq	wikipron	
+خالو	xɑːluː	wikipron	
+خالہ	xɑːlɑː	wikipron	xɑːlɑ
+خام	xɑːm	wikipron	
+خاموش	xɑːmoːʃ	wikipron	
+خاموشی	xɑːmoːʃiː	wikipron	
+خان	xɑːn	gold	
+خاندان	xɑːndɑːn	wikipron	
+خانسامان	xɑːnsɑːmɑːn	wikipron	
+خانساماں	xɑːnsɑːmɑ̃ː	wikipron	
+خانقاہ	xɑːnəqɑːh	wikipron	xɑːnqɑːh
+خانوزئی	xɑːnoːzəiː	wikipron	
+خانپور	xɑːnpuːr	wikipron	
+خانہ	xɑːnɑː	wikipron	xɑːnɑ
+خانیت	xɑːnɪjət	wikipron	
+خانیوال	xɑːneːʋɑːl	wikipron	
+خاکسار	xɑːksɑːr	wikipron	
+خاکستری	xɑːkɪstəriː	wikipron	
+خاکنائے	xɑːknɑːeː	wikipron	
+خاکی	xɑːkiː	wikipron	
+خبر	xəbər	gold	
+ختم	xətm	gold	
+خجیر	xəʤiːr	wikipron	xʊʤiːr
+خدا	xʊdɑː	gold	
+خدمت	xɪdmət	wikipron	
+خدمتوں	xɪdmətõː	wikipron	
+خدمتیں	xɪdmətẽː	wikipron	
+خدیو	xədeːʋ	wikipron	xɪdeːʋ;xɪdiːʋ
+خراب	xərɑːb	wikipron	
+خرابی	xɑːrɑːbiː	wikipron	
+خراش	xərɑːʃ	wikipron	
+خراٹا	xərrɑːʈɑː	wikipron	
+خرس	xɪrs	wikipron	
+خرچ	xərʧ	wikipron	
+خرچہ	xərʧɑː	wikipron	xərʧɑ
+خرگوش	xərɡoːʃ	wikipron	
+خریدنا	xəriːdnɑː	wikipron	
+خریدوانا	xəriːdʋɑːnɑː	wikipron	
+خریدیں	xəriːdẽː	gold	
+خزاؤں	xɪzɑːõː	wikipron	
+خزائیں	xɪzɑːẽː	wikipron	
+خزانہ	xəzɑːnɑː	wikipron	xɪzɑːnɑː;xəzɑːnɑ;xɪzɑːnɑ
+خزاں	xəzɑ̃ː	wikipron	xɪzɑ̃ː
+خسارہ	xɪsɑːrɑːh	wikipron	xɪsɑːrɑ
+خستہ	xəstɑː	wikipron	xəstɑ
+خسرہ	xəsrɑː	wikipron	
+خشبو	xʊʃbuː	wikipron	
+خشت	xɪʃt	wikipron	
+خشم	xəʃm	wikipron	
+خشک	xʊʃk	wikipron	
+خصم	xəsəm	wikipron	xəsm
+خصوصا	xəsuːsən	wikipron	xʊsuːsən
+خصوصی	xʊsuːsiː	wikipron	
+خضدار	xʊzdɑːr	wikipron	
+خط	xət	gold	
+خطا	xətɑː	wikipron	
+خطاؤں	xətɑːõː	wikipron	
+خطائی	xətɑːiː	wikipron	
+خطائیں	xətɑːẽː	wikipron	
+خطاب	xɪtɑːb	gold	
+خطبا	xʊtəbɑː	wikipron	
+خطبوں	xʊtbõː	wikipron	
+خطبہ	xʊtbɑː	wikipron	xʊtbɑ
+خطبے	xʊtbeː	wikipron	
+خطرو	xətroː	wikipron	
+خطروں	xətrõː	wikipron	
+خطرہ	xətrɑː	wikipron	xətrɑ
+خطرے	xətreː	wikipron	
+خطہ	xɪttɑː	wikipron	xɪttɑ
+خطیب	xəteːb	wikipron	xətiːb
+خطیر	xətiːr	wikipron	
+خطیہ	xətɪjjɑː	wikipron	xətɪjjɑ
+خفیہ	xʊfɪjɑː	wikipron	xʊfjɑː;xʊfɪjɑ;xʊfjɑ
+خلا	xəlɑː	wikipron	
+خلاف	xɪlɑːf	wikipron	
+خلافت	xɪlɑːfət	wikipron	
+خلفا	xʊləfɑː	wikipron	
+خلق	xəlq	wikipron	
+خلقت	xəlqət	wikipron	xɪlqət;xəlkət
+خلل	xələl	wikipron	
+خلوص	xʊluːs	gold	
+خلوی	xəlʋiː	wikipron	xʊlʋiː
+خلیج	xəliːʤ	wikipron	
+خلیفہ	xəliːfɑː	wikipron	xəliːfɑ
+خنازیر	xənɑːziːr	wikipron	
+خنجر	xənʤər	wikipron	
+خنجرو	xənʤəroː	wikipron	
+خنجروں	xənʤərõː	wikipron	
+خنزیر	xɪnziːr	wikipron	xənziːr
+خنزیرو	xɪnziːroː	wikipron	
+خنزیروں	xɪnziːrõː	wikipron	
+خنزیریں	xɪnziːrẽː	wikipron	
+خواب	xɑːb	gold	
+خوابوں	xʋɑːbõː	wikipron	
+خواجہ	xʋɑːʤə	wikipron	xɑːʤə
+خواہ	xʋɑːh	wikipron	xɑːh
+خواہر	xɑːhər	wikipron	
+خواہش	xʋɑːhɪʃ	wikipron	xɑːhɪʃ
+خواہشوں	xʋɑːhɪʃõː	wikipron	
+خوب	xuːb	gold	
+خوبانی	xuːbɑːniː	wikipron	
+خوبصورت	xuːbsuːrət	gold	
+خود	xʊd	gold	
+خودمختاری	xʊdmʊxtɑːriː	wikipron	
+خودکش	xʊdkʊʃ	wikipron	
+خودکشی	xʊdkəʃiː	wikipron	xʊdkʊʃiː
+خوراک	xʊrɑːk	wikipron	
+خورشید	xʊrʃiːd	wikipron	
+خوش	xʊʃ	gold	
+خوشاب	xʊʃɑːb	wikipron	
+خوشبودار	xʊʃbuːdɑːr	wikipron	
+خوشی	xʊʃiː	gold	
+خوشیاں	xoːʃɪjɑ̃ː	wikipron	
+خوشیوں	xoːʃɪjõː	wikipron	
+خوف	xɔːf	wikipron	
+خوفناک	xɔːfnɑːk	wikipron	
+خول	xoːl	wikipron	
+خوک	xuːk	wikipron	
+خپلو	xəpluː	wikipron	
+خچر	xətʧər	wikipron	
+خیابان	xɪjɑːbɑːn	wikipron	
+خیاط	xəjjɑːt	wikipron	
+خیال	xəjɑːl	gold	
+خیالوں	xəjɑːlõː	wikipron	
+خیر	xɛːr	wikipron	
+خیرپور	xɛːrpuːr	wikipron	
+خیریت	xɛːrɪjət	wikipron	
+خیلا	xeːlɑː	wikipron	
+خیمہ	xɛːmɑː	wikipron	xɛːmɑ
+دائرہ	dɑːeːrəh	wikipron	
+دائی	dɑːiː	wikipron	
+داخل	dɑːxɪl	wikipron	
+داخلہ	dɑːxɪlɑː	wikipron	dɑːxɪlɑ
+داخلی	dɑːxɪliː	wikipron	
+دادا	dɑːdɑː	wikipron	
+دادو	dɑːdoː	wikipron	dɑːduː
+دادی	dɑːdiː	wikipron	
+دادے	dɑːdeː	wikipron	
+دار	dɑːr	wikipron	
+داردر	dɑːrɪdrə	wikipron	
+دارو	dɑːruː	wikipron	
+داریل	dɑːreːl	wikipron	
+داستان	dɑːstɑːn	wikipron	dɑːstɑ̃ː
+داستانوں	dɑːstɑːnõː	wikipron	
+داستانیں	dɑːstɑːnẽː	wikipron	
+داعش	dɑːɪʃ	wikipron	
+داغ	dɑːɣ	wikipron	
+داغستان	dɑːɣɪstɑːn	wikipron	
+دال	dɑːl	wikipron	
+دالبندین	dɑːlbəndiːn	wikipron	
+دامادو	dɑːmɑːdoː	wikipron	
+دامادوں	dɑːmɑːdõː	wikipron	
+دامن	dɑːmən	wikipron	
+دانتی	dɑ̃ːtiː	wikipron	
+داڑم	dɑːɽɪm	wikipron	
+داڑھی	dɑːɽʰiː	wikipron	
+داہنا	dɑːhɪnɑː	wikipron	
+دایاں	dɑːjɑ̃ː	wikipron	
+دایہ	dɑːjə	wikipron	
+دبئی	dʊbəiː	wikipron	
+دباؤ	dəbɑːoː	wikipron	
+دبانا	dəbɑːnɑː	wikipron	
+دبستان	dəbɪstɑːn	wikipron	
+دجلہ	dəʤlɑː	wikipron	
+دختر	dʊxtər	wikipron	
+دخمہ	dəxmɑː	wikipron	dəxmɑ
+دراصل	dərəsəl	wikipron	
+دربار	dərbɑːr	wikipron	
+درجات	dərʤɑːt	wikipron	
+درجن	dərʤən	wikipron	
+درجہ	dərʤɑː	gold	
+درجۂ	dərʤɑːeː	gold	
+درخت	dərəxt	wikipron	
+درخش	dərəxʃ	wikipron	
+درد	dərd	wikipron	
+دردو	dərdoː	wikipron	
+دردوں	dərdõː	wikipron	
+درزی	dərziː	wikipron	
+درس	dərs	wikipron	
+درست	dʊrʊst	wikipron	
+درفش	dərəfʃ	wikipron	dɪrəfʃ;dʊrəfʃ
+درمیان	dərmɪjɑːn	wikipron	
+درمیانی	dərmɪjɑːniː	wikipron	
+درندو	dərɪndoː	wikipron	
+درندوں	dərɪndõː	wikipron	
+درندے	dərɪndeː	wikipron	
+دروازوں	dərʋɑːzõː	wikipron	
+دروازہ	dərʋɑːzɑː	wikipron	dɪrʋɑːzɑː;dərʋɑːzɑ;dɪrʋɑːzɑ
+دروازے	dərʋɑːzeː	wikipron	
+دروبست	dəroːbəst	wikipron	
+درود	dʊruːd	wikipron	dəruːd
+درودوں	dʊruːdõː	wikipron	
+درویش	dərʋeːʃ	wikipron	
+درویشو	dərʋeːʃoː	wikipron	
+درویشوں	dərʋeːʃõː	wikipron	
+درکار	dərkɑːr	wikipron	
+درگ	dʊrɡ	wikipron	
+درگاہ	dərɡɑːh	wikipron	
+درگت	dʊrɡət	wikipron	
+دری	dʊriː	wikipron	
+دریا	dərjɑː	wikipron	
+دریاچہ	dərɪjɑːʧɑː	wikipron	dərɪjɑːʧɑ
+دریجی	dʊrɛːʤiː	wikipron	
+دزد	dʊzd	wikipron	
+دس	dəs	gold	
+دست	dəst	wikipron	
+دستار	dəstɑːr	wikipron	
+دستانو	dəstɑːnoː	wikipron	
+دستانوں	dəstɑːnõː	wikipron	
+دستانہ	dəstɑːnɑː	wikipron	dəstɑːnɑ
+دستانے	dəstɑːneː	wikipron	
+دستاویز	dəstɑːʋeːz	wikipron	
+دستخط	dəstəxət	wikipron	dəstxət
+دستک	dəstək	wikipron	
+دستکاری	dəstkɑːriː	wikipron	
+دستہ	dəstɑː	wikipron	dəstɑ
+دسمبر	dɪsəmbər	gold	
+دسواں	dəsʋɑ̃ː	gold	
+دشت	dəʃt	wikipron	
+دشمن	dʊʃmən	wikipron	
+دشمنوں	dʊʃmənõː	wikipron	
+دشک	dəʃək	wikipron	
+دعا	dʊʔɑː	wikipron	dʊɑː
+دعاؤں	dʊʔɑːõː	wikipron	dʊɑːõː
+دعائیں	dʊʔɑːẽː	wikipron	dʊɑːẽː
+دعوت	dɑːʋət	wikipron	dəʔʋət
+دعوتوں	dəʔʋətõː	wikipron	dəʋətõː
+دعوتیں	dəʔʋətẽː	wikipron	dəʋətẽː
+دعوی	dɑːʋɑː	wikipron	dəʔʋɑː;dəʋɑː
+دغا	dəɣɑː	wikipron	
+دفاع	dɪfɑːʔ	wikipron	dɪfɑː
+دفتر	dəftər	gold	
+دفعہ	dəfʔɑː	wikipron	dəfɑː;dəfʔɑ;dəfɑ
+دفنانا	dəfnɑːnɑː	wikipron	
+دقت	dɪqqət	wikipron	
+دقتوں	dɪqqətõː	wikipron	
+دقتیں	dɪqqətẽː	wikipron	
+دقیقہ	dəqiːqɑː	wikipron	dəqiːqɑ
+دل	dɪl	gold	
+دلدادہ	dɪldɑːdɑː	wikipron	
+دلربا	dɪlrʊbɑː	wikipron	
+دلو	dɪloː	wikipron	
+دلوں	dɪlõː	wikipron	
+دلچسپ	dɪlʧəsp	wikipron	
+دلکش	dɪlkəʃ	wikipron	
+دلہا	dʊlhɑː	wikipron	
+دلہن	dʊlhən	wikipron	
+دلہنو	dʊlhənoː	wikipron	
+دلہنوں	dʊlhənõː	wikipron	
+دلہنیں	dʊlhənẽː	wikipron	
+دلی	dɪlliː	wikipron	
+دم	dəm	wikipron	dʊm
+دماغ	dɪmɑːɣ	wikipron	
+دماغو	dɪmɑːɣoː	wikipron	
+دماغوں	dɪmɑːɣõː	wikipron	
+دمشق	dəmɪʃq	wikipron	
+دموں	dəmõː	wikipron	
+دمہ	dəmɑː	wikipron	dəmɑ
+دمے	dəmeː	wikipron	
+دن	dɪn	gold	
+دنداسہ	dəndɑːsɑː	wikipron	dəndɑːsɑ
+دنوں	dɪnõː	wikipron	
+دنڈ	dənɖ	wikipron	
+دنیا	dʊnjɑː	gold	
+دنیاؤں	dʊnjɑːõː	wikipron	
+دنیائیں	dʊnjɑːẽː	wikipron	
+دنیور	dənjoːr	wikipron	
+دو	doː	gold	
+دوائی	dəʋɑːiː	wikipron	
+دوات	dəʋɑːt	wikipron	
+دواتیں	dəʋɑːtẽː	wikipron	
+دواخانہ	dəʋɑːxɑːnɑː	wikipron	dəʋɑːxɑːnɑ
+دوالی	dɪʋɑːliː	wikipron	
+دوبارہ	doːbɑːrɑː	wikipron	
+دودھ	duːdʰ	wikipron	duːd
+دور	duːr	wikipron	dɔːr
+دوربین	duːrbiːn	wikipron	
+دوردرشن	duːrdərʃən	wikipron	
+دورلیکھ	duːrleːkʰ	wikipron	
+دوزخ	doːzəx	wikipron	
+دوست	doːst	gold	
+دوستانہ	doːstɑːnə	wikipron	
+دوستو	doːstoː	wikipron	
+دوستوں	doːstõː	wikipron	
+دوستی	doːstiː	wikipron	
+دوسرا	duːsrɑː	gold	
+دوش	doːʃ	wikipron	
+دوشنبہ	doːʃəmbɑː	wikipron	doːʃəmbɑ
+دوشیزاؤں	doːʃiːzɑːõː	wikipron	
+دوشیزائیں	doːʃiːzɑːẽː	wikipron	
+دوشیزہ	doːʃiːzɑː	wikipron	doːʃiːzɑ
+دوغلا	doːɣlɑː	wikipron	
+دولتوں	dɔːlətõː	wikipron	
+دولتیں	dɔːlətẽː	wikipron	
+دولہو	duːlhoː	wikipron	
+دولہوں	duːlhõː	wikipron	
+دولہے	duːlheː	wikipron	
+دونا	duːnɑː	wikipron	
+دونمہ	duːnmɑː	wikipron	duːnmɑ
+دوپٹوں	doːpəʈʈõː	wikipron	
+دوپٹہ	dʊpəʈʈə	wikipron	
+دوپٹے	doːpəʈʈeː	wikipron	
+دوڑنا	dɔːɽnɑː	wikipron	
+دوکی	duːkiː	wikipron	
+دوگنا	doːɡʊnɑː	wikipron	
+دژ	dəʒ	wikipron	dɪʒ
+دژم	dɪʒəm	wikipron	
+دکان	dʊkɑːn	wikipron	
+دکھ	dʊkʰ	wikipron	
+دکھانا	dɪkʰɑːnɑː	wikipron	dʊkʰɑːnɑː
+دکھاوا	dɪkʰɑːʋɑː	wikipron	
+دکھن	dəkkʰɪn	wikipron	
+دکھنا	dɪkʰnɑː	wikipron	dʊkʰnɑː
+دگنا	dʊɡnɑː	wikipron	
+دھات	dʰɑːt	wikipron	
+دھادر	dʰɑːdər	wikipron	
+دھارا	dʰɑːrɑː	wikipron	
+دھارمک	dʰɑːrmɪk	wikipron	
+دھاندل	dʰɑːndəl	wikipron	
+دھاندلی	dʰɑːndliː	wikipron	
+دھبا	dʰəbbɑː	wikipron	
+دھرتی	dʰərtiː	wikipron	
+دھرمو	dʰərmoː	wikipron	
+دھرموں	dʰərmõː	wikipron	
+دھلائی	dʰʊlɑːiː	wikipron	
+دھمال	dʰəmmɑːl	wikipron	
+دھماکہ	dʰəmɑːkɑːh	wikipron	dʰəmɑːkɑ
+دھن	dʰən	wikipron	dʰʊn
+دھند	dʰʊ̃nd	wikipron	dʰʊnd
+دھندوں	dʰʊndõː	wikipron	
+دھندھ	dʰʊndʰ	wikipron	
+دھندھا	dʰəndʰɑː	wikipron	
+دھندہ	dʰəndɑː	wikipron	
+دھندیں	dʰʊndẽː	wikipron	
+دھواں	dʰuːɑ̃ː	wikipron	
+دھوج	dʰʋəʤ	wikipron	
+دھوسر	dʰuːsər	wikipron	
+دھول	dʰuːl	wikipron	
+دھوم	dʰuːm	wikipron	
+دھونا	dʰoːnɑː	wikipron	dʰuːnɑː
+دھوندھر	dʰʊrəndʰər	wikipron	
+دھوپ	dʰuːp	gold	
+دھوپوں	dʰuːpõː	wikipron	
+دھوپیں	dʰuːpẽː	wikipron	
+دھڑکن	dʰəɽkən	wikipron	
+دھڑکنوں	dʰəɽkənõː	wikipron	
+دھڑکنیں	dʰəɽkənẽː	wikipron	
+دھکوں	dʰəkkõː	wikipron	
+دھیان	dʰjɑːn	wikipron	
+دہ	dəh	wikipron	dɪh;dɛh
+دہائی	dehɑːiː	wikipron	dəhɑːiː
+دہائیاں	dəhɑːɪjɑ̃ː	wikipron	
+دہائیو	dəhɑːɪjoː	wikipron	
+دہائیوں	dəhɑːɪjõː	wikipron	
+دہان	dəhɑːn	wikipron	
+دہشت	dəhʃət	wikipron	
+دہقان	dəhqɑːn	wikipron	dɪhqɑːn;dɛhqɑːn
+دہلوی	deːhləʋiː	wikipron	dɪhləʋiː
+دہلی	dɪhliː	wikipron	dehliː;deliː;dɛliː
+دہی	dəhiː	wikipron	
+دہیز	dəheːz	wikipron	
+دی	diː	gold	
+دیا	dɪjɑː	gold	
+دیاوان	dəjɑːʋɑːn	wikipron	
+دیباچہ	diːbɑːʧɑː	wikipron	diːbɑːʧɑ
+دیدار	diːdɑːr	wikipron	
+دیروز	diːroːz	wikipron	
+دیز	deːz	wikipron	
+دیس	deːs	wikipron	
+دیسو	deːsoː	wikipron	
+دیسوں	deːsõː	wikipron	
+دیسی	deːsiː	wikipron	
+دیش	deːʃ	wikipron	
+دیشج	deːʃəʤ	wikipron	
+دینا	deːnɑː	gold	
+دینی	diːniː	wikipron	
+دینے	deːneː	wikipron	
+دیوانہ	diːʋɑːnɑː	wikipron	diːʋɑːnɑ
+دیوبندی	deːʋbəndiː	wikipron	
+دیوث	dəjjuːs	wikipron	
+دیور	deːʋər	wikipron	
+دیورانیاں	deːʋrɑːnɪjɑ̃ː	wikipron	
+دیورانیوں	deːʋrɑːnɪjõː	wikipron	
+دیورو	deːʋəroː	wikipron	
+دیوروں	deːʋərõː	wikipron	
+دیوناگری	deːʋnɑːɡriː	wikipron	
+دیپ	diːp	wikipron	
+دیپکا	diːpɪkɑː	wikipron	
+دیکھنا	deːkʰnɑː	wikipron	
+دیکھنے	deːkʰneː	wikipron	
+دیگچی	deːɡʧiː	wikipron	
+دیں	dẽː	gold	
+دیہات	deːhɑːt	wikipron	
+دے	deː	gold	
+ذائقو	zɑːɪqoː	wikipron	
+ذائقوں	zɑːɪqõː	wikipron	
+ذائقہ	zɑːɪqɑː	wikipron	zɑːɪqɑ
+ذات	zɑːt	wikipron	
+ذبح	zəbʰ	wikipron	
+ذرائع	zərɑːeː	wikipron	
+ذرہ	zərrɑː	wikipron	
+ذریعہ	zərɪjɑː	wikipron	
+ذلت	zɪllət	wikipron	
+ذلیل	zəliːl	wikipron	
+ذکر	zəkər	wikipron	zɪkr
+ذہن	zɪhən	wikipron	zɪhn
+ذیابیطس	zɪjɑːbiːtəs	wikipron	
+رؤسا	rəuːsɑː	wikipron	rʊʔəsɑː;rʊəsɑː
+رئیس	rəʔiːs	wikipron	rəiːs
+رائس	rɑːɪs	wikipron	
+رائے	rɑːeː	wikipron	rɑːj
+رات	rɑːt	gold	
+راتا	rɑːtɑː	wikipron	
+راتوں	rɑːtõː	wikipron	
+راتیں	rɑːtẽː	wikipron	
+راج	rɑːʤ	wikipron	
+راجدھانی	rɑːʤdʰɑːniː	wikipron	
+راجستھان	rɑːʤəstʰɑːn	wikipron	
+راجستھانی	rɑːʤəstʰɑːniː	wikipron	
+راجشاہی	rɑːʤshɑːhiː	wikipron	
+راجنیہ	rɑːʤənjɑː	wikipron	rɑːʤənjɑ
+راجوری	rɑːʤɔːriː	wikipron	
+راحت	rɑːhət	wikipron	
+راحتو	rɑːhətoː	wikipron	
+راحتوں	rɑːhətõː	wikipron	
+راحتیں	rɑːhətẽː	wikipron	
+راستوں	rɑːstõː	wikipron	
+راستہ	rɑːstə	wikipron	
+راستے	rɑːsteː	wikipron	
+راشٹر	rɑːʃʈrə	wikipron	
+راضی	rɑːziː	wikipron	
+رال	rɑːl	wikipron	
+رام	rɑːm	wikipron	
+رامائن	rɑːmɑːjən	wikipron	
+ران	rɑːn	wikipron	
+رانجھا	rɑːnʤʰɑː	wikipron	
+رانجھوں	rɑːnʤʰõː	wikipron	
+رانجھے	rɑːnʤʰeː	wikipron	
+رانی	rɑːniː	wikipron	
+رانیاں	rɑːnɪjɑ̃ː	wikipron	
+رانیو	rɑːnɪjoː	wikipron	
+رانیوں	rɑːnɪjõː	wikipron	
+راولپنڈی	rɑːʋəlpɪnɖiː	wikipron	
+راکٹ	rɑːkɪʈ	wikipron	
+راکھ	rɑːkʰ	wikipron	
+راکھس	rɑːkʰəs	wikipron	
+راکھشس	rɑːkʃəs	wikipron	
+راکھو	rɑːkʰoː	wikipron	
+راکھوں	rɑːkʰõː	wikipron	
+راکھیں	rɑːkʰẽː	wikipron	
+راہ	rɑːh	wikipron	
+راہب	rɑːhɪb	wikipron	
+راہبہ	rɑːhɪbɑː	wikipron	rɑːhɪbɑ
+راہداری	rɑːhdɑːriː	wikipron	
+راہو	rɑːhoː	wikipron	
+راہوں	rɑːhõː	wikipron	
+راہیں	rɑːhẽː	wikipron	
+ربا	rəbbɑː	wikipron	
+رباعی	rʊbɑːʔiː	wikipron	rʊbɑːiː
+ربوہ	rəbʋɑh	wikipron	rəbʋɑ
+رتبہ	rʊtbɑː	wikipron	rʊtbɑ
+رتن	rətən	wikipron	
+رتھ	rətʰ	wikipron	
+رجا	rəʤɑː	wikipron	
+رجعت	rəʤət	wikipron	
+رجل	rəʤʊl	wikipron	
+رحیم	rəhiːm	wikipron	
+رخ	rʊx	wikipron	
+رخسار	rʊxsɑːr	wikipron	
+رخشان	rəxʃɑːn	wikipron	
+رخصت	rʊxsət	wikipron	
+رخصتی	rʊxsətiː	wikipron	
+رد	rədd	wikipron	
+ردیف	rədiːf	wikipron	
+رزق	rɪzq	wikipron	
+رس	rəs	wikipron	
+رستم	rʊstəm	wikipron	
+رسن	rəsən	wikipron	
+رسول	rəsuːl	wikipron	
+رسولو	rəsuːloː	wikipron	
+رسولوں	rəsuːlõː	wikipron	
+رسی	rəssiː	wikipron	
+رسید	rəsiːd	wikipron	
+رسیدوں	rəsiːdõː	wikipron	
+رسیدیں	rəsiːdẽː	wikipron	
+رشتو	rɪʃtoː	wikipron	
+رشتوں	rɪʃtõː	wikipron	
+رشتہ	rɪʃtɑː	wikipron	rɪʃtɑ
+رشوت	rɪʃʋət	wikipron	
+رشوتوں	rɪʃʋətõː	wikipron	
+رشوتیں	rɪʃʋətẽː	wikipron	
+رشک	rəʃk	wikipron	
+رشی	rɪʃiː	wikipron	
+رشیو	rɪʃɪjoː	wikipron	
+رشیوں	rɪʃɪjõː	wikipron	
+رضا	rəzɑː	wikipron	
+رفتار	rəftɑːr	wikipron	
+رقص	rəqs	wikipron	
+رقیب	rəqiːb	wikipron	
+رقیبوں	rəqiːbõː	wikipron	
+رمزی	rəmziː	wikipron	
+رمضان	rəməzɑːn	wikipron	rəmzɑːn
+رنڈی	rənɖiː	wikipron	
+رنگ	rəŋɡ	wikipron	
+رنگت	rəŋɡət	wikipron	
+رنگو	rəŋɡoː	wikipron	
+رنگولی	rəŋɡoːliː	wikipron	
+رنگیلا	rəŋɡiːlɑː	wikipron	
+روان	rəʋɑːnrəʋɑːn	wikipron	
+روانڈا	rəʋɑːnɖɑː	wikipron	
+روانگی	rəʋɑːŋɡiː	wikipron	
+روانہ	rəʋɑːnɑː	gold	
+رواں	rəʋɑ̃ː	wikipron	
+روایت	rɪʋɑːjət	wikipron	
+روح	ruːh	wikipron	
+روحانی	ruːhɑːniː	wikipron	
+روحو	ruːhoː	wikipron	
+روحوں	ruːhõː	wikipron	
+روحیں	ruːhẽː	wikipron	
+روز	roːz	wikipron	
+روزانہ	roːzɑːnə	wikipron	
+روزن	rɔːzən	wikipron	
+روزنامہ	roːznɑːmɑː	wikipron	roːznɑːmɑ
+روزوں	roːzõː	wikipron	
+روزہ	roːzɑː	wikipron	roːzɑ
+روزے	roːzeː	wikipron	
+روس	ruːs	wikipron	
+روسنا	ruːsnɑː	wikipron	
+روسی	ruːsiː	wikipron	
+روشن	roːʃən	wikipron	rɔːʃən
+روشنی	roːʃniː	wikipron	rɔːʃniː
+روغن	roːɣən	wikipron	rɔːɣən
+روم	ruːm	wikipron	
+رومال	ruːmɑːl	wikipron	rʊmɑːl
+رومان	ruːmɑːn	wikipron	
+رومانس	roːmɑːns	wikipron	ruːmɑːns
+رومانیہ	roːmɑːnɪjɑː	wikipron	roːmɑːnɪjɑ
+رومی	ruːmiː	wikipron	
+رونا	roːnɑː	wikipron	
+رونق	rɔːnəq	wikipron	roːnəq
+رونقو	rɔːnəqoː	wikipron	
+رونقوں	rɔːnəqõː	wikipron	
+رونقیں	rɔːnəqẽː	wikipron	
+روٹی	roːʈiː	wikipron	
+روپ	ruːp	wikipron	
+روپیہ	rʊpəjɑː	gold	
+روپے	rʊpəeː	gold	
+روچڈیل	roːʧɖeːl	wikipron	rɑːʧɖeːl;rɔːʧɖeːl
+روگ	roːɡ	wikipron	
+روگوں	roːɡõː	wikipron	
+روی	rəʋiː	wikipron	
+رویئہ	rəʋəiə	wikipron	
+رویہ	rəʋəijɑː	wikipron	
+رڑک	rəɽək	wikipron	
+رکاز	rɪkɑːz	wikipron	
+رکاوٹ	rʊkɑːʋəʈ	wikipron	
+رکت	rəkt	wikipron	
+رکشا	rəkʃɑː	wikipron	
+رکعت	rəkʔət	wikipron	rəkət
+رگوید	rɪɡʋeːd	wikipron	
+رہا	rəhɑː	gold	
+رہائش	rəhɑːɪʃ	wikipron	rɪhɑːɪʃ
+رہبر	rəhbər	wikipron	rɛhbər
+رہنا	rəhnɑː	gold	
+رہی	rəhiː	gold	
+رہے	rəheː	gold	
+ریاست	rɪjɑːsət	wikipron	
+ریاستہا	rɪjɑːsəthɑː	wikipron	
+ریاض	rɪjɑːz	wikipron	
+ریب	rɛːb	wikipron	
+ریت	reːt	wikipron	riːt
+ریتوں	reːtõː	wikipron	riːtõː
+ریتیں	reːtẽː	wikipron	riːtẽː
+ریختہ	reːxtɑː	wikipron	reːxtɑ
+ریش	reːʃ	wikipron	riːʃ
+ریشم	reːʃəm	wikipron	
+ریشمی	reːʃmiː	wikipron	
+ریشہ	reːʃɑː	wikipron	reːʃɑ
+رین	rɛːn	wikipron	
+رینو	rɛːnoː	wikipron	
+رینوں	rɛːnõː	wikipron	
+رینیں	rɛːnẽː	wikipron	
+ریوڑ	reːːʋəɽ	wikipron	
+ریپھ	reːpʰ	wikipron	
+ریچھ	riːʧʰ	wikipron	
+ریکھا	reːkʰɑː	wikipron	
+ریگستان	reːɡɪstɑːn	wikipron	
+زائنہ	zɑːɪnɑː	wikipron	zɑːɪnɑ
+زار	zɑːr	wikipron	
+زایندہ	zɑːjəndə	wikipron	zɑːjɪndə
+زبان	zəbɑːn	gold	
+زبانو	zəbɑːnoː	wikipron	zʊbɑːnoː
+زبانوں	zəbɑːnõː	wikipron	zʊbɑːnõː
+زبانیں	zəbɑːnẽː	wikipron	zʊbɑːnẽː
+زباں	zəbɑ̃ː	wikipron	zʊbɑ̃ː
+زبر	zəbər	wikipron	
+زبردستی	zəbərdəstiː	wikipron	
+زراعت	zɪrɑːt	wikipron	
+زرتشت	zərtəʃt	wikipron	zərtʊʃt
+زرشک	zɪrɪʃk	wikipron	
+زعفران	zɑːfrɑːn	wikipron	zəʔfrɑːn;zəfrɑːn
+زلزلو	zəlzəloː	wikipron	
+زلزلوں	zəlzəlõː	wikipron	
+زلزلہ	zəlzəlɑː	wikipron	
+زلزلے	zəlzəleː	wikipron	
+زلف	zʊlf	wikipron	
+زلفوں	zʊlfõː	wikipron	
+زلفیں	zʊlfẽː	wikipron	
+زمانو	zəmɑːnoː	wikipron	
+زمانہ	zəmɑːnɑː	wikipron	zəmɑːnɑ
+زمانے	zəmɑːneː	wikipron	
+زمستان	zəmɪstɑːn	wikipron	zɪməstɑːn
+زمین	zəmiːn	wikipron	
+زمینو	zəmiːnoː	wikipron	
+زمینوں	zəmiːnõː	wikipron	
+زمینیں	zəmiːnẽː	wikipron	
+زن	zən	wikipron	
+زنانہ	zənɑːnə	wikipron	
+زنجیر	zənʤiːr	wikipron	
+زنجیرو	zənʤiːroː	wikipron	
+زنجیروں	zənʤiːrõː	wikipron	
+زنجیریں	zənʤiːrẽː	wikipron	
+زنخا	zənxɑːpən	wikipron	
+زندان	zɪndɑːn	wikipron	
+زندانو	zɪndɑːnoː	wikipron	
+زندانوں	zɪndɑːnõː	wikipron	
+زندگی	zɪndəɡiː	gold	
+زندگیاں	zɪndəɡɪjɑ̃ː	wikipron	
+زندگیوں	zɪndəɡɪjõː	wikipron	
+زندہ	zɪndɑː	wikipron	zɪndɑ
+زنگ	zəŋɡ	wikipron	
+زنگی	zəŋɡiː	wikipron	
+زور	zoːr	wikipron	zuːr
+زوردار	zoːrdɑːr	wikipron	
+زون	zoːn	wikipron	
+زکات	zəkɑːt	wikipron	
+زکوۃ	zəkɑːt	wikipron	
+زہر	zəhr	wikipron	
+زہری	zəhriː	wikipron	
+زہیب	zʊheːb	wikipron	zoheːb
+زیادتی	zɪjɑːdətiː	wikipron	zjɑːdtiː;zĕjəːttiː
+زیادتیاں	zɪjɑːdətɪjɑ̃ː	wikipron	
+زیادتیوں	zɪjɑːdətɪjõː	wikipron	
+زیادہ	zjɑːdɑː	gold	
+زیارت	zɪjɑːrət	wikipron	
+زیتون	zɛːtuːn	wikipron	
+زیربند	zeːrbənd	wikipron	
+زینت	ziːnət	wikipron	
+زینتو	ziːnətoː	wikipron	
+زینہ	ziːnɑː	wikipron	ziːnɑ
+زیور	zeːʋər	wikipron	
+سؤر	suːər	wikipron	suːr
+سؤرو	sʊəroː	wikipron	
+سؤروں	sʊərõː	wikipron	
+سا	sɑː	wikipron	
+سائز	sɑːɪz	wikipron	
+سائمہ	sɑːɪmɑː	wikipron	sɑːɪmɑ
+سائنس	sɑːɪns	wikipron	
+سائنسدان	sɑːɪnsdɑːn	gold	
+سائنسی	sɑːeːnsiː	wikipron	sɑːɪnsiː
+سائیں	sɑːĩː	wikipron	
+سات	sɑːt	gold	
+ساتواں	sɑːtʋɑ̃ː	gold	
+ساتھ	sɑːtʰ	gold	
+ساتھی	sɑːtʰiː	wikipron	
+ساحل	sɑːhɪl	wikipron	
+ساحلی	sɑːhɪliː	wikipron	
+ساخت	sɑːxt	wikipron	
+سادگی	sɑːdɡiː	wikipron	
+سادہ	sɑːdə	wikipron	
+سارا	sɑːrɑː	wikipron	
+سارنگی	sɑːrəŋɡiː	wikipron	
+ساری	sɑːriː	wikipron	
+سارے	sɑːreː	wikipron	
+ساز	sɑːz	wikipron	
+سازش	sɑːzɪʃ	wikipron	
+ساس	sɑːs	wikipron	
+ساسانی	sɑːsɑːniː	wikipron	
+ساسو	sɑːsoː	wikipron	
+ساسوں	sɑːsõː	wikipron	
+ساسیں	sɑːsẽː	wikipron	
+ساقی	sɑːqiː	wikipron	
+سال	sɑːl	gold	
+سالانہ	sɑːlɑːnɑː	wikipron	
+سالمہ	sɑːlmə	wikipron	
+سالن	sɑːlən	wikipron	
+سالگرہ	sɑːlɡɪrɑː	gold	
+سامراجیہ	sɑːmrɑːʤjə	wikipron	
+سامعین	sɑːmeːʔiːn	wikipron	sɑːmeːiːn
+سامنا	sɑːmnɑː	wikipron	
+سامی	sɑːmiː	wikipron	
+سانبہ	sɑ̃ːmbɑː	wikipron	sɑ̃ːmbɑ
+سانس	sɑ̃ːs	wikipron	
+سانسوں	sɑ̃ːsõː	wikipron	
+سانسیں	sɑ̃ːsẽː	wikipron	
+سانول	sɑ̃ːʋəl	wikipron	
+سانولا	sɑ̃ːʋlɑː	wikipron	
+سانپ	sɑ̃ːp	wikipron	
+ساودھان	sɑːʋdʰɑːn	wikipron	
+ساون	sɑːʋən	wikipron	
+ساٹھ	sɑːʈʰ	gold	
+ساڑھے	sɑːɽʰeː	gold	
+ساڑی	sɑːɽiː	wikipron	
+ساکشیہ	sɑːkʃjə	wikipron	
+ساگر	sɑːɡər	wikipron	
+ساگرتٹ	sɑːɡərtəʈ	wikipron	
+ساہتیہ	sɑːhɪtjə	wikipron	
+ساہیوال	sɑːhiːʋɑːl	wikipron	
+سایہ	sɑːjɑː	wikipron	sɑːjɑ
+سب	səb	gold	
+سبب	səbəb	wikipron	
+سبت	səbt	wikipron	
+سبد	səbʊd	wikipron	
+سبز	səbz	wikipron	
+سبزی	səbziː	wikipron	
+سبزیاں	səbzɪjɑ̃ː	wikipron	
+سبزیوں	səbzɪjõː	wikipron	
+سبق	səbəq	wikipron	
+سبھا	səbʰɑː	wikipron	
+سبھی	səbʰiː	wikipron	
+سبی	sɪbiː	wikipron	
+ستائیس	səttɑːiːs	gold	
+ستارو	sɪtɑːroː	wikipron	
+ستاروں	sɪtɑːrõː	wikipron	
+ستارہ	sɪtɑːrə	wikipron	
+ستارے	sɪtɑːreː	wikipron	
+ستان	ɪstɑːn	wikipron	stɑːn
+ستر	səttər	gold	
+سترک	sətərk	wikipron	
+سترہ	sətrɑː	gold	
+ستم	sɪtəm	wikipron	
+ستمبر	sɪtəmbər	gold	
+ستون	sʊtuːn	gold	
+ستھان	stʰɑːn	wikipron	
+سجدو	səʤdoː	wikipron	
+سجدوں	səʤdõː	wikipron	
+سجدہ	səʤdɑː	wikipron	səʤdɑ
+سحری	səhəriː	wikipron	sɛhɛriː;sɛhriː;sɛriː
+سحریوں	səhərɪjõː	wikipron	
+سخت	səxt	wikipron	
+سخی	səxiː	wikipron	
+سدابہار	sədɑːbəhɑːr	wikipron	
+سدن	sədən	wikipron	
+سدھارنا	sʊdʰɑːrnɑː	wikipron	
+سر	sər	gold	
+سراب	sərɑːb	wikipron	
+سراسر	sərɑːsər	wikipron	
+سرانان	sərɑːnɑːn	wikipron	
+سراہنا	sərɑːhnɑː	wikipron	
+سربیا	sərbɪjɑː	wikipron	
+سرحد	sərhəd	wikipron	
+سرحدوں	sərhədõː	wikipron	
+سرخ	sʊrx	wikipron	
+سرخی	sʊrxiː	wikipron	
+سردیاں	sərdɪjɑ̃ː	wikipron	
+سرسائی	sərsɑːiː	wikipron	
+سرسوں	sərsõː	wikipron	
+سرشت	sərɪʃt	wikipron	
+سرشٹی	sɪrɪʃʈiː	wikipron	
+سرفروش	sərfəroːʃ	wikipron	
+سرمئی	sərməiː	wikipron	sʊrməiː
+سرما	sərmɑː	wikipron	sʊrmɑː
+سرمایہ	sərmɑːjɑː	wikipron	sərmɑːjɑ
+سرمہ	sʊrmə	wikipron	
+سرنگ	sʊrəŋɡ	wikipron	
+سرنگوں	sʊrəŋɡõː	wikipron	
+سرنگیں	sʊrəŋɡẽː	wikipron	
+سرور	sʊruːr	wikipron	
+سرورق	sərʋərəq	wikipron	
+سروش	səroːʃ	wikipron	
+سرونام	sərʋnɑːm	wikipron	
+سرکار	sərkɑːr	wikipron	
+سرکس	sərkəs	wikipron	
+سرکو	sɪrkoː	wikipron	
+سرکوں	sɪrkõː	wikipron	
+سرکہ	sɪrkɑː	wikipron	sɪrkɑ
+سرکے	sɪrkeː	wikipron	
+سرگ	sʊrɡ	wikipron	
+سرگرم	sərɡərm	wikipron	
+سرگرمی	sərɡərmiː	wikipron	
+سرگودھا	sərɡoːdʰɑː	wikipron	
+سرہانہ	sɪrhɑːnɑː	wikipron	
+سریانی	sʊrjɑːniː	wikipron	
+سریر	səriːr	wikipron	
+سریع	səriː	wikipron	
+سزا	səzɑː	wikipron	
+سسا	səssɑː	wikipron	sʊssɑː
+سست	sʊst	wikipron	
+سستا	səstɑː	wikipron	
+سستی	səstiː	wikipron	sʊstiː
+سسر	səsʊr	wikipron	sɪsɪr;sʊsər
+سسرال	sʊsrɑːl	wikipron	
+سسروں	sʊsərõː	wikipron	
+سسری	səsʊriː	wikipron	
+سطح	sətəh	wikipron	
+سطحی	səthiː	wikipron	
+سطر	sətr	wikipron	
+سعتر	sɑːtər	wikipron	
+سغدی	sʊɣdiː	wikipron	
+سفارت	sɪfɑːrət	wikipron	
+سفال	sɪfɑːl	wikipron	
+سفر	səfər	wikipron	
+سفرو	səfəroː	wikipron	
+سفروں	səfərõː	wikipron	
+سفید	səfeːd	wikipron	
+سفیر	səfiːr	wikipron	
+سلاح	sɪlɑː	wikipron	
+سلاخ	səlɑːx	wikipron	
+سلاد	səlɑːd	wikipron	
+سلام	səlɑːm	gold	
+سلامت	səlɑːmət	wikipron	
+سلامتی	səlɑːmtiː	wikipron	
+سلجوق	səlʤuːq	wikipron	
+سلجوقی	səlʤuːqiː	wikipron	
+سلسلہ	sɪlsɪlɑː	wikipron	sɪlsɪlɑ
+سلطان	sʊltɑːn	wikipron	
+سلطنت	səltənət	wikipron	
+سلوواکیہ	sloːʋɑːkɪjɑː	wikipron	sloːʋɑːkɪjɑ
+سلوک	səluːk	wikipron	sʊluːk
+سلہٹ	sɪlhəʈ	wikipron	
+سلیمان	sʊlɛːmɑːn	wikipron	
+سمئے	səməj	wikipron	
+سماج	səmɑːʤ	wikipron	
+سمادھان	səmɑːdʰɑːn	wikipron	
+سماس	səmɑːs	wikipron	
+سماعت	səmɑːʔət	wikipron	səmɑːət
+سماپت	səmɑːpt	wikipron	
+سماپن	səmɑːpən	wikipron	
+سماں	səmɑ̃ː	wikipron	
+سمبڑیال	səmbɽɪjɑːl	wikipron	
+سمجھ	səməʤʰ	gold	
+سمجھدار	səməʤʰdɑːr	wikipron	
+سمجھنا	səməʤʰnɑː	wikipron	
+سمجھوتہ	səmʤʰɔːtɑː	wikipron	
+سمدائے	səmʊdɑːeː	wikipron	
+سمدر	səmʊdrə	wikipron	
+سمراج	səmrɑːʤ	wikipron	
+سمراٹ	səmrɑːʈ	wikipron	
+سمرتھک	səmərtʰək	wikipron	
+سمرتی	səmərtiː	wikipron	ɪsmrɪtiː;smrɪtiː
+سمرقند	səmərqənd	wikipron	
+سمسم	sɪmsɪm	wikipron	
+سمع	səmʔ	wikipron	səm
+سمندر	səməndər	wikipron	səmʊndər
+سمندروں	səmʊndərõː	wikipron	
+سمندری	səmʊndriː	wikipron	
+سموسہ	səmoːsə	wikipron	
+سموہ	səmuːh	wikipron	
+سمپردائے	səmpərdɑːeː	wikipron	səmprədɑːeː
+سمکھ	səmmʊkʰ	wikipron	
+سمین	səmiːn	wikipron	
+سن	sɪn	wikipron	
+سنائی	sʊnɑːiː	gold	
+سناتن	sənɑːtən	wikipron	
+سنارو	sʊnɑːroː	wikipron	
+سناروں	sʊnɑːrõː	wikipron	
+سنانا	sʊnɑːnɑː	wikipron	
+سناٹا	sənnɑːʈɑː	wikipron	
+سنبھالنا	səmbʰɑːlnɑː	wikipron	
+سنت	sʊnnət	wikipron	sənt
+سنتان	səntɑːn	wikipron	
+سنترا	səntərɑː	wikipron	səntrɑː
+سنتھالی	səntʰɑːliː	wikipron	
+سنجھا	sənʤʰɑː	wikipron	
+سنجیدہ	sənʤiːdɑː	wikipron	
+سندر	sʊndər	wikipron	
+سندھی	sɪndʰiː	wikipron	
+سندیش	səndeːʃ	wikipron	
+سندیہہ	səndeːh	wikipron	
+سنسار	sənsɑːr	wikipron	
+سنسان	sʊnsɑːn	wikipron	
+سنسکرت	sənskrɪt	wikipron	
+سنشیہ	sənʃəjɑː	wikipron	sənʃəjɑ
+سننا	sʊnnɑː	wikipron	
+سنچائی	sɪ̃ʧɑːiː	wikipron	
+سنچری	sɪnʧʊriː	wikipron	
+سنگ	səŋɡ	wikipron	
+سنگار	sɪŋɡɑːr	wikipron	
+سنگاپور	sɪŋɡɑːpuːr	wikipron	
+سنگم	səŋɡəm	wikipron	
+سنگھ	sɪ̃ŋɡʰ	wikipron	
+سنگھرش	səŋɡʰərʃ	wikipron	
+سنگیت	səŋɡiːt	wikipron	
+سنگین	səŋɡiːn	wikipron	
+سنہ	sɪ̃ŋh	wikipron	
+سنیاسی	sənjɑːsiː	wikipron	
+سنیوگ	sə̃joːɡ	wikipron	
+سنیچر	səniːʧər	wikipron	
+سو	sɔː	gold	
+سوئی	suːiː	wikipron	
+سوا	səʋɑː	gold	
+سواد	sʋɑːd	wikipron	
+سوادو	sʋɑːduː	wikipron	
+سوال	səʋɑːl	wikipron	
+سوالات	səʋɑːlɑːt	wikipron	
+سوالو	səʋɑːloː	wikipron	
+سوالوں	səʋɑːlõː	wikipron	
+سوانگ	sʋɑːŋɡ	wikipron	
+سواگت	sʋɑːɡət	wikipron	
+سوتا	soːtɑː	wikipron	
+سوتن	sɔːtən	wikipron	
+سوتنو	sɔːtənoː	wikipron	
+سوتنوں	sɔːtənõː	wikipron	
+سوتنیں	sɔːtənẽː	wikipron	
+سوتیلا	sɔːteːlɑː	wikipron	
+سوتے	soːteː	wikipron	
+سوجن	suːʤən	wikipron	
+سوجنا	suːʤnɑː	wikipron	
+سودا	sɔːdɑː	wikipron	
+سوراب	suːrɑːb	wikipron	
+سورج	suːrəʤ	wikipron	
+سورجو	suːrəʤoː	wikipron	
+سورہ	suːrɑː	wikipron	suːrɑ
+سوری	suːriː	wikipron	
+سوریہ	suːrɪjɑː	wikipron	suːrjə
+سوغات	sɔːɣɑːt	wikipron	
+سولہ	soːlɑː	gold	
+سوم	soːm	wikipron	sɪʋəm;sɪʋʊm
+سوموار	soːmʋɑːr	wikipron	
+سونگھنا	suːŋɡʰnɑː	wikipron	
+سوویت	soːʋɪjət	wikipron	
+سوپن	sʋəpn	wikipron	
+سوچنا	soːʧnɑː	wikipron	
+سوڈا	soːɖɑː	wikipron	
+سوڈان	suːɖɑːn	wikipron	
+سوڈیم	soːɖɪjəm	wikipron	
+سوکھا	suːkʰɑː	wikipron	
+سوکھنا	soːkʰnɑː	wikipron	suːkʰnɑː
+سوگ	soːɡ	wikipron	
+سوگند	sɔːɡənd	wikipron	
+سوہن	soːhən	wikipron	
+سویرا	səʋeːrɑː	wikipron	
+سویٹزرلینڈ	sʋiːʈzərlɛːnɖ	wikipron	
+سویڈن	sʋiːɖən	wikipron	
+سپارو	sɪpɑːroː	wikipron	
+سپاروں	sɪpɑːrõː	wikipron	
+سپارے	sɪpɑːreː	wikipron	
+سپاس	sɪpɑːs	wikipron	sʊpɑːs
+سپاہ	sɪpɑːh	wikipron	
+سپاہنی	sɪpɑːhniː	wikipron	
+سپاہیو	sɪpɑːhɪjoː	wikipron	
+سپاہیوں	sɪpɑːhɪjõː	wikipron	
+سپتاہ	səptɑːh	wikipron	
+سپنا	səpnɑː	wikipron	
+سپنوں	səpnõː	wikipron	
+سپنے	səpnõː	wikipron	
+سچ	səʧ	wikipron	
+سچا	sətʧɑː	wikipron	
+سچے	sətʧeː	wikipron	
+سڑا	səɽɑː	wikipron	
+سڑک	səɽək	gold	
+سکتا	səktɑː	gold	
+سکتی	səktiː	gold	
+سکتے	səkteː	gold	
+سکنا	səknɑː	wikipron	
+سکون	sʊkuːn	wikipron	
+سکھ	sɪkʰ	wikipron	sʊkʰ
+سکھانا	sɪkʰɑːnɑː	wikipron	sʊkʰɑːnɑː
+سکھر	səkkʰər	wikipron	
+سکھی	səkʰiː	wikipron	
+سکہ	sɪkkɑː	wikipron	sɪkkɑ
+سگ	səɡ	wikipron	
+سگریٹ	sɪɡreːʈ	wikipron	
+سہارا	səhɑːrɑː	wikipron	
+سہاگ	sʊhɑːɡ	wikipron	
+سہایک	səhɑːjək	wikipron	
+سہج	səhəʤ	wikipron	
+سہس	səhəs	wikipron	sɛhɛs
+سہسرابد	səhəsrɑːbd	wikipron	
+سہلانا	səhlɑːnɑː	wikipron	
+سہمانا	səhmɑːnɑː	wikipron	
+سہمت	səhmət	wikipron	
+سہمنا	səhəmnɑː	wikipron	
+سہواس	səhʋɑːs	wikipron	
+سہولت	səhuːlət	wikipron	sʊhuːlət;suːlət
+سہیلی	səheːliː	wikipron	
+سہیلیاں	səheːlɪjɑ̃ː	wikipron	
+سہیلیو	səheːlɪjoː	wikipron	
+سہیلیوں	səheːlɪjõː	wikipron	
+سیاح	səjjɑːh	wikipron	
+سیاحت	sɪjɑːhət	wikipron	
+سیاروں	səjjɑːrõː	wikipron	
+سیارہ	səjjɑːrɑː	wikipron	səjjɑːrɑ
+سیارے	səjjɑːreː	wikipron	
+سیاست	sɪjɑːsət	wikipron	
+سیاستدان	sɪjɑːsətdɑːn	wikipron	
+سیاسی	sɪjɑːsiː	wikipron	
+سیالکوٹ	sɪjɑːlkoːʈ	wikipron	
+سیب	seːb	wikipron	
+سیتا	siːtɑː	wikipron	
+سیخ	siːx	wikipron	
+سیدھا	siːdʰɑː	wikipron	
+سیرت	siːrət	wikipron	
+سیلاب	sɛːlɑːb	wikipron	
+سینتالیس	sɛ̃ːtɑːliːs	gold	
+سینو	siːnoː	wikipron	
+سینوں	siːnõː	wikipron	
+سینچنا	sĩːʧnɑː	wikipron	
+سینگ	siːŋɡ	wikipron	
+سینہ	siːnɑː	wikipron	siːnɑ
+سینیٹر	siːneːʈər	wikipron	
+سینے	siːneː	wikipron	
+سیٹھا	siːʈʰɑː	wikipron	
+سیڑھی	siːɽʰiː	wikipron	
+سیکھنا	siːkʰnɑː	wikipron	
+سے	seː	gold	
+شاباش	ʃɑːbɑːʃ	wikipron	
+شاخ	ʃɑːx	wikipron	
+شاد	ʃɑːd	wikipron	
+شاداب	ʃɑːdɑːb	wikipron	
+شادی	ʃɑːdiː	wikipron	
+شارجہ	ʃɑːrʤɑːh	wikipron	ʃɑːrʤɑ
+شارک	ʃɑːrk	wikipron	
+شاستر	ʃɑːstər	wikipron	
+شاسن	ʃɑːsən	wikipron	
+شاسک	ʃɑːsək	wikipron	
+شاطر	ʃɑːtɪr	wikipron	
+شاعر	ʃɑːʔɪr	wikipron	ʃɑːjər;ʃɑːɪr
+شاعرہ	ʃɑːjrɑː	wikipron	
+شاعری	ʃɑːʔɪriː	wikipron	ʃɑːɪriː
+شال	ʃɑːl	wikipron	
+شام	ʃɑːm	gold	
+شامل	ʃɑːmɪl	wikipron	
+شاموں	ʃɑːmõː	wikipron	
+شامیں	ʃɑːmẽː	wikipron	
+شان	ʃɑːn	wikipron	
+شانتی	ʃɑːntiː	wikipron	
+شانو	ʃɑːnoː	wikipron	
+شانوں	ʃɑːnõː	wikipron	
+شانہ	ʃɑːnɑː	wikipron	ʃɑːnɑ
+شانے	ʃɑːneː	wikipron	
+شاور	ʃɑːʋər	wikipron	
+شاپر	ʃɑːpər	wikipron	
+شاگرد	ʃɑːɡɪrd	wikipron	
+شاگردوں	ʃɑːɡɪrdõː	wikipron	
+شاہ	ʃɑːh	wikipron	
+شاہراہ	ʃɑːhrɑːh	wikipron	
+شاہی	ʃɑːhiː	wikipron	
+شاہین	ʃɑːhiːn	wikipron	
+شاید	ʃɑːjəd	wikipron	
+شب	ʃəb	wikipron	
+شبد	ʃəbd	wikipron	
+شبدکوش	ʃəbdəkoːʃ	wikipron	
+شبنم	ʃəbnəm	wikipron	
+شبھ	ʃʊbʰ	wikipron	
+شتابدی	ʃətɑːbdiː	wikipron	
+شترو	ʃətruː	wikipron	
+شتک	ʃətək	wikipron	
+شجر	ʃəʤər	wikipron	
+شخص	ʃəxs	wikipron	
+شدت	ʃɪddət	wikipron	
+شدھ	ʃʊddʰ	wikipron	
+شراب	ʃərɑːb	wikipron	
+شرارت	ʃərɑːrət	wikipron	
+شرارتو	ʃərɑːrətoː	wikipron	
+شرارتی	ʃərɑːrətiː	wikipron	ʃerɑːrtiː
+شرارتیں	ʃərɑːrətẽː	wikipron	
+شرافت	ʃərɑːfət	wikipron	
+شرط	ʃərt	wikipron	
+شرطی	ʃʊrtiː	wikipron	
+شرفا	ʃʊrəfɑː	wikipron	
+شرم	ʃərm	wikipron	
+شرمگیں	ʃərmɡĩː	wikipron	
+شروع	ʃʊruː	gold	
+شرک	ʃɪrk	wikipron	
+شرکت	ʃɪrkət	wikipron	
+شرکرا	ʃərkərɑː	wikipron	
+شریر	ʃəriːr	wikipron	
+شریعت	ʃəriːʔət	wikipron	ʃəriːət
+شریعتوں	ʃəriːʔətõː	wikipron	ʃəriːətõː
+شریعتیں	ʃəriːʔətẽː	wikipron	ʃəriːətẽː
+شریف	ʃəriːf	wikipron	
+شرینگر	ʃriːnəɡər	wikipron	
+ششک	ʃəʃək	wikipron	
+شطرنج	ʃətrənʤ	wikipron	
+شعر	ʃeːr	gold	
+شعرا	ʃoːrɑː	wikipron	ʃʊʔərɑː;ʃʊərɑː
+شعلہ	ʃoːlɑː	wikipron	ʃʊʔlɑː;ʃoːlɑ;ʃʊʔlɑ
+شعلے	ʃoːleː	wikipron	ʃʊʔleː
+شعور	ʃʊʔuːr	wikipron	ʃʊuːr;ʃəuːr
+شعیب	ʃʊʔɛːb	wikipron	ʃʊɛːb
+شفا	ʃɪfɑː	wikipron	
+شفقت	ʃəfqət	wikipron	
+شفقتوں	ʃəfqətõː	wikipron	
+شفقتیں	ʃəfqətẽː	wikipron	
+شفیق	ʃəfiːq	wikipron	
+شقرا	ʃəqrɑː	wikipron	
+شلپشالا	ʃɪlpʃɑːlɑː	wikipron	
+شلیہ	ʃəlɪjɑː	wikipron	ʃəljə
+شمال	ʃɪmɑːl	wikipron	ʃʊmɑːl
+شمس	ʃəms	wikipron	
+شمشیر	ʃəmʃeːr	wikipron	ʃəmʃiːr
+شمع	ʃə̃mmɑː	wikipron	ʃəmɑː;ʃəmʔə
+شمعو	ʃəmʔoː	wikipron	ʃəmoː
+شمعوں	ʃəmʔõː	wikipron	ʃəmõː
+شمعیں	ʃəmʔẽː	wikipron	ʃəmẽː
+شناخت	ʃɪnɑːxt	wikipron	
+شنتانو	ʃəntənuː	wikipron	
+شوخی	shoːkʰiː	wikipron	
+شوربا	ʃoːrbɑː	wikipron	
+شوق	ʃɔːq	wikipron	
+شوپیاں	ʃoːpɪjɑ̃ː	wikipron	
+شوہر	ʃɔːhər	wikipron	
+شکار	ʃɪkɑːr	wikipron	
+شکارپور	ʃɪkɑːrpuːr	wikipron	
+شکاری	ʃɪkɑːriː	wikipron	
+شکایت	ʃɪkɑːjət	wikipron	ʃɪkɑːjɪt
+شکتی	ʃəktiː	wikipron	
+شکر	ʃəkər	wikipron	ʃʊkrə;ʃʊkr
+شکرانو	ʃʊkrɑːnoː	wikipron	
+شکرانہ	ʃʊkrɑːnɑː	wikipron	ʃʊkrɑːnɑ
+شکرانے	ʃʊkrɑːneː	wikipron	
+شکریہ	ʃʊkrijɑː	gold	
+شکست	ʃɪkəst	wikipron	
+شکنجہ	ʃɪkənʤə	wikipron	
+شکووں	ʃɪkʋõː	wikipron	
+شکوہ	ʃɪkoːh	wikipron	ʃɪkʋɑː;ʃɪkʋɑ
+شکوہو	ʃɪkoːhoː	wikipron	
+شکوہوں	ʃɪkoːhõː	wikipron	
+شکوے	ʃɪkʋeː	wikipron	
+شکی	ʃəkiː	wikipron	
+شگن	ʃəɡʊn	wikipron	
+شہادت	ʃəhɑːdət	wikipron	
+شہباز	ʃəhbɑːz	wikipron	ʃɑhbɑːz;ʃɛhbɑːz
+شہتوت	ʃəhtuːt	wikipron	
+شہدا	ʃʊhədɑː	wikipron	
+شہر	ʃəhr	gold	
+شہرت	ʃʊhrət	wikipron	ʃɔhrət
+شہرتوں	ʃʊhrətẽː	wikipron	
+شہرتیں	ʃʊhrətõː	wikipron	
+شہروز	ʃəhroːz	wikipron	
+شہروں	ʃɛhrõː	wikipron	
+شہری	ʃɛːriː	wikipron	ʃəhriː;ʃɛʰriː
+شہزادہ	ʃəhzɑːdɑː	wikipron	
+شہلا	ʃəhlɑː	wikipron	
+شہمات	ʃəhmɑːt	wikipron	
+شہنشاہ	ʃəhənʃɑːh	wikipron	
+شہید	ʃəhiːd	wikipron	
+شہیدو	ʃəhiːdoː	wikipron	
+شہیدوں	ʃəhiːdõː	wikipron	
+شیخ	ʃeːx	wikipron	ʃɛːx
+شیخوپورہ	ʃeːxuːpuːrɑː	wikipron	ʃeːxuːpuːrɑ
+شیدا	ʃɛːdɑː	wikipron	
+شیریں	ʃiːrĩː	gold	
+شیشو	ʃiːʃoː	wikipron	
+شیشوں	ʃiːʃõː	wikipron	
+شیشہ	ʃiːʃɑː	wikipron	ʃiːʃɑ
+شیشے	ʃiːʃeː	wikipron	
+شیطان	ʃɛːtɑːn	wikipron	
+شیفیلڈ	ʃɛːfiːlɖ	wikipron	
+شیو	ʃeːʋ	wikipron	ʃiːʋ;ʃɛːʋ
+شیوہ	ʃeːʋɑː	wikipron	ʃeːʋɑ
+شیکھاواٹی	ʃeːkʰɑːʋɑːʈiː	wikipron	
+شے	ʃeː	wikipron	
+صائب	sɑːɪb	wikipron	
+صابر	sɑːbɪr	wikipron	
+صابن	sɑːbʊn	wikipron	
+صاحب	sɑːhɪb	gold	
+صاحبزادہ	sɑːhəbzɑːdə	wikipron	
+صارف	sɑːrɪf	wikipron	
+صارفین	sɑːrɪfiːn	wikipron	
+صاف	sɑːf	wikipron	
+صالح	sɑːliːh	wikipron	
+صبح	sʊbəh	gold	
+صبر	səbər	wikipron	səbr
+صحافی	səhɑːfiː	wikipron	sɪhɑːfiː
+صحبت	sʊhbət	wikipron	sɔhbət
+صحت	seːhət	wikipron	sɪhət
+صحرا	səhrɑː	wikipron	sɛhrɑː
+صحن	səhən	wikipron	səhn
+صحیح	səhiːh	wikipron	səhiː;səiː
+صحیفہ	səhiːfɑː	wikipron	
+صدا	sədɑː	wikipron	
+صداقت	sədɑːqət	wikipron	
+صدر	sədr	wikipron	
+صدرو	sədroː	wikipron	
+صدروں	sədrõː	wikipron	
+صدقہ	sədqɑː	wikipron	sədqɑ
+صدی	sədiː	wikipron	
+صدیاں	sədɪjɑ̃ː	wikipron	
+صدیوں	sədɪjõː	wikipron	
+صرف	sɪrəf	wikipron	sərf;sɪrf
+صعب	sɑːb	wikipron	səʔb;səb
+صغیر	səɣiːr	wikipron	
+صفائی	səfɑːiː	wikipron	sɪfɑːiː
+صفحو	səfhoː	wikipron	
+صفحوں	səfhõː	wikipron	
+صفحہ	səfhɑː	wikipron	səfhɑ;səfɑː
+صفحے	səfheː	wikipron	
+صفر	sɪfər	gold	
+صفرواں	sɪfərʋɑ̃ː	wikipron	
+صلاح	səlɑːh	wikipron	
+صلاحیت	səlɑːhɪjət	wikipron	
+صلوۃ	səlɑːt	wikipron	
+صلہ	sɪlə	wikipron	
+صلی	səllɑː	wikipron	
+صلیب	səliːb	wikipron	
+صلیبی	səliːbiː	wikipron	
+صنعت	sənʔət	wikipron	sənət
+صنف	sɪnf	wikipron	
+صنم	sənəm	wikipron	
+صنوبر	sənoːbər	wikipron	
+صوبہ	suːbɑː	wikipron	suːbɑ
+صورت	suːrət	wikipron	
+صورتو	suːrətoː	wikipron	
+صورتیں	suːrətẽː	wikipron	
+صومالیہ	soːmɑːlɪjɑː	wikipron	soːmɑːlɪjɑ
+ضابطہ	zɑːbɪtɑː	wikipron	zɑːbɪtɑ
+ضبط	zəbt	wikipron	
+ضد	zɪd	wikipron	
+ضدی	zɪddiː	wikipron	
+ضرر	zərər	wikipron	
+ضرور	zəruːr	gold	
+ضرورت	zəruːrət	gold	
+ضروری	zəruːriː	wikipron	zʊruːriː
+ضعفا	zʊʔəfɑː	wikipron	zʊəfɑː
+ضعیف	zəʔiːf	wikipron	zəiːf
+ضعیفوں	zəʔiːfõː	wikipron	zəiːfõː
+ضعیفہ	zəʔiːfə	wikipron	zəiːfə
+ضلع	zɪlɑː	wikipron	zɪlʔə
+ضلعوں	zɪlʔõː	wikipron	zɪlõː
+ضلعے	zɪlʔeː	wikipron	zɪleː
+ضم	zəm	wikipron	
+ضمانت	zəmɑːnət	wikipron	
+ضمیر	zəmiːr	wikipron	
+ضمیمہ	zəmiːmɑː	wikipron	
+ضیافت	zɪjɑːfət	wikipron	
+طائرانہ	tɑːjɪrɑːnɑː	wikipron	tɑːjɪrɑːnɑ
+طاعون	tɑːʔuːn	wikipron	tɑːuːn
+طاقت	tɑːqət	wikipron	
+طاقتور	tɑːqətʋər	wikipron	
+طاقتوں	tɑːqətõː	wikipron	
+طاقتیں	tɑːqətẽː	wikipron	
+طالبان	tɑːlɪbɑːn	wikipron	
+طبق	təbəq	wikipron	
+طبقو	təbəqoː	wikipron	
+طبقوں	təbəqõː	wikipron	
+طبقہ	təbəqɑː	wikipron	təbəqɑ
+طبقے	təbəqeː	wikipron	
+طبلہ	təblɑː	wikipron	
+طبی	tɪbbiː	wikipron	
+طبیب	təbiːb	wikipron	
+طبیعت	təbiːʔət	wikipron	təbiːət
+طبیعی	təbiːʔiː	wikipron	təbiːiː
+طبیعیات	təbiːʔɪjjɑːt	wikipron	təbiːɪjjɑːt
+طرابلس	tərɑːbʊlʊs	wikipron	
+طرح	tərəh	gold	
+طرز	tərz	wikipron	
+طرزوں	tərzõː	wikipron	
+طرزیات	tərzɪjɑːt	wikipron	
+طرزیں	tərzẽː	wikipron	
+طرف	tərəf	gold	
+طریقہ	təriːqɑː	wikipron	təriːqɑ
+طشتری	təʃtəriː	wikipron	
+طعام	təʔɑːm	wikipron	təɑːm
+طعنو	təʔnoː	wikipron	tənoː
+طعنوں	təʔnõː	wikipron	tənõː
+طعنہ	təʔnɑː	wikipron	tənɑː
+طعنے	təʔneː	wikipron	təneː
+طفل	tɪfl	wikipron	
+طلاق	təlɑːq	wikipron	
+طلب	tələb	wikipron	
+طلبگاروں	tələbɡɑːrõː	wikipron	
+طلعت	tələt	wikipron	
+طلوع	tʊluːʔ	wikipron	tʊluː
+طوائف	təʋɑːjəf	wikipron	təʋɑːɪf
+طوبی	tuːbɑː	wikipron	
+طور	tɔːr	gold	
+طوفان	tuːfɑːn	wikipron	
+طیاروں	təjjɑːrõː	wikipron	
+طیارہ	təjjɑːrɑː	wikipron	təjjɑːrɑ
+طیارے	təjjɑːreː	wikipron	
+طیب	tiːb	wikipron	təjjɪb
+طیر	tɛːr	wikipron	
+طے	tɛː	wikipron	təj
+ظالم	zɑːlɪm	wikipron	
+ظرف	zərəf	wikipron	zərf
+ظروف	zʊruːf	wikipron	
+ظفر	zəfər	wikipron	
+ظلم	zʊlm	wikipron	
+ظہرانہ	zohrɑːnɑː	wikipron	zohrɑːnɑ
+ظہور	zʊhuːr	wikipron	zəhuːr
+عائلہ	ʔɑːɪlɑː	wikipron	ɑːɪlɑː;ʔɑːɪlɑ;ɑːɪlɑ
+عائلی	ʔɑːɪliː	wikipron	ɑːɪliː
+عابد	ʔɑːbɪd	wikipron	ɑːbɪd
+عابدہ	ʔɑːbɪdɑː	wikipron	ɑːbɪdɑː;ʔɑːbɪdɑ;ɑːbɪdɑ
+عاجزی	ʔɑːʤɪziː	wikipron	ɑːʤɪziː
+عادت	ɑːdət	wikipron	
+عاشق	ʔɑːʃɪq	wikipron	ɑːʃɪq
+عاصی	ʔɑːsiː	wikipron	ɑːsiː
+عالم	ɑːləm	wikipron	ɑːlɪm
+عالیہ	ʔɑːlɪjɑː	wikipron	ɑːlɪjɑː;ʔɑːlɪjɑ;ɑːlɪjɑ
+عام	ʔɑːm	wikipron	ɑːm
+عاملہ	ʔɑːmɪlɑː	wikipron	ɑːmɪlɑː;ʔɑːmɪlɑ;ɑːmɪlɑ
+عبادت	ʔɪbɑːdət	wikipron	ɪbɑːdət
+عبادتوں	ʔɪbɑːdətõː	wikipron	ɪbɑːdətõː
+عبادتی	ɪbɑːdətiː	wikipron	
+عبادتیں	ʔɪbɑːdətẽː	wikipron	ɪbɑːdətẽː
+عبدالقدیر	əbdʊlqədiːr	gold	
+عبرانی	ɪbrɑːniː	wikipron	
+عبری	ɪbriː	wikipron	
+عجائب	əʤɑːeːb	wikipron	əʤɑːɪb
+عجب	ʔəʤəb	wikipron	əʤəb
+عجمی	əʤəmiː	wikipron	
+عجوبہ	əʤuːbɑː	wikipron	
+عجیب	əʤiːb	wikipron	
+عدالت	ədɑːlət	wikipron	
+عدس	ʔədəs	wikipron	ədəs
+عدم	ʔədəm	wikipron	ədəm
+عذاب	ʔəzɑːb	wikipron	əzɑːb
+عراق	ɪrɑːq	wikipron	
+عربستان	ʔərbɪstɑːn	wikipron	ərbɪstɑːn
+عربی	ʔərbiː	wikipron	ərbiː
+عرش	ʔərʃ	wikipron	ərʃ
+عرشی	ʔərʃiː	wikipron	ərʃiː
+عرض	ərz	wikipron	
+عرضی	ərziː	wikipron	
+عرف	ʊrf	wikipron	
+عرق	ʔərəq	wikipron	ərəq
+عروج	ʔʊruːʤ	wikipron	ʊruːʤ;əruːʤ
+عزت	ʔɪzzət	wikipron	ɪzzət
+عزیز	əziːz	wikipron	
+عسل	ʔəsəl	wikipron	əsəl
+عشائیہ	ʔɪʃɑːɪjɑː	wikipron	ɪʃɑːɪjɑː;ʔɪʃɑːɪjɑ;ɪʃɑːɪjɑ
+عشق	ʔɪʃq	wikipron	ɪʃq
+عشقو	ʔɪʃqoː	wikipron	ɪʃqoː
+عشقوں	ʔɪʃqõː	wikipron	ɪʃqõː
+عصیان	ʔɪsjɑːn	wikipron	ɪsjɑːn
+عضو	ʊzʋ	wikipron	
+عطر	ʔətr	wikipron	ʔɪtr;ətr;ɪtr
+عظمت	ʔəzəmət	wikipron	əzəmət;ʔəzmət;əzmət
+عظمتو	ʔəzmətoː	wikipron	əzmətoː
+عظمتوں	ʔəzmətõː	wikipron	əzmətõː
+عظمتیں	ʔəzmətẽː	wikipron	əzmətẽː
+عظیم	ʔəziːm	wikipron	əziːm
+عفو	ʔəfʊʋʋ	wikipron	əfʊʋʋ;ʔəfʋ;əfʋ
+عقاب	ʔɪqɑːb	wikipron	ʔʊqɑːb;ɪqɑːb;ʊqɑːb
+عقل	ʔəql	wikipron	əql
+عقلمند	ʔəqlmənd	wikipron	əqlmənd
+عقیلہ	əqiːlɑː	wikipron	əqiːlɑ
+علاقو	ʔɪlɑːqoː	wikipron	ɪlɑːqoː
+علاقوں	ʔɪlɑːqõː	wikipron	ɪlɑːqõː
+علاقہ	ʔɪlɑːqɑː	wikipron	ɪlɑːqɑː;ʔɪlɑːqɑ;ɪlɑːqɑ
+علاقے	ʔɪlɑːqeː	wikipron	ɪlɑːqeː
+علامت	ʔəlɑːmət	wikipron	əlɑːmət;ɪlɑːmət
+علامتو	ʔəlɑːmətoː	wikipron	əlɑːmətoː
+علامتیں	ʔəlɑːmətẽː	wikipron	əlɑːmətẽː
+علف	ʔələf	wikipron	ələf
+علم	ɪlm	gold	
+علمی	ɪlmiː	wikipron	
+علوم	ʔʊluːm	wikipron	ʊluːm
+علی	ʔəliː	wikipron	ʔəlɑː;əliː;əlɑː;ʔələj;ələj
+علیحدگی	ʔəlɛːhɪdəɡiː	wikipron	əlɛːhɪdəɡiː
+علیحدہ	ʔəlɑːhɪdɑː	wikipron	ʔəlɛːhɪdɑː;əlɑːhɪdɑː;əlɛːhɪdɑː;ələhdɑː
+علیزہ	ʔəliːzɑː	wikipron	əliːzɑː;ʔəliːzɑ;əliːzɑ
+علینہ	əliːnɑː	wikipron	əliːnɑ
+عمان	əmmɑːn	wikipron	omɑːn
+عمر	ʊmr	gold	
+عمران	ʔɪmrɑːn	wikipron	ɪmrɑːn
+عمرکوٹ	ʔʊmərkoːʈ	wikipron	
+عمرہ	ʊmrɑː	wikipron	
+عمل	əməl	wikipron	
+عملہ	ʔəməlɑː	wikipron	əməlɑː
+عموما	əmuːmən	wikipron	ʊmuːmən
+عنایات	ʔɪnɑːjɑːt	wikipron	ɪnɑːjɑːt
+عنایت	ʔɪnɑːjət	wikipron	ɪnɑːjət
+عنایتوں	ʔɪnɑːjətõː	wikipron	ɪnɑːjətõː
+عنایتیں	ʔɪnɑːjətẽː	wikipron	ɪnɑːjətẽː
+عنب	ɪneːb	wikipron	
+عنصر	ʔʊnsʊr	wikipron	ʊnsər;ʊnsʊr
+عنوان	ʔʊnʋɑːn	wikipron	ənʋɑːn;ʊnʋɑːn
+عوام	ʔəʋɑːm	wikipron	əʋɑːm
+عورت	ɔːrət	gold	
+عورتو	ɔːrətoː	wikipron	ɔːrtoː
+عورتوں	ɔːrətõː	wikipron	ɔːrtõː
+عورتیں	ɔːrətẽː	wikipron	ɔːrtẽː
+عکرشہ	ʔɪkrəʃɑː	wikipron	
+عکس	ʔəks	wikipron	əks
+عہد	əhəd	wikipron	ɛhɛd
+عہدوں	ʔʊhdõː	wikipron	ʊhdõː
+عہدہ	ʊhdɑː	wikipron	
+عہدے	ʔʊhdeː	wikipron	ʊhdeː
+عیادت	ɪjɑːdət	wikipron	əjɑːdət
+عیادتوں	ʔɪjɑːdətõː	wikipron	ɪjɑːdətõː
+عیادتیں	ʔɪjɑːdətẽː	wikipron	ɪjɑːdətẽː
+عیاشی	ʔəjjɑːʃiː	wikipron	ʔəijɑːʃiː;əjjɑːʃiː;əijɑːʃiː
+عیاں	ʔəjɑ̃ː	wikipron	əjɑ̃ː
+عیب	ʔɛːb	wikipron	ɛːb
+عید	ʔiːd	wikipron	iːd
+عیسائی	ʔiːsɑːiː	wikipron	iːsɑːiː
+عیسی	iːsɑː	wikipron	
+عیش	ʔɛːʃ	wikipron	ɛːʃ
+عین	ʔɛːn	wikipron	ɛːn
+عینک	ɛːnək	wikipron	
+غار	ɣɑːr	wikipron	
+غاروں	ɣɑːrõː	wikipron	
+غالب	ɣɑːlɪb	gold	
+غالبا	ɣɑːlɪbən	wikipron	
+غدار	ɣəddɑːr	wikipron	
+غدارو	ɣəddɑːroː	wikipron	
+غداروں	ɣəddɑːrõː	wikipron	
+غذا	ɣɪzɑː	wikipron	
+غرض	ɣərəz	wikipron	
+غرق	ɣərq	wikipron	
+غرناطہ	ɣərnɑːtɑːh	wikipron	ɣərnɑːtɑ
+غروب	ɣʊruːb	wikipron	
+غرور	ɣʊruːr	wikipron	
+غریب	ɣəriːb	wikipron	
+غریبوں	ɣəriːbõː	wikipron	
+غزل	ɣəzəl	wikipron	
+غزوہ	ɣəzʋɑː	wikipron	
+غزہ	ɣəzzɑː	wikipron	ɣəzzɑ
+غسل	ɣʊsl	wikipron	
+غسلخانہ	ɣʊslxɑːnɑː	wikipron	
+غش	ɣəʃ	wikipron	
+غضب	ɣəzəb	wikipron	
+غفلت	ɣəflət	wikipron	
+غلامو	ɣʊlɑːmoː	wikipron	
+غلاموں	ɣʊlɑːmõː	wikipron	
+غلط	ɣələt	gold	
+غلطی	ɣələtiː	gold	
+غلطیاں	ɣələtɪjɑ̃ː	wikipron	
+غلطیو	ɣələtɪjoː	wikipron	
+غلطیوں	ɣələtɪjõː	wikipron	
+غلہ	ɣəllɑː	wikipron	
+غلیظ	ɣəliːz	wikipron	
+غم	ɣəm	wikipron	
+غمر	ɣʊmər	wikipron	
+غمو	ɣəmoː	wikipron	
+غمگین	ɣəmɡiːn	wikipron	
+غنودگی	ɣʊnuːdəɡiː	wikipron	ɣənuːdɡiː
+غنودگیاں	ɣʊnuːdəɡɪjɑ̃ː	wikipron	
+غنودگیوں	ɣʊnuːdəɡɪjõː	wikipron	
+غنودہ	ɣʊnuːdɑː	wikipron	ɣʊnuːdɑ
+غنڈہ	ɣʊnɖɑː	wikipron	
+غور	ɣɔːr	wikipron	
+غوطہ	ɣoːtə	wikipron	
+غوٹہ	ɣoːʈɑː	wikipron	
+غٹاغٹ	ɣəʈɑːɣəʈ	wikipron	
+غژماں	ɣʊʒmɑ̃ː	wikipron	
+غیر	ɣɛːr	wikipron	
+غیرت	ɣɛːrət	wikipron	
+فائدہ	fɑːɪdə	wikipron	
+فادر	fɑːdər	wikipron	
+فارسی	fɑːrsiː	wikipron	
+فارغ	fɑːrɪɣ	wikipron	
+فاس	fɑːs	wikipron	
+فاسد	fɑːsɪd	wikipron	
+فاصلہ	fɑːsɪlɑː	wikipron	fɑːslɑː
+فاقہ	fɑːqɑː	wikipron	
+فالتو	fɑːltuː	wikipron	
+فالج	fɑːlɪʤ	wikipron	
+فالجوں	fɑːlɪʤõː	wikipron	
+فالحال	fɪlhɑːl	wikipron	
+فالسئی	fɑːlsəiː	wikipron	
+فالسہ	fɑːlsɑː	wikipron	fɑːlsɑ
+فالودہ	fɑːluːdɑː	wikipron	fɑːluːdɑ
+فانوس	fɑːnuːs	wikipron	
+فانی	fɑːniː	wikipron	
+فاکہہ	fɑːkɪhɑː	wikipron	fɑːkɪhɑ
+فایدہ	fɑːjɪdə	wikipron	
+فتنہ	fɪtnɑː	wikipron	fɪtnɑ
+فتور	fʊtuːr	wikipron	fətuːr;fɪtuːr
+فتورو	fʊtuːroː	wikipron	
+فتوروں	fʊtuːrõː	wikipron	
+فتیلہ	fətiːlə	wikipron	
+فجی	fɪʤiː	wikipron	
+فحش	fʊhʃ	wikipron	
+فخر	fəxr	wikipron	
+فدیہ	fɪdɪjɑː	wikipron	fɪdjɑː;fɪdɪjɑ;fɪdjɑ
+فرات	fərɑːt	wikipron	fʊrɑːt
+فراز	fərɑːz	wikipron	
+فراق	fɪrɑːq	wikipron	
+فراموش	fərɑːmoːʃ	wikipron	
+فراموشی	fərɑːmoːʃiː	wikipron	
+فرانس	frɑːns	wikipron	fərɑ̃ːs;frɑ̃ːs
+فرانسیسی	fərɑːnsiːsiː	wikipron	frɑːnsiːsiː
+فراہم	fərɑːhəm	wikipron	
+فرزند	fərzənd	wikipron	
+فرزین	fərziːn	wikipron	
+فرزیں	fərzĩː	wikipron	
+فرش	fərʃ	wikipron	
+فرشتو	fərɪʃtoː	wikipron	
+فرشتوں	fərɪʃtõː	wikipron	
+فرشتہ	fərɪʃtɑː	wikipron	fɪrɪʃtɑː;fərɪʃtɑ;fɪrɪʃtɑ
+فرشتے	fərɪʃteː	wikipron	
+فرصت	fʊrsət	wikipron	
+فرصتو	fʊrsətoː	wikipron	
+فرصتوں	fʊrsətõː	wikipron	
+فرصتیں	fʊrsətẽː	wikipron	
+فرض	fərəz	wikipron	fərz
+فرضی	fərziː	wikipron	
+فرعون	fɪrʔɔːn	wikipron	fɪrɔːn
+فرقہ	fɪrqɑː	wikipron	fɪrqɑ
+فرمائش	fərmɑːɪʃ	wikipron	
+فرمان	fərmɑːn	wikipron	
+فرمانا	fərmɑːnɑː	wikipron	
+فرنگی	fərəŋɡiː	wikipron	fɪrəŋɡiː
+فروری	fərʋəriː	gold	
+فرہاد	fərhɑːd	wikipron	
+فرہنگ	fərhəŋɡ	wikipron	
+فریاد	fərjɑːd	wikipron	
+فریال	fərjɑːl	wikipron	
+فریب	fəreːb	wikipron	
+فریبو	fəreːboː	wikipron	
+فریبوں	fəreːbõː	wikipron	
+فریق	fəriːq	wikipron	
+فرینکفرٹ	frɛːŋkfərʈ	wikipron	
+فزان	fəzzɑːn	wikipron	
+فساد	fəsɑːd	wikipron	
+فسادی	fəsɑːdiː	wikipron	
+فسانہ	fəsɑːnɑː	wikipron	fəsɑːnɑ
+فصل	fəsl	wikipron	
+فضا	fəzɑː	wikipron	fɪzɑː
+فضائیہ	fɪzɑːɪjɑː	wikipron	fɪzɑːɪjɑ
+فضلو	fəzloː	wikipron	
+فضلوں	fəzlõː	wikipron	
+فضول	fʊzuːl	wikipron	fəzuːl;fɪzuːl
+فطرت	fɪtrət	wikipron	
+فعل	feːʔl	wikipron	feːl;fɪʔl;fɪl
+فغاں	fʊɣɑ̃ː	wikipron	
+فقروں	fɪqrõː	wikipron	
+فقرہ	fɪqrɑː	wikipron	fɪkrɑː;fɪqrɑ
+فقرے	fɪqreː	wikipron	
+فلائٹ	flɑːɪʈ	wikipron	
+فلاں	fʊlɑ̃ː	wikipron	
+فلسطین	fɪlɪstiːn	wikipron	
+فلم	fɪlm	wikipron	
+فلپائن	fɪlɪpɑːɪn	wikipron	fɪlpɑːɪn
+فلک	fələk	wikipron	
+فلکیات	fəlkiːjɑːt	wikipron	
+فن	fən	wikipron	
+فوتگی	fɔːtəɡiː	wikipron	fɔːtɪɡiː
+فوج	fɔːʤ	wikipron	
+فوجو	foːʤoː	wikipron	
+فوجوں	foːʤõː	wikipron	
+فوجی	fɔːʤiː	wikipron	
+فوجیں	foːʤẽː	wikipron	
+فورا	fɔːrən	wikipron	
+فولاد	fuːlɑːd	wikipron	fɔːlɑːd
+فولادو	fɔːlɑːdoː	wikipron	
+فولادوں	fɔːlɑːdõː	wikipron	
+فون	foːn	gold	
+فٹ	fʊʈ	wikipron	
+فٹافٹ	fəʈɑːfəʈ	wikipron	pʰ
+فکر	fɪkr	wikipron	
+فہرست	fəhrɪst	wikipron	fɛhrɪst
+فہرستو	feːhrɪstoː	wikipron	
+فہرستوں	feːhrɪstõː	wikipron	
+فہرستیں	feːhrɪstẽː	wikipron	
+فہم	fɛhɛm	wikipron	fəhm;fɛhm
+فیروزہ	fiːroːzɑː	wikipron	fiːroːzɑ
+فیروزی	feːroːziː	wikipron	
+فیصد	fiːsəd	gold	
+فیصل	fɛːsəl	wikipron	
+فیضانو	fɛːzɑːnoː	wikipron	
+فیل	fiːl	wikipron	
+فیلا	fiːlɑː	wikipron	
+فیلان	fiːlɑːn	wikipron	
+فیلاں	fiːlɑ̃ː	wikipron	
+فیلہ	fiːlɑː	wikipron	fɪjəlɑː
+قائل	qɑːʔɪl	wikipron	qɑːɪl
+قائم	qɑːjɪm	wikipron	
+قاب	qɑːb	wikipron	
+قابض	qɑːbɪz	wikipron	
+قابل	qɑːbɪl	wikipron	
+قابلیت	qɑːblɪjət	wikipron	
+قاتل	kɑːtəl	wikipron	qɑːtɪl
+قادیان	qɑːdɪjɑːn	wikipron	
+قاری	qɑːriː	wikipron	
+قاضی	qɑːziː	wikipron	
+قاعدو	qɑːʔɪdoː	wikipron	qɑːɪdoː
+قاعدوں	qɑːʔɪdõː	wikipron	qɑːɪdõː
+قاعدے	qɑːʔɪdeː	wikipron	qɑːɪdeː
+قافلو	qɑːfɪloː	wikipron	
+قافلوں	qɑːfɪlõː	wikipron	
+قافلہ	qɑːfɪlɑː	wikipron	qɑːflɑː;kɑːflɑː;qɑːfɪlɑ;qɑːflɑ
+قافلے	qɑːfɪleː	wikipron	
+قافیہ	qɑːfɪjɑː	wikipron	
+قاقم	qɑːqʊm	wikipron	
+قالین	qɑːliːn	wikipron	
+قالینوں	qɑːliːnõː	wikipron	
+قاموس	qɑːmuːs	wikipron	
+قانون	qɑːnuːn	wikipron	
+قانونوں	qɑːnuːnõː	wikipron	
+قانونی	qɑːnuːniː	wikipron	
+قاچاقی	qɑːʧɑːqiː	wikipron	
+قاہرہ	qɑːhɪrɑː	wikipron	qɑːhɪrɑ
+قباحت	qəbɑːhət	wikipron	
+قباحتو	qəbɑːhətoː	wikipron	
+قباحتیں	qəbɑːhətẽː	wikipron	
+قبر	qəbr	wikipron	
+قبرستان	qəbrɪstɑːn	wikipron	
+قبرص	qɪbrɪs	wikipron	
+قبض	qəbəz	wikipron	qəbz
+قبضوں	qəbzõː	wikipron	
+قبضہ	qəbzɑː	wikipron	qəbzɑ
+قبل	qəbl	wikipron	
+قبلتین	qɪblətɛːn	wikipron	
+قبول	qʊbuːl	wikipron	
+قتل	qətl	wikipron	
+قدر	qədr	wikipron	
+قدرت	qʊdrət	wikipron	
+قدرتو	qʊdrətoː	wikipron	
+قدرتوں	qʊdrətõː	wikipron	
+قدم	qədəm	wikipron	qɪdəm
+قدیم	qədiːm	wikipron	
+قرار	qərɑːr	wikipron	
+قراقرم	qərɑːqʊrəm	wikipron	
+قربان	qʊrbɑːn	wikipron	
+قربانی	qʊrbɑːniː	wikipron	
+قرض	qərz	wikipron	
+قرمز	qɪrmɪz	wikipron	
+قرمزی	qɪrmɪziː	wikipron	
+قرنطینہ	qərəntiːnɑː	wikipron	qərəntiːnɑ
+قرہ	qərɑː	wikipron	
+قریب	kəriːb	wikipron	qəriːb
+قسط	qɪst	wikipron	kɪst
+قسطنطنیہ	qʊstʊntʊnɪjɑː	wikipron	
+قسطوں	qɪstõː	wikipron	
+قسطیں	qɪstẽː	wikipron	
+قسم	qəsəm	wikipron	qɪsm
+قسموں	qəsəmõː	wikipron	qɪsmõː
+قسمیں	qəsəmẽː	wikipron	qɪsmẽː
+قشنگ	qəʃəŋɡ	wikipron	
+قصائی	qəsɑːiː	wikipron	
+قصاب	qəssɑːb	wikipron	
+قصاص	qɪsɑːs	wikipron	
+قصبات	qəsbɑːt	wikipron	
+قصبوں	qəsbõː	wikipron	
+قصبے	qəsbeː	wikipron	
+قصور	qəsuːr	wikipron	qʊsuːr
+قصہ	qɪssɑː	wikipron	qɪssɑ
+قصیدو	qəsiːdoː	wikipron	
+قصیدوں	qəsiːdõː	wikipron	
+قصیدہ	qəsiːdɑː	wikipron	qəsiːdɑ
+قصیدے	qəsiːdeː	wikipron	
+قضا	qəzɑː	wikipron	qəzɑ
+قضات	qʊzɑːt	wikipron	
+قضیب	qəziːb	wikipron	
+قطار	qɪtɑːr	wikipron	
+قطب	qʊtəb	wikipron	qʊtʊb;qʊtb
+قطر	qətər	wikipron	
+قطرہ	qətrɑː	wikipron	qətrɑ
+قطعی	qətəiː	wikipron	
+قفس	qəfəs	wikipron	
+ققنس	qəqnʊs	wikipron	
+ققنوس	qʊqnuːs	wikipron	
+قلب	qəlb	wikipron	
+قلع	qəlʔ	wikipron	qəl
+قلعو	qɪlʔoː	wikipron	qɪloː
+قلعوں	qɪlʔõː	wikipron	qɪlõː
+قلعہ	qəlʔɑː	wikipron	qɪlʔɑː;kɪlɑː;qɪlɑː;qəlʔɑ;qɪlʔɑ
+قلعے	qɪlʔeː	wikipron	qɪleː
+قلفی	qʊlfiː	wikipron	
+قلم	qələm	gold	
+قلندر	qələndər	wikipron	
+قلی	qʊliː	wikipron	
+قمچی	qʊmʧiː	wikipron	
+قمیص	qəmiːs	wikipron	
+قمیض	qəmiːz	wikipron	
+قواعد	qəʋɑːjəd	wikipron	
+قوالی	qəʋʋɑːliː	wikipron	
+قوانین	qəʋɑːniːn	wikipron	
+قوت	quːt	wikipron	qʊʋʋət
+قوطی	quːtiː	wikipron	
+قوق	qɔːq	wikipron	
+قول	qɔːl	wikipron	
+قوم	qɔːm	gold	
+قومی	qɔːmiː	wikipron	
+قومیت	qɔːmɪjət	wikipron	
+قہر	qəhr	wikipron	
+قہرمان	qəhrmɑːn	wikipron	
+قہقہہ	qəhqəhɑː	wikipron	
+قہوہ	qəhʋɑː	wikipron	qəhʋɑ
+قیادت	qɪjɑːdət	wikipron	
+قید	qɛːd	wikipron	
+قیمت	qiːmət	gold	
+قیمہ	kiːmɑː	wikipron	qiːmɑː
+قینچی	qɛ̃ːʧiː	wikipron	
+قے	qɛː	wikipron	
+لئے	lɪeː	gold	
+لائبریری	lɑːɪbreːriː	wikipron	
+لائٹر	lɑːɪʈər	wikipron	
+لاج	lɑːʤ	wikipron	
+لاجوردی	lɑːʤʋərdiː	wikipron	
+لاجوں	lɑːʤõː	wikipron	
+لاجیں	lɑːʤẽː	wikipron	
+لاحق	lɑːhɪq	wikipron	
+لازم	lɑːzɪm	wikipron	
+لاش	lɑːʃ	wikipron	
+لاشو	lɑːʃoː	wikipron	
+لاشیں	lɑːʃẽː	wikipron	
+لاطینی	lɑːtiːniː	wikipron	
+لال	lɑːl	wikipron	
+لالٹین	lɑːlʈeːn	wikipron	
+لالہ	lɑːlɑː	wikipron	lɑːlɑ
+لانڈگا	lɑ̃ːɖɡɑː	wikipron	
+لاوارث	lɑːʋɑːrɪs	wikipron	
+لاٹری	lɑːʈəriː	wikipron	lɑːʈriː
+لاپروا	lɑːpərʋɑː	wikipron	
+لاڈلہ	lɑːɖlɑː	wikipron	
+لاڑکانہ	lɑːɽkɑːnɑː	wikipron	lɑːɽkɑːnɑ
+لاکھ	lɑːkʰ	gold	
+لاگت	lɑːɡət	wikipron	
+لاگتوں	lɑːɡətõː	wikipron	
+لاگتیں	lɑːɡətẽː	wikipron	
+لاہور	lɑːhɔːr	gold	
+لاہوری	lɑːhɔːriː	wikipron	
+لب	ləb	wikipron	
+لبنان	ləbnɑːn	wikipron	lɪbnɑːn
+لبوں	ləbõː	wikipron	
+لبھانا	lʊbʰɑːnɑː	wikipron	
+لتھوینیا	lɪtʰʊeːnɪjɑː	wikipron	
+لجنہ	ləʤənɑː	wikipron	ləʤnɑː;ləʤənɑ;ləʤnɑ
+لحظوں	ləhzõː	wikipron	
+لحظہ	ləhzɑː	wikipron	lɛhzɑː;ləhzɑ
+لحظے	ləhzeː	wikipron	
+لحم	ləhəm	wikipron	
+لداخ	ləddɑːx	wikipron	
+لذات	ləzzɑːt	wikipron	
+لذت	ləzzət	wikipron	
+لذتوں	ləzzətõː	wikipron	
+لذتیں	ləzzətẽː	wikipron	
+لرزاں	lərzɑ̃ː	wikipron	
+لسان	lɪsɑːn	wikipron	
+لسانیات	lɪsɑːnɪjɑːt	wikipron	
+لشکر	ləʃkər	wikipron	
+لطفا	lʊtfən	wikipron	
+لطیفہ	lətiːfɑː	wikipron	lətiːfɑ
+لعب	ləʔb	wikipron	ləb
+لغت	lʊɣət	wikipron	
+لغو	ləɣʋ	wikipron	
+لغوی	lʊɣʋiː	wikipron	
+لفافو	lɪfɑːfoː	wikipron	
+لفافوں	lɪfɑːfõː	wikipron	
+لفافے	lɪfɑːfeː	wikipron	
+لفظ	ləfz	wikipron	ləvz
+لفنگا	ləfəŋɡɑː	wikipron	
+لقب	ləqəb	wikipron	
+لقمان	lʊqmɑːn	wikipron	
+للاٹ	ləlɑːʈ	wikipron	
+لمبا	ləmbɑː	wikipron	
+لمبائی	lə̃mbɑːiː	wikipron	
+لمحاتی	ləmhɑːtiː	wikipron	
+لمحہ	ləmhə	wikipron	
+لمپٹ	ləmpəʈ	wikipron	
+لندن	ləndən	wikipron	
+لنگ	lɪŋɡ	wikipron	
+لنگایت	lɪŋɡɑːjət	wikipron	
+لوبیا	loːbɪjɑː	wikipron	
+لوتھ	loːtʰ	wikipron	
+لودہراں	loːdʰrɑ̃ː	wikipron	
+لوری	loːriː	wikipron	
+لوسیل	luːsɛːl	wikipron	
+لومڑی	loːmɽiː	wikipron	
+لوٹا	loːʈɑː	wikipron	luːʈɑː;lɔːʈɑː
+لوٹوں	loːʈõː	wikipron	
+لوٹے	loːʈeː	wikipron	
+لوگ	loːɡ	gold	
+لوگو	loːɡoː	wikipron	
+لوگوں	loːɡõː	gold	
+لوہار	loːhɑːr	wikipron	
+لوہوں	loːhõː	wikipron	
+لوہے	loːheː	wikipron	
+لٹکنا	ləʈəknɑː	wikipron	
+لپٹنا	lɪpəʈnɑː	wikipron	
+لڑائی	ləɽɑːiː	wikipron	
+لڑنا	ləɽnɑː	wikipron	
+لڑکا	ləɽkɑː	gold	
+لڑکی	ləɽkiː	gold	
+لڑھکنا	lʊɽʰəknɑː	wikipron	
+لکشادیپ	ləkʃɑːdiːp	wikipron	
+لکشمی	ləkʃmiː	wikipron	
+لکڑی	ləkɽiː	wikipron	
+لکھنؤ	ləkʰnəuː	wikipron	
+لکھنا	lɪkʰnɑː	wikipron	
+لکھنوی	ləkʰnəʋiː	wikipron	
+لکیر	ləkiːr	wikipron	
+لگام	ləɡɑːm	wikipron	
+لگانا	ləɡɑːnɑː	wikipron	
+لگن	ləɡən	wikipron	
+لگے	ləɡeː	wikipron	
+لہجوں	ləhʤõː	wikipron	
+لہجہ	ləhʤɑː	wikipron	lɛhʤɑː;ləhʤɑ
+لہجے	ləhʤeː	wikipron	
+لہذا	lɪhɑːzɑː	wikipron	
+لہسن	ləhsʊn	wikipron	ləsən
+لہنگا	lɛːhɛːŋɡɑː	wikipron	lɛːhŋɡɑː
+لہو	ləhuː	wikipron	
+لہہ	leːh	wikipron	
+لیئج	lɪjeːʤ	wikipron	lɪeːʤ
+لیا	lɪjɑː	gold	
+لیبیا	liːbɪjɑː	wikipron	
+لیسٹر	lɛːsʈər	wikipron	
+لیل	liːl	wikipron	
+لیلی	lɛːlɑː	wikipron	
+لیموں	liːmuː	wikipron	liːmũː
+لینا	leːnɑː	gold	
+لیون	lɪjoːn	wikipron	lɪjɔːn
+لیوں	lɪjõː	wikipron	lɪjɔ̃ː
+لیٹنا	leːʈnɑː	wikipron	
+لیکن	leːkɪn	gold	
+لیکھ	leːkʰ	wikipron	
+لیکھنی	leːkʰəniː	wikipron	
+لیکھک	leːkʰək	wikipron	
+لیہہ	leːh	wikipron	
+لیے	lɪeː	gold	
+لے	leː	gold	
+مآل	məɑːl	wikipron	
+مآلات	məɑːlɑːt	wikipron	
+مؤثر	mʊʔəssɪr	wikipron	mʊəssɪr
+مؤذن	mʊəzzɪn	wikipron	
+مؤسسہ	mʊʔəssɪsə	wikipron	mʊəssɪsə
+مؤنث	mʊʔənnəs	wikipron	mʊənnəs
+مئی	məiː	gold	
+ماتا	mɑːtɑː	wikipron	
+ماتم	mɑːtəm	wikipron	
+ماتھا	mɑːtʰɑː	wikipron	
+ماتھو	mɑːtʰoː	wikipron	
+ماتھوں	mɑːtʰõː	wikipron	
+ماتھے	mɑːtʰeː	wikipron	
+ماخولیا	mɑːxuːlɪjɑː	wikipron	
+مادہ	mɑːddɑː	wikipron	mɑːdɑː
+مادیت	mɑːddɪjət	wikipron	
+مارتول	mɑːrtoːl	wikipron	mɑːrtɔːl
+مارنا	mɑːrnɑː	wikipron	
+مارونی	mɑːruːniː	wikipron	
+مارچ	mɑːrʧ	gold	
+مارگ	mɑːrɡ	wikipron	
+ماسٹر	mɑːsʈər	wikipron	
+ماسی	mɑːsiː	wikipron	
+ماضی	mɑːziː	wikipron	
+مالدووا	mɑːldoːʋɑː	wikipron	
+مالٹا	mɑːlʈɑː	wikipron	
+مالٹوں	mɑːlʈõː	wikipron	
+مالٹے	mɑːlʈeː	wikipron	
+مالک	mɑːlɪk	wikipron	
+مالیخولیا	mɑːliːxuːlɪjɑː	wikipron	
+ماما	mɑːmɑː	wikipron	
+مامے	mɑːmeː	wikipron	
+ماندہ	mɑːndɑː	wikipron	mɑ̃ːdɑː;mɑːndɑ;mɑ̃ːdɑ
+مانسہرہ	mɑːnsɛhrɑː	wikipron	mɑːnsɛhrɑ
+مانوس	mɑːnuːs	wikipron	
+مانچسٹر	mɑːnʧɪsʈər	wikipron	mɑ̃ːʧesʈər;mɑ̃ːʧəsʈər
+مانگ	mɑːŋɡ	wikipron	
+مانگنا	mɑːŋɡnɑː	wikipron	
+ماں	mɑ̃ː	gold	
+ماہ	mɑːh	wikipron	
+ماہانہ	mɑːhɑːnɑː	wikipron	
+ماہر	mɑːhɪr	wikipron	
+ماہرین	mɑːhɪriːn	wikipron	
+ماہی	mɑːhiː	wikipron	
+ماہ‌جبیں	mɑːhʤəbĩː	wikipron	
+مایوس	mɑːjuːs	wikipron	
+مبارزہ	mʊbɑːrəzɑː	wikipron	
+مبارک	mʊbɑːrək	wikipron	mʊbɑːrɪk
+مبلغ	mʊbəllɪɣ	wikipron	məbləɣ;mʊbləɣ
+مبنی	məbnɑː	wikipron	
+مت	mət	gold	
+متجسس	mʊtəʤəssɪs	wikipron	
+مترا	mɪtrɑː	wikipron	
+مترائی	mɪtrɑːiː	wikipron	
+مترجم	mʊtərʤɪm	wikipron	
+متسیہ	mətsjɑː	wikipron	mətsjɑ
+متعارف	mʊtəʔɑːrəf	wikipron	mʊtəɑːrəf
+متعدد	mʊtəʔəddɪd	wikipron	mʊ̆təddəd
+متفرق	mʊtəfərrɪq	wikipron	
+متلی	mətliː	wikipron	
+متنوع	mʊtənəʋʋeːʔ	wikipron	mʊtənəʋʋeː
+متوالا	mətʋɑːlɑː	wikipron	
+متوالی	mʊtəʋɑːliː	wikipron	
+متولی	mʊtəʋəlliː	wikipron	
+متکلم	mʊtəkəllɪm	wikipron	
+مثال	mɪsɑːl	wikipron	
+مثلا	məsələn	wikipron	məslən
+مثلثیات	mʊsəlsɪjɑːt	wikipron	
+مجارستان	məʤɑːrɪstɑːn	wikipron	
+مجبور	məʤbuːr	wikipron	
+مجرم	mʊʤrɪm	wikipron	
+مجمعو	məʤmoː	wikipron	
+مجمعوں	məʤmõː	wikipron	
+مجمعے	məʤmeː	wikipron	
+مجموعو	məʤmuːʔoː	wikipron	məʤmuːoː
+مجموعوں	məʤmuːʔõː	wikipron	məʤmuːõː
+مجموعہ	məʤmuːʔɑː	wikipron	məʤmuːʔɑ;məʤmuɑː
+مجنون	məʤnuːn	wikipron	
+مجھ	mʊʤʰ	gold	
+مجھے	mʊʤʰeː	gold	
+مجہول	məʤhuːl	wikipron	
+محاسب	mʊhɑːsɪb	wikipron	
+محافظ	mʊhɑːfɪz	wikipron	
+محافظت	mʊhɑːfəzət	wikipron	
+محافظو	mʊhɑːfɪzoː	wikipron	
+محافظوں	mʊhɑːfɪzõː	wikipron	
+محال	mʊhɑːl	wikipron	mohɑːl
+محبت	mʊhəbbət	gold	
+محبتوں	mʊhəbbətõː	wikipron	
+محبتیں	mʊhəbbətẽː	wikipron	
+محتاط	mʊhtɑːt	wikipron	
+محترم	moːhtərəm	wikipron	mʊhtərəm
+محترمہ	moːhtərmɑː	wikipron	mʊhtərmɑː
+محتسب	moːhtəsɪb	wikipron	
+محراب	meːhrɑːb	wikipron	mɪhrɑːb;mɛʰrɑːb
+محروم	məhruːm	wikipron	mɛhruːm
+محسن	moːhsɪn	wikipron	
+محسوس	məhsuːs	wikipron	mɛhsuːs;məsuːs
+محشر	məhʃər	wikipron	
+محفل	məhfɪl	wikipron	
+محل	məhəl	wikipron	mɛhɛl
+محلات	məhəllɑːt	wikipron	
+محلوں	məhəllõː	wikipron	məhəlõː
+محلہ	mohəllɑː	wikipron	məhəllɑː;mʊhəllɑː;mɔhɔllɑː;mɛhɛllɑː;məhəllɑ;mʊhəllɑ
+محلے	məhəlleː	wikipron	
+محمد	mɔhɔ̃mməd	wikipron	mʊhəmməd
+محمدی	mʊhəmmədiː	wikipron	mɔhɔmmədiː
+محنت	mɪhnət	wikipron	mɛhnət
+محنتو	mɪhnətoː	wikipron	
+محنتوں	mɪhnətõː	wikipron	
+محنتی	mɪhnətiː	wikipron	mɛhnətiː;mɛhɛntiː
+محنتیں	mɪhnətẽː	wikipron	
+محور	mɪhʋər	wikipron	
+مخالف	mʊxɑːlɪf	wikipron	
+مخالفت	mʊxɑːlɪfət	wikipron	mʊxɑːlfət
+مخالفتیں	mʊxɑːlɪfətẽː	wikipron	
+مختصر	mʊxtəsər	wikipron	
+مختصرا	mʊxtəsərən	wikipron	
+مختلف	mʊxtələf	wikipron	mʊxtəlɪf
+مخدوم	məxduːm	wikipron	
+مخزن	məxzən	wikipron	
+مخلوط	məxluːt	wikipron	
+مخمل	məxməl	wikipron	
+مخملی	məxməliː	wikipron	
+مدت	mʊddət	wikipron	
+مدد	mədəd	wikipron	mədət
+مددو	mədədoː	wikipron	
+مددوں	mədədõː	wikipron	
+مددیں	mədədẽː	wikipron	
+مدرا	mʊdərɑː	wikipron	
+مدراس	mədrɑːs	wikipron	
+مدعو	mədʔuː	wikipron	məduː
+مدفون	mədfuːn	wikipron	
+مدھو	mədʰuː	wikipron	
+مدہوش	mədhoːʃ	wikipron	
+مدیرا	mədiːrɑː	wikipron	
+مدینہ	mədiːnɑː	wikipron	
+مذاق	məzɑːq	wikipron	
+مذاکرات	mʊzɑːkərɑːt	wikipron	
+مذاکرہ	mʊzɑːkərɑː	wikipron	mʊzɑːkərɑ
+مذمت	məzəmmət	wikipron	
+مذکر	mʊzəkkər	wikipron	
+مذکور	məzkuːr	wikipron	
+مذہب	məzhəb	wikipron	
+مذہبوں	məzhəbõː	wikipron	
+مذہبی	məzhəbiː	wikipron	
+مرا	mɪrɑː	wikipron	merɑː
+مراد	mʊrɑːd	wikipron	
+مراکش	mərɑːkɪʃ	wikipron	
+مربا	mʊrəbbɑː	wikipron	
+مربع	mʊrəbbɑːʔ	wikipron	mʊrəbbɑː
+مربی	mʊrəbbiː	wikipron	
+مرتبہ	mərtəbɑː	wikipron	mərtəbɑ
+مرتیو	mərɪtjuː	wikipron	
+مرثیہ	mərsɪjɑː	wikipron	mərsɪjɑ
+مرد	mərd	wikipron	
+مردار	mʊrdɑːr	wikipron	
+مردان	mərdɑːn	wikipron	
+مردانگی	mɪrdɑːŋɡiː	wikipron	
+مردد	mʊrəddəd	wikipron	mʊrəddɪd
+مردنی	mərdəniː	wikipron	mʊrdəniː
+مردو	mərdoː	wikipron	mʊrdoː
+مردوں	mərdõː	wikipron	mʊrdõː
+مردہ	mʊrdɑː	wikipron	mʊrdɑ
+مردے	mʊrdeː	wikipron	
+مرض	mərəz	wikipron	mərz
+مرعش	mərʔəʃ	wikipron	mərəʃ
+مرغی	mʊrɣiː	wikipron	
+مرغیاں	mʊrɣɪjɑ̃ː	wikipron	
+مرغیو	mʊrɣɪjoː	wikipron	
+مرغیوں	mʊrɣɪjõː	wikipron	
+مرنا	mərnɑː	wikipron	
+مروانا	mərʋɑːnɑː	wikipron	
+مرکزی	mərkəziː	wikipron	
+مرگ	mərɡ	wikipron	mrɪɡ
+مرگی	mɪrɡiː	wikipron	
+مریادا	mərjɑːdɑː	wikipron	
+مریخ	mɪrriːx	wikipron	məriːx;mɪriːx
+مریدکے	mʊriːdkeː	wikipron	
+مریض	məriːz	wikipron	
+مریم	mərɪjəm	wikipron	mərjəm
+مزاج	mɪzɑːʤ	wikipron	
+مزاحمت	mʊzɑːhəmət	wikipron	
+مزدور	məzduːr	wikipron	muzduːr
+مزور	məzuːr	wikipron	
+مزہ	məzɑː	wikipron	məzɑ
+مزیدار	məzeːdɑːr	wikipron	
+مسئلوں	məsəlõː	wikipron	
+مسئلہ	məsələ	gold	
+مسائل	məsɑːɪl	wikipron	
+مساجد	məsɑːʤɪd	wikipron	
+مسافر	mʊsɑːfɪr	wikipron	
+مست	məst	wikipron	
+مستحق	mʊstəhəq	wikipron	
+مستحکم	mʊstəhkəm	wikipron	
+مستراح	mʊstərɑːh	wikipron	
+مسترد	mʊstərəd	wikipron	
+مستری	mɪstəriː	wikipron	mɪstriː
+مستقبل	mʊstəqbɪl	wikipron	
+مستقر	mʊstəqər	wikipron	
+مستقل	mʊstəqɪl	wikipron	
+مسجد	məsʤɪd	wikipron	
+مسجدوں	məsʤɪdõː	wikipron	
+مسجدیں	məsʤɪdẽː	wikipron	
+مسقط	məsqət	wikipron	
+مسلسل	mʊsəlsɪl	wikipron	
+مسلط	mʊsəllət	wikipron	
+مسلم	mʊslɪm	wikipron	
+مسلمان	mʊsəlmɑːn	wikipron	
+مسلمہ	mʊsəlləmɑː	wikipron	mʊsəlləmɑ
+مسود	mʊsəʋʋəd	wikipron	
+مسوڑا	məsuːɽɑː	wikipron	
+مسوڑو	məsuːɽoː	wikipron	
+مسوڑوں	məsuːɽõː	wikipron	
+مسوڑھا	məsuːɽʰɑː	wikipron	
+مسوڑھوں	məsuːɽʰõː	wikipron	
+مسوڑھے	məsuːɽʰeː	wikipron	
+مسٹنڈا	mʊsʈənɖɑː	wikipron	mʊʃʈənɖɑː
+مسکراہٹ	mʊskʊrɑːhəʈ	wikipron	mʊskərɑːʈ
+مسکراہٹوں	mʊskʊrɑːhəʈõː	wikipron	
+مسکراہٹیں	mʊskʊrɑːhəʈẽː	wikipron	
+مسیحا	məsiːhɑː	wikipron	
+مسیحی	məsiːhiː	wikipron	
+مشاور	mʊʃɑːʋɪr	wikipron	
+مشاہدات	mʊʃɑːhɪdɑːt	wikipron	
+مشاہدو	mʊʃɑːhɪdoː	wikipron	
+مشاہدوں	mʊʃɑːhɪdõː	wikipron	
+مشاہدہ	mʊʃɑːhədɑː	wikipron	mʊʃɑːhɪdɑː;mʊʃɑːhədɑ;mʊʃɑːhɪdɑ
+مشاہدے	mʊʃɑːhɪdeː	wikipron	
+مشترکہ	mʊʃtərəkɑː	wikipron	mʊʃtərkɑː;mʊʃtərəkɑ;mʊʃtərkɑ
+مشدد	mʊʃəddəd	wikipron	
+مشرق	məʃrɪq	wikipron	
+مشرک	mʊʃrɪk	wikipron	
+مشعل	məʃʔəl	wikipron	məʃəl
+مشغول	məʃɣuːl	wikipron	
+مشق	məʃq	wikipron	
+مشقت	məʃəqqət	wikipron	
+مشوروں	məʃʋərõː	wikipron	
+مشورہ	məʃʋərɑː	wikipron	məʃʋərɑ
+مشورے	məʃʋəreː	wikipron	
+مشک	mʊʃk	wikipron	
+مشکل	mʊʃkɪl	wikipron	
+مشکوک	məʃkuːk	wikipron	
+مشہد	məʃhəd	wikipron	
+مشہور	məʃhuːr	gold	
+مشہوری	məʃhuːriː	wikipron	
+مشہوریاں	məʃhuːrɪjɑ̃ː	wikipron	
+مشہوریوں	məʃhuːrɪjõː	wikipron	
+مشین	məʃiːn	wikipron	
+مصالحہ	məsɑːlɪhɑː	wikipron	məsɑːlhɑː;məsɑːlɪhɑ;məsɑːlhɑ;məsɑːlɑː;məsɑːlɑ
+مصر	mɪsər	wikipron	mɪsr
+مصروف	məsruːf	wikipron	
+مصری	mɪsriː	wikipron	
+مصنف	mʊsənnɪf	wikipron	
+مصنفہ	mʊsənnɪfə	wikipron	
+مصیبت	mʊsiːbət	wikipron	
+مضموم	məzmuːm	wikipron	
+مضمون	məzmuːn	wikipron	
+مطالعہ	mʊtɑːləʔɑː	wikipron	mʊtɑːləɑː;mʊtɑːləʔɑ;mʊtɑːləɑ
+مطعم	mətʔəm	wikipron	mətəm
+مطلب	mətləb	wikipron	
+مطلبی	mətləbiː	wikipron	
+مطلقا	mʊtləqən	wikipron	
+مطمئن	mʊtməɪn	wikipron	
+مظاہرہ	mʊzɑːhɪrɑː	wikipron	
+مظاہرین	mʊzɑːhɪriːn	wikipron	
+مظلوم	məzluːm	wikipron	
+مع	məʔ	wikipron	mə
+معائنے	mʊʔɑːɪneː	wikipron	mʊɑːɪneː
+معاش	məʔɑːʃ	wikipron	məɑːʃ
+معاشرہ	mʊʔɑːʃərɑː	wikipron	mʊɑːʃərɑː;mɑːʃrɑː;mʊʔɑːʃərɑ;mʊɑːʃərɑ
+معاصر	mʊʔɑːsər	wikipron	mʊɑːsər
+معاف	mʊɑːf	gold	
+معافی	mʊʔɑːfiː	wikipron	mʊɑːfiː;mɑːfiː
+معافیاں	mʊʔɑːfɪjɑ̃ː	wikipron	mʊɑːfɪjɑ̃ː
+معافیوں	mʊʔɑːfɪjõː	wikipron	mʊɑːfɪjõː
+معاملات	mʊʔɑːməlɑːt	wikipron	mʊɑːməlɑːt
+معاملہ	mʊʔɑːmlɑː	wikipron	mʊɑːmlɑː;mɑːmlɑː
+معاہدو	mʊʔɑːhədoː	wikipron	mʊɑːhədoː
+معاہدوں	mʊʔɑːhədõː	wikipron	mʊɑːhədõː
+معاہدہ	mʊʔɑːhədɑː	wikipron	mʊʔɑːhɪdɑː;mʊɑːhədɑː;mʊɑːhɪdɑː;mʊʔɑːhədɑ;mʊʔɑːhɪdɑ;mʊɑːhədɑ;mʊɑːhɪdɑ
+معاہدے	mʊʔɑːhədeː	wikipron	mʊɑːhədeː
+معبد	mɑːbəd	wikipron	məʔbəd
+معبود	mɑːʔbuːd	wikipron	mɑːbuːd
+معتمد	moːʔtəməd	wikipron	moːtəməd
+معجزات	mʊʔʤɪzɑːt	wikipron	mʊʤɪzɑːt
+معجزو	mʊʔʤɪzoː	wikipron	mʊʤɪzoː
+معجزوں	mʊʔʤɪzõː	wikipron	mʊʤɪzõː
+معجزہ	mɔːʤɪzə	wikipron	mʊʔʤɪzə;mʊʤɪzə
+معجم	mʊʔədʤəm	wikipron	mʊədʤəm;mʊʔʤəm;mʊʤəm
+معجمہ	mʊʔədʤəmɑː	wikipron	mʊədʤəmɑː;mʊʔʤəmɑː;mʊʤəmɑː;mʊʔədʤəmɑ;mʊədʤəmɑ;mʊʔʤəmɑ;mʊʤəmɑ
+معدہ	meːdə	wikipron	mɛːdə
+معذرت	mɑːzərət	wikipron	məʔzərət
+معذرتو	məʔzərətoː	wikipron	məzərətoː
+معذرتیں	məʔzərətẽː	wikipron	məzərətẽː
+معذور	mɑːzuːr	wikipron	məʔzuːr
+معروف	mɑːruːf	wikipron	məʔruːf
+معرکہ	məʔrəkɑː	wikipron	mərəkɑː;məʔrəkɑ;mərəkɑ
+معصوم	mɑːsuːm	wikipron	məʔsuːm
+معصومو	məʔsuːmoː	wikipron	məsuːmoː
+معصوموں	məʔsuːmõː	wikipron	məsuːmõː
+معطل	mʊʔəttəl	wikipron	
+معلم	mʊʔəlləm	wikipron	mʊʔəllɪm;mʊəlləm;mʊəllɪm
+معلوم	mɑːluːm	gold	
+معمار	meːʔmɑːr	wikipron	meːmɑːr
+معماری	mɪʔmɑːriː	wikipron	mɪmɑːriː
+معمر	mʊʔəmmər	wikipron	mʊəmmər;mʊʔmər;moʔmər;mʊmər;momər
+معمول	mɑːmuːl	wikipron	
+معمولی	mɑːmuːliː	wikipron	
+معنوی	mɑːʔnəʋiː	wikipron	mɑːnəʋiː
+معیار	meːjɑːr	wikipron	
+معیاروں	mɪʔjɑːrõː	wikipron	mɪjɑːrõː
+معیاری	meːʔjɑːriː	wikipron	meːjɑːriː
+معیشت	məʔiːʃət	wikipron	məiːʃət
+مغربی	məɣrɪbiː	wikipron	
+مغل	mʊɣəl	wikipron	
+مغلوط	məɣluːt	wikipron	
+مفاہمت	mʊfɑːhɪmət	wikipron	
+مفت	mʊft	wikipron	
+مفتوح	məftuːh	wikipron	məftuː
+مفتی	mʊftiː	wikipron	
+مفسد	mʊfsɪd	wikipron	
+مفہوم	məfhuːm	wikipron	
+مقاصد	məqɑːsɪd	wikipron	
+مقاومت	mʊqɑːʋəmət	wikipron	
+مقبوض	məqbuːz	wikipron	
+مقبوضہ	məqbuːzɑː	wikipron	məqbuːzɑ
+مقبول	məqbuːl	wikipron	
+مقتل	məqtəl	wikipron	
+مقدار	mɪqdɑːr	wikipron	
+مقدسہ	mʊqəddəsɑː	wikipron	
+مقدمہ	mʊqəddəmɑː	wikipron	mʊqədmɑː;mʊqəddəmɑ;mʊqədmɑ
+مقدونی	məqduːniː	wikipron	
+مقروض	məqruːz	wikipron	
+مقصد	məqsəd	wikipron	
+مقصود	məqsuːd	wikipron	
+مقناطیس	məqnɑːtiːs	wikipron	mɪqnɑːtiːs
+مقننہ	mʊqənnɪnɑː	wikipron	
+مقیم	mʊqiːm	wikipron	
+ملائم	mʊlɑːjəm	wikipron	
+ملائیشیا	mələjʃɪjɑː	wikipron	
+ملاحظہ	mʊlɑːhəzɑː	wikipron	mʊlɑːhəzɑ
+ملازمت	mʊlɑːzəmət	wikipron	mʊlɑːzmət
+ملامت	məlɑːmət	wikipron	
+ملانا	mɪlɑːnɑː	wikipron	
+ملبوس	məlbuːs	wikipron	
+ملتان	mʊltɑːn	wikipron	
+ملتانی	mʊltɑːniː	wikipron	
+ملزم	mʊlzɪm	wikipron	
+ململ	məlməl	wikipron	
+ملن	məlɪn	wikipron	mɪlən
+ملنسار	mɪlənsɑːr	wikipron	
+ملنگ	mələŋɡ	wikipron	
+ملوث	mʊləʋʋəs	wikipron	
+ملک	mʊlk	gold	
+ملکاؤ	məlɪkɑːoː	wikipron	
+ملکاؤں	məlɪkɑːõː	wikipron	
+ملکائیں	məlɪkɑːẽː	wikipron	
+ملکو	mʊlkoː	wikipron	
+ملکوں	mʊlkõː	wikipron	
+ملکہ	məlɪkɑː	wikipron	məlkɑː;məlɪkɑ
+ملکی	mʊlkiː	wikipron	
+ملکیت	məlkiːjət	wikipron	mɪlɪkɪjjət
+ملی	məlliː	wikipron	mɪlliː
+ملیامیٹ	məlɪjɑːmeːʈ	wikipron	mɪlɪjɑːmeːʈ
+ممالک	məmɑːlɪk	wikipron	
+ممانی	mʊmɑːniː	wikipron	
+ممباسہ	mʊmbɑːsɑː	wikipron	mʊmbɑːsɑ
+مملکت	məmləkət	wikipron	məmlʊkət;mʊmlɪkət
+ممنوع	məmnuːʔ	wikipron	məmnuː
+ممکن	mʊmkɪn	wikipron	
+ممی	məmmiː	wikipron	məmiː
+منا	mʊnnɑː	wikipron	
+منازل	mənɑːzɪl	wikipron	
+مناسب	mʊnɑːsɪb	wikipron	
+مناسبت	mʊnɑːsəbət	wikipron	
+مناظر	mənɑːzɪr	wikipron	
+مناعت	mənɑːʔət	wikipron	mənɑːət
+منافقانہ	mʊnɑːfɪqɑːnə	wikipron	
+منانا	mənɑːnɑː	wikipron	
+منبع	məmbɑː	wikipron	
+منتخب	mʊntəxəb	wikipron	
+منتر	məntər	wikipron	
+منتظم	mʊntəzɪm	wikipron	
+منجمد	mʊnʤəmɪd	wikipron	
+منحصر	mʊnhəsɪr	wikipron	
+منحوس	mənhuːs	wikipron	
+مندر	məndɪr	wikipron	
+مندروں	məndɪrõː	wikipron	
+منزلو	mənzɪloː	wikipron	
+منزلوں	mənzɪlõː	wikipron	
+منزلیں	mənzɪlẽː	wikipron	
+منسلک	mʊnsəlɪk	wikipron	
+منسوخ	mənsuːx	wikipron	
+منشور	mənʃuːr	wikipron	
+منشوروں	mənʃuːrõː	wikipron	
+منشی	mʊnəʃʃiː	wikipron	mʊnʃiː
+منشیات	mʊnəʃʃɪjɑːt	wikipron	
+منشیہ	mənʊʃjɑː	wikipron	mənʊʃjɑ
+منظر	mənzər	wikipron	
+منظم	mʊnəzzəm	wikipron	
+منظور	mənzuːr	wikipron	
+منع	mənɑː	wikipron	
+منفرد	mʊnfərɪd	wikipron	
+منفی	mənfiː	gold	
+منقبت	mənqəbət	wikipron	
+منٹ	mɪnəʈ	gold	
+منڈا	mʊnɖɑː	wikipron	
+منکر	mʊnkər	wikipron	
+منکھ	mənʊkʰ	wikipron	
+منگنی	məŋɡniː	wikipron	
+منگوانا	məŋɡʋɑːnɑː	wikipron	məɡʋɑːnɑː
+منگیتر	məŋɡeːtər	wikipron	
+منہ	mũːh	wikipron	mũː;mʊ̃h
+منی	məniː	wikipron	
+منیت	mʊniːjət	wikipron	mʊnjət
+مواصلات	moːɑːsəlɑːt	wikipron	mʊʋɑːsəlɑːt;mʊɑːsəlɑːt
+مواقع	məʋɑːqeː	wikipron	
+موبائل	moːbɑːɪl	gold	
+موتر	muːtər	wikipron	muːtr
+موتوں	muːtõː	wikipron	mɔːtõː
+موتی	moːtiː	wikipron	
+موتیو	moːtɪjoː	wikipron	
+موج	mɔːʤ	wikipron	
+موجود	mɔːʤuːd	wikipron	məʤuːd
+موجودگی	mɔːʤuːdəɡiː	wikipron	
+موجودہ	mɔːʤuːdɑː	wikipron	mɔːʤuːdɑ
+مور	moːr	wikipron	
+مورتی	muːrtiː	wikipron	
+مورچہ	moːrʧɑː	wikipron	
+موز	mɔːz	wikipron	
+موزمبیق	moːzɑːmbiːq	wikipron	
+موسم	mɔːsəm	gold	
+موسموں	mɔːsəmõː	wikipron	
+موسی	muːsɑː	wikipron	
+موسیقار	muːsiːqɑːr	wikipron	mɔːsiːqɑːr
+موسیقارو	muːsiːqɑːroː	wikipron	
+موسیقاروں	muːsiːqɑːrõː	wikipron	
+موسیقی	muːsiːqiː	wikipron	mɔːsiːqiː
+موضوع	mɔːzuːʔ	wikipron	mɔːzuː
+موضوعات	mɔːzuːʔɑːt	wikipron	mɔːzuːɑːt
+موقعوں	mɔːqʔõː	wikipron	mɔːqõː
+موقعے	mɔːqʔeː	wikipron	mɔːqeː
+مول	moːl	wikipron	muːl
+مولا	mɔːlɑː	wikipron	
+مومن	moːmɪn	wikipron	
+مومنو	moːmɪnoː	wikipron	
+مومنوں	moːmɪnõː	wikipron	
+مومنہ	moːmɪnɑː	wikipron	moːmɪnɑ
+مومنین	moːmɪniːn	wikipron	
+مونٹینیگرو	moːnʈeːniːɡroː	wikipron	
+مونچھ	mũːʧʰ	wikipron	
+مونچھوں	mũːʧʰõː	wikipron	
+مونچھیں	mũːʧʰẽː	wikipron	
+موٹا	moːʈɑː	wikipron	
+موٹی	moːʈiː	wikipron	
+مویشی	məʋeːʃiː	wikipron	
+مٹاپا	mʊʈɑːpɑː	wikipron	
+مٹاپوں	mʊʈɑːpõː	wikipron	
+مٹاپے	mʊʈɑːpeː	wikipron	
+مٹر	məʈər	wikipron	
+مٹکی	məʈkiː	wikipron	
+مٹھ	məʈʰ	wikipron	
+مٹھائی	mɪʈʰɑːiː	wikipron	
+مٹھائیاں	mɪʈʰɑːɪjɑ̃ː	wikipron	
+مٹھائیوں	mɪʈʰɑːɪjõː	wikipron	
+مٹھاس	mɪʈʰɑːs	wikipron	
+مٹھی	mʊʈʈʰiː	wikipron	
+مچھ	mətʧʰ	wikipron	
+مچھر	məʧʧʰər	wikipron	
+مچھلی	məʧʰliː	wikipron	
+مژگانی	mɪʒɡɑːniː	wikipron	
+مکا	məkkɑː	wikipron	
+مکاتب	məkɑːtɪb	wikipron	
+مکالمہ	mʊkɑːləmɑː	wikipron	mʊkɑːləmɑ
+مکان	məkɑːn	wikipron	
+مکتب	məktəb	wikipron	
+مکروہ	məkruːh	wikipron	
+مکسور	məksuːr	wikipron	
+مکمل	mʊkəmməl	wikipron	
+مکھن	məkkʰən	wikipron	
+مکھنوں	məkkʰənõː	wikipron	
+مکھڑا	mʊkʰɽɑː	wikipron	
+مکھی	məkkʰiː	wikipron	
+مکھیاں	məkkʰɪjɑ̃ː	wikipron	
+مکھیو	məkkʰɪjoː	wikipron	
+مکھیوں	məkkʰɪjõː	wikipron	
+مکہ	məkkɑː	wikipron	məkkɑ
+مگر	məɡər	gold	
+مہا	məhɑː	wikipron	
+مہابھارت	məhɑːbʰɑːrət	wikipron	
+مہاتما	məhɑːtmɑː	wikipron	
+مہاجر	mʊhɑːʤɪr	wikipron	
+مہاجرت	mohɑːʤərət	wikipron	mʊhɑːʤərət
+مہاجرین	mʊhɑːʤɪriːn	wikipron	
+مہاراشٹر	məhɑːrɑːʃʈrɑː	wikipron	məhɑːrɑːʃʈər
+مہارانی	məhɑːrɑːniː	wikipron	
+مہارت	məhɑːrət	wikipron	
+مہان	məhɑːn	wikipron	
+مہاوت	məhɑːʋət	wikipron	
+مہر	meːhər	wikipron	moːhər;mɪhər;mʊhər
+مہران	meːhrɑːn	wikipron	mɪhrɑːn
+مہربان	meːhrbɑːn	wikipron	mɪhrbɑːn
+مہربانی	mehərbɑːniː	gold	
+مہرہ	mʊhrɑː	wikipron	mɔhrɑː;mʊhrɑ;mɔhrɑ
+مہلت	mʊhlət	wikipron	mohlət
+مہلتیں	mʊhlətẽː	wikipron	
+مہمان	meːhmɑːn	wikipron	mɪhmɑːn;meːhmɑ̃ː
+مہمانی	mɪhmɑːniː	wikipron	
+مہندس	mʊhəndɪs	wikipron	mɔhɔndɪs
+مہندی	meːhəndiː	wikipron	meːhə̃diː;mɪhəndiː;mɪhə̃diː
+مہنڈر	mɪhɪnɖər	wikipron	
+مہنگا	məhəŋɡɑː	wikipron	məhə̃ɡɑː;mɛhɛŋɡɑː
+مہنگائی	məhəŋɡɑːiː	wikipron	
+مہک	məhək	wikipron	mɛhɛk
+مہکار	məhəkɑːr	wikipron	mɛhɛkɑːr
+مہکو	məhəkoː	wikipron	
+مہکوں	məhəkõː	wikipron	
+مہکیں	məhəkẽː	wikipron	
+مہیلا	məhiːlɑː	wikipron	
+مہینا	məhiːnɑː	wikipron	
+مہینہ	məhiːnɑː	gold	
+میانمار	mɪjɑːnmɑːr	wikipron	
+میانوالی	mɪjɑ̃ːʋɑːliː	wikipron	
+میاں	mɪjɑ̃ː	wikipron	
+میت	məjjət	wikipron	
+میتھن	mɛːtʰʊn	wikipron	
+میخانہ	mɛːxɑːnɑː	wikipron	mɛːxɑːnɑ
+میدان	mɛːdɑːn	wikipron	
+میدھا	meːdʰɑː	wikipron	
+میرا	meːrɑː	gold	
+میرپور	miːrpuːr	wikipron	
+میری	meːriː	gold	
+میرے	meːreː	gold	
+میز	meːz	wikipron	
+میزان	miːzɑːn	wikipron	
+میزبان	meːzbɑːn	wikipron	
+میزورم	miːzoːrəm	wikipron	
+میش	meːʃ	wikipron	
+میل	miːl	wikipron	
+میلاد	miːlɑːd	wikipron	
+مینڈک	meːnɖək	wikipron	meːnɖʊk
+مینڈھا	mɛːnɖʰɑː	wikipron	
+مینڈھر	meːnɖʰər	wikipron	
+مینڈھک	meːnɖʰək	wikipron	
+مینگورہ	miːŋɡoːrɑː	wikipron	miːŋɡoːrɑ
+مینہ	mẽːh	wikipron	
+میونخ	mjuːnɪx	wikipron	
+میوہ	meːʋɑː	wikipron	
+میٹنگ	miːʈɪŋ	gold	
+میٹھا	miːʈʰɑː	wikipron	
+میکائیل	miːkɑːiːl	wikipron	
+میگھ	meːɡʰ	wikipron	
+میگھالیہ	meːɡʰɑːlɪjəh	wikipron	
+میں	mẽː	gold	
+مے	mɛː	wikipron	məj
+نئی	nəiː	gold	
+نئے	nəeː	gold	
+نا	nɑː	gold	
+نائب	nɑːɪb	wikipron	
+نائی	nɑːiː	wikipron	
+نائیجیریا	nɑːiːʤiːrɪjɑː	wikipron	
+ناامید	nɑːʊmmiːd	wikipron	
+ناانصافی	nɑːɪnsɑːfiː	wikipron	
+نابینا	nɑːbiːnɑː	wikipron	
+ناتن	nɑːtɪn	wikipron	
+ناخن	nɑːxuːn	wikipron	nɑːxʊn
+نادار	nɑːdɑːr	wikipron	
+ناراض	nɑːrɑːz	wikipron	
+ناراضگی	nɑːrɑːzɡiː	wikipron	
+نارنجی	nɑːrənʤiː	wikipron	
+نارنگی	nɑːrəŋɡiː	wikipron	
+ناروا	nɑːrəʋɑː	wikipron	
+نارووال	nɑːroːʋɑːl	wikipron	
+ناروے	nɑːrʋeː	wikipron	
+ناریل	nɑːrɪjəl	wikipron	
+ناز	nɑːz	wikipron	
+نازل	nɑːzɪl	wikipron	
+نازک	nɑːzʊk	wikipron	
+نازیبا	nɑːzeːbɑː	wikipron	
+ناستک	nɑːstɪk	wikipron	
+ناشتا	nɑːʃtɑː	wikipron	
+ناشتوں	nɑːʃtõː	wikipron	
+ناشر	nɑːʃɪr	wikipron	
+ناشپاتی	nɑːʃpɑːtiː	wikipron	
+ناصر	nɑːsɪr	wikipron	
+ناصرت	nɑːsərət	wikipron	
+ناصرہ	nɑːsɪrɑː	wikipron	nɑːsɪrɑ
+ناظر	nɑːzɪr	wikipron	
+ناظم	nɑːzɪm	wikipron	
+ناف	nɑːf	wikipron	
+نافرمان	nɑːfərmɑːn	wikipron	
+نافرمانبرداری	nɑːfərmɑ̃ːbərdɑːriː	wikipron	
+ناقوس	nɑːquːs	wikipron	
+نال	nɑːl	wikipron	
+نالی	nɑːliː	wikipron	
+نام	nɑːm	gold	
+نامرد	nɑːmərd	wikipron	
+نامردی	nɑːmərdiː	wikipron	
+ناممکن	nɑːmʊmkɪn	wikipron	
+نامنظور	nɑːmənzuːr	wikipron	
+نامہ	nɑːmɑː	wikipron	nɑːmɑ
+نامی	nɑːmiː	wikipron	
+نان	nɑːn	wikipron	
+نانا	nɑːnɑː	wikipron	
+نانگل	nɑːŋɡəl	wikipron	
+نانی	nɑːniː	wikipron	
+ناو	nɑːoː	wikipron	nɑːʋ
+ناول	nɑːʋɪl	wikipron	
+ناٹک	nɑːʈək	wikipron	
+ناپاک	nɑːpɑːk	wikipron	
+ناچ	nɑːʧ	wikipron	
+ناچنا	nɑːʧnɑː	wikipron	
+ناک	nɑːk	wikipron	
+ناکارہ	nɑːkɑːrɑː	wikipron	nɑːkɑːrɑ
+ناکام	nɑːkɑːm	wikipron	
+ناکہ	nɑːkɑː	wikipron	nɑːkɑ
+ناگ	nɑːɡ	wikipron	
+ناگرک	nɑːɡrɪk	wikipron	
+ناہر	nɑːhər	wikipron	
+نایاب	nɑːjɑːb	wikipron	
+نباتیات	nəbɑːtɪjɑːt	wikipron	
+نبض	nəbz	wikipron	
+نبھانا	nɪbʰɑːnɑː	wikipron	
+نتیجتا	nətiːʤətən	wikipron	
+نتیجہ	nətiːʤɑː	wikipron	nətiːʤɑ
+نثر	nəsr	wikipron	
+نجار	nədʤɑːr	wikipron	
+نجبا	nʊʤəbɑː	wikipron	
+نجم	nəʤəm	wikipron	nəʤm
+نجوم	nəʤuːm	wikipron	nʊʤuːm
+نجی	nɪʤiː	wikipron	
+نجیب	nəʤiːb	wikipron	
+نخرا	nəxrɑː	wikipron	
+نخست	nʊxʊst	wikipron	
+نخستین	nxʊstiːn	wikipron	
+نخلستان	nəxlɪstɑːn	wikipron	
+نخچیر	nəxʧiːr	wikipron	
+ندرشن	nɪdərʃən	wikipron	
+ندی	nədiː	wikipron	
+ندیاں	nədɪjɑ̃ː	wikipron	
+ندیو	nədɪjoː	wikipron	
+ندیوں	nədɪjõː	wikipron	
+نر	nər	wikipron	
+نردوش	nɪrdoːʃ	wikipron	
+نرست	nɪrəst	wikipron	
+نرم	nərəm	wikipron	nərm
+نرمان	nɪrmɑːn	wikipron	
+نرمی	nərmiː	wikipron	
+نرنایک	nɪrnɑːjək	wikipron	
+نرگس	nərɡɪs	wikipron	
+نزاکت	nəzɑːkət	wikipron	
+نزدیک	nəzdiːk	wikipron	
+نزہت	nʊzhət	wikipron	
+نس	nəs	wikipron	nɪs
+نسا	nɪsɑː	wikipron	
+نسائیت	nɪsɑːɪjət	wikipron	
+نسبتا	nɪsbətən	wikipron	
+نستعلیق	nəstɑːliːq	wikipron	
+نسخ	nəsx	wikipron	
+نسخہ	nʊsxɑː	wikipron	nʊsxɑ
+نسل	nəsl	wikipron	
+نسیم	nəsiːm	wikipron	
+نسیموں	nəsiːmõː	wikipron	
+نسیمیں	nəsiːmẽː	wikipron	
+نشان	nɪʃɑːn	wikipron	
+نشانی	nɪʃɑːniː	wikipron	
+نشریات	nəʃrɪjjɑːt	wikipron	
+نشست	nəʃɪst	wikipron	
+نشور	nʊʃuːr	wikipron	
+نشچت	nɪʃʧɪt	wikipron	
+نشہ	nəʃə	wikipron	
+نصاب	nɪsɑːb	wikipron	
+نصاری	nəsɑːrɑː	wikipron	
+نصرانی	nəsrɑːniː	wikipron	
+نصرت	nʊsrət	wikipron	
+نصیب	nəsiːb	wikipron	
+نصیبو	nəsiːboː	wikipron	
+نصیبوں	nəsiːbõː	wikipron	
+نصیحت	nəsiːhət	wikipron	
+نطرون	nətruːn	wikipron	
+نظارہ	nəzɑːrɑː	wikipron	
+نظام	nɪzɑːm	wikipron	
+نظامت	nɪzɑːmət	wikipron	
+نظر	nəzər	wikipron	
+نظریہ	nəzərɪjɑː	wikipron	
+نظم	nəzəm	wikipron	nəzm
+نظموں	nəzmõː	wikipron	
+نظمیں	nəzmẽː	wikipron	
+نظیف	nəziːf	wikipron	
+نعت	nɑːt	wikipron	
+نعتوں	nəʔətõː	wikipron	nəətõː
+نعتیں	nəʔətẽː	wikipron	nəətẽː
+نعرہ	nɑːrɑːh	wikipron	nɑːrɑ
+نعمت	neːmət	wikipron	nɪʔmət;nɪmət
+نعمتو	nɪʔmətoː	wikipron	nɪmətoː
+نعمتوں	nɪʔmətõː	wikipron	nɪmətõː
+نعمتیں	nɪʔmətẽː	wikipron	nɪmətẽː
+نغمات	nəɣmɑːt	wikipron	
+نغمو	nəɣmoː	wikipron	
+نغموں	nəɣmõː	wikipron	
+نغمہ	nəɣmɑː	wikipron	nəɣmɑ
+نغمے	nəɣmeː	wikipron	
+نفاذ	nəfɑːz	wikipron	
+نفرت	nəfrət	wikipron	
+نفرتوں	nəfrətõː	wikipron	
+نفرتیں	nəfrətẽː	wikipron	
+نقاب	nəqɑːb	wikipron	nɪqɑːb
+نقارہ	nəqqɑːrɑː	wikipron	
+نقاش	nəqqɑːʃ	wikipron	
+نقاشی	nəqqɑːʃiː	wikipron	
+نقشہ	nəqʃɑː	wikipron	nəqʃəh;nəqʃɑ
+نقصان	nʊqsɑːn	wikipron	
+نقطہ	nʊqtɑː	wikipron	nʊqtɑ
+نقلی	nəqliː	wikipron	
+نلکا	nəlkɑː	wikipron	
+نماز	nəmɑːz	wikipron	nɪmɑːz
+نمازوں	nəmɑːzõː	wikipron	
+نمازیں	nəmɑːzẽː	wikipron	
+نمبو	nɪmbuː	wikipron	
+نمستے	nəməsteː	wikipron	
+نمونہ	nəmuːnə	wikipron	
+نمک	nəmək	wikipron	
+نمکین	nəmkiːn	wikipron	
+نمی	nəmiː	wikipron	
+نن	nən	wikipron	
+ننانوے	nɪnnɑːnʋeː	gold	
+نند	nənə̃d	wikipron	nənəd;nə̃nd;nənd
+نندو	nəndoː	wikipron	
+نندوئی	nəndoːiː	wikipron	
+نندوئیو	nəndoːɪjoː	wikipron	
+نندوئیوں	nəndoːɪjõː	wikipron	
+نندوں	nəndõː	wikipron	
+نندیں	nəndẽː	wikipron	
+ننگا	nə̃ŋɡɑː	wikipron	
+ننھا	nənnɑː	wikipron	nənʰɑː
+نو	nɔː	gold	
+نوآبادیاتی	nɔːɑːbɑːdɪjɑːtiː	wikipron	
+نوابشاہ	nəʋɑːbʃɑːh	wikipron	
+نوازش	nəʋɑːzɪʃ	wikipron	
+نوازشوں	nəʋɑːzɪʃõː	wikipron	
+نوازشیں	nəʋɑːzɪʃẽː	wikipron	
+نواسو	nəʋɑːsoː	wikipron	
+نواسوں	nəʋɑːsõː	wikipron	
+نواسہ	nəʋɑːsɑː	wikipron	nəʋɑːsɑ
+نواسے	nəʋɑːseː	wikipron	
+نواں	nəʋɑ̃ː	gold	
+نوبت	nɔːbət	wikipron	
+نوجوان	nɔːʤəʋɑːn	wikipron	nɔːʤoɑːn
+نوجوانوں	nɔːʤəʋɑːnõː	wikipron	
+نوح	nuːh	wikipron	
+نور	nuːr	wikipron	
+نوش	noːʃ	wikipron	
+نوشکی	nuːʃkiː	wikipron	
+نوشہرہ	nɔːʃɛhrɑː	wikipron	nɔːʃɛhrɑ
+نوشی	noːʃiː	wikipron	
+نومبر	nəʋəmbər	gold	
+نونہال	nɔːnɪhɑːl	wikipron	
+نونہالان	nɔːnɪhɑːlɑːn	wikipron	
+نونہالو	nɔːnɪhɑːloː	wikipron	
+نونہالوں	nɔːnɪhɑːlõː	wikipron	
+نوواں	nəuʋɑ̃ː	wikipron	
+نوکر	nɔːkər	wikipron	
+نوکرانی	nɔːkrɑːniː	wikipron	
+نوید	nəʋeːd	wikipron	nəʋiːd
+نویدن	nɪʋeːdən	wikipron	
+نویس	nəʋiːs	wikipron	
+نوے	nəʋʋeː	gold	
+نچوڑنا	nɪʧoːɽnɑː	wikipron	
+نژاد	nəʒɑːd	wikipron	nɪʒɑːd
+نکاح	nɪkɑːh	wikipron	
+نکاراتمک	nəkɑːrɑːtmək	wikipron	
+نکسیر	nəksiːr	wikipron	
+نکما	nɪkəmmɑː	wikipron	
+نگاڑا	nəɡɑːɽɑː	wikipron	
+نگاہوں	nɪɡɑːhõː	wikipron	
+نگاہیں	nɪɡɑːhẽː	wikipron	
+نگر	nəɡər	wikipron	
+نگرانی	nɪɡrɑːniː	wikipron	
+نہ	nə	gold	
+نہاد	nɪhɑːd	wikipron	
+نہایت	nɪhɑːjət	wikipron	
+نہتا	nɪhəttɑː	wikipron	
+نہتے	nɪhətteː	wikipron	
+نہیں	nəhĩː	gold	
+نیا	nəjɑː	gold	
+نیت	niːjət	wikipron	niːt;nɪjjət
+نیتو	nɪjjətoː	wikipron	
+نیتوں	nɪjjətõː	wikipron	
+نیتیں	nɪjjətẽː	wikipron	
+نیدرلینڈ	neːdərleːnɖ	wikipron	niːdərlɛːnɖ
+نیر	niːr	wikipron	
+نیز	niːz	wikipron	
+نیزوں	neːzõː	wikipron	
+نیزہ	neːzɑː	wikipron	neːzɑ
+نیزے	neːzeː	wikipron	
+نیشکر	nɛːʃəkər	wikipron	
+نیم	neːm	wikipron	niːm;nɪjəm
+نین	nɛːn	wikipron	
+نیند	niːnd	wikipron	nĩːnd
+نیندوں	niːndõː	wikipron	
+نیندیں	niːndẽː	wikipron	
+نینوں	nɛːnõː	wikipron	
+نیوجن	nɪjoːʤən	wikipron	
+نیٹرون	nɛːʈroːn	wikipron	
+نیپال	neːpɑːl	wikipron	
+نیچا	niːʧɑː	wikipron	
+نیک	neːk	wikipron	
+نے	neː	gold	
+وا	ʋɑː	wikipron	
+وابستگی	ʋɑːbəstəɡiː	wikipron	
+واجب	ʋɑːʤɪb	wikipron	
+واحد	ʋɑːhɪd	wikipron	
+وادی	ʋɑːdiː	wikipron	
+وار	ʋɑːr	wikipron	
+وارانسی	ʋɑːrɑːnsiː	wikipron	
+وارث	ʋɑːrɪs	wikipron	
+وارد	ʋɑːrɪd	wikipron	
+واسط	ʋɑːsɪt	wikipron	
+واسطہ	ʋɑːsɪtɑː	wikipron	
+واسع	ʋɑːseː	wikipron	
+واسی	ʋɑːsiː	wikipron	
+واشک	ʋɑːʃʊk	wikipron	
+واضح	ʋɑːzeh	gold	
+واقع	ʋɑːqeː	wikipron	
+واقعات	ʋɑːqɪʔɑːt	wikipron	ʋɑːqɪɑːt
+واقعہ	ʋɑːqɪʔɑː	wikipron	ʋɑːqɪɑː;ʋɑːqɪʔɑ;ʋɑːqɪɑ
+واقف	ʋɑːqɪf	wikipron	
+والا	ʋɑːlɑː	gold	
+والد	ʋɑːlɪd	wikipron	
+والدہ	ʋɑːlɪdɑː	wikipron	ʋɑːlɪdɑ
+والدین	ʋɑːlɪdɛːn	wikipron	ʋɑːldɛːn
+والی	ʋɑːliː	gold	
+والے	ʋɑːleː	gold	
+وامن	ʋɑːmən	wikipron	
+وان	ʋɑːn	wikipron	
+واپس	ʋɑːpəs	wikipron	ʋɑːpɪs
+واکیہ	ʋɑːkjə	wikipron	
+واہ	ʋɑːh	wikipron	
+واہک	ʋɑːhək	wikipron	
+وبا	ʋəbɑː	wikipron	
+وبھاگ	ʋɪbʰɑːɡ	wikipron	
+وتر	ʋətər	wikipron	ʋɪtr
+وجود	ʋəʤuːd	wikipron	
+وجودیات	ʋʊʤuːdɪjɑːt	wikipron	
+وحیدہ	ʋəhiːdɑː	wikipron	ʋəhiːdɑ
+ودھان	ʋɪdʰɑːn	wikipron	
+ودھوا	ʋɪdʰʋɑː	wikipron	
+ودیارتھی	ʋɪdjɑːrtʰiː	wikipron	
+وراثت	ʋɪrɑːsət	wikipron	
+وراثتو	ʋɪrɑːsətoː	wikipron	
+وراثتوں	ʋɪrɑːsətõː	wikipron	
+وراثتیں	ʋɪrɑːsətẽː	wikipron	
+ورزش	ʋərzɪʃ	wikipron	
+ورودھ	ʋɪroːdʰ	wikipron	
+وزارت	ʋɪzɑːrət	wikipron	
+وزرا	ʋʊzərɑː	wikipron	
+وزیر	ʋəziːr	gold	
+وزیرِ	ʋəziːreː	gold	
+وستو	ʋəstuː	wikipron	
+وسعت	ʋʊsʔət	wikipron	ʋʊsət
+وسنت	ʋəsənt	wikipron	
+وسیع	ʋəsiːʔ	wikipron	ʋəsiː
+وشنو	ʋɪʃnuː	wikipron	
+وشواس	ʋɪʃʋɑːs	wikipron	
+وصال	ʋɪsɑːl	wikipron	
+وصیت	ʋəsɪjjət	wikipron	ʋəsɪjət
+وضع	ʋəzɑː	wikipron	ʋəzʔ;ʋəz
+وضو	ʋəzuː	wikipron	ʋʊzuː
+وطن	ʋətən	wikipron	
+وطنوں	ʋətənõː	wikipron	
+وعدو	ʋəʔdoː	wikipron	ʋədoː
+وعدوں	ʋəʔdõː	wikipron	ʋədõː
+وعدہ	ʋɑːdɑː	wikipron	ʋəʔdɑː;ʋədɑː;ʋəʔdɑ;ʋədɑ
+وعدے	ʋəʔdeː	wikipron	ʋədeː
+وغیرہ	ʋəɣɛːrəh	wikipron	
+وفا	ʋəfɑː	wikipron	
+وفاؤ	ʋəfɑːoː	wikipron	
+وفاؤں	ʋəfɑːõː	wikipron	
+وفائیں	ʋəfɑːẽː	wikipron	
+وفات	ʋəfɑːt	wikipron	
+وفاق	ʋəfɑːq	wikipron	ʋɪfɑːq
+وفد	ʋəfəd	wikipron	ʋəfd
+وقار	ʋəqɑːr	wikipron	
+وقاروں	ʋəqɑːrõː	wikipron	
+وقت	ʋəqt	gold	
+وقوع	ʋʊquːʔ	wikipron	ʋʊquː
+ولایت	ʋɪlɑːjət	wikipron	
+ولایتی	ʋɪlɑːɪtiː	wikipron	
+ولندیز	ʋələndeːz	wikipron	
+ولی	ʋəliː	wikipron	
+ونا	ʋɪnɑː	wikipron	
+وندر	ʋɪndər	wikipron	
+ونشج	ʋənʃəʤ	wikipron	
+وواد	ʋɪʋɑːd	wikipron	
+وواہ	ʋɪʋɑːh	wikipron	
+وچ	ʋəʧ	wikipron	
+وچن	ʋəʧən	wikipron	
+وڈھ	ʋəɖʰ	wikipron	
+وڑا	ʋəɽɑː	wikipron	
+وکٹ	ʋɪkəʈ	wikipron	
+وکھیات	ʋɪkʰjɑːt	wikipron	
+وگیان	ʋɪɡjɑːn	wikipron	
+وہ	ʋoː	gold	
+وہاڑی	ʋɪhɑːɽiː	wikipron	
+وہاں	ʋəhɑ̃ː	wikipron	
+وہران	ʋəhrɑːn	wikipron	
+وہم	ʋɛhɛ̃m	wikipron	ʋəhəm;ʋəhm;ʋɛhm
+وہموں	ʋəhmõː	wikipron	
+وہی	ʋoːhiː	wikipron	ʋəhiː
+ویاکرن	ʋjɑːkərən	wikipron	
+ویب	ʋɛːb	gold	
+ویتنام	ʋiːjətnɑːm	wikipron	
+وید	ʋeːd	wikipron	ʋɛːd
+ویدک	ʋɛːdɪk	wikipron	
+ویر	ʋiːr	wikipron	
+ویران	ʋiːrɑːn	wikipron	
+وینجن	ʋjənʤən	wikipron	
+وینیزویلا	ʋɛːniːzʋɛːlɑː	wikipron	
+ویژن	ʋiːʒən	wikipron	
+وے	ʋeː	wikipron	ʋɛː
+ٹائٹ	ʈɑːjɪʈ	wikipron	
+ٹالنا	ʈɑːlnɑː	wikipron	
+ٹانگ	ʈɑːŋɡ	wikipron	
+ٹانگوں	ʈɑːŋɡõː	wikipron	
+ٹانگیں	ʈɑːŋɡẽː	wikipron	
+ٹخنا	ʈəxnɑː	wikipron	
+ٹخنوں	ʈəxnõː	wikipron	
+ٹخنے	ʈəxneː	wikipron	
+ٹرام	ʈrɑːm	wikipron	
+ٹرو	ʈərruː	wikipron	
+ٹرک	ʈrək	wikipron	
+ٹرین	ʈreːn	gold	
+ٹریکٹر	ʈərɛːkʈər	wikipron	ʈrɛːkʈər
+ٹرے	ʈreː	wikipron	
+ٹلفورڈ	ʈɪlfoːrɖ	wikipron	
+ٹماٹر	ʈəmɑːʈər	wikipron	
+ٹوٹا	ʈuːʈɑː	wikipron	
+ٹوٹنا	ʈuːʈnɑː	wikipron	
+ٹوٹی	ʈuːʈiː	wikipron	
+ٹوٹیاں	ʈuːʈɪjɑ̃ː	wikipron	
+ٹوٹیوں	ʈuːʈɪjõː	wikipron	
+ٹوٹے	ʈuːʈeː	wikipron	
+ٹوپی	ʈoːpiː	wikipron	
+ٹوکری	ʈoːkriː	wikipron	
+ٹٹی	ʈəʈʈiː	wikipron	
+ٹکا	ʈəkɑː	wikipron	
+ٹکر	ʈəkkər	wikipron	
+ٹکراو	ʈəkrɑːʋ	wikipron	
+ٹکوں	ʈəkõː	wikipron	
+ٹکٹ	ʈɪkəʈ	wikipron	
+ٹکڑا	ʈʊkɽɑː	wikipron	
+ٹھنڈا	ʈʰənɖɑː	wikipron	
+ٹھنگنا	ʈʰɪ̃ɡnɑː	wikipron	
+ٹھوڑی	ʈʰoːɽiː	wikipron	
+ٹھڈی	ʈʰʊɖɖiː	wikipron	
+ٹھکانا	ʈʰɪkɑːnɑː	wikipron	
+ٹھگ	ʈʰəɡ	wikipron	
+ٹھہرنا	ʈʰəhərnɑː	wikipron	ʈʰɛhɛrnɑː;ʈʰɛːr˦ənəː
+ٹھیس	ʈʰeːs	wikipron	
+ٹھیلا	ʈʰeːlɑː	wikipron	
+ٹھیک	ʈʰiːk	gold	
+ٹھیکا	ʈʰeːkɑː	wikipron	
+ٹھیکیدار	ʈʰeːkeːdɑːr	wikipron	
+ٹی وی	ʈiː ʋiː	gold	
+ٹینگی	ʈẽːɡiː	wikipron	
+ٹیپ	ʈeːp	wikipron	
+ٹیچر	ʈiːʧər	wikipron	
+ٹیچرو	ʈiːʧəroː	wikipron	
+ٹیچروں	ʈiːʧərõː	wikipron	
+ٹیڑھا	ʈeːɽʰɑː	wikipron	
+ٹیکسلا	ʈɛːksɪlɑː	wikipron	
+ٹیکسی	ʈɛːksiː	wikipron	
+پاؤں	pɑːũː	wikipron	pɑ̃ːũː;pɑ̃ːʋ
+پائخانہ	pɑːʔɪxɑːnɑː	wikipron	pɑːɪxɑːnɑː
+پائپ	pɑːɪp	wikipron	
+پابند	pɑːbənd	wikipron	
+پاجامہ	pɑːʤɑːmɑː	wikipron	pɑːʤɑːmɑ
+پاخانہ	pɑːxɑːnɑː	wikipron	
+پاد	pɑːd	wikipron	
+پادری	pɑːdriː	wikipron	
+پادشاہ	pɑːdʃɑːh	wikipron	
+پارسی	pɑːrsiː	wikipron	
+پاروتی	pɑːruːtiː	wikipron	pɑːrʋətiː
+پارچہ	pɑːrʧɑː	wikipron	pɑːrʧɑ
+پارہ	pɑːrə	wikipron	
+پاریکھ	pɑːreːkʰ	wikipron	
+پازیب	pɑːzeːb	wikipron	
+پاس	pɑːs	wikipron	
+پاسبان	pɑːsbɑːn	wikipron	
+پاستا	pɑːstɑː	wikipron	
+پاسپورٹ	pɑːspoːrʈ	wikipron	
+پالتو	pɑːltuː	wikipron	
+پالم	pɑːləm	wikipron	
+پالنا	pɑːlnɑː	wikipron	
+پالک	pɑːlək	wikipron	
+پان	pɑːn	wikipron	
+پانا	pɑːnɑː	wikipron	
+پانو	pɑ̃ːoː	wikipron	pɑ̃ːʋ
+پانچ	pɑ̃ːʧ	gold	
+پانچواں	pɑ̃ːʧʋɑ̃ː	gold	
+پانڈو	pɑːnɖəʋ	wikipron	
+پانہ	pɑːnɑː	wikipron	pɑːnɑ
+پانی	pɑːniː	gold	
+پاٹھک	pɑːʈʰək	wikipron	
+پاپ	pɑːp	wikipron	
+پاک	pɑːk	wikipron	
+پاکستان	pɑːkɪstɑːn	gold	
+پاکستانی	pɑːkɪstɑːniː	wikipron	
+پاگل	pɑːɡəl	wikipron	
+پاگلو	pɑːɡəloː	wikipron	
+پاگلوں	pɑːɡəlõː	wikipron	
+پایل	pɑːjəl	wikipron	
+پتا	pətɑː	wikipron	pɪtɑː
+پتری	pʊtriː	wikipron	
+پتلا	pətlɑː	wikipron	
+پتلون	pətluːn	wikipron	
+پتنگ	pətəŋɡ	wikipron	
+پتنی	pətniː	wikipron	
+پتھ	pətʰ	wikipron	
+پتھر	pəttʰər	wikipron	
+پتھروں	pəttʰərõː	wikipron	
+پتہ	pətɑː	wikipron	pətɑ
+پتی	pəttiː	wikipron	pətiː
+پختہ	pʊxtə	wikipron	
+پد	pəd	wikipron	
+پدر	pɪdər	wikipron	
+پذیر	pəziːr	wikipron	
+پر	pər	gold	
+پراتن	pʊrɑːtən	wikipron	
+پرانا	pʊrɑːnɑː	gold	
+پرانت	prɑːnt	wikipron	
+پراٹھا	pərɑːʈʰɑː	wikipron	
+پراپت	prɑːpt	wikipron	
+پراچین	prɑːʧiːn	wikipron	
+پربھاو	pərbʰɑːʋ	wikipron	
+پرتگال	pʊrtəɡɑːl	wikipron	pʊrtʊɡɑːl
+پرتگیا	prətɪɡjɑː	wikipron	
+پردہ	pərdɑː	wikipron	pərdɑ
+پردیسی	pərdeːsiː	wikipron	
+پردیش	prədeːʃ	wikipron	
+پرزہ	pʊrzɑː	wikipron	
+پرستان	pərɪstɑːn	wikipron	
+پرستش	pərəstɪʃ	wikipron	
+پرسوں	pərsõː	wikipron	
+پرشنسا	prəʃənsɑː	wikipron	
+پرشیا	pərʃɪjɑː	wikipron	
+پرمکھ	prəmʊkʰ	wikipron	
+پرمیشور	pərəmeːʃʋər	wikipron	pərmeːʃʋər
+پرندو	pərɪndoː	wikipron	
+پرندوں	pərɪndõː	wikipron	
+پرندہ	pərəndɑː	wikipron	pərɪndɑː;pərəndɑ;pərɪndɑ
+پرندے	pərɪndeː	wikipron	
+پرنی	pərniː	wikipron	
+پروا	pərʋɑː	wikipron	
+پروار	pərɪʋɑːr	wikipron	
+پروانو	pərʋɑːnoː	wikipron	
+پروانوں	pərʋɑːnõː	wikipron	
+پروانہ	pərʋɑːnɑː	wikipron	pʊrʋɑːnɑː;pərʋɑːnɑ;pʊrʋɑːnɑ
+پروردگار	pərʋərdɪɡɑːr	wikipron	
+پرورش	pərʋərɪʃ	wikipron	
+پرول	pərʋəl	wikipron	
+پرونا	pɪroːnɑː	wikipron	
+پرچار	pərʧɑːr	wikipron	
+پرچم	pərʧəm	wikipron	
+پرچمو	pərʧəmoː	wikipron	
+پرچموں	pərʧəmõː	wikipron	
+پرچہ	pərʧɑː	wikipron	pərʧə
+پرچی	pərʧiː	wikipron	
+پرکاش	prəkɑːʃ	wikipron	
+پرکاشک	pərkɑːʃək	wikipron	
+پرکھ	pʊrʊkʰ	wikipron	
+پرکھیات	prəkʰjɑːt	wikipron	
+پری	pəriː	wikipron	
+پریت	pəreːt	wikipron	pəriːt;preːt
+پریتم	priːtəm	wikipron	
+پریتمو	priːtəmoː	wikipron	
+پریتموں	priːtəmõː	wikipron	
+پریشان	pəreːʃɑːn	wikipron	
+پریم	pəreːm	wikipron	preːm
+پریڈ	pərɛːɖ	wikipron	
+پریکشا	pəriːkʃɑː	wikipron	
+پریکشائیں	pəriːkʃɑːẽː	wikipron	
+پستان	pɪstɑːn	wikipron	
+پستول	pɪstɔːl	wikipron	
+پستک	pʊstək	wikipron	
+پستہ	pɪstɑː	wikipron	pɪstɑ
+پسر	pɪsər	wikipron	
+پسلی	pəsliː	wikipron	
+پسلیاں	pəslɪjɑ̃ː	wikipron	
+پسلیو	pəslɪjoː	wikipron	
+پسند	pəsənd	wikipron	
+پسندیدہ	pəsəndiːdɑː	wikipron	pəsəndiːdɑ
+پسنی	pəsniː	wikipron	
+پسو	pɪssuː	wikipron	pəsuː
+پسینہ	pəsiːnɑː	wikipron	
+پشاور	pɪʃɑːʋər	wikipron	
+پشت	pʊʃt	wikipron	
+پشتو	pəʃtoː	wikipron	
+پشپ	pʊʃp	wikipron	
+پشچم	pəʃʧɪm	wikipron	
+پشکلاوتی	pʊʃkəlɑːʋətiː	wikipron	
+پشیمان	pəʃeːmɑːn	wikipron	
+پل	pəl	wikipron	pʊl
+پلنگ	pələŋɡ	wikipron	
+پلیٹ	pəlɛːʈ	wikipron	plɛːʈ
+پنا	pənnɑː	wikipron	
+پناہ	pənɑːh	wikipron	
+پناہو	pənɑːhoː	wikipron	
+پناہوں	pənɑːhõː	wikipron	
+پناہیں	pənɑːhẽː	wikipron	
+پنجاب	pənʤɑːb	wikipron	
+پنجابی	pənʤɑːbiː	wikipron	
+پنجہ	pənʤɑː	wikipron	pənʤɑ
+پندرہ	pəndrɑː	gold	
+پنسل	peːnsɪl	wikipron	pɪnsɪl
+پنچھی	pənʧʰiː	wikipron	
+پنڈال	pɪnɖɑːl	wikipron	
+پنڈت	pənɖɪt	wikipron	
+پنکھ	pəŋkʰ	wikipron	
+پنکھا	pəŋkʰɑː	wikipron	
+پنکھڑی	pəŋkʰʊɽiː	wikipron	
+پنگھٹ	pənɡʰəʈ	wikipron	
+پنیہ	pənjɑː	wikipron	pʊnjɑː;pənjɑ;pʊnjɑ
+پوت	puːt	wikipron	
+پوتا	poːtɑː	wikipron	
+پوتو	poːtoː	wikipron	
+پوتھی	poːtʰiː	wikipron	
+پوتی	poːtiː	wikipron	
+پوتے	poːteː	wikipron	
+پوجا	puːʤɑː	wikipron	
+پوجنا	puːʤnɑː	wikipron	
+پوجک	puːʤək	wikipron	
+پور	puːr	wikipron	
+پورا	puːrɑː	gold	
+پوربی	puːrbiː	wikipron	
+پوست	poːst	wikipron	
+پوشاک	poːʃɑːk	wikipron	
+پول	poːl	wikipron	
+پولس	puːliːs	wikipron	puːlɪs;pɔːlʊs;pʊliːs
+پولینڈ	poːlɛːnɖ	wikipron	
+پون	pəʋən	wikipron	
+پونچھ	pũːʧʰ	wikipron	
+پونے	pɔːneː	gold	
+پوپ	poːp	wikipron	pɔp
+پٹاخا	pəʈɑːxɑː	wikipron	
+پٹل	pəʈəl	wikipron	
+پٹواری	pəʈʋɑːriː	wikipron	
+پٹواریو	pəʈʋɑːrɪjoː	wikipron	
+پٹواریوں	pəʈʋɑːrɪjõː	wikipron	
+پٹول	pəʈoːl	wikipron	
+پٹھان	pəʈʰɑːn	wikipron	
+پٹھانو	pəʈʰɑːnoː	wikipron	
+پٹھانوں	pəʈʰɑːnõː	wikipron	
+پٹی	pəʈʈiː	wikipron	
+پچاس	pəʧɑːs	gold	
+پچکاری	pɪʧkɑːriː	wikipron	
+پچھتر	pəʧʰətər	wikipron	
+پچھم	pətʧʰəm	wikipron	
+پچھواڑا	pɪʧʰʋɑːɽɑː	wikipron	
+پچیس	pəʧʧiːs	gold	
+پڑوسی	pəɽoːsiː	wikipron	
+پڑھ	pəɽʰ	gold	
+پڑھائی	pəɽʰɑːiː	wikipron	
+پڑھنا	pəɽʰnɑː	gold	
+پڑھی	pəɽʰiː	gold	
+پژمردگی	pəʒmʊrdəɡiː	wikipron	
+پژوہش	pɪʒoːhɪʃ	wikipron	
+پکا	pəkkɑː	wikipron	
+پکار	pʊkɑːr	wikipron	
+پکارنا	pʊkɑːrnɑː	wikipron	
+پکانا	pəkɑːnɑː	wikipron	
+پکنا	pəknɑː	wikipron	
+پکوان	pəkʋɑːn	wikipron	
+پکڑنا	pəkəɽnɑː	wikipron	
+پگار	pəɡɑːr	wikipron	
+پھانسی	pʰɑ̃ːsiː	wikipron	
+پھاوڑا	pʰɑːʋɽɑː	wikipron	
+پھاٹک	pʰɑːʈək	wikipron	
+پھاٹکوں	pʰɑːʈəkõː	wikipron	
+پھدی	pʰʊddiː	wikipron	
+پھر	pʰɪr	gold	
+پھرنا	pʰɪrnɑː	wikipron	
+پھریرے	pʰərɛːreː	wikipron	
+پھل	pʰəl	wikipron	
+پھلنا	pʰəlnɑː	wikipron	
+پھوار	pʰʊʋɑːr	wikipron	
+پھول	pʰuːl	wikipron	
+پھولو	pʰuːloː	wikipron	
+پھوپھا	pʰuːpʰɑː	wikipron	
+پھوڑا	pʰoːɽɑː	wikipron	
+پھیرا	pʰeːrɑː	wikipron	
+پھیلاو	pʰɛːlɑːʋ	wikipron	
+پھینکنا	pʰɛ̃ːknɑː	wikipron	pʰẽːknɑː
+پہ	peː	wikipron	
+پہر	pəhər	wikipron	pəhɛr;pɛhɛr
+پہرہ	pəhrə	wikipron	
+پہلا	pəhlɑː	gold	
+پہلوان	pɛhɛlʋɑːn	wikipron	pɛʰlʋɑːn
+پہلی	pəhliː	gold	
+پہلے	pəhleː	gold	
+پہننا	pəhənnɑː	wikipron	
+پہنچنا	pəhʊ̃ʧnɑː	wikipron	
+پہچان	pəhʧɑːn	wikipron	
+پہچاننا	pəhʧɑːnnɑː	wikipron	pɛʰʧɑːnnɑː
+پہیا	pəhɪjjɑː	wikipron	pəɪjjɑː
+پہیلی	pəheːliː	wikipron	
+پیادہ	pjɑːdɑː	wikipron	
+پیار	pɪjɑːr	wikipron	pjɑːr
+پیارا	pjɑːrɑː	wikipron	
+پیارو	pɪjɑːroː	wikipron	
+پیاروں	pɪjɑːrõː	wikipron	
+پیاز	pɪjɑːz	wikipron	pjɑːz
+پیاسا	pjɑːsɑː	wikipron	
+پیالہ	pjɑːlə	wikipron	
+پیانو	pɪjɑːnoː	wikipron	
+پیتل	piːtəl	wikipron	
+پیدا	pɛːdɑː	wikipron	
+پیدائش	pɛːdɑːɪʃ	wikipron	
+پیر	piːr	wikipron	pɛːr
+پیرس	pɛːrɪs	wikipron	
+پیرو	piːruː	wikipron	pɛːruː
+پیروں	piːrõː	wikipron	pɛːrõː
+پیروی	pɛːrəʋiː	wikipron	
+پیسہ	pɛːsɑː	wikipron	peːsɑː;pɛːsɑ;peːsɑ
+پیسے	pɛːseː	wikipron	
+پیشاب	peːʃɑːb	wikipron	
+پیشانی	peːʃɑːniː	wikipron	
+پیشگوئی	peːʃɡoːjiː	wikipron	
+پیغام	pɛːɣɑːm	wikipron	
+پیغمبر	pɛːɣəmbər	wikipron	
+پیل	piːl	wikipron	
+پیمان	pɛːmɑːn	wikipron	
+پینا	piːnɑː	wikipron	
+پینتالیس	pɛ̃ːtɑːliːs	gold	
+پینسل	peːnsɪl	wikipron	
+پینگوئن	pɛːnɡuːɪn	wikipron	
+پیٹ	peːʈ	wikipron	
+پیٹرول	peːʈroːl	wikipron	pɛʈroːl
+پیڑ	peːɽ	wikipron	
+چائے	ʧɑːeː	wikipron	
+چابھی	ʧɑːbʰiː	wikipron	
+چابی	ʧɑːbiː	wikipron	
+چار	ʧɑːr	gold	
+چارسدہ	ʧɑːrsəddɑː	wikipron	
+چاشت	ʧɑːʃt	wikipron	
+چاشنی	ʧɑːʃniː	wikipron	
+چاق	ʧɑːq	wikipron	
+چاقو	ʧɑːquː	wikipron	
+چال	ʧɑːl	wikipron	
+چالان	ʧɑːlɑːn	wikipron	
+چالاک	ʧɑːlɑːk	wikipron	
+چالک	ʧɑːlək	wikipron	
+چالیس	ʧɑːliːs	gold	
+چاندوں	ʧɑ̃ːdõː	wikipron	
+چاندی	ʧɑːndiː	wikipron	ʧɑ̃ːdiː
+چانٹا	ʧɑ̃ːʈɑː	wikipron	
+چاول	ʧɑːʋəl	wikipron	
+چاٹنا	ʧɑːʈnɑː	wikipron	
+چاٹگام	ʧɑːʈɡɑːm	wikipron	
+چاچو	ʧɑːʧuː	wikipron	
+چاچی	ʧɑːʧiː	wikipron	
+چاک	ʧɑːk	wikipron	
+چاکلیٹ	ʧɑːkleːʈ	wikipron	
+چاہئے	ʧɑːhɪeː	gold	
+چاہت	ʧɑːhət	wikipron	
+چاہتا	ʧɑːhtɑː	gold	
+چاہتو	ʧɑːhətoː	wikipron	
+چاہتوں	ʧɑːhətõː	wikipron	
+چاہتیں	ʧɑːhətẽː	wikipron	
+چاہنا	ʧɑːhnɑː	wikipron	
+چاہیے	ʧɑːhɪeː	gold	
+چاہے	ʧɑːheː	wikipron	
+چای	ʧɑːj	wikipron	
+چتا	ʧɪtɑː	wikipron	
+چتاؤ	ʧɪtɑːoː	wikipron	
+چتاؤں	ʧɪtɑːõː	wikipron	
+چتائیں	ʧɪtɑːẽː	wikipron	
+چتکان	ʧɪtkɑːn	wikipron	
+چراغ	ʧərɑːɣ	wikipron	ʧɪrɑːɣ
+چربی	ʧərbiː	wikipron	
+چرخہ	ʧərxə	wikipron	
+چرس	ʧərəs	wikipron	
+چرپرا	ʧərpərɑː	wikipron	
+چرچ	ʧərʧ	wikipron	
+چست	ʧʊst	wikipron	
+چشتیاں	ʧɪʃtɪjɑ̃ː	wikipron	
+چشم	ʧəʃm	wikipron	
+چشمک	ʧəʃmək	wikipron	
+چشمہ	ʧəʃmɑː	wikipron	ʧəʃmɑ
+چشمے	ʧəʃmeː	wikipron	
+چغتائی	ʧʊɣtɑːiː	wikipron	
+چغد	ʧʊɣəd	wikipron	ʧʊɣd
+چفتی	ʧəftiː	wikipron	
+چق	ʧɪq	wikipron	
+چقماق	ʧəqmɑːq	wikipron	
+چقمق	ʧəqməq	wikipron	
+چلاس	ʧɪlɑːs	wikipron	
+چلان	ʧəlɑːn	wikipron	
+چلاہٹ	ʧɪllɑːhət	wikipron	
+چلم	ʧɪləm	wikipron	
+چلمن	ʧɪlmən	wikipron	
+چلن	ʧələn	wikipron	
+چلنا	ʧəlnɑː	wikipron	
+چلون	ʧɪlʋən	wikipron	
+چلچتر	ʧəlʧɪtrə	wikipron	
+چلی	ʧɪliː	wikipron	
+چماٹ	ʧəmɑːʈ	wikipron	
+چمبیلی	ʧəmbeːliː	wikipron	
+چمن	ʧəmən	wikipron	
+چمو	ʧəmuː	wikipron	
+چمچ	ʧəmməʧ	wikipron	ʧəməʧ
+چمچو	ʧəmʧoː	wikipron	
+چمچوں	ʧəmʧõː	wikipron	
+چمچہ	ʧəmʧɑː	wikipron	ʧəmʧɑ
+چمچے	ʧəmʧeː	wikipron	
+چمکار	ʧəmkɑːr	wikipron	
+چنئی	ʧənnəiː	wikipron	
+چناب	ʧənɑːb	wikipron	
+چنتا	ʧɪntɑː	wikipron	
+چند	ʧənd	wikipron	
+چندر	ʧəndrə	wikipron	
+چندن	ʧəndən	wikipron	
+چننا	ʧɪnnɑː	wikipron	ʧʊnnɑː
+چنگال	ʧəŋɡɑːl	wikipron	
+چنیوٹ	ʧɪnɪjoːʈ	wikipron	
+چنیوٹی	ʧɪnjoːʈiː	wikipron	
+چوبیس	ʧɔːbiːs	gold	
+چوبے	ʧɔːbeː	wikipron	
+چوتر	ʧuːtər	wikipron	
+چوتڑ	ʧuːtəɽ	wikipron	
+چوتھا	ʧɔːtʰɑː	gold	
+چوتھائی	ʧɔːtʰɑːiː	wikipron	
+چودنا	ʧoːdnɑː	wikipron	
+چودہ	ʧɔːdɑː	gold	
+چور	ʧoːr	wikipron	
+چورنگی	ʧɔːrəŋɡiː	wikipron	
+چورو	ʧoːroː	wikipron	
+چوروں	ʧoːrõː	wikipron	
+چوری	ʧoːriː	wikipron	
+چوسنا	ʧuːsnɑː	wikipron	
+چول	ʧuːl	wikipron	
+چومنا	ʧuːmnɑː	wikipron	
+چونا	ʧuːnɑː	wikipron	
+چوٹ	ʧoːʈ	wikipron	
+چوڑا	ʧɔːɽɑː	wikipron	
+چوڑائی	ʧɔːɽɑːiː	wikipron	
+چوڑی	ʧɔːɽiː	gold	
+چوک	ʧɔːk	wikipron	
+چوکا	ʧɔːkɑː	wikipron	
+چوکی	ʧɔːkiː	wikipron	
+چوگنا	ʧɔːɡʊnɑː	wikipron	
+چوں	ʧũː	wikipron	
+چوہا	ʧuːhɑː	wikipron	
+چٹکی	ʧɪʈkiː	wikipron	ʧʊʈkiː
+چٹگاؤں	ʧəʈɡɑːõː	wikipron	
+چپ	ʧʊp	wikipron	
+چپاتی	ʧəpɑːtiː	wikipron	
+چپقلش	ʧəpqʊləʃ	wikipron	
+چپل	ʧəppəl	wikipron	
+چپٹی	ʧəpʈiː	wikipron	
+چڑھانا	ʧəɽʰɑːnɑː	wikipron	
+چڑیا	ʧɪɽɪjɑː	wikipron	
+چڑیل	ʧʊɽeːl	wikipron	ʧʊɽɛːl
+چکت	ʧəkɪt	wikipron	
+چکمہ	ʧəkmɑː	wikipron	
+چکنا	ʧəknɑː	wikipron	ʧɪknɑː;ʧʊknɑː
+چکوال	ʧəkʋɑːl	wikipron	
+چکھنا	ʧəkʰnɑː	wikipron	
+چکی	ʧəkkiː	wikipron	
+چھ	ʧʰeː	gold	
+چھاؤنی	ʧʰɑːʊniː	wikipron	
+چھاؤں	ʧʰɑ̃ːõː	wikipron	
+چھائی	ʧʰɑːiː	wikipron	
+چھال	ʧʰɑːl	wikipron	
+چھاپنا	ʧʰɑːpnɑː	wikipron	
+چھایا	ʧʰɑːjɑː	wikipron	
+چھبیس	ʧʰəbbiːs	gold	
+چھت	ʧʰət	wikipron	
+چھتری	ʧʰətriː	wikipron	
+چھتوں	ʧʰətõː	wikipron	
+چھتیں	ʧʰətẽː	wikipron	
+چھلکا	ʧʰɪlkɑː	wikipron	
+چھوارے	ʧʰʊʋɑːreː	wikipron	
+چھولا	ʧʰoːlɑː	wikipron	
+چھونا	ʧʰuːnɑː	wikipron	
+چھوٹ	ʧʰuːʈ	wikipron	
+چھوٹا	ʧʰoːʈɑː	gold	
+چھوٹنا	ʧʰuːʈnɑː	wikipron	
+چھوٹی	ʧʰoːʈiː	gold	
+چھٹا	ʧʰəʈʈɑː	gold	
+چھٹپٹانا	ʧʰəʈpəʈɑːnɑː	wikipron	
+چھٹی	ʧʰʊʈʈiː	wikipron	
+چھٹیاں	ʧʰʊʈʈɪjɑ̃ː	wikipron	
+چھٹیوں	ʧʰʊʈʈɪjõː	wikipron	
+چھپانا	ʧʰʊpɑːnɑː	wikipron	
+چھپنا	ʧʰəpnɑː	wikipron	ʧʰʊpnɑː
+چھپکلی	ʧʰɪpkəliː	wikipron	
+چھڑکاؤ	ʧʰɪrkɑːoː	wikipron	
+چھکا	ʧʰəkkɑː	wikipron	
+چھکو	ʧʰəkkoː	wikipron	
+چھکوں	ʧʰəkkõː	wikipron	
+چھکے	ʧʰəkkeː	wikipron	
+چھہ	ʧʰɛh	wikipron	
+چھیلا	ʧʰɛːlɑː	wikipron	
+چھیننا	ʧʰiːnnɑː	wikipron	
+چھینک	ʧʰĩːk	wikipron	
+چھیڑنا	ʧʰeːɽnɑː	wikipron	
+چہارم	ʧəhɑːrʊm	wikipron	
+چہرو	ʧɪhroː	wikipron	
+چہروں	ʧɪhrõː	wikipron	
+چہرہ	ʧɪhrɑː	wikipron	ʧehrɑː;ʧɛhrɑː;ʧɪhrɑ;ʧehrɑ;ʧɛhrɑ
+چہرے	ʧɪhreː	wikipron	
+چیت	ʧɛːt	wikipron	
+چیخ	ʧiːx	wikipron	
+چیرنا	ʧiːrnɑː	wikipron	
+چیز	ʧiːz	gold	
+چیزو	ʧiːzoː	wikipron	
+چیزوں	ʧiːzõː	wikipron	
+چیزیں	ʧiːzẽː	wikipron	
+چیل	ʧiːl	wikipron	
+چیلینجی	ʧiːlliːnʤiː	wikipron	
+چین	ʧeːn	wikipron	ʧiːn;ʧɛːn
+چینٹی	ʧĩːʈiː	wikipron	
+چیونٹی	ʧɪjũːʈiː	wikipron	ʧjũːʈiː;ʧũːʈiː
+چیچنیا	ʧeːʧənjɑː	wikipron	ʧiːʧənjɑː
+چیک	ʧeːk	gold	
+چیکوسلوواکیہ	ʧɛkoːsloːʋɑːkɪjɑː	wikipron	
+چیکیا	ʧeːkɪjɑː	wikipron	
+چیکیہ	ʧeːkɪjə	wikipron	
+ڈالر	ɖɑːlər	gold	
+ڈاڈو	ɖɑːɖuː	wikipron	
+ڈاک	ɖɑːk	wikipron	
+ڈاکا	ɖɑːkɑː	wikipron	
+ڈاکٹر	ɖɑːkʈər	gold	
+ڈاکیا	ɖɑːkɪjɑː	wikipron	
+ڈاکیہ	ɖɑːkɪjɑː	wikipron	ɖɑːkɪjɑ
+ڈبہ	ɖəbbə	wikipron	ɖɪbbə
+ڈبے	ɖɪbbeː	wikipron	
+ڈراؤنا	ɖərɑːoːnɑː	wikipron	ɖərɑːʋnɑː
+ڈرنا	ɖərnɑː	wikipron	
+ڈرپوک	ɖərpoːk	wikipron	
+ڈسکہ	ɖəskɑː	wikipron	ɖəskɑ
+ڈمبوداس	ɖəmbuːdɑːs	wikipron	
+ڈمرو	ɖəmruː	wikipron	
+ڈنمارک	ɖɪ̃nmɑːrək	wikipron	ɖɪnmɑːrk
+ڈنڈا	ɖənɖɑː	wikipron	
+ڈنکرک	ɖənkərk	wikipron	
+ڈوری	ɖoːriː	wikipron	
+ڈونگا	ɖoːŋɡɑː	wikipron	
+ڈوور	ɖoːʋər	wikipron	
+ڈچ	ɖəʧ	wikipron	
+ڈڑھیل	ɖəɽʰjəl	wikipron	
+ڈکار	ɖəkɑːr	wikipron	ɖɪkɑːr
+ڈکی	ɖɪkkiː	wikipron	
+ڈگری	ɖɪɡriː	gold	
+ڈگی	ɖɪɡɡiː	wikipron	
+ڈھائی	ɖʰɑːiː	gold	
+ڈھانپنا	ɖʰɑ̃ːpnɑː	wikipron	
+ڈھانچہ	ɖʰɑːnʧɑː	wikipron	
+ڈھاکہ	ɖʰɑːkɑː	wikipron	
+ڈھولک	ɖʰoːlək	wikipron	
+ڈھونڈنا	ɖʰuːnɖnɑː	wikipron	
+ڈھونڈھ	ɖʰuːnɖʰ	wikipron	
+ڈھکن	ɖʰəkkən	wikipron	
+ڈھینچوں	ɖʰɛ̃ːʧũː	wikipron	
+ڈھیٹ	ɖʰiːʈ	wikipron	
+ڈہرکی	ɖəhərkiː	wikipron	
+ڈیرہ	ɖeːrɑː	wikipron	ɖeːrɑ
+ڈیوڑھی	ɖeːoːɽʰiː	wikipron	
+ڈیٹابیس	ɖeːʈɑːbeːs	wikipron	
+ڈیٹھ	ɖiːʈʰ	wikipron	
+ڈیڑھ	ɖeːɽʰ	gold	
+ژالہ	ʒɑːlɑː	wikipron	ʒɑːlɑ
+ژاژ	ʒɑːʒ	wikipron	
+ژندہ	ʒəndɑː	wikipron	ʒəndɑ
+ژیان	ʒəjɑːn	wikipron	
+ژیاں	zɪjɑ̃ː	wikipron	ʒɪjɑ̃ː
+کا	kɑː	gold	
+کائنات	kɑːɪnɑːt	wikipron	
+کائناتو	kɑːɪnɑːtoː	wikipron	
+کائناتوں	kɑːɪnɑːtõː	wikipron	
+کابوس	kɑːbuːs	wikipron	
+کاتب	kɑːtɪb	wikipron	
+کاتھولک	kɑːtʰoːlɪk	wikipron	
+کاج	kɑːʤ	wikipron	
+کاجو	kɑːʤuː	wikipron	
+کارخانہ	kɑːrxɑːnɑː	wikipron	kɑːrxɑːnɑ
+کارروائی	kɑːrrəʋɑːiː	wikipron	
+کارزار	kɑːrzɑːr	wikipron	
+کارن	kɑːrən	wikipron	
+کارواں	kɑːrʋɑ̃ː	wikipron	
+کاروبار	kɑːroːbɑːr	wikipron	
+کاروباری	kɑːroːbɑːriː	wikipron	
+کارٹون	kɑːrʈuːn	wikipron	
+کارکردگی	kɑːrkərdəɡiː	wikipron	
+کاش	kɑːʃ	wikipron	
+کاغذ	kɑːɣəz	wikipron	
+کاغذات	kɑːɣzɑːt	wikipron	
+کاغذوں	kɑːɣəzõː	wikipron	
+کافی	kɑːfiː	wikipron	
+کالا	kɑːlɑː	wikipron	
+کالج	kɑːlɪʤ	wikipron	
+کالسروئے	kɑːlsruːeː	wikipron	
+کالی	kɑːliː	wikipron	
+کالے	kɑːleː	wikipron	
+کام	kɑːm	gold	
+کامل	kɑːmɪl	wikipron	
+کامونکے	kɑːmoːŋkeː	wikipron	
+کامیاب	kɑːmjɑːb	wikipron	
+کامیابی	kɑːmjɑːbiː	wikipron	
+کانٹا	kɑːnʈɑː	wikipron	
+کانٹوں	kɑːnʈõː	wikipron	
+کانپنا	kɑ̃ːpnɑː	wikipron	
+کانچ	kɑ̃ːʧ	wikipron	
+کانچوں	kɑ̃ːʧõː	wikipron	
+کاویہ	kɑːʋjə	wikipron	
+کاٹھیاواڑ	kɑːʈʰjɑːʋɑːɽ	wikipron	
+کاٹھیاواڑی	kɑːʈʰjɑːʋɑːɽiː	wikipron	
+کاپی	kɑːpiː	wikipron	
+کاڑھا	kɑːɽʰɑː	wikipron	
+کاہکشان	kɑːhkəʃɑːn	wikipron	
+کب	kəb	gold	
+کبابیر	kəbɑːbiːr	wikipron	
+کباڑ	kəbɑːɽ	wikipron	
+کبج	kʊbʤ	wikipron	
+کبریت	kɪbriːt	wikipron	
+کبل	kəbəl	wikipron	
+کبھو	kəbʰuː	wikipron	
+کبھی	kəbʰiː	wikipron	
+کبیر	kəbiːr	wikipron	
+کتا	kʊttɑː	wikipron	
+کتاب	kɪtɑːb	gold	
+کتابیں	kɪtɑːbẽː	gold	
+کتراپی	kʊtrɑːpiː	wikipron	
+کتنا	kɪtnɑː	wikipron	
+کتو	kʊttoː	wikipron	
+کتوں	kʊttõː	wikipron	
+کتھک	kətʰək	wikipron	
+کتی	kətiː	wikipron	
+کتے	kʊtteː	wikipron	
+کجرا	kəʤrɑː	wikipron	
+کر	kər	gold	
+کراٹے	kərɑːʈeː	wikipron	
+کراچوی	kərɑːʧəʋiː	wikipron	
+کراچی	kərɑːʧiː	gold	
+کراہنا	kərɑːhnɑː	wikipron	
+کرتا	kərtɑː	gold	
+کرتی	kərtiː	gold	
+کرتے	kərteː	gold	
+کردار	kɪrdɑːr	wikipron	
+کردارو	kɪrdɑːroː	wikipron	
+کرداروں	kɪrdɑːrõː	wikipron	
+کردستان	kʊrdɪstɑːn	wikipron	
+کردن	kərdən	wikipron	
+کردنت	krɪdənt	wikipron	
+کرسی	kʊrsiː	wikipron	
+کرشمو	kərɪʃmoː	wikipron	
+کرشموں	kərɪʃmõː	wikipron	
+کرشمہ	kərɪʃmə	wikipron	
+کرشمے	kərɪʃmeː	wikipron	
+کرغیزستان	kɪrɣiːzəstɑːn	wikipron	
+کرم	kərəm	wikipron	
+کرن	kərən	wikipron	kɪrən
+کرنا	kərnɑː	gold	
+کرناٹک	kərnɑːʈək	wikipron	
+کرنو	kərənoː	wikipron	kɪrənoː
+کرنوں	kərənõː	wikipron	kɪrənõː
+کرنیں	kərənẽː	wikipron	kɪrənẽː
+کرو	kəroː	gold	
+کروڑ	kəroːɽ	gold	
+کرکٹ	kɪrkɪʈ	wikipron	krɪkɪʈ
+کری	kəriː	wikipron	
+کریم	kəriːm	wikipron	
+کریں	kərẽː	gold	
+کس	kɪs	gold	
+کسان	kɪsɑːn	wikipron	
+کسرت	kəsrət	wikipron	
+کسی	kɪsiː	gold	
+کشتی	kəʃtiː	wikipron	kʊʃtiː
+کشتیاں	kɪʃtɪjɑ̃ː	wikipron	kʊʃtɪjɑ̃ː
+کشتیوں	kɪʃtɪjõː	wikipron	kʊʃtɪjõː
+کشدھا	kʃʊdʰɑː	wikipron	
+کشفو	kəʃəfoː	wikipron	kəʃfoː
+کشما	kʃəmɑː	wikipron	
+کشمیر	kəʃmiːr	wikipron	
+کشن	kɪʃən	wikipron	
+کشور	kɪʃoːr	wikipron	kʃɔːr;kɪʃʋər
+کشٹ	kəʃʈ	wikipron	
+کشی	kəʃiː	wikipron	
+کشیدگی	kəʃiːdɡiː	wikipron	
+کعبہ	kɑːbɑː	wikipron	
+کفارہ	kəffɑːrɑː	wikipron	kəfɑːrɑː;kəffɑːrɑ
+کل	kəl	gold	
+کلائی	kəlɑːiː	wikipron	
+کلائیاں	kəlɑːɪjɑ̃ː	wikipron	
+کلائیو	kəlɑːɪjoː	wikipron	
+کلائیوں	kəlɑːɪjõː	wikipron	
+کلاشنکوف	klɑːʃɪnkoːf	wikipron	
+کلام	kəlɑːm	wikipron	
+کلاوا	kəlɑːʋɑː	wikipron	kɪlɑːʋɑː
+کلاونت	kəlɑːʋənt	wikipron	
+کلاں	kəlɑ̃ː	wikipron	
+کلب	kləb	wikipron	kəlb
+کلمہ	kəlɪmɑː	wikipron	kəlmɑː;kəlɪmɑ;kəlmɑ
+کلو	kəlluː	wikipron	
+کلی	kʊlliː	wikipron	kəliː
+کلیان	kəljɑːn	wikipron	
+کلیجا	kəleːʤɑː	wikipron	
+کلیسیا	kəliːsɪjɑː	wikipron	
+کلیہ	kʊllɪjɑː	wikipron	kəljɑː;kʊllɪjɑ;kəljɑ
+کم	kəm	gold	
+کمائی	kəmɑːiː	wikipron	
+کمال	kəmɑːl	wikipron	
+کمالیہ	kəmɑːlɪjɑː	wikipron	
+کمان	kəmɑːn	wikipron	
+کمانا	kəmɑːnɑː	wikipron	
+کمبخت	kəmbəxt	wikipron	
+کمبل	kəmbəl	wikipron	
+کمبوڈیا	kəmboːɖɪjɑː	wikipron	
+کمبھ	kʊmbʰ	wikipron	
+کمتر	kəmtər	wikipron	
+کمر	kəmər	wikipron	
+کمرو	kəmroː	wikipron	
+کمرہ	kəmrɑː	wikipron	kəmrɑ
+کمری	kəmriː	wikipron	
+کمرے	kəmreː	wikipron	
+کمزور	kəmzoːr	wikipron	
+کمزوری	kəmzoːriː	wikipron	
+کمل	kəməl	wikipron	
+کملا	kʊmɪllɑː	wikipron	
+کملائی	kʊmɪllɑːiː	wikipron	
+کمپ	kəmp	wikipron	
+کمپن	kəmpən	wikipron	
+کمپیوٹر	kəmpjuːʈər	gold	
+کمھلانا	kʊmʰlɑːnɑː	wikipron	kʊmlɑːnɑː
+کمھڑا	kʊmʰɽɑː	wikipron	kʊmɽɑː
+کمی	kəmiː	wikipron	
+کمیاب	kəmjɑːb	wikipron	
+کمینہ	kəmiːnɑː	wikipron	kəmiːnɑ
+کمیٹی	kəmeːʈiː	wikipron	
+کنارو	kɪnɑːroː	wikipron	
+کناروں	kɪnɑːrõː	wikipron	
+کنارہ	kɪnɑːrɑː	wikipron	kɪnɑːrɑ
+کنارے	kɪnɑːreː	wikipron	
+کنجی	kʊnʤiː	wikipron	
+کندھا	kəndʰɑː	wikipron	
+کندھوں	kəndʰõː	wikipron	
+کندھے	kəndʰeː	wikipron	
+کنشت	kʊnɪʃt	wikipron	
+کنعان	kənʔɑːn	wikipron	kənɑːn
+کنفیوشس	kənfʊʃəs	wikipron	
+کنواری	kʊ̃ʋɑːriː	wikipron	
+کنواں	kʊ̃ʋɑ̃ː	wikipron	
+کنول	kənʋəl	wikipron	kə̃ʋəl
+کنکال	kəŋkɑːl	wikipron	
+کنگارو	kəŋɡɑːruː	wikipron	
+کنگال	kəŋɡɑːl	wikipron	
+کنگن	kəŋɡən	wikipron	
+کنگھی	kəŋɡʰiː	wikipron	
+کنہیا	kənhəjjɑː	wikipron	kənəjjɑː
+کنیا	kənnɪjɑː	wikipron	kənɪjɑː;kənjɑː
+کنیز	kəniːz	wikipron	
+کنیسہ	kəniːsə	wikipron	
+کو	koː	gold	
+کوئٹہ	koːɪʈə	wikipron	
+کوئی	koːiː	gold	
+کواں	kʊʋɑ̃ː	wikipron	
+کوتا	kəʋɪtɑː	wikipron	
+کوتاہ	koːtɑːh	wikipron	
+کوتھمیر	koːtʰmiːr	wikipron	
+کوثر	kɔːsər	wikipron	
+کورو	koːrəʋ	wikipron	kɔːrəʋ
+کوشش	koːʃɪʃ	wikipron	
+کوفی	koːfiː	wikipron	kɔːfiː
+کولمبیا	koːləmbɪjɑː	wikipron	
+کولن	koːlən	wikipron	
+کولہو	koːlhuː	wikipron	
+کون	kɔːn	gold	
+کووا	kʊʋɑː	wikipron	
+کووں	kəʋʋõː	wikipron	
+کوٹری	koːʈriː	wikipron	
+کوٹھی	koːʈʰiː	wikipron	
+کوکب	kɔːkəb	wikipron	
+کوہ	koːh	wikipron	
+کوہرا	kʊhrɑː	wikipron	
+کوہلو	koːhluː	wikipron	
+کویت	kʊʋeːt	wikipron	kʊɛːt
+کوے	kəuʋeː	wikipron	
+کٹھل	kəʈʰəl	wikipron	
+کٹھور	kəʈʰor	wikipron	
+کٹی	kəʈiː	wikipron	
+کپ	kəp	wikipron	
+کپاسی	kəpɑːsiː	wikipron	
+کپتان	kəptɑːn	wikipron	
+کپوت	kəpoːt	wikipron	
+کپڑا	kəpɽɑː	wikipron	
+کپڑوں	kəpɽõː	wikipron	
+کچا	kətʧɑː	wikipron	
+کچھ	kʊʧʰ	gold	
+کچھوا	kəʧʰʊʋɑː	wikipron	kəʧʰʊɑː;kəʧʰʋɑː
+کڑوا	kəɽʋɑː	wikipron	
+کژدم	kəʒdʊm	wikipron	
+ککر	kʊkər	wikipron	
+ککشہ	kəkʃə	wikipron	
+کھاتا	kʰɑːtɑː	wikipron	
+کھاتوں	kʰɑːtõː	wikipron	
+کھاتے	kʰɑːteː	wikipron	
+کھاد	kʰɑːd	wikipron	
+کھان	kʰɑːn	wikipron	
+کھانا	kʰɑːnɑː	gold	
+کھانگ	kʰɑːŋɡ	wikipron	kʰɑ̃ːɡ
+کھانی	kʰɑːniː	wikipron	
+کھاگ	kʰɑːɡ	wikipron	
+کھجلی	kʰəʤʊliː	wikipron	kʰʊʤliː
+کھر	kʰʊr	wikipron	
+کھرب	kʰərəb	gold	
+کھرجو	kʰərʤuː	wikipron	
+کھرنا	kʰʊrnɑː	wikipron	
+کھرچنا	kʰʊrətʃnɑː	wikipron	
+کھسرا	kʰʊsrɑː	wikipron	
+کھلنا	kʰɪlnɑː	wikipron	kʰʊlnɑː
+کھلونا	kʰɪlɔːnɑː	wikipron	
+کھلونے	kʰɪlɔːneː	wikipron	
+کھمبی	kʰʊmbiː	wikipron	
+کھنن	kʰənən	wikipron	
+کھنڈر	kʰə̃nɖər	wikipron	kʰənɖər
+کھنڈرات	kʰənɖərɑːt	wikipron	
+کھنڈروں	kʰənɖərõː	wikipron	
+کھنک	kʰənək	wikipron	
+کھوتو	kʰoːtoː	wikipron	
+کھوتوں	kʰoːtõː	wikipron	
+کھوتے	kʰoːteː	wikipron	
+کھوج	kʰoːʤ	wikipron	
+کھوٹا	kʰoːʈɑː	wikipron	
+کھٹا	kʰəʈʈɑː	wikipron	
+کھٹائی	kʰəʈɑːiː	wikipron	
+کھٹمل	kʰəʈməl	wikipron	
+کھڈا	kʰəɖɖɑː	wikipron	
+کھڑا	kʰəɽɑː	wikipron	
+کھڑکی	kʰɪɽkiː	wikipron	
+کھڑی	kʰəɽiː	wikipron	
+کھڑے	kʰəɽeː	wikipron	
+کھیت	kʰeːt	wikipron	
+کھیتو	kʰeːtoː	wikipron	
+کھیتوں	kʰeːtõː	wikipron	
+کھیرا	kʰiːrɑː	wikipron	
+کھیل	kʰeːl	wikipron	
+کھیلا	kʰeːlɑː	wikipron	
+کھیلنا	kʰeːlnɑː	wikipron	
+کہ	keː	gold	
+کہا	kəhɑː	gold	
+کہانی	kəhɑːniː	gold	
+کہاوت	kəhɑːʋət	wikipron	
+کہاں	kəhɑ̃ː	gold	
+کہتے	kəhteː	gold	
+کہر	kəhər	wikipron	
+کہرا	kʊhrɑː	wikipron	
+کہنا	kəhnɑː	gold	
+کہکشاؤں	kəhkəʃɑːõː	wikipron	
+کہکشائیں	kəhkəʃɑːẽː	wikipron	
+کہکشاں	kɛhkəʃɑ̃ː	wikipron	
+کی	kiː	gold	
+کیا	kjɑː	gold	kijɑː
+کیاری	kɪjɑːriː	wikipron	
+کیتھولک	kɛːtʰoːlɪk	wikipron	
+کیرل	keːrəl	wikipron	
+کیرلا	keːrəlɑː	wikipron	
+کیسا	kɛːsɑː	gold	
+کیسی	kɛːsiː	gold	
+کیسے	kɛːseː	gold	
+کیش	keːʃ	wikipron	
+کیف	kiːf	wikipron	
+کیفے	kɛːfeː	wikipron	
+کیل	kiːl	wikipron	kɛːl
+کیلئے	keːlɪjeː	wikipron	
+کیلا	keːlɑː	wikipron	
+کیلکولیٹر	kɛːlkuːleːʈər	wikipron	
+کیلی	keːliː	wikipron	
+کیلے	kɛːleː	wikipron	
+کیمرہ	kɛːmrɑː	wikipron	
+کیمیا	kiːmɪjɑː	wikipron	
+کیمیائی	kiːmɪjɑːiː	wikipron	
+کینسر	kɛːnsər	wikipron	
+کینسل	kɛːnsəl	gold	
+کینچلی	kẽːʧʊliː	wikipron	
+کینڈی	kɛːnɖiː	wikipron	
+کینیا	kiːnɪjɑː	wikipron	
+کینیڈا	kɛːneːɖɑː	wikipron	
+کیوبیک	kʋɪbɛk	wikipron	
+کیونکہ	kjũːkeː	wikipron	kjũːke
+کیوں	kjõː	gold	
+کیچڑ	kiːʧəɽ	wikipron	
+کیڑا	kiːɽɑː	wikipron	
+کیکر	kiːkər	wikipron	
+کے	keː	gold	
+گئی	ɡəiː	gold	
+گئے	ɡəeː	gold	
+گا	ɡɑː	gold	
+گاؤں	ɡɑ̃ːʋ	gold	
+گائے	ɡɑːeː	wikipron	
+گاتر	ɡɑːtrə	wikipron	
+گاجر	ɡɑːʤər	wikipron	
+گال	ɡɑːl	wikipron	
+گالی	ɡɑːliː	wikipron	
+گام	ɡɑːm	wikipron	
+گانا	ɡɑːnɑː	wikipron	
+گانجا	ɡɑːnʤɑː	wikipron	
+گاندھی	ɡɑːndʰiː	wikipron	
+گانو	ɡɑːnoː	wikipron	ɡɑ̃ːoː;ɡɑ̃ːʋ
+گانوں	ɡɑːnõː	wikipron	ɡɑ̃ːõː
+گانڈ	ɡɑːnɖ	wikipron	ɡə̃ːnɖ
+گانڈو	ɡɑːnɖuː	wikipron	ɡɑ̃ːɖuː
+گانے	ɡɑːneː	wikipron	
+گاو	ɡɑːoː	wikipron	ɡɑːʋ
+گاڑھا	ɡɑːɽʰɑː	wikipron	
+گاڑی	ɡɑːɽiː	wikipron	
+گتا	ɡəttɑː	wikipron	
+گج	ɡəʤ	wikipron	
+گجرا	ɡəʤrɑː	wikipron	
+گجرات	ɡʊʤərɑːt	wikipron	
+گجراتی	ɡʊʤrɑːtiː	wikipron	
+گجروں	ɡəʤrõː	wikipron	
+گجرے	ɡəʤreː	wikipron	
+گدا	ɡʊdɑː	wikipron	
+گدگدانا	ɡʊdɡʊdɑːnɑː	wikipron	
+گدھ	ɡɪddʰ	wikipron	
+گدھا	ɡədʰɑː	wikipron	
+گدھو	ɡədʰoː	wikipron	
+گدھوں	ɡədʰõː	wikipron	
+گدھی	ɡədʰiː	wikipron	
+گدھیاں	ɡədʰɪjɑ̃ː	wikipron	
+گدھیو	ɡədʰɪjoː	wikipron	
+گدھیوں	ɡədʰɪjõː	wikipron	
+گذارنا	ɡʊzɑːrnɑː	wikipron	
+گذراننا	ɡʊzrɑːnnɑː	wikipron	
+گذرنا	ɡʊzərnɑː	wikipron	
+گذشتہ	ɡʊzəʃtə	wikipron	
+گرام	ɡrɑːm	wikipron	
+گرامر	ɡrɑːmər	wikipron	
+گرانا	ɡɪrɑːnɑː	wikipron	
+گرج	ɡərəʤ	wikipron	
+گرجا	ɡɪrʤɑː	wikipron	
+گرجنا	ɡərəʤnɑː	wikipron	
+گرجوں	ɡɪrʤõː	wikipron	
+گردش	ɡərdɪʃ	wikipron	
+گردن	ɡərdən	wikipron	
+گردنیں	ɡərdənẽː	wikipron	
+گردوارہ	ɡʊrdʊɑːrɑː	wikipron	ɡʊrdʋɑːrɑː;ɡʊrdʊɑːrɑ;ɡʊrdʋɑːrɑ
+گردوں	ɡʊrdõː	wikipron	
+گردہ	ɡʊrdɑː	wikipron	ɡʊrdɑ
+گردے	ɡʊrdeː	wikipron	
+گرز	ɡʊrz	wikipron	
+گرم	ɡərəm	wikipron	ɡərm
+گرما	ɡərmɑː	wikipron	
+گرمکھی	ɡʊrmʊkʰiː	wikipron	
+گرمی	ɡərmiː	wikipron	
+گرمیاں	ɡərmɪjɑ̃ː	wikipron	
+گرمیو	ɡərmɪjoː	wikipron	
+گرنتھ	ɡərəntʰ	wikipron	
+گرو	ɡʊruː	wikipron	
+گروپ	ɡruːp	wikipron	
+گروہ	ɡɪroːh	wikipron	
+گرڈ	ɡərʊɖ	wikipron	
+گرگٹ	ɡɪrɡɪʈ	wikipron	
+گرہن	ɡrəhən	wikipron	
+گزارش	ɡʊzɑːrɪʃ	wikipron	
+گزارہ	ɡʊzɑːrɑː	wikipron	ɡʊzɑːrɑ
+گزرے	ɡʊzreː	gold	
+گزشتہ	ɡʊzəʃtə	wikipron	
+گستاخ	ɡʊstɑːx	wikipron	
+گستاخی	ɡʊstɑːxiː	wikipron	
+گشت	ɡəʃt	wikipron	
+گشتی	ɡəʃtiː	wikipron	
+گشتیاں	ɡəʃtɪjɑ̃ː	wikipron	
+گشتیو	ɡəʃtɪjoː	wikipron	
+گشتیوں	ɡəʃtɪjõː	wikipron	
+گفتار	ɡʊftɑːr	wikipron	
+گفتگو	ɡʊftɡuː	wikipron	
+گلاب	ɡʊlɑːb	wikipron	
+گلاس	ɡlɑːs	wikipron	
+گلال	ɡʊlɑːl	wikipron	
+گلانی	ɡlɑːniː	wikipron	
+گلستان	ɡʊlɪstɑːn	wikipron	
+گلو	ɡəloː	wikipron	ɡəluː;ɡʊloː;ɡʊluː
+گلوں	ɡəlõː	wikipron	ɡɪlõː
+گلگت	ɡɪlɡɪt	wikipron	
+گلہ	ɡɪlɑː	wikipron	ɡɪlɑ
+گلی	ɡəliː	wikipron	
+گلیاں	ɡəlɪjɑ̃ː	wikipron	
+گلیل	ɡəliːl	wikipron	
+گلیم	ɡɪliːm	wikipron	
+گلیو	ɡəlɪjoː	wikipron	
+گلیوں	ɡəlɪjõː	wikipron	
+گلے	ɡəleː	wikipron	ɡɪleː
+گم	ɡʊm	wikipron	
+گمانا	ɡʊmɑːnɑː	wikipron	
+گملا	ɡəmlɑː	wikipron	
+گمنام	ɡʊmnɑːm	wikipron	
+گناہ	ɡʊnɑːh	wikipron	ɡʊnɑː
+گنبد	ɡʊmbəd	wikipron	
+گنبذ	ɡʊmbəz	wikipron	
+گنبھیر	ɡə̃mbʰiːr	wikipron	
+گنت	ɡənɪt	wikipron	
+گنتی	ɡɪntiː	wikipron	
+گنجا	ɡənʤɑː	wikipron	
+گندم	ɡəndʊm	wikipron	
+گندمی	ɡəndʊmiː	wikipron	
+گندھک	ɡəndʰək	wikipron	
+گندہ	ɡəndɑː	wikipron	ɡəndɑ
+گنگا	ɡəŋɡɑː	wikipron	
+گنگنا	ɡʊnɡʊnɑː	wikipron	
+گنی	ɡɪniː	wikipron	
+گوا	ɡoːɑː	wikipron	
+گوادر	ɡʊɑːdər	wikipron	ɡʋɑːdər
+گوبھی	ɡoːbʰiː	wikipron	
+گوجرانوالہ	ɡʊʤrɑ̃ːʋɑːlɑː	wikipron	ɡʊʤrɑ̃ːʋɑːlɑ
+گوجرہ	ɡoːʤrɑːh	wikipron	
+گودام	ɡoːdɑːm	wikipron	
+گورا	ɡoːrɑː	wikipron	
+گورداسپور	ɡoːrdɑːspuːr	wikipron	ɡʊrdɑːspuːr
+گورستان	ɡoːrɪstɑːn	wikipron	
+گورمنٹ	ɡoːrmənʈ	wikipron	
+گورو	ɡɔːrəʋ	wikipron	
+گورکن	ɡoːrkən	wikipron	
+گورکھا	ɡoːrkʰɑː	wikipron	
+گوزن	ɡɔːzən	wikipron	ɡəʋəzn
+گوسفند	ɡoːsfənd	wikipron	
+گوشت	ɡoːʃt	wikipron	ɡoːʃ
+گول	ɡoːl	wikipron	
+گولا	ɡoːlɑː	wikipron	
+گولی	ɡoːliː	wikipron	
+گونج	ɡuːnʤ	wikipron	
+گونگا	ɡuːŋɡɑː	wikipron	
+گوٹھ	ɡoːʈʰ	wikipron	
+گوٹی	ɡoːʈiː	wikipron	
+گوٹیاں	ɡoːʈɪjɑ̃ː	wikipron	
+گوٹیو	ɡoːʈɪjoː	wikipron	
+گوٹیوں	ɡoːʈɪjõː	wikipron	
+گوگرد	ɡoːɡɪrd	wikipron	
+گٹار	ɡɪʈɑːr	wikipron	
+گٹھری	ɡəʈʰriː	wikipron	
+گڈا	ɡʊɖɖɑː	wikipron	
+گڑ	ɡʊɽ	wikipron	
+گڑیا	ɡʊɽɪjɑː	wikipron	
+گھاس	ɡʰɑːs	wikipron	
+گھانا	ɡʰɑːnɑː	wikipron	
+گھاو	ɡʰɑːʋ	wikipron	
+گھاٹا	ɡʰɑːʈɑː	wikipron	
+گھبرانا	ɡʰəbrɑːnɑː	wikipron	
+گھر	ɡʰər	gold	
+گھرنا	ɡʰɪrnɑː	wikipron	
+گھروں	ɡʰərõː	wikipron	
+گھریلو	ɡʰəreːluː	wikipron	
+گھمنڈ	ɡʰəmənɖ	wikipron	
+گھنا	ɡʰənɑː	wikipron	
+گھناؤنا	ɡʰɪnɑːoːnɑː	wikipron	
+گھناؤنی	ɡʰɪnɑːoːniː	wikipron	
+گھناؤنے	ɡʰɪnɑːoːneː	wikipron	
+گھنونا	ɡʰɪnɔːnɑː	wikipron	
+گھنونی	ɡʰɪnɔːniː	wikipron	
+گھنونے	ɡʰɪnɔːneː	wikipron	
+گھنٹا	ɡʰənʈɑː	wikipron	
+گھنٹو	ɡʰənʈoː	wikipron	
+گھنٹوں	ɡʰənʈõː	wikipron	
+گھنٹہ	ɡʰənʈɑː	wikipron	ɡʰənʈɑ;ɡ⁽ʰ⁾ɜːnʈɑː
+گھنٹی	ɡʰənʈiː	wikipron	
+گھنٹے	ɡʰənʈeː	wikipron	
+گھنی	ɡʰəniː	wikipron	
+گھنے	ɡʰəneː	wikipron	
+گھوش	ɡʰoːʃ	wikipron	
+گھونٹ	ɡʰuːnʈ	wikipron	ɡʰũːʈ
+گھوٹکی	ɡʰoːʈkiː	wikipron	
+گھوڑا	ɡʰoːɽɑː	wikipron	
+گھوڑو	ɡʰoːɽoː	wikipron	
+گھوڑوں	ɡʰoːɽõː	wikipron	
+گھوڑی	ɡʰoːɽiː	wikipron	
+گھوڑے	ɡʰoːɽeː	wikipron	
+گھٹنا	ɡʰəʈnɑː	wikipron	ɡʰʊʈnɑː
+گھڑی	ɡʰəɽiː	wikipron	
+گھڑیال	ɡʰəɽɪjɑːl	wikipron	
+گھی	ɡʰiː	wikipron	
+گہرا	ɡəhrɑː	wikipron	
+گہنا	ɡəhnɑː	wikipron	
+گی	ɡiː	gold	
+گیا	ɡəjɑː	gold	
+گیارہ	ɡjɑːrɑː	gold	
+گیت	ɡiːt	wikipron	
+گیدڑ	ɡiːdəɽ	wikipron	
+گیر	ɡɛːr	wikipron	
+گیزر	ɡiːzər	wikipron	
+گیس	ɡɛːs	wikipron	
+گیسن	ɡiːsən	wikipron	
+گیسو	ɡeːsuː	wikipron	
+گیلا	ɡiːlɑː	wikipron	
+گیند	ɡeːnd	wikipron	
+گیندوں	ɡeːndõː	wikipron	
+گیندیں	ɡeːndẽː	wikipron	
+گیہوں	ɡeːhũː	wikipron	
+گے	ɡeː	gold	
+ہائے	hɑːeː	wikipron	hɑːɛː;hɑːj
+ہاتھ	hɑːtʰ	gold	
+ہاتھوں	hɑːtʰõː	wikipron	
+ہاتھی	hɑːtʰiː	wikipron	
+ہار	hɑːr	wikipron	
+ہاردک	hɑːrdɪk	wikipron	
+ہارون	hɑːruːn	wikipron	
+ہانڈی	hɑːnɖiː	wikipron	
+ہانڈیاں	hɑːnɖɪjɑ̃ː	wikipron	
+ہانڈیو	hɑːnɖɪjoː	wikipron	
+ہانڈیوں	hɑːnɖɪjõː	wikipron	
+ہانک	hɑ̃ːk	wikipron	
+ہانکنا	hɑːŋknɑː	wikipron	
+ہاٹ	hɑːʈ	wikipron	
+ہاں	hɑ̃ː	gold	
+ہتھیار	hətʰɪjɑːr	wikipron	
+ہتھیلی	hətʰeːliː	wikipron	
+ہتھیلیو	hətʰeːlɪjoː	wikipron	
+ہتھیلیوں	hətʰeːlɪjõː	wikipron	
+ہتیارا	hətjɑːrɑː	wikipron	
+ہجر	hɪʤər	wikipron	həʤr;hɪʤr
+ہجروں	hɪʤrõː	wikipron	
+ہجوم	hʊʤuːm	wikipron	
+ہجے	hɪdʤeː	wikipron	
+ہخامنش	həxɑːmənɪʃ	wikipron	
+ہخامنشی	həxɑːmənɪʃiː	wikipron	
+ہدایات	hɪdɑːjɑːt	wikipron	
+ہدایت	hɪdɑːjət	wikipron	
+ہدایتوں	hɪdɑːjətõː	wikipron	
+ہدایتیں	hədɑːjətẽː	wikipron	
+ہدف	hədəf	wikipron	
+ہدیہ	hədɪjə	wikipron	
+ہر	hər	gold	
+ہرانا	hərɑːnɑː	wikipron	
+ہرجا	hərʤɑː	wikipron	
+ہرن	hɪrən	wikipron	
+ہرنائی	hərnɑːiː	wikipron	
+ہرگز	hərɡɪz	wikipron	
+ہریالی	hərɪjɑːliː	wikipron	hərjɑːliː
+ہریانہ	hərɪjɑːnɑː	wikipron	hərɪjɑːnɑ
+ہزار	həzɑːr	gold	
+ہستی	həstiː	wikipron	
+ہستیاں	həstɪjɑ̃ː	wikipron	
+ہستیو	həstɪjoː	wikipron	
+ہستیوں	həstɪjõː	wikipron	
+ہسپانی	həspɑːniː	wikipron	
+ہسپانیہ	həspɑːnɪjɑː	wikipron	həspɑːnɪjɑ
+ہفتو	həftoː	wikipron	
+ہفتوں	həftõː	wikipron	
+ہفتہ	həftɑː	gold	
+ہفتے	həfteː	wikipron	
+ہفوۃ	həfʋət	wikipron	
+ہل	həl	wikipron	
+ہلال	hɪlɑːl	wikipron	
+ہلانا	hɪlɑːnɑː	wikipron	
+ہلاک	həlɑːk	wikipron	
+ہلاکت	həlɑːkət	wikipron	
+ہلاکتوں	həlɑːkətõː	wikipron	
+ہلاکتیں	həlɑːkətẽː	wikipron	
+ہلاکوں	həlɑːkõː	wikipron	
+ہلو	həlluː	wikipron	
+ہلکا	həlkɑː	wikipron	
+ہلکان	həlkɑːn	wikipron	
+ہم	həm	gold	
+ہمارا	həmɑːrɑː	gold	
+ہماری	həmɑːriː	gold	
+ہمارے	həmɑːreː	gold	
+ہماہمی	həmɑːhəmiː	wikipron	
+ہمایوں	hʊmɑːjũː	wikipron	
+ہمت	hɪmmət	wikipron	
+ہمجنسیت	həmʤɪnsɪjət	wikipron	
+ہمسایہ	həmsɑːjɑː	wikipron	həmsɑːjɑ
+ہمسفر	həmsəfər	wikipron	
+ہموار	həmʋɑːr	wikipron	
+ہمیشگی	həmeːʃɡiː	wikipron	
+ہمیشہ	həmeːʃɑː	wikipron	həmeːʃɑ
+ہمیں	həmẽː	gold	
+ہند	hɪnd	wikipron	
+ہندسوں	hɪndɪsõː	wikipron	
+ہندسہ	həndəsɑː	wikipron	hɪndɪsɑː;hɪ̃ndsɑː;həndəsɑ;hɪndɪsɑ;hɪ̃nᵈsɑː
+ہندسے	hɪndɪseː	wikipron	
+ہندو	hɪnduː	wikipron	
+ہندوتوا	hɪnduːtʋɑː	wikipron	
+ہندوستان	hɪndʊstɑːn	gold	
+ہندوستانی	hɪnduːstɑːniː	wikipron	hɪndʊstɑːniː
+ہندوکش	hɪnduːkʊʃ	wikipron	
+ہندوی	hɪndʋiː	wikipron	
+ہندی	hɪndiː	wikipron	
+ہندیہ	hɪndɪjɑː	wikipron	hɪndɪjɑ
+ہنسا	hɪnsɑː	wikipron	
+ہنساتمک	hɪ̃nsɑːtmək	wikipron	
+ہنسلو	hənsloː	wikipron	
+ہنسنا	hənsnɑː	wikipron	hə̃snɑː;həsnɑː
+ہنومان	hənuːmɑːn	wikipron	
+ہنڈی	hʊnɖiː	wikipron	
+ہنگامی	həŋɡɑːmiː	wikipron	
+ہنہنانا	hɪnhɪnɑːnɑː	wikipron	
+ہنہناہٹ	hɪnhɪnɑːhəʈ	wikipron	
+ہو	hoː	gold	
+ہوئی	hʊiː	gold	
+ہوئے	hʊeː	gold	
+ہوا	hʊɑː	gold	
+ہواؤں	hʋɑːõː	wikipron	
+ہوائی	həʋɑːiː	wikipron	
+ہوائیں	hʋɑːẽː	wikipron	
+ہوتا	hoːtɑː	gold	
+ہوتی	hoːtiː	gold	
+ہوتے	hoːteː	gold	
+ہود	huːd	wikipron	
+ہوس	həʋəs	wikipron	
+ہوسیع	huːsiːʔɑː	wikipron	huːsiːɑː
+ہوش	hoːʃ	wikipron	
+ہوشنگ	hoːʃəŋɡ	wikipron	
+ہوشوں	hoːʃõː	wikipron	
+ہوشیع	huːʃiːʔɑː	wikipron	huːʃiːɑː
+ہولی	hoːliː	wikipron	
+ہونا	hoːnɑː	gold	
+ہونٹ	hoːnʈ	wikipron	hõːʈ
+ہونٹو	hoːnʈoː	wikipron	
+ہونٹوں	hoːnʈõː	wikipron	
+ہونٹھ	hoːnʈʰ	wikipron	hõːʈʰ
+ہونی	hoːniː	gold	
+ہوٹل	hoːʈəl	wikipron	
+ہوگا	hoːɡɑː	gold	
+ہوگی	hoːɡiː	gold	
+ہوں	hũː	gold	
+ہٹانا	həʈɑːnɑː	wikipron	
+ہٹنا	həʈnɑː	wikipron	
+ہچکنا	hɪʧəknɑː	wikipron	
+ہچکی	hɪʧkiː	wikipron	
+ہڈی	həɖɖiː	wikipron	
+ہڑبڑاہٹ	həɽbəɽɑːhəʈ	wikipron	
+ہڑتال	həɽtɑːl	wikipron	
+ہی	hiː	wikipron	
+ہیجڑا	hiːʤɽɑː	wikipron	
+ہیر	hiːr	wikipron	
+ہیرا	hiːrɑː	wikipron	
+ہیضہ	hɛːzɑː	wikipron	hɛːzɑ
+ہیمبرگ	hɛːmbərɡ	wikipron	hɛːmbʊrɡ
+ہینسنا	hĩːsnɑː	wikipron	
+ہیک	hiːk	wikipron	
+ہیں	hɛ̃ː	gold	
+ہے	hɛː	gold	
+یا	jɑː	gold	
+یات	ɪjɑːt	wikipron	
+یاد	jɑːd	wikipron	
+یادداشت	jɑːddɑːʃt	wikipron	jɑːdɑːʃt;jɑːdɑːʃ
+یادو	jɑːdoː	wikipron	
+یادوں	jɑːdõː	wikipron	
+یادیں	jɑːdẽː	wikipron	
+یار	jɑːr	wikipron	
+یارو	jɑːroː	wikipron	
+یاروں	jɑːrõː	wikipron	
+یاس	jɑːs	wikipron	jəʔs;jəs
+یاسمین	jɑːsəmiːn	wikipron	jɑːsmiːn
+یاقوت	jɑːquːt	wikipron	
+یال	jɑːl	wikipron	
+یاور	jɑːʋər	wikipron	
+یتیم	jətiːm	wikipron	
+یحیی	jəhjɑː	wikipron	jɛhjɑː
+یخ	jəx	wikipron	
+یخنی	jəxniː	wikipron	
+یدھ	jʊdʰ	wikipron	jʊddʰ
+یرغمال	jərɣəmɑːl	wikipron	
+یرمیاہ	jɪrmɪjɑːh	wikipron	
+یروشلم	jəroːʃələm	wikipron	jəroːʃləm;jəruːʃləm;jərʊʃələm
+یزدان	jəzdɑːn	wikipron	
+یزیدیت	jəziːdɪjət	wikipron	
+یسعیاہ	jəsɑːʔjɑːh	wikipron	jəsɑːjɑːh
+یسوع	jəsuːʔ	wikipron	jəsuː
+یشوع	jəʃuːʔ	wikipron	jəʃuː
+یعقوب	jəʔquːb	wikipron	jəquːb
+یقین	jəqiːn	wikipron	
+یقینا	jəqiːnən	wikipron	
+یقیں	jəqĩː	wikipron	
+یلغار	jəlɣɑːr	wikipron	
+یلغارو	jəlɣɑːroː	wikipron	
+یلغاروں	jəlɣɑːrõː	wikipron	
+یمنا	jəmʊnɑː	wikipron	
+ین	iːn	wikipron	
+یوحنا	juːhənnɑː	wikipron	
+یوراگوئے	juːrɑːɡʋeː	wikipron	
+یورش	juːrɪʃ	wikipron	
+یوروپ	juːroːp	wikipron	
+یورپ	juːrəp	wikipron	
+یوسف	juːsʊf	wikipron	
+یوغ	joːɣ	wikipron	
+یوم	jɔːm	wikipron	
+یون	jəʋən	wikipron	
+یونان	juːnɑːn	wikipron	
+یونانی	juːnɑːniː	wikipron	
+یونس	juːnʊs	wikipron	
+یوکرین	juːkreːn	wikipron	
+یوگدان	joːɡdɑːn	wikipron	
+یوگنڈا	juːɡənɖɑː	wikipron	
+یوگیتو	joːɡjətʋə	wikipron	
+یوگیہ	joːɡjə	wikipron	
+یک	jək	wikipron	
+یکتا	jəktɑː	wikipron	
+یکم	jəkʊm	wikipron	
+یکیدم	jəkiːdəm	wikipron	
+یگانہ	jəɡɑːnɑː	wikipron	jəɡɑːnɑ
+یہ	jeː	gold	
+یہاں	jəhɑ̃ː	wikipron	jɑ̃ː
+یہود	jəhuːd	wikipron	
+یہودنی	jəhuːdɪniː	wikipron	jəhuːdniː
+یہودی	jəhuːdiː	wikipron	
+یہودیت	jəhuːdiːt	wikipron	jəhuːdɪjət
+یہودیہ	jəhuːdɪjɑː	wikipron	jəhuːdɪjɑ
