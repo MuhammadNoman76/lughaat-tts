@@ -110,6 +110,9 @@ class Session:
         self.space_repo = f"{self.user}/lughaat-tts-demo"
         os.environ.update({"HF_TOKEN": self.token, "HF_USERNAME": self.user, "WORK_REPO": self.work_repo, "MODEL_REPO": self.model_repo,
                            "HF_HUB_ENABLE_HF_TRANSFER": "0", "TOKENIZERS_PARALLELISM": "false"})
+        # slow links to huggingface.co: give each request 60 s instead of the default 10 s before a retry
+        os.environ.setdefault("HF_HUB_DOWNLOAD_TIMEOUT", "60")
+        os.environ.setdefault("HF_HUB_ETAG_TIMEOUT", "60")
         self.api.create_repo(self.work_repo, repo_type="dataset", private=True, exist_ok=True)
         self.state = self._load_state()
         self.state.setdefault("sessions", []).append({"start": time.strftime("%Y-%m-%d %H:%M:%S"), "gpu": self._gpu_name()})
@@ -149,6 +152,8 @@ class Session:
             return None
 
     def up(self, local: str, path_in_repo: str, repo: str | None = None, repo_type: str = "dataset", retries: int = 3) -> None:
+        size = sum(os.path.getsize(os.path.join(dp, f)) for dp, _, fs in os.walk(local) for f in fs) if os.path.isdir(local) else os.path.getsize(local)
+        log(f"uploading {path_in_repo} ({size/1e6:.1f} MB) ...")
         for i in range(retries):
             try:
                 if os.path.isdir(local):
