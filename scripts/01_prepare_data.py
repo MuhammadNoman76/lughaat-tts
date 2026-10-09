@@ -250,12 +250,12 @@ class Prep:
             if total >= eng_cap:
                 break
             spk = str(ex.get("speaker_id"))
-            if spk not in spk_ids:
-                if len(spk_ids) >= self.a.english_speakers:
-                    continue
-                spk_ids[spk] = ENGLISH_SPEAKER_BASE + len(spk_ids)
+            # per-speaker cap = total / target speaker count, but keep accepting new speakers until the
+            # hour cap is reached (a fixed first-N-speakers rule under-filled the cap: 2.45 of 3 h)
             if eng_kept[spk] >= per_spk:
                 continue
+            if spk not in spk_ids:
+                spk_ids[spk] = ENGLISH_SPEAKER_BASE + len(spk_ids)
             audio = ex["audio"]
             b = audio["bytes"]
             try:
@@ -836,7 +836,7 @@ def main() -> None:
     ap.add_argument("--upload", action="store_true")
     ap.add_argument("--urdu-hours-per-speaker", type=float, default=float(os.environ.get("URDU_HOURS_PER_SPEAKER", 6)))
     ap.add_argument("--english-hours", type=float, default=float(os.environ.get("ENGLISH_REPLAY_HOURS", 3)))
-    ap.add_argument("--english-speakers", type=int, default=20)
+    ap.add_argument("--english-speakers", type=int, default=20, help="target speaker count; sets the per-speaker cap (hours / N); more speakers are used if needed")
     ap.add_argument("--use-indicvoices-r", type=int, default=int(os.environ.get("USE_INDICVOICES_R", 0)))
     ap.add_argument("--indicvoices-hours", type=float, default=3.0)
     ap.add_argument("--asr-model", default=os.environ.get("ASR_FILTER_MODEL", "openai/whisper-large-v3-turbo"))

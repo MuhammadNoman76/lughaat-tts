@@ -98,7 +98,10 @@ class WhisperASR:
         if device is None:
             device = "cuda:0" if torch.cuda.is_available() else "cpu"
         dtype = torch.float16 if device.startswith("cuda") else torch.float32
-        self.pipe = pipeline("automatic-speech-recognition", model=model_id, torch_dtype=dtype, device=device)
+        try:   # transformers >= 4.56 renamed torch_dtype -> dtype
+            self.pipe = pipeline("automatic-speech-recognition", model=model_id, dtype=dtype, device=device)
+        except TypeError:
+            self.pipe = pipeline("automatic-speech-recognition", model=model_id, torch_dtype=dtype, device=device)
         self.batch_size = batch_size
         self.num_beams = num_beams
 
