@@ -239,9 +239,7 @@ class Session:
             except Exception as e:
                 lines.append(f"- {mod}: MISSING ({e!r})")
                 missing.append(mod)
-        open(os.path.join(WORKING, "env_check.md"), "w").write("
-".join(lines) + "
-")
+        open(os.path.join(WORKING, "env_check.md"), "w").write("\n".join(lines) + "\n")
         self.up(os.path.join(WORKING, "env_check.md"), "env_check.md")
         if missing:
             raise StopSession(f"Python packages missing in this session: {missing}. The notebook's dependency cell must "
