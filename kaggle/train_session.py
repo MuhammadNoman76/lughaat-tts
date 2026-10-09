@@ -313,7 +313,19 @@ class Session:
                    "--llm-max-words", env("LLM_LEXICON_MAX_WORDS", 0)]
             if step == "pack":
                 cmd.append("--upload")
+            if step == "lexicon":
+                # reuse LLM pronunciation candidates paid for in an earlier session
+                os.makedirs(os.path.join(PROJECT, "reports"), exist_ok=True)
+                if self.dl("frontend/reports/llm_cache.jsonl", os.path.join(PROJECT, "reports", "llm_cache.jsonl")):
+                    log("restored the LLM pronunciation cache from the work repo")
             run(cmd, cwd=PROJECT)
+            if step == "lexicon":
+                # persist the expensive artefacts immediately (the pack step is hours away)
+                for fn in ("llm_cache.jsonl", "lexicon_summary.json", "g2p_metrics.json", "lexicon_review.tsv"):
+                    fp = os.path.join(PROJECT, "reports", fn)
+                    if os.path.exists(fp):
+                        self.up(fp, f"frontend/reports/{fn}")
+                self.up(os.path.join(PROJECT, "lughaat_tts", "data"), "frontend/data")
             st["steps_done"].append(step)
             st[f"min_{step}"] = round((time.time() - t) / 60, 1)
             self.save_state(f"data step {step} done in {st[f'min_{step}']} min")
