@@ -231,14 +231,21 @@ class Session:
                               f"while logged in as {self.user}, click 'Agree and access', then re-run.")
         # python deps
         import importlib
-        for mod in ("misaki", "kokoro", "datasets", "soundfile", "librosa", "soxr", "transformers", "accelerate"):
+        missing = []
+        for mod in ("misaki", "kokoro", "datasets", "soundfile", "librosa", "soxr", "transformers", "accelerate", "yaml"):
             try:
                 importlib.import_module(mod)
                 lines.append(f"- {mod}: ok")
             except Exception as e:
                 lines.append(f"- {mod}: MISSING ({e!r})")
-        open(os.path.join(WORKING, "env_check.md"), "w").write("\n".join(lines) + "\n")
+                missing.append(mod)
+        open(os.path.join(WORKING, "env_check.md"), "w").write("
+".join(lines) + "
+")
         self.up(os.path.join(WORKING, "env_check.md"), "env_check.md")
+        if missing:
+            raise StopSession(f"Python packages missing in this session: {missing}. The notebook's dependency cell must "
+                              "succeed first (it prints the pip errors); nothing is trained until misaki/kokoro import.")
         # run the frontend unit tests once
         try:
             run([self.py, "-m", "pytest", "-q", "-x", os.path.join(PROJECT, "tests"), "-p", "no:cacheprovider"], cwd=PROJECT)
