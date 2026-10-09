@@ -2,6 +2,8 @@
 # torch / transformers / accelerate come with the Kaggle image. The pinned StyleTTS2 trainer stack
 # lives in its own uv venv (scripts/05_setup_training.py).
 # NOTE: do not add `phonemizer` here: misaki[en] depends on `phonemizer-fork`, which provides the same module.
+# NOTE: Kaggle runs Python 3.13; kokoro/misaki 0.9.4 wheels declare <3.13 but work, so the notebook installs
+#       them with `pip install --ignore-requires-python` (and falls back to their GitHub sources).
 kokoro>=0.9.4
 misaki[en]>=0.9.4
 datasets>=3.0
