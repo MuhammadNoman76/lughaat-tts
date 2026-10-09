@@ -46,3 +46,18 @@ def test_english_only_sentence_uses_native_phones(fe):
 def test_module_level_phonemize():
     assert phonemize("پاکستان").startswith("pɑːkɪstɑːn")
     assert FRONTEND_VERSION.startswith("ur-frontend-")
+
+
+def test_diacritics_disambiguate_within_one_sentence(fe):
+    phones = fe("کْیا آپ نے کام کِیا؟")
+    assert phones.startswith("kjɑː ")
+    assert phones.endswith(" kɪjɑː?")
+
+
+def test_invalid_phone_is_reported_instead_of_deleted():
+    class BrokenG2P:
+        def word(self, text):
+            return "ɬɑː"
+    fe = MixedFrontend(urdu=BrokenG2P())
+    with pytest.raises(ValueError, match="out-of-vocabulary"):
+        fe("سلام")

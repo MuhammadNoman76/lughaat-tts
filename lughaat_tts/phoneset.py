@@ -59,7 +59,7 @@ _REPLACEMENTS: list[tuple[str, str]] = [
     # nasal consonant variants
     ("ɳ", "n"), ("ɲ", "n"), ("ɴ", "n"),
     # vowel variants seen in WikiPron / espeak
-    ("aː", "ɑː"), ("ä", "ɑ"), ("a", "ə"), ("ʌ", "ə"), ("ɐ", "ə"), ("ᵊ", "ə"), ("ᵻ", "ɪ"),
+    ("ãː", "ɑ̃ː"), ("aː", "ɑː"), ("ä", "ɑ"), ("a", "ə"), ("ʌ", "ə"), ("ɐ", "ə"), ("ᵊ", "ə"), ("ᵻ", "ɪ"),
     ("æː", "ɛː"), ("æ", "ɛ"), ("ɒ", "ɔ"), ("ō", "oː"), ("ɨ", "ɪ"),
     # British-style length on schwa is meaningless in Urdu
     ("əː", "ə"),
@@ -97,6 +97,8 @@ def to_lughaat_tts(ph: str) -> str:
     # espeak writes the syllable separator as a dot inside words
     s = _WORD_DOT_RE.sub("", s)
     for old, new in _REPLACEMENTS:
+        # Match decomposed keys too: NFD turns ä into a + diaeresis and ō into o + macron.
+        old = unicodedata.normalize("NFD", old)
         if old in s:
             s = s.replace(old, new)
     # consonant length mark -> doubled consonant

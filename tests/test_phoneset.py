@@ -56,3 +56,13 @@ def test_split_units():
 def test_oov_raises():
     with pytest.raises(ValueError):
         assert_in_vocab("ɦə")
+
+@pytest.mark.parametrize("raw,expected", [
+    ("ãː", "ɑ̃ː"), ("ãː", "ɑ̃ː"), ("aː̃", "ɑ̃ː"),
+    ("ä", "ɑ"), ("ä", "ɑ"), ("ō", "oː"), ("ō", "oː"),
+])
+def test_unicode_vowels_preserve_quality_and_length(raw, expected):
+    result = to_lughaat_tts(raw)
+    assert result == unicodedata.normalize("NFD", expected)
+    assert to_lughaat_tts(result) == result
+    assert_in_vocab(result)

@@ -187,10 +187,9 @@ class MixedFrontend:
         ph = unicodedata.normalize("NFD", ph)
         ph = re.sub(r"\s+", " ", ph).strip()
         ph = re.sub(r"\s+([,.!?;:…])", r"\1", ph)
-        bad = [c for c in ph if c not in VOCAB]
-        if bad:
-            log.warning("dropping out-of-vocabulary symbols %r from %r", sorted(set(bad)), ph)
-            ph = "".join(c for c in ph if c in VOCAB)
+        # Dropping a phone changes the spoken word. Report an invalid frontend
+        # result instead of silently synthesizing a different pronunciation.
+        assert_in_vocab(ph, context=f"for text {text!r}")
         return FrontendResult(text=text, phonemes=ph, tokens=tokens, accent=accent)
 
     def __call__(self, text: str, english_accent: str = "auto", retroflex_td: bool = True) -> str:

@@ -5,16 +5,16 @@ can mix them (start manually, switch the orchestrator on later).
 
 ## A. Manual (simplest): re-run the notebook
 
-1. Upload this repository as a Kaggle Dataset `lughaat-tts-code` (zip the folder, drag it into
-   kaggle.com → Datasets → New Dataset), or push it to a private GitHub repo.
-2. kaggle.com → Code → New Notebook → File → Import Notebook → `kaggle/lughaat-tts-train.ipynb`.
-3. Right panel: **Accelerator: GPU T4 x2**, **Internet: On**, add the dataset `lughaat-tts-code` as input
-   (or set `PROJECT_GIT_URL` in the first cell).
-4. **Add-ons → Secrets**: `HF_TOKEN` (write scope), attached. Optional: `HF_USERNAME`, `ANTHROPIC_API_KEY`.
-5. **Save Version → Save & Run All (Commit)**. Close the browser; the run continues in the background for up to
+1. kaggle.com → Code → New Notebook → File → **Import Notebook** → GitHub tab → `MuhammadNoman76/lughaat-tts`,
+   file `kaggle/lughaat-tts-train.ipynb` (or download the file from GitHub and use the Upload tab).
+   The notebook clones the repository from `PROJECT_GIT_URL` (first cell) when it runs; no Kaggle dataset is needed.
+2. Right panel: **Accelerator: GPU T4 x2**, **Internet: On**.
+3. **Add-ons → Secrets**: `HF_TOKEN` (write scope), attached. Private GitHub repo: also `GITHUB_TOKEN` (read access),
+   or make the repo public. Optional: `HF_USERNAME`, `ANTHROPIC_API_KEY`.
+4. **Save Version → Save & Run All (Commit)**. Close the browser; the run continues in the background for up to
    ~11 h 15 min and writes `summary.txt` / `state.json` into the notebook output and into
    `https://huggingface.co/datasets/<you>/lughaat-tts-work`.
-6. Repeat step 5 whenever `kaggle.com → Settings → Accelerator quota` shows ≥ 2 free GPU hours, until the
+5. Repeat step 4 whenever `kaggle.com → Settings → Accelerator quota` shows ≥ 2 free GPU hours, until the
    output says `done=True`. Progress is in `progress.md` and `REPORT.md` in the work repo.
 
 Phases and what each session does: `env_check → data_prep (select, audio, asr, audit, lexicon, phonemize,

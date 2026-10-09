@@ -401,3 +401,16 @@
 اکتوبر	əktuːbər	gold	
 نومبر	nəʋəmbər	gold	
 دسمبر	dɪsəmbər	gold	
+
+# Pronunciation audit: pin frequent fallback words; marked homographs remain distinct.
+# بھیج follows the stem in assets/urd_arab_broad.tsv (بھیجنا).
+# کیا readings: https://en.wiktionary.org/wiki/کیا
+# جیسے: Hindustani jaise; https://en.wiktionary.org/wiki/जैसे
+جیسے	ʤɛːseː	gold
+بھیج	bʰeːʤ	gold
+کِیا	kɪjɑː	gold
+کْیا	kjɑː	gold
+جَلْد	ʤəld	gold
+جِلْد	ʤɪld	gold
+عَلَم	ələm	gold
+عِلْم	ɪlm	gold

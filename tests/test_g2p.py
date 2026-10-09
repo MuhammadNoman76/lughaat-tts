@@ -65,3 +65,19 @@ def test_neural_or_rules_fallback_is_deterministic(g2p):
     b = g2p.word_with_source(w)
     assert a == b and a[0] and not oov_chars(a[0])
     assert skeleton_ok(w, a[0])
+
+@pytest.mark.parametrize("word,expected", [
+    ("کتابِ", "kɪtɑːbeː"), ("علمِ", "ɪlmeː"), ("وزیرِ", "ʋəziːreː"),
+    ("جیسے", "ʤɛːseː"), ("بھیج", "bʰeːʤ"),
+    ("کِیا", "kɪjɑː"), ("کْیا", "kjɑː"), ("کیا", "kjɑː"),
+    ("جَلْد", "ʤəld"), ("جِلْد", "ʤɪld"), ("عَلَم", "ələm"), ("عِلْم", "ɪlm"),
+])
+def test_audited_pronunciations_without_neural_fallback(word, expected):
+    # Explicit pronunciation controls must also work offline / without G2P weights.
+    assert UrduG2P(use_neural=False).word(word) == expected
+
+
+def test_productive_heh_izafat():
+    from lughaat_tts.lexicon import Lexicon, LexEntry
+    lex = Lexicon({"نامہ": LexEntry("نامہ", "nɑːmɑː", "gold")})
+    assert UrduG2P(lexicon=lex, use_neural=False).word("نامۂ") == "nɑːmɑːeː"

@@ -7,4 +7,4 @@ inference phonemes must always come from the same FRONTEND_VERSION.
 """
 
 __version__ = "1.0.0"
-FRONTEND_VERSION = "ur-frontend-1.0.0"
+FRONTEND_VERSION = "ur-frontend-1.0.1"

@@ -83,13 +83,18 @@ class UrduG2P:
             return "", "none"
         if len(strip_diacritics(w)) == 1 and strip_diacritics(w) in LETTER_NAMES:
             return LETTER_NAMES[strip_diacritics(w)], "letter"
+        # Exact marked entries take precedence. A normal lookup strips the final
+        # zer, so doing it first loses productive izafat (e.g. کتابِ -> کتاب).
+        exact = self.lexicon.entries.get(w)
+        pron = exact.pron if exact is not None else None
         izafat = w.endswith(_IZAFAT_ZER) or w.endswith("ۂ")
-        base = w[:-1] if w.endswith(_IZAFAT_ZER) else w
-        pron = self.lexicon.lookup(w)
-        if pron is None and izafat and w.endswith(_IZAFAT_ZER):
+        if pron is None and izafat:
+            base = w[:-1] if w.endswith(_IZAFAT_ZER) else w[:-1] + "ہ"
             p = self.lexicon.lookup(base)
             if p is not None:
-                pron = p + "eː" if not p.endswith("eː") else p
+                pron = p + "eː"
+        if pron is None:
+            pron = self.lexicon.lookup(w)
         if pron is not None:
             self.stats["lexicon"] += 1
             return pron, "lexicon"
