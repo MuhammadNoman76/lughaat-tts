@@ -1,0 +1,3318 @@
+{
+  "summary": {
+    "frontend_version": "ur-frontend-1.0.1",
+    "manifest_files": 156,
+    "extra_files": 0,
+    "total_audio_seconds": 594.625,
+    "original_files_with_signal_issues": 0,
+    "files_with_changed_phonemes": 20,
+    "generated_candidates": 20,
+    "candidates_with_signal_issues": 0,
+    "asr_evaluated": false,
+    "human_listening_validated": false,
+    "quality_note": "Signal checks and phoneme changes do not establish spoken pronunciation accuracy. Candidates still use base Hindi voices."
+  },
+  "rows": [
+    {
+      "file": "A_01_hm_psi.wav",
+      "text": "پاکستان ایک خوبصورت ملک ہے۔",
+      "spoken_text": "پاکستان ایک خوبصورت ملک ہے۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "pɑːkɪstɑːn eːk xuːbsuːrət mʊlk hɛː.",
+      "current_phonemes": "pɑːkɪstɑːn eːk xuːbsuːrət mʊlk hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "d05c26dbae9191087f23113df9bf3e193bf2cbfb6f61e9371415ce29b7a48e58",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.1,
+        "peak": 0.77484130859375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.2,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_02_hm_psi.wav",
+      "text": "میں نے کل بازار سے تین کتابیں خریدیں۔",
+      "spoken_text": "میں نے کل بازار سے تین کتابیں خریدیں۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "mẽː neː kəl bɑːzɑːr seː tiːn kɪtɑːbẽː xəriːdẽː.",
+      "current_phonemes": "mẽː neː kəl bɑːzɑːr seː tiːn kɪtɑːbẽː xəriːdẽː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "ccaf084f2f593a0873bb35056d0ef6615e110005e3dca2e6f4e17ee239fa7045",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.9,
+        "peak": 0.5863037109375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.2,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_03_hm_psi.wav",
+      "text": "بھائی، گھر میں دھوپ بہت تیز ہے۔",
+      "spoken_text": "بھائی، گھر میں دھوپ بہت تیز ہے۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "bʰɑːiː, ɡʰər mẽː dʰuːp bəhʊt teːz hɛː.",
+      "current_phonemes": "bʰɑːiː, ɡʰər mẽː dʰuːp bəhʊt teːz hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "1a420866a11aa823a2e203eca457240f4e427fc2280a976442569a3bd4347fd1",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.075,
+        "peak": 0.585723876953125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.18,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_04_hm_psi.wav",
+      "text": "وزیرِ اعظم نے آج قوم سے خطاب کیا۔",
+      "spoken_text": "وزیرِ اعظم نے آج قوم سے خطاب کِیا۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "ʋəziːreː ɑːzəm neː ɑːʤ qɔːm seː xɪtɑːb kjɑː.",
+      "current_phonemes": "ʋəziːreː ɑːzəm neː ɑːʤ qɔːm seː xɪtɑːb kɪjɑː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": true,
+      "original_sha256": "4c167b62453d79d7f9d3e9ed807319dec1d671179f7a0b33350a574a847e4a34",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.725,
+        "peak": 0.68670654296875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.16,
+        "issues": []
+      },
+      "candidate": "candidates/A_04_hm_psi.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.825,
+        "peak": 0.69866943359375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.18,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_05_hm_psi.wav",
+      "text": "لڑکی نے اپنی چھوٹی بہن کو کہانی پڑھ کر سنائی۔",
+      "spoken_text": "لڑکی نے اپنی چھوٹی بہن کو کہانی پڑھ کر سنائی۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "ləɽkiː neː əpniː ʧʰoːʈiː bəhən koː kəhɑːniː pəɽʰ kər sʊnɑːiː.",
+      "current_phonemes": "ləɽkiː neː əpniː ʧʰoːʈiː bəhən koː kəhɑːniː pəɽʰ kər sʊnɑːiː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "b66f51fa0d5ce9da3d6030a154d3e30f3c90a7a108ae85c82249cf581ace1a3b",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.725,
+        "peak": 0.663787841796875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.22,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_06_hm_psi.wav",
+      "text": "ڈاکٹر صاحب نے کہا کہ تم جلد ٹھیک ہو جاؤ گے۔",
+      "spoken_text": "ڈاکٹر صاحب نے کہا کہ تم جَلْد ٹھیک ہو جاؤ گے۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "ɖɑːkʈər sɑːhɪb neː kəhɑː keː tʊm ʤəld ʈʰiːk hoː ʤɑːoː ɡeː.",
+      "current_phonemes": "ɖɑːkʈər sɑːhɪb neː kəhɑː keː tʊm ʤəld ʈʰiːk hoː ʤɑːoː ɡeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": true,
+      "original_sha256": "8893a3d2c57674a84bc2ddc7b7de32d5cb53b75b14ff424ba6701d62a67d551a",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.3,
+        "peak": 0.69775390625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.2,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_07_hm_psi.wav",
+      "text": "ہاں، مجھے یاد ہے، ہم وہاں نہیں گئے تھے۔",
+      "spoken_text": "ہاں، مجھے یاد ہے، ہم وہاں نہیں گئے تھے۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "hɑ̃ː, mʊʤʰeː jɑːd hɛː, həm ʋəhɑ̃ː nəhĩː ɡəeː tʰeː.",
+      "current_phonemes": "hɑ̃ː, mʊʤʰeː jɑːd hɛː, həm ʋəhɑ̃ː nəhĩː ɡəeː tʰeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "009b554f247ebbe77409e72c07ad2a4d8cac6ec8f39bd4114649db7199289490",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.525,
+        "peak": 0.532073974609375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.26,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_08_hm_psi.wav",
+      "text": "اس کی قیمت ۲۵۰۰ روپے ہے۔",
+      "spoken_text": "اس کی قیمت ۲۵۰۰ روپے ہے۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "ɪs kiː qiːmət doː həzɑːr pɑ̃ːʧ sɔː rʊpəeː hɛː.",
+      "current_phonemes": "ɪs kiː qiːmət doː həzɑːr pɑ̃ːʧ sɔː rʊpəeː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "3685c1d36b080a784c27b8accc2b65aec27ab80a9e3b99797c69456f47ce5633",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.625,
+        "peak": 0.62933349609375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.26,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_09_hm_psi.wav",
+      "text": "میری سالگرہ 14 اگست کو ہوتی ہے۔",
+      "spoken_text": "میری سالگرہ 14 اگست کو ہوتی ہے۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "meːriː sɑːlɡɪrɑː ʧɔːdɑː əɡəst koː hoːtiː hɛː.",
+      "current_phonemes": "meːriː sɑːlɡɪrɑː ʧɔːdɑː əɡəst koː hoːtiː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "de099b1a9c61dabfff28d27f4f767b1821c2d390aa9ad6b56a9dc95af1881444",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.65,
+        "peak": 0.611785888671875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.18,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_10_hm_psi.wav",
+      "text": "ٹرین صبح ۷:۴۵ پر روانہ ہوئی۔",
+      "spoken_text": "ٹرین صبح ۷:۴۵ پر روانہ ہوئی۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "ʈreːn sʊbəh pɔːneː ɑːʈʰ pər rəʋɑːnɑː hʊiː.",
+      "current_phonemes": "ʈreːn sʊbəh pɔːneː ɑːʈʰ pər rəʋɑːnɑː hʊiː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "8606d880de66b16df67a6b4c0a46b5ec8748cdbc48e78809ad0acf6bbb0e2e03",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.4,
+        "peak": 0.68280029296875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.18,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_11_hm_psi.wav",
+      "text": "غالب کا شعر آج بھی ہر زبان پر ہے۔",
+      "spoken_text": "غالب کا شعر آج بھی ہر زبان پر ہے۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "ɣɑːlɪb kɑː ʃeːr ɑːʤ bʰiː hər zəbɑːn pər hɛː.",
+      "current_phonemes": "ɣɑːlɪb kɑː ʃeːr ɑːʤ bʰiː hər zəbɑːn pər hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "bcc6ad1def6531a949120e6eec0868b2a202afcd63c47b625fb39f06b7395782",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.6,
+        "peak": 0.5804443359375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.28,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_12_hm_psi.wav",
+      "text": "محبت، خلوص اور اعتماد زندگی کے ستون ہیں۔",
+      "spoken_text": "محبت، خلوص اور اعتماد زندگی کے ستون ہیں۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "mʊhəbbət, xʊluːs ɔːr eːtɪmɑːd zɪndəɡiː keː sʊtuːn hɛ̃ː.",
+      "current_phonemes": "mʊhəbbət, xʊluːs ɔːr eːtɪmɑːd zɪndəɡiː keː sʊtuːn hɛ̃ː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "54cd3055b927e967af54cb45206f621b9a5adb73162653dab3d2d7748598367f",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.475,
+        "peak": 0.76617431640625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.28,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_13_hm_psi.wav",
+      "text": "کیا آپ میری بات سمجھ رہے ہیں؟",
+      "spoken_text": "کیا آپ میری بات سمجھ رہے ہیں؟",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "kjɑː ɑːp meːriː bɑːt səməʤʰ rəheː hɛ̃ː?",
+      "current_phonemes": "kjɑː ɑːp meːriː bɑːt səməʤʰ rəheː hɛ̃ː?",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "243a4852801213d9743a8b6b4d91209208fa2e7efa06a196d95327ca09cfd1be",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.175,
+        "peak": 0.643768310546875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.16,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_14_hm_psi.wav",
+      "text": "شکریہ! آپ کا دن اچھا گزرے۔",
+      "spoken_text": "شکریہ! آپ کا دن اچھا گزرے۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "ʃʊkrijɑː! ɑːp kɑː dɪn əʧʧʰɑː ɡʊzreː.",
+      "current_phonemes": "ʃʊkrijɑː! ɑːp kɑː dɪn əʧʧʰɑː ɡʊzreː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "44a5f4050a2b3b2df93a056e2fb746b234c8d302875ca794a168e06d66b21887",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.075,
+        "peak": 0.737091064453125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.16,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_15_hm_psi.wav",
+      "text": "قلم، خط اور غلطی جیسے الفاظ میں ق، خ اور غ کی آواز واضح ہونی چاہیے۔",
+      "spoken_text": "قلم، خط اور غلطی جیسے الفاظ میں ق، خ اور غ کی آواز واضح ہونی چاہیے۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "qələm, xət ɔːr ɣələtiː ʤiːseː əlfɑːz mẽː qɑːf, xeː ɔːr ɣɛːn kiː ɑːʋɑːz ʋɑːzeh hoːniː ʧɑːhɪeː.",
+      "current_phonemes": "qələm, xət ɔːr ɣələtiː ʤɛːseː əlfɑːz mẽː qɑːf, xeː ɔːr ɣɛːn kiː ɑːʋɑːz ʋɑːzeh hoːniː ʧɑːhɪeː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": false,
+      "original_sha256": "8dbdaeb58eaaae6c93c4904ce09c90fe5574bc7aa58ad7a47544f874dbbe9e2f",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 7.225,
+        "peak": 0.681396484375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.42,
+        "issues": []
+      },
+      "candidate": "candidates/A_15_hm_psi.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 7.175,
+        "peak": 0.68194580078125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.42,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_16_hm_psi.wav",
+      "text": "میں نے اپنا laptop آن کیا اور email چیک کی۔",
+      "spoken_text": "میں نے اپنا laptop آن کِیا اور email چیک کی۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "current_phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kɪjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": true,
+      "original_sha256": "39a50688430833dd826d50f7c1868b588995b4702ae4349d0c0222b70095189a",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.15,
+        "peak": 0.597198486328125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.24,
+        "issues": []
+      },
+      "candidate": "candidates/A_16_hm_psi.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.25,
+        "peak": 0.567413330078125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.24,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_17_hm_psi.wav",
+      "text": "ڈاکٹر عبدالقدیر خان پاکستان کے مشہور سائنسدان تھے۔",
+      "spoken_text": "ڈاکٹر عبدالقدیر خان پاکستان کے مشہور سائنسدان تھے۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "ɖɑːkʈər əbdʊlqədiːr xɑːn pɑːkɪstɑːn keː məʃhuːr sɑːɪnsdɑːn tʰeː.",
+      "current_phonemes": "ɖɑːkʈər əbdʊlqədiːr xɑːn pɑːkɪstɑːn keː məʃhuːr sɑːɪnsdɑːn tʰeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "56f41b25a37f75afd5553367a182d914ae1e88a0e54ecefab9de8cadacea1582",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 5.175,
+        "peak": 0.59246826171875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.28,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_18_hm_psi.wav",
+      "text": "یہ سڑک بہت چوڑی ہے۔",
+      "spoken_text": "یہ سڑک بہت چوڑی ہے۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "jeː səɽək bəhʊt ʧɔːɽiː hɛː.",
+      "current_phonemes": "jeː səɽək bəhʊt ʧɔːɽiː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "207ab01bc009044a41e6ca9329cec2f92e3b777cbdf8e510713176d80135fff6",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.675,
+        "peak": 0.717132568359375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.14,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_19_hm_psi.wav",
+      "text": "انہوں نے کہا تھا کہ وہ جمعرات کو آئیں گے۔",
+      "spoken_text": "انہوں نے کہا تھا کہ وہ جمعرات کو آئیں گے۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "ʊnhõː neː kəhɑː tʰɑː keː ʋoː ʤʊmeːrɑːt koː ɑːẽː ɡeː.",
+      "current_phonemes": "ʊnhõː neː kəhɑː tʰɑː keː ʋoː ʤʊmeːrɑːt koː ɑːẽː ɡeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "387b9d40daeb6249d10e6449e85db02944665ac303a4efc3192fe64bf379952d",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.925,
+        "peak": 0.546295166015625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.26,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_20_hm_psi.wav",
+      "text": "اردو ایک شیریں زبان ہے۔",
+      "spoken_text": "اردو ایک شیریں زبان ہے۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "ʊrduː eːk ʃiːrĩː zəbɑːn hɛː.",
+      "current_phonemes": "ʊrduː eːk ʃiːrĩː zəbɑːn hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "32797b5f795a6878c7cec75f6269fe16003a934a2cd865df53f8b7b08db0c2c9",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.675,
+        "peak": 0.639404296875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_21_hm_psi.wav",
+      "text": "۱۹۴۷ء میں پاکستان آزاد ہوا۔",
+      "spoken_text": "۱۹۴۷ء میں پاکستان آزاد ہوا۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "ʊnniːs sɔː sɛ̃ːtɑːliːs mẽː pɑːkɪstɑːn ɑːzɑːd hʊɑː.",
+      "current_phonemes": "ʊnniːs sɔː sɛ̃ːtɑːliːs mẽː pɑːkɪstɑːn ɑːzɑːd hʊɑː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "5335a26bd9d1becd4259a1ad3c3e10357717956dba1a3e12a048d3c007726900",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.275,
+        "peak": 0.6922607421875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.26,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_22_hm_psi.wav",
+      "text": "درجۂ حرارت ۳۸ اعشاریہ ۵ ڈگری تھا۔",
+      "spoken_text": "درجۂ حرارت ۳۸ اعشاریہ ۵ ڈگری تھا۔",
+      "voice": "hm_psi",
+      "set": "A",
+      "old_phonemes": "dərʤɑːeː hərɑːrət əɽtiːs əʃɑːrijɑː pɑ̃ːʧ ɖɪɡriː tʰɑː.",
+      "current_phonemes": "dərʤɑːeː hərɑːrət əɽtiːs əʃɑːrijɑː pɑ̃ːʧ ɖɪɡriː tʰɑː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "c4f739d6879fdc826be13114f4a7a1c4556808353a2a139c8426da763a96047c",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.15,
+        "peak": 0.721771240234375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.32,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_01_hm_psi.wav",
+      "text": "آج کی meeting کینسل ہو گئی ہے۔",
+      "spoken_text": "آج کی meeting کینسل ہو گئی ہے۔",
+      "voice": "hm_psi",
+      "set": "A2",
+      "old_phonemes": "ɑːʤ kiː miːʈɪŋ kɛːnsəl hoː ɡəiː hɛː.",
+      "current_phonemes": "ɑːʤ kiː miːʈɪŋ kɛːnsəl hoː ɡəiː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "be7bfee54142932138eda39fe87558a7a934db556f4ac5f1330b32097d41900a",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.15,
+        "peak": 0.6402587890625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.2,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_02_hm_psi.wav",
+      "text": "میں نے اپنا laptop آن کیا اور email چیک کی۔",
+      "spoken_text": "میں نے اپنا laptop آن کِیا اور email چیک کی۔",
+      "voice": "hm_psi",
+      "set": "A2",
+      "old_phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "current_phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kɪjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": true,
+      "original_sha256": "879489f5485599a3daefee7ab6ec300bf3e1d28aae55b68b8ec9c0a8199b00eb",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.15,
+        "peak": 0.601318359375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.24,
+        "issues": []
+      },
+      "candidate": "candidates/A2_02_hm_psi.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.25,
+        "peak": 0.567413330078125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.24,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_03_hm_psi.wav",
+      "text": "Please اپنا password کسی کو share نہ کریں۔",
+      "spoken_text": "Please اپنا password کسی کو share نہ کریں۔",
+      "voice": "hm_psi",
+      "set": "A2",
+      "old_phonemes": "pliːz əpnɑː pɛːsʋərɖ kɪsiː koː ʃɛr nə kərẽː.",
+      "current_phonemes": "pliːz əpnɑː pɛːsʋərɖ kɪsiː koː ʃɛr nə kərẽː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "8e4c55babc3e2195043ba74c1743f32a434b473692931b060b61e37bfbad2d6e",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.5,
+        "peak": 0.680419921875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.24,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_04_hm_psi.wav",
+      "text": "ہمارا next step یہ ہے کہ client کو proposal بھیج دیں۔",
+      "spoken_text": "ہمارا next step یہ ہے کہ client کو proposal بھیج دیں۔",
+      "voice": "hm_psi",
+      "set": "A2",
+      "old_phonemes": "həmɑːrɑː nɛksʈ sʈɛp jeː hɛː keː klɑɪənʈ koː prəpoːzəl bʰiːʤ dẽː.",
+      "current_phonemes": "həmɑːrɑː nɛksʈ sʈɛp jeː hɛː keː klɑɪənʈ koː prəpoːzəl bʰeːʤ dẽː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": false,
+      "original_sha256": "a2e4529b0455a4335f40b8461ef7ab4cf4feaee20b3ef07851fb794154a2cf5a",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.55,
+        "peak": 0.63287353515625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.36,
+        "issues": []
+      },
+      "candidate": "candidates/A2_04_hm_psi.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.525,
+        "peak": 0.65057373046875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.36,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_05_hm_psi.wav",
+      "text": "یہ app بہت user friendly ہے لیکن battery جلدی ختم کرتی ہے۔",
+      "spoken_text": "یہ app بہت user friendly ہے لیکن battery جلدی ختم کرتی ہے۔",
+      "voice": "hm_psi",
+      "set": "A2",
+      "old_phonemes": "jeː ɛːp bəhʊt juːzər frɛnɖliː hɛː leːkɪn bɛːʈəriː ʤəldiː xətm kərtiː hɛː.",
+      "current_phonemes": "jeː ɛːp bəhʊt juːzər frɛnɖliː hɛː leːkɪn bɛːʈəriː ʤəldiː xətm kərtiː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "b4d0f1f8584aca8003b1e79df017e2008bd85e8fa65ced63936c759a57b5e8ab",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 5.65,
+        "peak": 0.653289794921875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.3,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_06_hm_psi.wav",
+      "text": "Thank you so much، آپ نے بہت help کی۔",
+      "spoken_text": "Thank you so much، آپ نے بہت help کی۔",
+      "voice": "hm_psi",
+      "set": "A2",
+      "old_phonemes": "tʰɛːŋk juː soː məʧ, ɑːp neː bəhʊt hɛlp kiː.",
+      "current_phonemes": "tʰɛːŋk juː soː məʧ, ɑːp neː bəhʊt hɛlp kiː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "017bb340fa55c1371b93a99c2121ff5c7fc1325a0b2a3b30a60b81103417c032",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.275,
+        "peak": 0.605865478515625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.24,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_07_hm_psi.wav",
+      "text": "Office میں آج internet کا problem تھا۔",
+      "spoken_text": "Office میں آج internet کا problem تھا۔",
+      "voice": "hm_psi",
+      "set": "A2",
+      "old_phonemes": "ɔːfəs mẽː ɑːʤ ɪnʈərnɛʈ kɑː prɑːbləm tʰɑː.",
+      "current_phonemes": "ɔːfəs mẽː ɑːʤ ɪnʈərnɛʈ kɑː prɑːbləm tʰɑː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "eef01d6d960b9ae04d956d080d5c9bfd76f06ddd0f9c8bf4f080d923f2988f00",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.55,
+        "peak": 0.706085205078125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.22,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_08_hm_psi.wav",
+      "text": "اس project کی deadline اگلے Monday تک ہے۔",
+      "spoken_text": "اس project کی deadline اگلے Monday تک ہے۔",
+      "voice": "hm_psi",
+      "set": "A2",
+      "old_phonemes": "ɪs prɑːʤɛkʈ kiː ɖɛɖlɑɪn əɡleː mənɖeː tək hɛː.",
+      "current_phonemes": "ɪs prɑːʤɛkʈ kiː ɖɛɖlɑɪn əɡleː mənɖeː tək hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "abf95ef6fd81ae3bfc0934d44e3f41fd37903999ea41270ccef82c80abfa146d",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.725,
+        "peak": 0.65167236328125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.26,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_09_hm_psi.wav",
+      "text": "میں weekend پر Karachi جا رہا ہوں۔",
+      "spoken_text": "میں weekend پر Karachi جا رہا ہوں۔",
+      "voice": "hm_psi",
+      "set": "A2",
+      "old_phonemes": "mẽː ʋiːkɛnɖ pər kərɑːʧiː ʤɑː rəhɑː hũː.",
+      "current_phonemes": "mẽː ʋiːkɛnɖ pər kərɑːʧiː ʤɑː rəhɑː hũː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "4c79b1c94669d41b6a5545171986bbe7f83daf23bd362dfd7584e19de6ac713c",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.225,
+        "peak": 0.568817138671875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.12,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_10_hm_psi.wav",
+      "text": "Doctor نے کہا کہ یہ normal infection ہے، worry نہ کریں۔",
+      "spoken_text": "Doctor نے کہا کہ یہ normal infection ہے، worry نہ کریں۔",
+      "voice": "hm_psi",
+      "set": "A2",
+      "old_phonemes": "ɖɑːkʈər neː kəhɑː keː jeː nɔːrməl ɪnfɛkʃən hɛː, ʋəriː nə kərẽː.",
+      "current_phonemes": "ɖɑːkʈər neː kəhɑː keː jeː nɔːrməl ɪnfɛkʃən hɛː, ʋəriː nə kərẽː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "133a231815809608c70d454ab74f7c7c557fdd8c859f0f72854b422a8bf7db95",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.65,
+        "peak": 0.6817626953125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.32,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_11_hm_psi.wav",
+      "text": "ہمیں AI اور machine learning پر focus کرنا چاہیے۔",
+      "spoken_text": "ہمیں AI اور machine learning پر focus کرنا چاہیے۔",
+      "voice": "hm_psi",
+      "set": "A2",
+      "old_phonemes": "həmẽː eː ɑɪ ɔːr məʃiːn lərnɪŋ pər foːkəs kərnɑː ʧɑːhɪeː.",
+      "current_phonemes": "həmẽː eː ɑɪ ɔːr məʃiːn lərnɪŋ pər foːkəs kərnɑː ʧɑːhɪeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "efc0c64b1756db63ed61d8707edb624b4616e9657541539ec1c6bd6ed694aee4",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.55,
+        "peak": 0.5775146484375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.2,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_12_hm_psi.wav",
+      "text": "Update کے بعد phone ٹھیک سے کام کر رہا ہے۔",
+      "spoken_text": "Update کے بعد phone ٹھیک سے کام کر رہا ہے۔",
+      "voice": "hm_psi",
+      "set": "A2",
+      "old_phonemes": "əpɖeːʈ keː bɑːd foːn ʈʰiːk seː kɑːm kər rəhɑː hɛː.",
+      "current_phonemes": "əpɖeːʈ keː bɑːd foːn ʈʰiːk seː kɑːm kər rəhɑː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "68ef30c1e7e367074d7d84a52c2688bc090ad42d980bf21df806e9ebac84d77a",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.975,
+        "peak": 0.682525634765625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.28,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_13_hm_psi.wav",
+      "text": "یہ meeting 3 pm پر Zoom پر ہو گی۔",
+      "spoken_text": "یہ meeting 3 pm پر Zoom پر ہو گی۔",
+      "voice": "hm_psi",
+      "set": "A2",
+      "old_phonemes": "jeː miːʈɪŋ tʰriː piːɛm pər zuːm pər hoː ɡiː.",
+      "current_phonemes": "jeː miːʈɪŋ tʰriː piːɛm pər zuːm pər hoː ɡiː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "e627c46e7f03ba8c9d9a13f7f9c32a319be76b0f11e914419c782f98bc2e6819",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.375,
+        "peak": 0.671630859375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.26,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_14_hm_psi.wav",
+      "text": "Customer service نے میری complaint register کر لی۔",
+      "spoken_text": "Customer service نے میری complaint register کر لی۔",
+      "voice": "hm_psi",
+      "set": "A2",
+      "old_phonemes": "kəsʈəmər sərʋəs neː meːriː kəmpleːnʈ rɛʤəsʈər kər liː.",
+      "current_phonemes": "kəsʈəmər sərʋəs neː meːriː kəmpleːnʈ rɛʤəsʈər kər liː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "19f37f9c70107c4cc46db906ac369e8cfef17cb97ee558131cd37405436363b8",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.275,
+        "peak": 0.61163330078125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.26,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_15_hm_psi.wav",
+      "text": "آج weather بہت pleasant ہے، let's go for a walk۔",
+      "spoken_text": "آج weather بہت pleasant ہے، let's go for a walk۔",
+      "voice": "hm_psi",
+      "set": "A2",
+      "old_phonemes": "ɑːʤ ʋɛdər bəhʊt plɛzənʈ hɛː, lɛʈs ɡoː fɔːr ə ʋɔːk.",
+      "current_phonemes": "ɑːʤ ʋɛdər bəhʊt plɛzənʈ hɛː, lɛʈs ɡoː fɔːr ə ʋɔːk.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "2867c31f8d81ebb73a111dd465c0db50804f12a0aa106016d9dedd5520904988",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.975,
+        "peak": 0.6497802734375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.28,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_01_hf_alpha.wav",
+      "text": "پاکستان ایک خوبصورت ملک ہے۔",
+      "spoken_text": "پاکستان ایک خوبصورت ملک ہے۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "pɑːkɪstɑːn eːk xuːbsuːrət mʊlk hɛː.",
+      "current_phonemes": "pɑːkɪstɑːn eːk xuːbsuːrət mʊlk hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "6db93b93eccf6f1252b2e6710c3fcd4649d7acc9b6f7b37650599cc8b8b00bb0",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.225,
+        "peak": 0.644134521484375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.08,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_02_hf_alpha.wav",
+      "text": "میں نے کل بازار سے تین کتابیں خریدیں۔",
+      "spoken_text": "میں نے کل بازار سے تین کتابیں خریدیں۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "mẽː neː kəl bɑːzɑːr seː tiːn kɪtɑːbẽː xəriːdẽː.",
+      "current_phonemes": "mẽː neː kəl bɑːzɑːr seː tiːn kɪtɑːbẽː xəriːdẽː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "41de837e1d6e6907216dcad94d6567c5d9d8b68a23a045b697ea6d1b7d3fa8f9",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.925,
+        "peak": 0.60321044921875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.2,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_03_hf_alpha.wav",
+      "text": "بھائی، گھر میں دھوپ بہت تیز ہے۔",
+      "spoken_text": "بھائی، گھر میں دھوپ بہت تیز ہے۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "bʰɑːiː, ɡʰər mẽː dʰuːp bəhʊt teːz hɛː.",
+      "current_phonemes": "bʰɑːiː, ɡʰər mẽː dʰuːp bəhʊt teːz hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "2426b29035cc862052202455c3b5fd4485e541d801947a1386f3aa445afb4a68",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.1,
+        "peak": 0.63177490234375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.1,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_04_hf_alpha.wav",
+      "text": "وزیرِ اعظم نے آج قوم سے خطاب کیا۔",
+      "spoken_text": "وزیرِ اعظم نے آج قوم سے خطاب کِیا۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "ʋəziːreː ɑːzəm neː ɑːʤ qɔːm seː xɪtɑːb kjɑː.",
+      "current_phonemes": "ʋəziːreː ɑːzəm neː ɑːʤ qɔːm seː xɪtɑːb kɪjɑː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": true,
+      "original_sha256": "1164dbd28d5c8fd44205a327cbc4ae8a1424203a58af3edb17d536e82312d15c",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.775,
+        "peak": 0.805908203125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.14,
+        "issues": []
+      },
+      "candidate": "candidates/A_04_hf_alpha.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.85,
+        "peak": 0.805877685546875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.14,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_05_hf_alpha.wav",
+      "text": "لڑکی نے اپنی چھوٹی بہن کو کہانی پڑھ کر سنائی۔",
+      "spoken_text": "لڑکی نے اپنی چھوٹی بہن کو کہانی پڑھ کر سنائی۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "ləɽkiː neː əpniː ʧʰoːʈiː bəhən koː kəhɑːniː pəɽʰ kər sʊnɑːiː.",
+      "current_phonemes": "ləɽkiː neː əpniː ʧʰoːʈiː bəhən koː kəhɑːniː pəɽʰ kər sʊnɑːiː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "0fa16d0381a3a21f801fff6635adcbf0fba479bc30742c34309127ffc396c0b2",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.625,
+        "peak": 0.569427490234375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.16,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_06_hf_alpha.wav",
+      "text": "ڈاکٹر صاحب نے کہا کہ تم جلد ٹھیک ہو جاؤ گے۔",
+      "spoken_text": "ڈاکٹر صاحب نے کہا کہ تم جَلْد ٹھیک ہو جاؤ گے۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "ɖɑːkʈər sɑːhɪb neː kəhɑː keː tʊm ʤəld ʈʰiːk hoː ʤɑːoː ɡeː.",
+      "current_phonemes": "ɖɑːkʈər sɑːhɪb neː kəhɑː keː tʊm ʤəld ʈʰiːk hoː ʤɑːoː ɡeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": true,
+      "original_sha256": "21883dac72a76308810798d2ce84c28b2aebf63e30da5465ccc119383b36579e",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.325,
+        "peak": 0.600494384765625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.1,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_07_hf_alpha.wav",
+      "text": "ہاں، مجھے یاد ہے، ہم وہاں نہیں گئے تھے۔",
+      "spoken_text": "ہاں، مجھے یاد ہے، ہم وہاں نہیں گئے تھے۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "hɑ̃ː, mʊʤʰeː jɑːd hɛː, həm ʋəhɑ̃ː nəhĩː ɡəeː tʰeː.",
+      "current_phonemes": "hɑ̃ː, mʊʤʰeː jɑːd hɛː, həm ʋəhɑ̃ː nəhĩː ɡəeː tʰeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "7e5a8ddd30e2f8be4e036aa0a2e03ffc65aaea0c92b58db0700afa5792797ecb",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.6,
+        "peak": 0.59661865234375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.22,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_08_hf_alpha.wav",
+      "text": "اس کی قیمت ۲۵۰۰ روپے ہے۔",
+      "spoken_text": "اس کی قیمت ۲۵۰۰ روپے ہے۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "ɪs kiː qiːmət doː həzɑːr pɑ̃ːʧ sɔː rʊpəeː hɛː.",
+      "current_phonemes": "ɪs kiː qiːmət doː həzɑːr pɑ̃ːʧ sɔː rʊpəeː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "d4472669bb9ef18bb2a60b71ffa40ee46daa8c1782a6b84eb68ffc44f1090a4a",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.625,
+        "peak": 0.589111328125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.12,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_09_hf_alpha.wav",
+      "text": "میری سالگرہ 14 اگست کو ہوتی ہے۔",
+      "spoken_text": "میری سالگرہ 14 اگست کو ہوتی ہے۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "meːriː sɑːlɡɪrɑː ʧɔːdɑː əɡəst koː hoːtiː hɛː.",
+      "current_phonemes": "meːriː sɑːlɡɪrɑː ʧɔːdɑː əɡəst koː hoːtiː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "dd9e8cefba0a1d1b24e3de53dce5c37cfa7bdd26037d3cb7ea8225c25c0455e6",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.75,
+        "peak": 0.59100341796875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.16,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_10_hf_alpha.wav",
+      "text": "ٹرین صبح ۷:۴۵ پر روانہ ہوئی۔",
+      "spoken_text": "ٹرین صبح ۷:۴۵ پر روانہ ہوئی۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "ʈreːn sʊbəh pɔːneː ɑːʈʰ pər rəʋɑːnɑː hʊiː.",
+      "current_phonemes": "ʈreːn sʊbəh pɔːneː ɑːʈʰ pər rəʋɑːnɑː hʊiː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "826edcab2371606fc0dc64b64804ab91f787a4146eacab2bb1f27a06ab1cec7c",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.575,
+        "peak": 0.565093994140625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.18,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_11_hf_alpha.wav",
+      "text": "غالب کا شعر آج بھی ہر زبان پر ہے۔",
+      "spoken_text": "غالب کا شعر آج بھی ہر زبان پر ہے۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "ɣɑːlɪb kɑː ʃeːr ɑːʤ bʰiː hər zəbɑːn pər hɛː.",
+      "current_phonemes": "ɣɑːlɪb kɑː ʃeːr ɑːʤ bʰiː hər zəbɑːn pər hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "dab984ea7f865b992976d4eb67e11f1b02722284dd0880db11e307aec71a5119",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.525,
+        "peak": 0.64276123046875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.12,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_12_hf_alpha.wav",
+      "text": "محبت، خلوص اور اعتماد زندگی کے ستون ہیں۔",
+      "spoken_text": "محبت، خلوص اور اعتماد زندگی کے ستون ہیں۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "mʊhəbbət, xʊluːs ɔːr eːtɪmɑːd zɪndəɡiː keː sʊtuːn hɛ̃ː.",
+      "current_phonemes": "mʊhəbbət, xʊluːs ɔːr eːtɪmɑːd zɪndəɡiː keː sʊtuːn hɛ̃ː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "05d990586915a90b79984174d6bff81fc0acd9d1ed1dc9c3b42a38d48ed9c002",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.625,
+        "peak": 0.621307373046875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.24,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_13_hf_alpha.wav",
+      "text": "کیا آپ میری بات سمجھ رہے ہیں؟",
+      "spoken_text": "کیا آپ میری بات سمجھ رہے ہیں؟",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "kjɑː ɑːp meːriː bɑːt səməʤʰ rəheː hɛ̃ː?",
+      "current_phonemes": "kjɑː ɑːp meːriː bɑːt səməʤʰ rəheː hɛ̃ː?",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "7ddb9e57e06401e9abae4a317d59c65abcb82266eddc6599272852a7fc70210e",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.075,
+        "peak": 0.872833251953125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_14_hf_alpha.wav",
+      "text": "شکریہ! آپ کا دن اچھا گزرے۔",
+      "spoken_text": "شکریہ! آپ کا دن اچھا گزرے۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "ʃʊkrijɑː! ɑːp kɑː dɪn əʧʧʰɑː ɡʊzreː.",
+      "current_phonemes": "ʃʊkrijɑː! ɑːp kɑː dɪn əʧʧʰɑː ɡʊzreː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "1aeb45f54b7fb87dc86498677c3532e5d5648661a79874e86bf2b7410030f1a3",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.125,
+        "peak": 0.573883056640625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.12,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_15_hf_alpha.wav",
+      "text": "قلم، خط اور غلطی جیسے الفاظ میں ق، خ اور غ کی آواز واضح ہونی چاہیے۔",
+      "spoken_text": "قلم، خط اور غلطی جیسے الفاظ میں ق، خ اور غ کی آواز واضح ہونی چاہیے۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "qələm, xət ɔːr ɣələtiː ʤiːseː əlfɑːz mẽː qɑːf, xeː ɔːr ɣɛːn kiː ɑːʋɑːz ʋɑːzeh hoːniː ʧɑːhɪeː.",
+      "current_phonemes": "qələm, xət ɔːr ɣələtiː ʤɛːseː əlfɑːz mẽː qɑːf, xeː ɔːr ɣɛːn kiː ɑːʋɑːz ʋɑːzeh hoːniː ʧɑːhɪeː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": false,
+      "original_sha256": "70efd7e5002065c127f4eb75f80dbdda1e00a62c32f0b2437eeab27db1545a63",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 7.15,
+        "peak": 0.63043212890625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.32,
+        "issues": []
+      },
+      "candidate": "candidates/A_15_hf_alpha.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 7.15,
+        "peak": 0.64678955078125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.3,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_16_hf_alpha.wav",
+      "text": "میں نے اپنا laptop آن کیا اور email چیک کی۔",
+      "spoken_text": "میں نے اپنا laptop آن کِیا اور email چیک کی۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "current_phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kɪjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": true,
+      "original_sha256": "451b93e179724c7fdcf7f5c5eb7888278cffee1bc33da7b116a7e57e59ab50dc",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.175,
+        "peak": 0.617950439453125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.16,
+        "issues": []
+      },
+      "candidate": "candidates/A_16_hf_alpha.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.3,
+        "peak": 0.622314453125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.18,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_17_hf_alpha.wav",
+      "text": "ڈاکٹر عبدالقدیر خان پاکستان کے مشہور سائنسدان تھے۔",
+      "spoken_text": "ڈاکٹر عبدالقدیر خان پاکستان کے مشہور سائنسدان تھے۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "ɖɑːkʈər əbdʊlqədiːr xɑːn pɑːkɪstɑːn keː məʃhuːr sɑːɪnsdɑːn tʰeː.",
+      "current_phonemes": "ɖɑːkʈər əbdʊlqədiːr xɑːn pɑːkɪstɑːn keː məʃhuːr sɑːɪnsdɑːn tʰeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "b94fbd15239ea5f717d3413fe2e1ddbf5b2abd3a519bf0aa827f15db238652ce",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 5.325,
+        "peak": 0.6044921875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.22,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_18_hf_alpha.wav",
+      "text": "یہ سڑک بہت چوڑی ہے۔",
+      "spoken_text": "یہ سڑک بہت چوڑی ہے۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "jeː səɽək bəhʊt ʧɔːɽiː hɛː.",
+      "current_phonemes": "jeː səɽək bəhʊt ʧɔːɽiː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "51d783de68e29e543a0d546b466ff75c9a9845be3d35bd7624414681a40af20a",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.675,
+        "peak": 0.603790283203125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.08,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_19_hf_alpha.wav",
+      "text": "انہوں نے کہا تھا کہ وہ جمعرات کو آئیں گے۔",
+      "spoken_text": "انہوں نے کہا تھا کہ وہ جمعرات کو آئیں گے۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "ʊnhõː neː kəhɑː tʰɑː keː ʋoː ʤʊmeːrɑːt koː ɑːẽː ɡeː.",
+      "current_phonemes": "ʊnhõː neː kəhɑː tʰɑː keː ʋoː ʤʊmeːrɑːt koː ɑːẽː ɡeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "ab387fb04976d98439ee30bc89781fe38209098e31ce94d3e30cedca7cde223e",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.05,
+        "peak": 0.579010009765625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_20_hf_alpha.wav",
+      "text": "اردو ایک شیریں زبان ہے۔",
+      "spoken_text": "اردو ایک شیریں زبان ہے۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "ʊrduː eːk ʃiːrĩː zəbɑːn hɛː.",
+      "current_phonemes": "ʊrduː eːk ʃiːrĩː zəbɑːn hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "e200f63e01e3c4e6e3f6417ebfee143744d45294e7c8cb1bcd83402290857b6b",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.65,
+        "peak": 0.587249755859375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.04,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_21_hf_alpha.wav",
+      "text": "۱۹۴۷ء میں پاکستان آزاد ہوا۔",
+      "spoken_text": "۱۹۴۷ء میں پاکستان آزاد ہوا۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "ʊnniːs sɔː sɛ̃ːtɑːliːs mẽː pɑːkɪstɑːn ɑːzɑːd hʊɑː.",
+      "current_phonemes": "ʊnniːs sɔː sɛ̃ːtɑːliːs mẽː pɑːkɪstɑːn ɑːzɑːd hʊɑː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "3b832120c91fee19ff008df67dcb4c87b8719777a23e260416355f4ad94df899",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.325,
+        "peak": 0.5819091796875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.2,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_22_hf_alpha.wav",
+      "text": "درجۂ حرارت ۳۸ اعشاریہ ۵ ڈگری تھا۔",
+      "spoken_text": "درجۂ حرارت ۳۸ اعشاریہ ۵ ڈگری تھا۔",
+      "voice": "hf_alpha",
+      "set": "A",
+      "old_phonemes": "dərʤɑːeː hərɑːrət əɽtiːs əʃɑːrijɑː pɑ̃ːʧ ɖɪɡriː tʰɑː.",
+      "current_phonemes": "dərʤɑːeː hərɑːrət əɽtiːs əʃɑːrijɑː pɑ̃ːʧ ɖɪɡriː tʰɑː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "fda291f3a3bdcb40d7817e211fb58bb82db7b2de9b75a8d10e935b4de6edf535",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.425,
+        "peak": 0.773529052734375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.22,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_01_hf_alpha.wav",
+      "text": "آج کی meeting کینسل ہو گئی ہے۔",
+      "spoken_text": "آج کی meeting کینسل ہو گئی ہے۔",
+      "voice": "hf_alpha",
+      "set": "A2",
+      "old_phonemes": "ɑːʤ kiː miːʈɪŋ kɛːnsəl hoː ɡəiː hɛː.",
+      "current_phonemes": "ɑːʤ kiː miːʈɪŋ kɛːnsəl hoː ɡəiː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "8281ce495f1efb9c8917c4f03698884124dd051878cf0c2ec610b2bc12cd49a3",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.125,
+        "peak": 0.6697998046875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_02_hf_alpha.wav",
+      "text": "میں نے اپنا laptop آن کیا اور email چیک کی۔",
+      "spoken_text": "میں نے اپنا laptop آن کِیا اور email چیک کی۔",
+      "voice": "hf_alpha",
+      "set": "A2",
+      "old_phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "current_phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kɪjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": true,
+      "original_sha256": "7170e2299c723328d566ba455c169649574c83623fe5449edc6a6efee43c26e8",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.175,
+        "peak": 0.6207275390625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.16,
+        "issues": []
+      },
+      "candidate": "candidates/A2_02_hf_alpha.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.3,
+        "peak": 0.622314453125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.18,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_03_hf_alpha.wav",
+      "text": "Please اپنا password کسی کو share نہ کریں۔",
+      "spoken_text": "Please اپنا password کسی کو share نہ کریں۔",
+      "voice": "hf_alpha",
+      "set": "A2",
+      "old_phonemes": "pliːz əpnɑː pɛːsʋərɖ kɪsiː koː ʃɛr nə kərẽː.",
+      "current_phonemes": "pliːz əpnɑː pɛːsʋərɖ kɪsiː koː ʃɛr nə kərẽː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "2aec89f63a4c95b1e7fe4574954dd6b6f127c4187148413e0134364dd0733380",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.6,
+        "peak": 0.508941650390625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.16,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_04_hf_alpha.wav",
+      "text": "ہمارا next step یہ ہے کہ client کو proposal بھیج دیں۔",
+      "spoken_text": "ہمارا next step یہ ہے کہ client کو proposal بھیج دیں۔",
+      "voice": "hf_alpha",
+      "set": "A2",
+      "old_phonemes": "həmɑːrɑː nɛksʈ sʈɛp jeː hɛː keː klɑɪənʈ koː prəpoːzəl bʰiːʤ dẽː.",
+      "current_phonemes": "həmɑːrɑː nɛksʈ sʈɛp jeː hɛː keː klɑɪənʈ koː prəpoːzəl bʰeːʤ dẽː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": false,
+      "original_sha256": "b02a4f2c283c0270a22c4c8e64da372097f5a2068d7809dfee0470b600414a26",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.6,
+        "peak": 0.576324462890625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.14,
+        "issues": []
+      },
+      "candidate": "candidates/A2_04_hf_alpha.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.575,
+        "peak": 0.587005615234375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.12,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_05_hf_alpha.wav",
+      "text": "یہ app بہت user friendly ہے لیکن battery جلدی ختم کرتی ہے۔",
+      "spoken_text": "یہ app بہت user friendly ہے لیکن battery جلدی ختم کرتی ہے۔",
+      "voice": "hf_alpha",
+      "set": "A2",
+      "old_phonemes": "jeː ɛːp bəhʊt juːzər frɛnɖliː hɛː leːkɪn bɛːʈəriː ʤəldiː xətm kərtiː hɛː.",
+      "current_phonemes": "jeː ɛːp bəhʊt juːzər frɛnɖliː hɛː leːkɪn bɛːʈəriː ʤəldiː xətm kərtiː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "28fb3b311b767b85da78b49c89a82f2415cf9d292f475c205f11a161b99f005e",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 5.6,
+        "peak": 0.62054443359375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.3,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_06_hf_alpha.wav",
+      "text": "Thank you so much، آپ نے بہت help کی۔",
+      "spoken_text": "Thank you so much، آپ نے بہت help کی۔",
+      "voice": "hf_alpha",
+      "set": "A2",
+      "old_phonemes": "tʰɛːŋk juː soː məʧ, ɑːp neː bəhʊt hɛlp kiː.",
+      "current_phonemes": "tʰɛːŋk juː soː məʧ, ɑːp neː bəhʊt hɛlp kiː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "18e36c062f02a20d0a812e6ed2a4cfdc0b4b5e9f33fd07b2919c5c75871e654a",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.475,
+        "peak": 0.6007080078125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.14,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_07_hf_alpha.wav",
+      "text": "Office میں آج internet کا problem تھا۔",
+      "spoken_text": "Office میں آج internet کا problem تھا۔",
+      "voice": "hf_alpha",
+      "set": "A2",
+      "old_phonemes": "ɔːfəs mẽː ɑːʤ ɪnʈərnɛʈ kɑː prɑːbləm tʰɑː.",
+      "current_phonemes": "ɔːfəs mẽː ɑːʤ ɪnʈərnɛʈ kɑː prɑːbləm tʰɑː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "4f3426bb58aff28e6bfac1c3d48340c700ce047e9b995536555074348c6b8071",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.625,
+        "peak": 0.53790283203125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.12,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_08_hf_alpha.wav",
+      "text": "اس project کی deadline اگلے Monday تک ہے۔",
+      "spoken_text": "اس project کی deadline اگلے Monday تک ہے۔",
+      "voice": "hf_alpha",
+      "set": "A2",
+      "old_phonemes": "ɪs prɑːʤɛkʈ kiː ɖɛɖlɑɪn əɡleː mənɖeː tək hɛː.",
+      "current_phonemes": "ɪs prɑːʤɛkʈ kiː ɖɛɖlɑɪn əɡleː mənɖeː tək hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "27a2774315c0bc60c53fe85988ab6cd6a205de1104087c4befbbe1c98a914d73",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.8,
+        "peak": 0.615509033203125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.16,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_09_hf_alpha.wav",
+      "text": "میں weekend پر Karachi جا رہا ہوں۔",
+      "spoken_text": "میں weekend پر Karachi جا رہا ہوں۔",
+      "voice": "hf_alpha",
+      "set": "A2",
+      "old_phonemes": "mẽː ʋiːkɛnɖ pər kərɑːʧiː ʤɑː rəhɑː hũː.",
+      "current_phonemes": "mẽː ʋiːkɛnɖ pər kərɑːʧiː ʤɑː rəhɑː hũː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "8763cab60f0d1fe72cc926f39729ac62e6a20ea663292ada2fb1a19b8b699e97",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.4,
+        "peak": 0.543365478515625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.14,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_10_hf_alpha.wav",
+      "text": "Doctor نے کہا کہ یہ normal infection ہے، worry نہ کریں۔",
+      "spoken_text": "Doctor نے کہا کہ یہ normal infection ہے، worry نہ کریں۔",
+      "voice": "hf_alpha",
+      "set": "A2",
+      "old_phonemes": "ɖɑːkʈər neː kəhɑː keː jeː nɔːrməl ɪnfɛkʃən hɛː, ʋəriː nə kərẽː.",
+      "current_phonemes": "ɖɑːkʈər neː kəhɑː keː jeː nɔːrməl ɪnfɛkʃən hɛː, ʋəriː nə kərẽː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "e6ac36b26cde2c8e0adf3267aaaf0e5256f37c5e0aac0e4b107cd618031bd330",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.825,
+        "peak": 0.6348876953125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.26,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_11_hf_alpha.wav",
+      "text": "ہمیں AI اور machine learning پر focus کرنا چاہیے۔",
+      "spoken_text": "ہمیں AI اور machine learning پر focus کرنا چاہیے۔",
+      "voice": "hf_alpha",
+      "set": "A2",
+      "old_phonemes": "həmẽː eː ɑɪ ɔːr məʃiːn lərnɪŋ pər foːkəs kərnɑː ʧɑːhɪeː.",
+      "current_phonemes": "həmẽː eː ɑɪ ɔːr məʃiːn lərnɪŋ pər foːkəs kərnɑː ʧɑːhɪeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "636226ee4898c592ffa24f4f73e206d271d229a6716f5b3c9cb44fa030292a5d",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.675,
+        "peak": 0.572601318359375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.14,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_12_hf_alpha.wav",
+      "text": "Update کے بعد phone ٹھیک سے کام کر رہا ہے۔",
+      "spoken_text": "Update کے بعد phone ٹھیک سے کام کر رہا ہے۔",
+      "voice": "hf_alpha",
+      "set": "A2",
+      "old_phonemes": "əpɖeːʈ keː bɑːd foːn ʈʰiːk seː kɑːm kər rəhɑː hɛː.",
+      "current_phonemes": "əpɖeːʈ keː bɑːd foːn ʈʰiːk seː kɑːm kər rəhɑː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "42e98cc600a1482c43663cd34e392864e3b8eb53f3bb0cf2253538bd5d00d868",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.875,
+        "peak": 0.52703857421875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.14,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_13_hf_alpha.wav",
+      "text": "یہ meeting 3 pm پر Zoom پر ہو گی۔",
+      "spoken_text": "یہ meeting 3 pm پر Zoom پر ہو گی۔",
+      "voice": "hf_alpha",
+      "set": "A2",
+      "old_phonemes": "jeː miːʈɪŋ tʰriː piːɛm pər zuːm pər hoː ɡiː.",
+      "current_phonemes": "jeː miːʈɪŋ tʰriː piːɛm pər zuːm pər hoː ɡiː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "8d4b642f7195757a23498969439235678ebf88c7c48833aac468ff69621e6368",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.425,
+        "peak": 0.729766845703125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.16,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_14_hf_alpha.wav",
+      "text": "Customer service نے میری complaint register کر لی۔",
+      "spoken_text": "Customer service نے میری complaint register کر لی۔",
+      "voice": "hf_alpha",
+      "set": "A2",
+      "old_phonemes": "kəsʈəmər sərʋəs neː meːriː kəmpleːnʈ rɛʤəsʈər kər liː.",
+      "current_phonemes": "kəsʈəmər sərʋəs neː meːriː kəmpleːnʈ rɛʤəsʈər kər liː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "808b4b0c90de3d24f7cc17048cdee94f78ca398e7f481fdefa00319d501ad8d9",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.3,
+        "peak": 0.70916748046875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.22,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_15_hf_alpha.wav",
+      "text": "آج weather بہت pleasant ہے، let's go for a walk۔",
+      "spoken_text": "آج weather بہت pleasant ہے، let's go for a walk۔",
+      "voice": "hf_alpha",
+      "set": "A2",
+      "old_phonemes": "ɑːʤ ʋɛdər bəhʊt plɛzənʈ hɛː, lɛʈs ɡoː fɔːr ə ʋɔːk.",
+      "current_phonemes": "ɑːʤ ʋɛdər bəhʊt plɛzənʈ hɛː, lɛʈs ɡoː fɔːr ə ʋɔːk.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "5d39d81d0d50aa215e2e6db4e777c22b12d71272358e1802d7f1459cb3f36f1d",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.2,
+        "peak": 0.67864990234375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.2,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_01_hf_beta.wav",
+      "text": "پاکستان ایک خوبصورت ملک ہے۔",
+      "spoken_text": "پاکستان ایک خوبصورت ملک ہے۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "pɑːkɪstɑːn eːk xuːbsuːrət mʊlk hɛː.",
+      "current_phonemes": "pɑːkɪstɑːn eːk xuːbsuːrət mʊlk hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "b4093a7b530331248adfb12679e2e6dc98f644518eb0e20e74b58c862eacd5cc",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.9,
+        "peak": 0.71319580078125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.04,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_02_hf_beta.wav",
+      "text": "میں نے کل بازار سے تین کتابیں خریدیں۔",
+      "spoken_text": "میں نے کل بازار سے تین کتابیں خریدیں۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "mẽː neː kəl bɑːzɑːr seː tiːn kɪtɑːbẽː xəriːdẽː.",
+      "current_phonemes": "mẽː neː kəl bɑːzɑːr seː tiːn kɪtɑːbẽː xəriːdẽː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "fa336d04bdcd74eeec89abf1ef4050e3a14beda5f1e3109ec97dacba0304c78c",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.525,
+        "peak": 0.59625244140625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.1,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_03_hf_beta.wav",
+      "text": "بھائی، گھر میں دھوپ بہت تیز ہے۔",
+      "spoken_text": "بھائی، گھر میں دھوپ بہت تیز ہے۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "bʰɑːiː, ɡʰər mẽː dʰuːp bəhʊt teːz hɛː.",
+      "current_phonemes": "bʰɑːiː, ɡʰər mẽː dʰuːp bəhʊt teːz hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "99d41071feb5f4edfc8fc089d290c000c3ad7919ebde515f38584f3f0ffd2abe",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.725,
+        "peak": 0.58331298828125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.08,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_04_hf_beta.wav",
+      "text": "وزیرِ اعظم نے آج قوم سے خطاب کیا۔",
+      "spoken_text": "وزیرِ اعظم نے آج قوم سے خطاب کِیا۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "ʋəziːreː ɑːzəm neː ɑːʤ qɔːm seː xɪtɑːb kjɑː.",
+      "current_phonemes": "ʋəziːreː ɑːzəm neː ɑːʤ qɔːm seː xɪtɑːb kɪjɑː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": true,
+      "original_sha256": "784b09c5880e92be6afc77ca27db84f2f83ba4caf9fba7d483f9b29aa64d0ca0",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.4,
+        "peak": 0.7259521484375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.1,
+        "issues": []
+      },
+      "candidate": "candidates/A_04_hf_beta.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.4,
+        "peak": 0.745147705078125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.1,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_05_hf_beta.wav",
+      "text": "لڑکی نے اپنی چھوٹی بہن کو کہانی پڑھ کر سنائی۔",
+      "spoken_text": "لڑکی نے اپنی چھوٹی بہن کو کہانی پڑھ کر سنائی۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "ləɽkiː neː əpniː ʧʰoːʈiː bəhən koː kəhɑːniː pəɽʰ kər sʊnɑːiː.",
+      "current_phonemes": "ləɽkiː neː əpniː ʧʰoːʈiː bəhən koː kəhɑːniː pəɽʰ kər sʊnɑːiː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "2c6509f868867f78a8ebe35f310aa0ab508a5a2bb5deed9eac3855c96d18de11",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.275,
+        "peak": 0.657623291015625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_06_hf_beta.wav",
+      "text": "ڈاکٹر صاحب نے کہا کہ تم جلد ٹھیک ہو جاؤ گے۔",
+      "spoken_text": "ڈاکٹر صاحب نے کہا کہ تم جَلْد ٹھیک ہو جاؤ گے۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "ɖɑːkʈər sɑːhɪb neː kəhɑː keː tʊm ʤəld ʈʰiːk hoː ʤɑːoː ɡeː.",
+      "current_phonemes": "ɖɑːkʈər sɑːhɪb neː kəhɑː keː tʊm ʤəld ʈʰiːk hoː ʤɑːoː ɡeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": true,
+      "original_sha256": "c7a1f9b48c6e82e689f1026cb08f656d6700aa360eebc99ee13565a6f66baf6a",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.825,
+        "peak": 0.659942626953125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.08,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_07_hf_beta.wav",
+      "text": "ہاں، مجھے یاد ہے، ہم وہاں نہیں گئے تھے۔",
+      "spoken_text": "ہاں، مجھے یاد ہے، ہم وہاں نہیں گئے تھے۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "hɑ̃ː, mʊʤʰeː jɑːd hɛː, həm ʋəhɑ̃ː nəhĩː ɡəeː tʰeː.",
+      "current_phonemes": "hɑ̃ː, mʊʤʰeː jɑːd hɛː, həm ʋəhɑ̃ː nəhĩː ɡəeː tʰeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "1c993c7ee5413af9a064d0dd0dc1d403321d01c383812063a80d20f7a39dbc86",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.25,
+        "peak": 0.56573486328125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.14,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_08_hf_beta.wav",
+      "text": "اس کی قیمت ۲۵۰۰ روپے ہے۔",
+      "spoken_text": "اس کی قیمت ۲۵۰۰ روپے ہے۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "ɪs kiː qiːmət doː həzɑːr pɑ̃ːʧ sɔː rʊpəeː hɛː.",
+      "current_phonemes": "ɪs kiː qiːmət doː həzɑːr pɑ̃ːʧ sɔː rʊpəeː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "0952e5ac5f8b3fce09dc8cc774dac33bd73334ccb365a1d753ece271abc40224",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.3,
+        "peak": 0.54193115234375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_09_hf_beta.wav",
+      "text": "میری سالگرہ 14 اگست کو ہوتی ہے۔",
+      "spoken_text": "میری سالگرہ 14 اگست کو ہوتی ہے۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "meːriː sɑːlɡɪrɑː ʧɔːdɑː əɡəst koː hoːtiː hɛː.",
+      "current_phonemes": "meːriː sɑːlɡɪrɑː ʧɔːdɑː əɡəst koː hoːtiː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "49013e7deb10137e5ff21513acd7bf6804c787c5c2de27626036a4f638f8974a",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.4,
+        "peak": 0.629730224609375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_10_hf_beta.wav",
+      "text": "ٹرین صبح ۷:۴۵ پر روانہ ہوئی۔",
+      "spoken_text": "ٹرین صبح ۷:۴۵ پر روانہ ہوئی۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "ʈreːn sʊbəh pɔːneː ɑːʈʰ pər rəʋɑːnɑː hʊiː.",
+      "current_phonemes": "ʈreːn sʊbəh pɔːneː ɑːʈʰ pər rəʋɑːnɑː hʊiː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "545fd05fbc115ec001e48f557ee66f52f6cf4a6efec4d941ff9d0ce050f2f1c3",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.175,
+        "peak": 0.74468994140625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.08,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_11_hf_beta.wav",
+      "text": "غالب کا شعر آج بھی ہر زبان پر ہے۔",
+      "spoken_text": "غالب کا شعر آج بھی ہر زبان پر ہے۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "ɣɑːlɪb kɑː ʃeːr ɑːʤ bʰiː hər zəbɑːn pər hɛː.",
+      "current_phonemes": "ɣɑːlɪb kɑː ʃeːr ɑːʤ bʰiː hər zəbɑːn pər hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "3f47fe1d490812c6e7a66c3433a8e034f2230cd08b91e868cc7aa936431d5ec3",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.25,
+        "peak": 0.587615966796875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_12_hf_beta.wav",
+      "text": "محبت، خلوص اور اعتماد زندگی کے ستون ہیں۔",
+      "spoken_text": "محبت، خلوص اور اعتماد زندگی کے ستون ہیں۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "mʊhəbbət, xʊluːs ɔːr eːtɪmɑːd zɪndəɡiː keː sʊtuːn hɛ̃ː.",
+      "current_phonemes": "mʊhəbbət, xʊluːs ɔːr eːtɪmɑːd zɪndəɡiː keː sʊtuːn hɛ̃ː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "03b28aed0f436205d59743a521fc2bdda9c33e9d228f86c314085ab2ccf12da1",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.825,
+        "peak": 0.562164306640625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_13_hf_beta.wav",
+      "text": "کیا آپ میری بات سمجھ رہے ہیں؟",
+      "spoken_text": "کیا آپ میری بات سمجھ رہے ہیں؟",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "kjɑː ɑːp meːriː bɑːt səməʤʰ rəheː hɛ̃ː?",
+      "current_phonemes": "kjɑː ɑːp meːriː bɑːt səməʤʰ rəheː hɛ̃ː?",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "4fb418e8373f0acbb883a6e36730f73bf33997e0455b04e3eb9cda4108b4cc55",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.85,
+        "peak": 0.63433837890625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_14_hf_beta.wav",
+      "text": "شکریہ! آپ کا دن اچھا گزرے۔",
+      "spoken_text": "شکریہ! آپ کا دن اچھا گزرے۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "ʃʊkrijɑː! ɑːp kɑː dɪn əʧʧʰɑː ɡʊzreː.",
+      "current_phonemes": "ʃʊkrijɑː! ɑːp kɑː dɪn əʧʧʰɑː ɡʊzreː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "31fb96c69e1d3a24cd9023c1240f97fb96822269c0374c935e3c60492fd21c4d",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.8,
+        "peak": 0.549957275390625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_15_hf_beta.wav",
+      "text": "قلم، خط اور غلطی جیسے الفاظ میں ق، خ اور غ کی آواز واضح ہونی چاہیے۔",
+      "spoken_text": "قلم، خط اور غلطی جیسے الفاظ میں ق، خ اور غ کی آواز واضح ہونی چاہیے۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "qələm, xət ɔːr ɣələtiː ʤiːseː əlfɑːz mẽː qɑːf, xeː ɔːr ɣɛːn kiː ɑːʋɑːz ʋɑːzeh hoːniː ʧɑːhɪeː.",
+      "current_phonemes": "qələm, xət ɔːr ɣələtiː ʤɛːseː əlfɑːz mẽː qɑːf, xeː ɔːr ɣɛːn kiː ɑːʋɑːz ʋɑːzeh hoːniː ʧɑːhɪeː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": false,
+      "original_sha256": "bd68032c4266da05689ee42894fc449e7fa743d6d785065b2145062e0c927dc7",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 6.25,
+        "peak": 0.63623046875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.34,
+        "issues": []
+      },
+      "candidate": "candidates/A_15_hf_beta.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 6.25,
+        "peak": 0.6171875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.36,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_16_hf_beta.wav",
+      "text": "میں نے اپنا laptop آن کیا اور email چیک کی۔",
+      "spoken_text": "میں نے اپنا laptop آن کِیا اور email چیک کی۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "current_phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kɪjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": true,
+      "original_sha256": "fa246fb0762b48bd497f475060224d224b936518708578dc22053ec1998f8869",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.625,
+        "peak": 0.637969970703125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.1,
+        "issues": []
+      },
+      "candidate": "candidates/A_16_hf_beta.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.7,
+        "peak": 0.640472412109375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.1,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_17_hf_beta.wav",
+      "text": "ڈاکٹر عبدالقدیر خان پاکستان کے مشہور سائنسدان تھے۔",
+      "spoken_text": "ڈاکٹر عبدالقدیر خان پاکستان کے مشہور سائنسدان تھے۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "ɖɑːkʈər əbdʊlqədiːr xɑːn pɑːkɪstɑːn keː məʃhuːr sɑːɪnsdɑːn tʰeː.",
+      "current_phonemes": "ɖɑːkʈər əbdʊlqədiːr xɑːn pɑːkɪstɑːn keː məʃhuːr sɑːɪnsdɑːn tʰeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "14ce83dfeefbd32bca13ede2d14bb133981778284574d071d03cc3c034c61845",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.55,
+        "peak": 0.655517578125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.1,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_18_hf_beta.wav",
+      "text": "یہ سڑک بہت چوڑی ہے۔",
+      "spoken_text": "یہ سڑک بہت چوڑی ہے۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "jeː səɽək bəhʊt ʧɔːɽiː hɛː.",
+      "current_phonemes": "jeː səɽək bəhʊt ʧɔːɽiː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "e854ab4de51c2e907f52979ac7256f8683f163647b8a9bee226549b4a10130e6",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.45,
+        "peak": 0.74285888671875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.08,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_19_hf_beta.wav",
+      "text": "انہوں نے کہا تھا کہ وہ جمعرات کو آئیں گے۔",
+      "spoken_text": "انہوں نے کہا تھا کہ وہ جمعرات کو آئیں گے۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "ʊnhõː neː kəhɑː tʰɑː keː ʋoː ʤʊmeːrɑːt koː ɑːẽː ɡeː.",
+      "current_phonemes": "ʊnhõː neː kəhɑː tʰɑː keː ʋoː ʤʊmeːrɑːt koː ɑːẽː ɡeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "8350b6901ce624524bb46931dbbb792b49741984c836b8f2c2039dc69579c2f6",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.525,
+        "peak": 0.573974609375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.04,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_20_hf_beta.wav",
+      "text": "اردو ایک شیریں زبان ہے۔",
+      "spoken_text": "اردو ایک شیریں زبان ہے۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "ʊrduː eːk ʃiːrĩː zəbɑːn hɛː.",
+      "current_phonemes": "ʊrduː eːk ʃiːrĩː zəbɑːn hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "c0672c0f3162fe7c4c1293148a5f0b0e81f2c7ffceb30f1201ef63941d536db4",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.475,
+        "peak": 0.5899658203125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.02,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_21_hf_beta.wav",
+      "text": "۱۹۴۷ء میں پاکستان آزاد ہوا۔",
+      "spoken_text": "۱۹۴۷ء میں پاکستان آزاد ہوا۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "ʊnniːs sɔː sɛ̃ːtɑːliːs mẽː pɑːkɪstɑːn ɑːzɑːd hʊɑː.",
+      "current_phonemes": "ʊnniːs sɔː sɛ̃ːtɑːliːs mẽː pɑːkɪstɑːn ɑːzɑːd hʊɑː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "9dfc7e75e276e0e790090e8a70af55f1f979feb3617930e601edf254f7918535",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.8,
+        "peak": 0.52642822265625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.14,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_22_hf_beta.wav",
+      "text": "درجۂ حرارت ۳۸ اعشاریہ ۵ ڈگری تھا۔",
+      "spoken_text": "درجۂ حرارت ۳۸ اعشاریہ ۵ ڈگری تھا۔",
+      "voice": "hf_beta",
+      "set": "A",
+      "old_phonemes": "dərʤɑːeː hərɑːrət əɽtiːs əʃɑːrijɑː pɑ̃ːʧ ɖɪɡriː tʰɑː.",
+      "current_phonemes": "dərʤɑːeː hərɑːrət əɽtiːs əʃɑːrijɑː pɑ̃ːʧ ɖɪɡriː tʰɑː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "fbf3584ff906fd0981e8267ed542411e63e4b3b391a232e97b7a2f46d701d48c",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.8,
+        "peak": 0.73150634765625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_01_hf_beta.wav",
+      "text": "آج کی meeting کینسل ہو گئی ہے۔",
+      "spoken_text": "آج کی meeting کینسل ہو گئی ہے۔",
+      "voice": "hf_beta",
+      "set": "A2",
+      "old_phonemes": "ɑːʤ kiː miːʈɪŋ kɛːnsəl hoː ɡəiː hɛː.",
+      "current_phonemes": "ɑːʤ kiː miːʈɪŋ kɛːnsəl hoː ɡəiː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "efc83a5bd76bc72b2e00e1def62a0848c400ac6f7c1828630f66d23c9bf1a44d",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.75,
+        "peak": 0.7811279296875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.04,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_02_hf_beta.wav",
+      "text": "میں نے اپنا laptop آن کیا اور email چیک کی۔",
+      "spoken_text": "میں نے اپنا laptop آن کِیا اور email چیک کی۔",
+      "voice": "hf_beta",
+      "set": "A2",
+      "old_phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "current_phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kɪjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": true,
+      "original_sha256": "0279051e5ebedb83e3ac1359d10813f7f904c3f534c4a4e4fd9da04336ca1749",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.625,
+        "peak": 0.649993896484375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.1,
+        "issues": []
+      },
+      "candidate": "candidates/A2_02_hf_beta.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.7,
+        "peak": 0.640472412109375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.1,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_03_hf_beta.wav",
+      "text": "Please اپنا password کسی کو share نہ کریں۔",
+      "spoken_text": "Please اپنا password کسی کو share نہ کریں۔",
+      "voice": "hf_beta",
+      "set": "A2",
+      "old_phonemes": "pliːz əpnɑː pɛːsʋərɖ kɪsiː koː ʃɛr nə kərẽː.",
+      "current_phonemes": "pliːz əpnɑː pɛːsʋərɖ kɪsiː koː ʃɛr nə kərẽː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "bef3fe91715a39aec443787a388c2fa5da2834d414390d007cf725216bedce64",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.275,
+        "peak": 0.665771484375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_04_hf_beta.wav",
+      "text": "ہمارا next step یہ ہے کہ client کو proposal بھیج دیں۔",
+      "spoken_text": "ہمارا next step یہ ہے کہ client کو proposal بھیج دیں۔",
+      "voice": "hf_beta",
+      "set": "A2",
+      "old_phonemes": "həmɑːrɑː nɛksʈ sʈɛp jeː hɛː keː klɑɪənʈ koː prəpoːzəl bʰiːʤ dẽː.",
+      "current_phonemes": "həmɑːrɑː nɛksʈ sʈɛp jeː hɛː keː klɑɪənʈ koː prəpoːzəl bʰeːʤ dẽː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": false,
+      "original_sha256": "cf322491ea64a6e3ca515cd7144feca8740781f0f1abcbb06f750aeb81d4861f",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.075,
+        "peak": 0.5609130859375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.08,
+        "issues": []
+      },
+      "candidate": "candidates/A2_04_hf_beta.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.025,
+        "peak": 0.5594482421875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.08,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_05_hf_beta.wav",
+      "text": "یہ app بہت user friendly ہے لیکن battery جلدی ختم کرتی ہے۔",
+      "spoken_text": "یہ app بہت user friendly ہے لیکن battery جلدی ختم کرتی ہے۔",
+      "voice": "hf_beta",
+      "set": "A2",
+      "old_phonemes": "jeː ɛːp bəhʊt juːzər frɛnɖliː hɛː leːkɪn bɛːʈəriː ʤəldiː xətm kərtiː hɛː.",
+      "current_phonemes": "jeː ɛːp bəhʊt juːzər frɛnɖliː hɛː leːkɪn bɛːʈəriː ʤəldiː xətm kərtiː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "4f8fe56d1630375e51dc6923db9f57cd3e4cdb09d4382dbee60ebe71dd857c49",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 5.025,
+        "peak": 0.726165771484375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.28,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_06_hf_beta.wav",
+      "text": "Thank you so much، آپ نے بہت help کی۔",
+      "spoken_text": "Thank you so much، آپ نے بہت help کی۔",
+      "voice": "hf_beta",
+      "set": "A2",
+      "old_phonemes": "tʰɛːŋk juː soː məʧ, ɑːp neː bəhʊt hɛlp kiː.",
+      "current_phonemes": "tʰɛːŋk juː soː məʧ, ɑːp neː bəhʊt hɛlp kiː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "8047909510439ced866358bec77d8c06bc5b3c6303069fd413924ef429d1c636",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.1,
+        "peak": 0.591522216796875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.1,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_07_hf_beta.wav",
+      "text": "Office میں آج internet کا problem تھا۔",
+      "spoken_text": "Office میں آج internet کا problem تھا۔",
+      "voice": "hf_beta",
+      "set": "A2",
+      "old_phonemes": "ɔːfəs mẽː ɑːʤ ɪnʈərnɛʈ kɑː prɑːbləm tʰɑː.",
+      "current_phonemes": "ɔːfəs mẽː ɑːʤ ɪnʈərnɛʈ kɑː prɑːbləm tʰɑː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "3a5bd9322474b3e037e4594a92d9a8317bc926e4d259a5ce6c3e07d6c8dfbee5",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.175,
+        "peak": 0.701202392578125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.04,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_08_hf_beta.wav",
+      "text": "اس project کی deadline اگلے Monday تک ہے۔",
+      "spoken_text": "اس project کی deadline اگلے Monday تک ہے۔",
+      "voice": "hf_beta",
+      "set": "A2",
+      "old_phonemes": "ɪs prɑːʤɛkʈ kiː ɖɛɖlɑɪn əɡleː mənɖeː tək hɛː.",
+      "current_phonemes": "ɪs prɑːʤɛkʈ kiː ɖɛɖlɑɪn əɡleː mənɖeː tək hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "c31996193db3ff761e6531390fde3d31bd8d876fa991c312f29483f6cfef1ee3",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.325,
+        "peak": 0.725860595703125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.04,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_09_hf_beta.wav",
+      "text": "میں weekend پر Karachi جا رہا ہوں۔",
+      "spoken_text": "میں weekend پر Karachi جا رہا ہوں۔",
+      "voice": "hf_beta",
+      "set": "A2",
+      "old_phonemes": "mẽː ʋiːkɛnɖ pər kərɑːʧiː ʤɑː rəhɑː hũː.",
+      "current_phonemes": "mẽː ʋiːkɛnɖ pər kərɑːʧiː ʤɑː rəhɑː hũː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "ff210391e52802347133beb73062ea21371540a26f7c4cae0656f3eaec881c2c",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.925,
+        "peak": 0.6099853515625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_10_hf_beta.wav",
+      "text": "Doctor نے کہا کہ یہ normal infection ہے، worry نہ کریں۔",
+      "spoken_text": "Doctor نے کہا کہ یہ normal infection ہے، worry نہ کریں۔",
+      "voice": "hf_beta",
+      "set": "A2",
+      "old_phonemes": "ɖɑːkʈər neː kəhɑː keː jeː nɔːrməl ɪnfɛkʃən hɛː, ʋəriː nə kərẽː.",
+      "current_phonemes": "ɖɑːkʈər neː kəhɑː keː jeː nɔːrməl ɪnfɛkʃən hɛː, ʋəriː nə kərẽː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "27062290ee03f353e4c49826f33f2068b2161cee074273823f9993820cd331ef",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.175,
+        "peak": 0.66888427734375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.24,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_11_hf_beta.wav",
+      "text": "ہمیں AI اور machine learning پر focus کرنا چاہیے۔",
+      "spoken_text": "ہمیں AI اور machine learning پر focus کرنا چاہیے۔",
+      "voice": "hf_beta",
+      "set": "A2",
+      "old_phonemes": "həmẽː eː ɑɪ ɔːr məʃiːn lərnɪŋ pər foːkəs kərnɑː ʧɑːhɪeː.",
+      "current_phonemes": "həmẽː eː ɑɪ ɔːr məʃiːn lərnɪŋ pər foːkəs kərnɑː ʧɑːhɪeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "c9702b27b810aaf559787e18e0c3ee8fc7c918285d4b8a3deba83f51f3d6732a",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.825,
+        "peak": 0.61480712890625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_12_hf_beta.wav",
+      "text": "Update کے بعد phone ٹھیک سے کام کر رہا ہے۔",
+      "spoken_text": "Update کے بعد phone ٹھیک سے کام کر رہا ہے۔",
+      "voice": "hf_beta",
+      "set": "A2",
+      "old_phonemes": "əpɖeːʈ keː bɑːd foːn ʈʰiːk seː kɑːm kər rəhɑː hɛː.",
+      "current_phonemes": "əpɖeːʈ keː bɑːd foːn ʈʰiːk seː kɑːm kər rəhɑː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "03808f85aef32b98c74f579b4b5895f9ccf9a8010a2f1ecaec5574af76763513",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.45,
+        "peak": 0.535247802734375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_13_hf_beta.wav",
+      "text": "یہ meeting 3 pm پر Zoom پر ہو گی۔",
+      "spoken_text": "یہ meeting 3 pm پر Zoom پر ہو گی۔",
+      "voice": "hf_beta",
+      "set": "A2",
+      "old_phonemes": "jeː miːʈɪŋ tʰriː piːɛm pər zuːm pər hoː ɡiː.",
+      "current_phonemes": "jeː miːʈɪŋ tʰriː piːɛm pər zuːm pər hoː ɡiː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "357775a3ff75ec966eb7608b9180be629cff5771d2cfd2b63b8db4ee9bdf511f",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.175,
+        "peak": 0.7855224609375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_14_hf_beta.wav",
+      "text": "Customer service نے میری complaint register کر لی۔",
+      "spoken_text": "Customer service نے میری complaint register کر لی۔",
+      "voice": "hf_beta",
+      "set": "A2",
+      "old_phonemes": "kəsʈəmər sərʋəs neː meːriː kəmpleːnʈ rɛʤəsʈər kər liː.",
+      "current_phonemes": "kəsʈəmər sərʋəs neː meːriː kəmpleːnʈ rɛʤəsʈər kər liː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "27ff060e97ada07bf91e421a8bc646b2aa4d26b09754e1ff97fa4add4eac883d",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.85,
+        "peak": 0.738616943359375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_15_hf_beta.wav",
+      "text": "آج weather بہت pleasant ہے، let's go for a walk۔",
+      "spoken_text": "آج weather بہت pleasant ہے، let's go for a walk۔",
+      "voice": "hf_beta",
+      "set": "A2",
+      "old_phonemes": "ɑːʤ ʋɛdər bəhʊt plɛzənʈ hɛː, lɛʈs ɡoː fɔːr ə ʋɔːk.",
+      "current_phonemes": "ɑːʤ ʋɛdər bəhʊt plɛzənʈ hɛː, lɛʈs ɡoː fɔːr ə ʋɔːk.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "b0e251650776890ce4f44a1497123df0c9d82547d0a6d76ab40da53c5c18dae8",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.8,
+        "peak": 0.68115234375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.2,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_01_hm_omega.wav",
+      "text": "پاکستان ایک خوبصورت ملک ہے۔",
+      "spoken_text": "پاکستان ایک خوبصورت ملک ہے۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "pɑːkɪstɑːn eːk xuːbsuːrət mʊlk hɛː.",
+      "current_phonemes": "pɑːkɪstɑːn eːk xuːbsuːrət mʊlk hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "55ca5bf8c4cfb582ba0d332341936510d2ac98cdf919f871e99482c7e96bc155",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.15,
+        "peak": 0.687103271484375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.14,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_02_hm_omega.wav",
+      "text": "میں نے کل بازار سے تین کتابیں خریدیں۔",
+      "spoken_text": "میں نے کل بازار سے تین کتابیں خریدیں۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "mẽː neː kəl bɑːzɑːr seː tiːn kɪtɑːbẽː xəriːdẽː.",
+      "current_phonemes": "mẽː neː kəl bɑːzɑːr seː tiːn kɪtɑːbẽː xəriːdẽː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "1e1a9d54d246678d68045ec4f8d94860c36c1bd0cdb9fcdbc4d2b16e89f4dfe8",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.875,
+        "peak": 0.621490478515625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.18,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_03_hm_omega.wav",
+      "text": "بھائی، گھر میں دھوپ بہت تیز ہے۔",
+      "spoken_text": "بھائی، گھر میں دھوپ بہت تیز ہے۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "bʰɑːiː, ɡʰər mẽː dʰuːp bəhʊt teːz hɛː.",
+      "current_phonemes": "bʰɑːiː, ɡʰər mẽː dʰuːp bəhʊt teːz hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "2c24dba1b948e2e8a007622ea4a9721c87f080e3a3fff1007bc75c6435c18f15",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.1,
+        "peak": 0.7132568359375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.1,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_04_hm_omega.wav",
+      "text": "وزیرِ اعظم نے آج قوم سے خطاب کیا۔",
+      "spoken_text": "وزیرِ اعظم نے آج قوم سے خطاب کِیا۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "ʋəziːreː ɑːzəm neː ɑːʤ qɔːm seː xɪtɑːb kjɑː.",
+      "current_phonemes": "ʋəziːreː ɑːzəm neː ɑːʤ qɔːm seː xɪtɑːb kɪjɑː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": true,
+      "original_sha256": "dd9e7f5c47cdafa6cc78ed6c40951332bdd846c5dacc4c8af1455f155f72f972",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.85,
+        "peak": 0.680999755859375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.18,
+        "issues": []
+      },
+      "candidate": "candidates/A_04_hm_omega.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.9,
+        "peak": 0.69952392578125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.18,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_05_hm_omega.wav",
+      "text": "لڑکی نے اپنی چھوٹی بہن کو کہانی پڑھ کر سنائی۔",
+      "spoken_text": "لڑکی نے اپنی چھوٹی بہن کو کہانی پڑھ کر سنائی۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "ləɽkiː neː əpniː ʧʰoːʈiː bəhən koː kəhɑːniː pəɽʰ kər sʊnɑːiː.",
+      "current_phonemes": "ləɽkiː neː əpniː ʧʰoːʈiː bəhən koː kəhɑːniː pəɽʰ kər sʊnɑːiː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "dfd7fbe7268135ad83a9229a1e1eb0b770608edbad7cb6deca811a3f1c056b49",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.7,
+        "peak": 0.86578369140625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.26,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_06_hm_omega.wav",
+      "text": "ڈاکٹر صاحب نے کہا کہ تم جلد ٹھیک ہو جاؤ گے۔",
+      "spoken_text": "ڈاکٹر صاحب نے کہا کہ تم جَلْد ٹھیک ہو جاؤ گے۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "ɖɑːkʈər sɑːhɪb neː kəhɑː keː tʊm ʤəld ʈʰiːk hoː ʤɑːoː ɡeː.",
+      "current_phonemes": "ɖɑːkʈər sɑːhɪb neː kəhɑː keː tʊm ʤəld ʈʰiːk hoː ʤɑːoː ɡeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": true,
+      "original_sha256": "7b6d70f9912d6df1ca112e98649129635f5380b1181a200218dfe52394d80c58",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.375,
+        "peak": 0.6358642578125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.16,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_07_hm_omega.wav",
+      "text": "ہاں، مجھے یاد ہے، ہم وہاں نہیں گئے تھے۔",
+      "spoken_text": "ہاں، مجھے یاد ہے، ہم وہاں نہیں گئے تھے۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "hɑ̃ː, mʊʤʰeː jɑːd hɛː, həm ʋəhɑ̃ː nəhĩː ɡəeː tʰeː.",
+      "current_phonemes": "hɑ̃ː, mʊʤʰeː jɑːd hɛː, həm ʋəhɑ̃ː nəhĩː ɡəeː tʰeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "d5656d6459b148f47a87ff7ba347553018958f4566a9faae3b526ac926788561",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.6,
+        "peak": 0.675537109375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.28,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_08_hm_omega.wav",
+      "text": "اس کی قیمت ۲۵۰۰ روپے ہے۔",
+      "spoken_text": "اس کی قیمت ۲۵۰۰ روپے ہے۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "ɪs kiː qiːmət doː həzɑːr pɑ̃ːʧ sɔː rʊpəeː hɛː.",
+      "current_phonemes": "ɪs kiː qiːmət doː həzɑːr pɑ̃ːʧ sɔː rʊpəeː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "425c6522860b5a29ed3761132379ce0952402c76133c9dc3eba9b77c800d97d5",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.725,
+        "peak": 0.629119873046875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.1,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_09_hm_omega.wav",
+      "text": "میری سالگرہ 14 اگست کو ہوتی ہے۔",
+      "spoken_text": "میری سالگرہ 14 اگست کو ہوتی ہے۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "meːriː sɑːlɡɪrɑː ʧɔːdɑː əɡəst koː hoːtiː hɛː.",
+      "current_phonemes": "meːriː sɑːlɡɪrɑː ʧɔːdɑː əɡəst koː hoːtiː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "fd1b4946735fc3b93fdde90b0401e8404ac45d527e8456daeb91c7a84367b496",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.8,
+        "peak": 0.619903564453125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.2,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_10_hm_omega.wav",
+      "text": "ٹرین صبح ۷:۴۵ پر روانہ ہوئی۔",
+      "spoken_text": "ٹرین صبح ۷:۴۵ پر روانہ ہوئی۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "ʈreːn sʊbəh pɔːneː ɑːʈʰ pər rəʋɑːnɑː hʊiː.",
+      "current_phonemes": "ʈreːn sʊbəh pɔːneː ɑːʈʰ pər rəʋɑːnɑː hʊiː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "f9a5b4d50519dbac1a83f8c731accfca0e956aad74de25ed52f90ffc8bf6d0a7",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.55,
+        "peak": 0.703857421875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.16,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_11_hm_omega.wav",
+      "text": "غالب کا شعر آج بھی ہر زبان پر ہے۔",
+      "spoken_text": "غالب کا شعر آج بھی ہر زبان پر ہے۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "ɣɑːlɪb kɑː ʃeːr ɑːʤ bʰiː hər zəbɑːn pər hɛː.",
+      "current_phonemes": "ɣɑːlɪb kɑː ʃeːr ɑːʤ bʰiː hər zəbɑːn pər hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "aaa9768484b8f7ad3359b0804656400c04fbb5ea03cb440fba4a9a5ca99559c8",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.575,
+        "peak": 0.626739501953125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.12,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_12_hm_omega.wav",
+      "text": "محبت، خلوص اور اعتماد زندگی کے ستون ہیں۔",
+      "spoken_text": "محبت، خلوص اور اعتماد زندگی کے ستون ہیں۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "mʊhəbbət, xʊluːs ɔːr eːtɪmɑːd zɪndəɡiː keː sʊtuːn hɛ̃ː.",
+      "current_phonemes": "mʊhəbbət, xʊluːs ɔːr eːtɪmɑːd zɪndəɡiː keː sʊtuːn hɛ̃ː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "485c8b0c979b221b369052f4447cf303eb607ac2d0ea31c46e0a4f81256301e0",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.625,
+        "peak": 0.65838623046875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.26,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_13_hm_omega.wav",
+      "text": "کیا آپ میری بات سمجھ رہے ہیں؟",
+      "spoken_text": "کیا آپ میری بات سمجھ رہے ہیں؟",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "kjɑː ɑːp meːriː bɑːt səməʤʰ rəheː hɛ̃ː?",
+      "current_phonemes": "kjɑː ɑːp meːriː bɑːt səməʤʰ rəheː hɛ̃ː?",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "08ac88f01d0e9f54d829407effd0003a53eec2b16c2bfb9e1125fe9a00c575ed",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.075,
+        "peak": 0.665313720703125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.08,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_14_hm_omega.wav",
+      "text": "شکریہ! آپ کا دن اچھا گزرے۔",
+      "spoken_text": "شکریہ! آپ کا دن اچھا گزرے۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "ʃʊkrijɑː! ɑːp kɑː dɪn əʧʧʰɑː ɡʊzreː.",
+      "current_phonemes": "ʃʊkrijɑː! ɑːp kɑː dɪn əʧʧʰɑː ɡʊzreː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "2fed44e6224061d9564727bbaa9fac8c1d25600c9a97cfddadda97f4f8a83648",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.175,
+        "peak": 0.8204345703125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.14,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_15_hm_omega.wav",
+      "text": "قلم، خط اور غلطی جیسے الفاظ میں ق، خ اور غ کی آواز واضح ہونی چاہیے۔",
+      "spoken_text": "قلم، خط اور غلطی جیسے الفاظ میں ق، خ اور غ کی آواز واضح ہونی چاہیے۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "qələm, xət ɔːr ɣələtiː ʤiːseː əlfɑːz mẽː qɑːf, xeː ɔːr ɣɛːn kiː ɑːʋɑːz ʋɑːzeh hoːniː ʧɑːhɪeː.",
+      "current_phonemes": "qələm, xət ɔːr ɣələtiː ʤɛːseː əlfɑːz mẽː qɑːf, xeː ɔːr ɣɛːn kiː ɑːʋɑːz ʋɑːzeh hoːniː ʧɑːhɪeː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": false,
+      "original_sha256": "564a0e494502ee07b40dc3f74466a15aa3461674660d7660225ad8f80901f012",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 7.25,
+        "peak": 0.723876953125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.46,
+        "issues": []
+      },
+      "candidate": "candidates/A_15_hm_omega.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 7.35,
+        "peak": 0.6888427734375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.48,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_16_hm_omega.wav",
+      "text": "میں نے اپنا laptop آن کیا اور email چیک کی۔",
+      "spoken_text": "میں نے اپنا laptop آن کِیا اور email چیک کی۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "current_phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kɪjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": true,
+      "original_sha256": "0fe16785441cfa8bb84a682df0f27aac8bcbaaca5cdd3efc7c5ad673ea958e5a",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.25,
+        "peak": 0.66259765625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.18,
+        "issues": []
+      },
+      "candidate": "candidates/A_16_hm_omega.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.325,
+        "peak": 0.636383056640625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.18,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_17_hm_omega.wav",
+      "text": "ڈاکٹر عبدالقدیر خان پاکستان کے مشہور سائنسدان تھے۔",
+      "spoken_text": "ڈاکٹر عبدالقدیر خان پاکستان کے مشہور سائنسدان تھے۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "ɖɑːkʈər əbdʊlqədiːr xɑːn pɑːkɪstɑːn keː məʃhuːr sɑːɪnsdɑːn tʰeː.",
+      "current_phonemes": "ɖɑːkʈər əbdʊlqədiːr xɑːn pɑːkɪstɑːn keː məʃhuːr sɑːɪnsdɑːn tʰeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "00e995a965977105912640f8738b169f9c1e2913c25c68297b11fae28e7a7d1b",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 5.225,
+        "peak": 0.631134033203125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.32,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_18_hm_omega.wav",
+      "text": "یہ سڑک بہت چوڑی ہے۔",
+      "spoken_text": "یہ سڑک بہت چوڑی ہے۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "jeː səɽək bəhʊt ʧɔːɽiː hɛː.",
+      "current_phonemes": "jeː səɽək bəhʊt ʧɔːɽiː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "4886a9827f246b7d13a1d0cc75021a0ee9979f146ff263e7c2820ad396db70a0",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.7,
+        "peak": 0.79144287109375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.12,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_19_hm_omega.wav",
+      "text": "انہوں نے کہا تھا کہ وہ جمعرات کو آئیں گے۔",
+      "spoken_text": "انہوں نے کہا تھا کہ وہ جمعرات کو آئیں گے۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "ʊnhõː neː kəhɑː tʰɑː keː ʋoː ʤʊmeːrɑːt koː ɑːẽː ɡeː.",
+      "current_phonemes": "ʊnhõː neː kəhɑː tʰɑː keː ʋoː ʤʊmeːrɑːt koː ɑːẽː ɡeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "0696c0a75617b685e6fdf105bb5508b7d3cdcc0404ba2d291635d53964136479",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.1,
+        "peak": 0.64141845703125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.24,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_20_hm_omega.wav",
+      "text": "اردو ایک شیریں زبان ہے۔",
+      "spoken_text": "اردو ایک شیریں زبان ہے۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "ʊrduː eːk ʃiːrĩː zəbɑːn hɛː.",
+      "current_phonemes": "ʊrduː eːk ʃiːrĩː zəbɑːn hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "323a994c7b851bd78b680e9e70eec160d8d9b2c7c600322871af544400c7603b",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.75,
+        "peak": 0.641204833984375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.08,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_21_hm_omega.wav",
+      "text": "۱۹۴۷ء میں پاکستان آزاد ہوا۔",
+      "spoken_text": "۱۹۴۷ء میں پاکستان آزاد ہوا۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "ʊnniːs sɔː sɛ̃ːtɑːliːs mẽː pɑːkɪstɑːn ɑːzɑːd hʊɑː.",
+      "current_phonemes": "ʊnniːs sɔː sɛ̃ːtɑːliːs mẽː pɑːkɪstɑːn ɑːzɑːd hʊɑː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "3e149341a877ed30d1661a2571a7840b8c860d0c0e3648d3c73c8c0bd86a0567",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.175,
+        "peak": 0.64007568359375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.26,
+        "issues": []
+      }
+    },
+    {
+      "file": "A_22_hm_omega.wav",
+      "text": "درجۂ حرارت ۳۸ اعشاریہ ۵ ڈگری تھا۔",
+      "spoken_text": "درجۂ حرارت ۳۸ اعشاریہ ۵ ڈگری تھا۔",
+      "voice": "hm_omega",
+      "set": "A",
+      "old_phonemes": "dərʤɑːeː hərɑːrət əɽtiːs əʃɑːrijɑː pɑ̃ːʧ ɖɪɡriː tʰɑː.",
+      "current_phonemes": "dərʤɑːeː hərɑːrət əɽtiːs əʃɑːrijɑː pɑ̃ːʧ ɖɪɡriː tʰɑː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "1a8d186caa8027a04c83269605509cab2f267ef2d4e483b49ae6ebd0ba19b43a",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.375,
+        "peak": 0.663116455078125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.3,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_01_hm_omega.wav",
+      "text": "آج کی meeting کینسل ہو گئی ہے۔",
+      "spoken_text": "آج کی meeting کینسل ہو گئی ہے۔",
+      "voice": "hm_omega",
+      "set": "A2",
+      "old_phonemes": "ɑːʤ kiː miːʈɪŋ kɛːnsəl hoː ɡəiː hɛː.",
+      "current_phonemes": "ɑːʤ kiː miːʈɪŋ kɛːnsəl hoː ɡəiː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "6b95060e9ba22fc4495eb16515fd37ff713e3153e5278dd169f18733a1f6d69f",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.125,
+        "peak": 0.803131103515625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.1,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_02_hm_omega.wav",
+      "text": "میں نے اپنا laptop آن کیا اور email چیک کی۔",
+      "spoken_text": "میں نے اپنا laptop آن کِیا اور email چیک کی۔",
+      "voice": "hm_omega",
+      "set": "A2",
+      "old_phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "current_phonemes": "mẽː neː əpnɑː lɛːpʈɑːp ɑːn kɪjɑː ɔːr iːmeːl ʧeːk kiː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": true,
+      "original_sha256": "913a97c5e37cbcb6ea36237215f7d021b6de5bfd1aaf777aefea3fcb1e71b2f7",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.25,
+        "peak": 0.652923583984375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.18,
+        "issues": []
+      },
+      "candidate": "candidates/A2_02_hm_omega.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.325,
+        "peak": 0.636383056640625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.18,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_03_hm_omega.wav",
+      "text": "Please اپنا password کسی کو share نہ کریں۔",
+      "spoken_text": "Please اپنا password کسی کو share نہ کریں۔",
+      "voice": "hm_omega",
+      "set": "A2",
+      "old_phonemes": "pliːz əpnɑː pɛːsʋərɖ kɪsiː koː ʃɛr nə kərẽː.",
+      "current_phonemes": "pliːz əpnɑː pɛːsʋərɖ kɪsiː koː ʃɛr nə kərẽː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "427a8b67cd9c5dd6179a398c9d237e726b73eb339a332b09914c8ef81ebc70dd",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.625,
+        "peak": 0.655303955078125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.2,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_04_hm_omega.wav",
+      "text": "ہمارا next step یہ ہے کہ client کو proposal بھیج دیں۔",
+      "spoken_text": "ہمارا next step یہ ہے کہ client کو proposal بھیج دیں۔",
+      "voice": "hm_omega",
+      "set": "A2",
+      "old_phonemes": "həmɑːrɑː nɛksʈ sʈɛp jeː hɛː keː klɑɪənʈ koː prəpoːzəl bʰiːʤ dẽː.",
+      "current_phonemes": "həmɑːrɑː nɛksʈ sʈɛp jeː hɛː keː klɑɪənʈ koː prəpoːzəl bʰeːʤ dẽː.",
+      "phonemes_changed": true,
+      "explicit_text_edit": false,
+      "original_sha256": "36b786c982a3cd03e9e3bebdc0417985f8ddb47eb6c9a8669f109e97781ce232",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.6,
+        "peak": 0.668182373046875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.24,
+        "issues": []
+      },
+      "candidate": "candidates/A2_04_hm_omega.wav",
+      "candidate_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.575,
+        "peak": 0.636810302734375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.24,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_05_hm_omega.wav",
+      "text": "یہ app بہت user friendly ہے لیکن battery جلدی ختم کرتی ہے۔",
+      "spoken_text": "یہ app بہت user friendly ہے لیکن battery جلدی ختم کرتی ہے۔",
+      "voice": "hm_omega",
+      "set": "A2",
+      "old_phonemes": "jeː ɛːp bəhʊt juːzər frɛnɖliː hɛː leːkɪn bɛːʈəriː ʤəldiː xətm kərtiː hɛː.",
+      "current_phonemes": "jeː ɛːp bəhʊt juːzər frɛnɖliː hɛː leːkɪn bɛːʈəriː ʤəldiː xətm kərtiː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "a19a5ee36e07c884f34a32d450b216dded4057ab0f7579c1c534b7b7ae6be906",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 5.6,
+        "peak": 0.65826416015625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.34,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_06_hm_omega.wav",
+      "text": "Thank you so much، آپ نے بہت help کی۔",
+      "spoken_text": "Thank you so much، آپ نے بہت help کی۔",
+      "voice": "hm_omega",
+      "set": "A2",
+      "old_phonemes": "tʰɛːŋk juː soː məʧ, ɑːp neː bəhʊt hɛlp kiː.",
+      "current_phonemes": "tʰɛːŋk juː soː məʧ, ɑːp neː bəhʊt hɛlp kiː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "66a5839e3c84d491c9f9294d2e0449ff936e72b460782361e974afc46d936734",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.475,
+        "peak": 0.649627685546875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.22,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_07_hm_omega.wav",
+      "text": "Office میں آج internet کا problem تھا۔",
+      "spoken_text": "Office میں آج internet کا problem تھا۔",
+      "voice": "hm_omega",
+      "set": "A2",
+      "old_phonemes": "ɔːfəs mẽː ɑːʤ ɪnʈərnɛʈ kɑː prɑːbləm tʰɑː.",
+      "current_phonemes": "ɔːfəs mẽː ɑːʤ ɪnʈərnɛʈ kɑː prɑːbləm tʰɑː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "32a461cdb69f0dc5e079aa939ff5063ce8dfed149b7b70c7ec92c36adb0bd3de",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.575,
+        "peak": 0.678955078125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.16,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_08_hm_omega.wav",
+      "text": "اس project کی deadline اگلے Monday تک ہے۔",
+      "spoken_text": "اس project کی deadline اگلے Monday تک ہے۔",
+      "voice": "hm_omega",
+      "set": "A2",
+      "old_phonemes": "ɪs prɑːʤɛkʈ kiː ɖɛɖlɑɪn əɡleː mənɖeː tək hɛː.",
+      "current_phonemes": "ɪs prɑːʤɛkʈ kiː ɖɛɖlɑɪn əɡleː mənɖeː tək hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "f0fcad70ae9b6ff9366e477f6ca90cb9b83874d475340502bb0f7b33d3ce230b",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.775,
+        "peak": 0.70599365234375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.2,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_09_hm_omega.wav",
+      "text": "میں weekend پر Karachi جا رہا ہوں۔",
+      "spoken_text": "میں weekend پر Karachi جا رہا ہوں۔",
+      "voice": "hm_omega",
+      "set": "A2",
+      "old_phonemes": "mẽː ʋiːkɛnɖ pər kərɑːʧiː ʤɑː rəhɑː hũː.",
+      "current_phonemes": "mẽː ʋiːkɛnɖ pər kərɑːʧiː ʤɑː rəhɑː hũː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "79eed9c064891eb94dbb35d9f021836547e4219306dd4169e4e67119bb702ca9",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.2,
+        "peak": 0.56805419921875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.1,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_10_hm_omega.wav",
+      "text": "Doctor نے کہا کہ یہ normal infection ہے، worry نہ کریں۔",
+      "spoken_text": "Doctor نے کہا کہ یہ normal infection ہے، worry نہ کریں۔",
+      "voice": "hm_omega",
+      "set": "A2",
+      "old_phonemes": "ɖɑːkʈər neː kəhɑː keː jeː nɔːrməl ɪnfɛkʃən hɛː, ʋəriː nə kərẽː.",
+      "current_phonemes": "ɖɑːkʈər neː kəhɑː keː jeː nɔːrməl ɪnfɛkʃən hɛː, ʋəriː nə kərẽː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "ca38a063a6f744b2037bf7e13baceb2d0f3ea035c0697fc5bc75ecef5faa96e0",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.8,
+        "peak": 0.605712890625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.3,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_11_hm_omega.wav",
+      "text": "ہمیں AI اور machine learning پر focus کرنا چاہیے۔",
+      "spoken_text": "ہمیں AI اور machine learning پر focus کرنا چاہیے۔",
+      "voice": "hm_omega",
+      "set": "A2",
+      "old_phonemes": "həmẽː eː ɑɪ ɔːr məʃiːn lərnɪŋ pər foːkəs kərnɑː ʧɑːhɪeː.",
+      "current_phonemes": "həmẽː eː ɑɪ ɔːr məʃiːn lərnɪŋ pər foːkəs kərnɑː ʧɑːhɪeː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "dcff5fd41a0d057bc3b4063b425e340c21e25d7a5fff59a8b0ca935fe3f8dbbe",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.7,
+        "peak": 0.6142578125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.18,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_12_hm_omega.wav",
+      "text": "Update کے بعد phone ٹھیک سے کام کر رہا ہے۔",
+      "spoken_text": "Update کے بعد phone ٹھیک سے کام کر رہا ہے۔",
+      "voice": "hm_omega",
+      "set": "A2",
+      "old_phonemes": "əpɖeːʈ keː bɑːd foːn ʈʰiːk seː kɑːm kər rəhɑː hɛː.",
+      "current_phonemes": "əpɖeːʈ keː bɑːd foːn ʈʰiːk seː kɑːm kər rəhɑː hɛː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "592e5c017cb060744a445370f75efca921870cc986d8b0deef29d204ba3c99d4",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.8,
+        "peak": 0.774749755859375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.16,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_13_hm_omega.wav",
+      "text": "یہ meeting 3 pm پر Zoom پر ہو گی۔",
+      "spoken_text": "یہ meeting 3 pm پر Zoom پر ہو گی۔",
+      "voice": "hm_omega",
+      "set": "A2",
+      "old_phonemes": "jeː miːʈɪŋ tʰriː piːɛm pər zuːm pər hoː ɡiː.",
+      "current_phonemes": "jeː miːʈɪŋ tʰriː piːɛm pər zuːm pər hoː ɡiː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "35afbcf8abc368e4df2915450f5bf9e40a38e1cddda28f0a869d67f76b436199",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.375,
+        "peak": 0.650390625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.2,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_14_hm_omega.wav",
+      "text": "Customer service نے میری complaint register کر لی۔",
+      "spoken_text": "Customer service نے میری complaint register کر لی۔",
+      "voice": "hm_omega",
+      "set": "A2",
+      "old_phonemes": "kəsʈəmər sərʋəs neː meːriː kəmpleːnʈ rɛʤəsʈər kər liː.",
+      "current_phonemes": "kəsʈəmər sərʋəs neː meːriː kəmpleːnʈ rɛʤəsʈər kər liː.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "e5ebfaca5858285f2d160e2abed7d73e3bb15dbfe43928c13e51bc2b6b25366e",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.3,
+        "peak": 0.68511962890625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.26,
+        "issues": []
+      }
+    },
+    {
+      "file": "A2_15_hm_omega.wav",
+      "text": "آج weather بہت pleasant ہے، let's go for a walk۔",
+      "spoken_text": "آج weather بہت pleasant ہے، let's go for a walk۔",
+      "voice": "hm_omega",
+      "set": "A2",
+      "old_phonemes": "ɑːʤ ʋɛdər bəhʊt plɛzənʈ hɛː, lɛʈs ɡoː fɔːr ə ʋɔːk.",
+      "current_phonemes": "ɑːʤ ʋɛdər bəhʊt plɛzənʈ hɛː, lɛʈs ɡoː fɔːr ə ʋɔːk.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "65ac7fe9f020798ebbb509397794509078ae66a0e6bf6ec6e1fc932b88310753",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 4.15,
+        "peak": 0.73516845703125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.26,
+        "issues": []
+      }
+    },
+    {
+      "file": "A3_01_af_heart.wav",
+      "text": "Good morning, how are you today?",
+      "spoken_text": "Good morning, how are you today?",
+      "voice": "af_heart",
+      "set": "A3",
+      "old_phonemes": "ɡˈʊd mˈɔɹnɪŋ, hˌW ɑɹ ju tədˈA?",
+      "current_phonemes": "ɡˈʊd mˈɔɹnɪŋ, hˌW ɑɹ ju tədˈA?",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "985456c7325fe4c9b29191162988846c96b84d783ca6f5e13ec66a0738a9a290",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.225,
+        "peak": 0.417144775390625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.14,
+        "issues": []
+      }
+    },
+    {
+      "file": "A3_02_af_heart.wav",
+      "text": "The quick brown fox jumps over the lazy dog.",
+      "spoken_text": "The quick brown fox jumps over the lazy dog.",
+      "voice": "af_heart",
+      "set": "A3",
+      "old_phonemes": "ðə kwˈɪk bɹˈWn fˈɑks ʤˈʌmps ˈOvəɹ ðə lˈAzi dˈɔɡ.",
+      "current_phonemes": "ðə kwˈɪk bɹˈWn fˈɑks ʤˈʌmps ˈOvəɹ ðə lˈAzi dˈɔɡ.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "4484304b7535cb55153e882b03317dd767d5f7d18e561d330e8d845bfa908280",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.25,
+        "peak": 0.33404541015625,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.12,
+        "issues": []
+      }
+    },
+    {
+      "file": "A3_03_af_heart.wav",
+      "text": "Please send me the report by Thursday afternoon.",
+      "spoken_text": "Please send me the report by Thursday afternoon.",
+      "voice": "af_heart",
+      "set": "A3",
+      "old_phonemes": "plˈiz sˈɛnd mˌi ðə ɹəpˈɔɹt bI θˈɜɹzdˌA ˌæftəɹnˈun.",
+      "current_phonemes": "plˈiz sˈɛnd mˌi ðə ɹəpˈɔɹt bI θˈɜɹzdˌA ˌæftəɹnˈun.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "edf5b643c5ba486db5cb5e1e2b5468f2eecf809f61de309aaaff72ca569c9f68",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.3,
+        "peak": 0.428558349609375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.22,
+        "issues": []
+      }
+    },
+    {
+      "file": "A3_04_af_heart.wav",
+      "text": "Artificial intelligence is changing the way we work.",
+      "spoken_text": "Artificial intelligence is changing the way we work.",
+      "voice": "af_heart",
+      "set": "A3",
+      "old_phonemes": "ˌɑɹTəfˈɪʃᵊl ɪntˈɛləʤᵊns ɪz ʧˈAnʤɪŋ ðə wˈA wi wˈɜɹk.",
+      "current_phonemes": "ˌɑɹTəfˈɪʃᵊl ɪntˈɛləʤᵊns ɪz ʧˈAnʤɪŋ ðə wˈA wi wˈɜɹk.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "918de8634a8aa50f81ff047e0525964724bdfc228cec60e8538fad26c35d4b72",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.525,
+        "peak": 0.480926513671875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.24,
+        "issues": []
+      }
+    },
+    {
+      "file": "A3_05_af_heart.wav",
+      "text": "I think this is the best decision for our team.",
+      "spoken_text": "I think this is the best decision for our team.",
+      "voice": "af_heart",
+      "set": "A3",
+      "old_phonemes": "ˌI θˈɪŋk ðɪs ɪz ðə bˈɛst dəsˈɪʒᵊn fɔɹ ˌWəɹ tˈim.",
+      "current_phonemes": "ˌI θˈɪŋk ðɪs ɪz ðə bˈɛst dəsˈɪʒᵊn fɔɹ ˌWəɹ tˈim.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "9842c8f3bb9428e8d498f5230c82456d3eb7d814753bec15fe8efb63544148cd",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.05,
+        "peak": 0.47332763671875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A3_06_af_heart.wav",
+      "text": "The meeting has been moved to three thirty.",
+      "spoken_text": "The meeting has been moved to three thirty.",
+      "voice": "af_heart",
+      "set": "A3",
+      "old_phonemes": "ðə mˈiTɪŋ hæz bɪn mˈuvd tə θɹˈi θˈɜɹTi.",
+      "current_phonemes": "ðə mˈiTɪŋ hæz bɪn mˈuvd tə θɹˈi θˈɜɹTi.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "a2b58d8b4b4b92c534813650f1918dfb32f71f0c21eec6fef923cd64fb07089a",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.925,
+        "peak": 0.36669921875,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.12,
+        "issues": []
+      }
+    },
+    {
+      "file": "A3_07_af_heart.wav",
+      "text": "Thank you for your patience and understanding.",
+      "spoken_text": "Thank you for your patience and understanding.",
+      "voice": "af_heart",
+      "set": "A3",
+      "old_phonemes": "θˈæŋk ju fɔɹ jʊɹ pˈAʃəns ænd ˌʌndəɹstˈændɪŋ.",
+      "current_phonemes": "θˈæŋk ju fɔɹ jʊɹ pˈAʃəns ænd ˌʌndəɹstˈændɪŋ.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "a10c5dce64a39af2b4ec27a3eb38ccba046353186408b5af0a07aca4e28ee1d5",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 2.85,
+        "peak": 0.403656005859375,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.06,
+        "issues": []
+      }
+    },
+    {
+      "file": "A3_08_af_heart.wav",
+      "text": "Karachi is the largest city in Pakistan.",
+      "spoken_text": "Karachi is the largest city in Pakistan.",
+      "voice": "af_heart",
+      "set": "A3",
+      "old_phonemes": "kəɹˈɑʧi ɪz ðə lˈɑɹʤᵻst sˈɪTi ɪn pˈækəstˌæn.",
+      "current_phonemes": "kəɹˈɑʧi ɪz ðə lˈɑɹʤᵻst sˈɪTi ɪn pˈækəstˌæn.",
+      "phonemes_changed": false,
+      "explicit_text_edit": false,
+      "original_sha256": "9da8bf334e63f0d09a38a50354b914ca97eb1ac8ff9a5b50ed660ba8e7dac8aa",
+      "original_signal": {
+        "sample_rate": 24000,
+        "seconds": 3.1,
+        "peak": 0.4522705078125,
+        "clipping_ratio": 0.0,
+        "max_internal_silence_s": 0.08,
+        "issues": []
+      }
+    }
+  ],
+  "extras": []
+}

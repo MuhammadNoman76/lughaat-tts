@@ -52,3 +52,61 @@ Until the first Kaggle session has run it only documents what was verified local
 
 Kaggle free tier, GPU T4 x2 (2 x 16 GB), ~30 GPU-hours/week; cost $0. Projections are appended below
 after the first calibration shard of each stage.
+
+## Code and baseline pronunciation audit — 2026-10-09
+
+Audited all 156 baseline WAVs (594.625 seconds). No original or regenerated file
+triggered the empty/nonfinite audio, wrong sample rate, clipping, or long internal
+silence checks. These checks do not measure pronunciation accuracy. ASR and human
+listening validation were not performed in this audit.
+
+The saved baseline phonemes were partly stale relative to the shipped neural G2P.
+Confirmed issues include جیسے being saved as /ʤiːseː/, بھیج as /bʰiːʤ/, and the
+verb کیا being given the question pronunciation in خطاب کیا and آن کیا.
+The verb/question distinction is documented in
+[Wiktionary's Urdu entry](https://en.wiktionary.org/wiki/کیا);
+بھیج follows the بھیجنا stem in the bundled WikiPron data. The pinned جیسے
+reading follows Hindustani jaise, also documented in
+[the cognate dictionary entry](https://en.wiktionary.org/wiki/जैसे).
+
+Changes in frontend ur-frontend-1.0.1:
+- Correct Unicode handling of long nasal /a/, ä, and ō.
+- Apply productive izafat before diacritic-insensitive lexicon lookup.
+- Add explicit marked homographs and pin جیسے / بھیج.
+- Raise on unsupported output phones instead of silently deleting them.
+- Provide explicit sample-text edits for ambiguous words; these are annotations,
+  not an automatic context-disambiguation model.
+
+Generated 20 candidate WAVs covering five sample identifiers across four voices
+(A_04, A_15, A_16, A2_02, A2_04). The remaining recordings are included in the
+review page. A_06's explicit جَلْد annotation prevents a current neural fallback
+regression but reproduces its original saved phonemes, so it needs no new candidate.
+
+Open [the comparison page](pronunciation_review/listening_test.html) or inspect
+[the per-file audit](pronunciation_review/audit.json). All 156 original hashes and
+all 176 audio links were verified. All 211 tests passed; every shipped lexicon
+entry has in-vocabulary phones. The acoustic model and voicepacks were not trained
+or changed. Audible improvement and complete pronunciation correctness remain unverified.
+
+### Unresolved issues before claiming high accuracy
+
+1. **Quality failures do not block upload.** In
+   `kaggle/train_session.py:621-627`, failed final gates are logged and the session
+   still advances. Separately, `eval/evaluate.py:225` ignores unavailable gates
+   when computing `gates_passed`. Required full-evaluation measurements should
+   be present and passing before a release is described as quality-approved.
+2. **The reported G2P test is also used for checkpoint selection.**
+   `scripts/03_train_g2p.py:68` passes the test pairs as development pairs, and
+   `lughaat_tts/g2p_model.py:281-289` chooses weights using their error rate.
+   The recorded 16.3% PER is development-selected performance, not an untouched
+   final-test estimate. Use separate training, development, and final test sets.
+3. **Unmarked Urdu words are still pronounced without sentence meaning.**
+   Exact marked entries provide manual control, but unmarked homographs still
+   use a single lexicon/default reading. More GPU training alone does not fix
+   wrong input phonemes. The baseline voices are unmodified Hindi Kokoro voices,
+   not evidence of a completed Urdu acoustic fine-tune.
+
+For the accuracy goal, first establish an independent Urdu pronunciation test set
+and native-speaker listening results. Correct the training labels before acoustic
+fine-tuning, then compare systems on identical held-out text, pronunciation errors,
+naturalness, omissions, and latency. No world-leading ranking has been established.
